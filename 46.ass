@@ -73,7 +73,7 @@ Dialogue: 0,0:01:38.49,0:01:41.83,OP Romaji,,0000,0000,0000,,{\k19}{\k32}oo{\k17
 Dialogue: 0,0:01:44.12,0:01:47.33,OP English,,0000,0000,0000,,I want to do everything, hold it all in my hands!
 Dialogue: 0,0:01:44.12,0:01:47.33,OP Romaji,,0000,0000,0000,,{\k5}{\k35}ryou{\k15}te {\k18}ni {\k36}ip{\k34}pai {\k22}ze{\k17}n{\k12}bu {\k30}ya{\k23}ri{\k35}ta{\k38}i!
 Dialogue: 0,0:01:49.58,0:01:54.38,OP English,,0000,0000,0000,,These tears that just won't go away,
-Dialogue: 0,0:01:49.58,0:01:54.38,OP Romaji,,0000,0000,0000,,{\k7}{\k39}mo{\k32}n{\k36}da{\k33}i {\k72}ga {\k33}{\k18}to{\k17}ke{\k33}na{\k17}i {\k36}na{\k32}mi{\k22}da {\kf51}wa
+Dialogue: 0,0:01:49.58,0:01:54.38,OP Romaji,,0000,0000,0000,,{\k7}{\k39}mo{\k32}n{\k36}da{\k33}i {\kf72}ga {\k33}{\k18}to{\k17}ke{\k33}na{\k17}i {\k36}na{\k32}mi{\k22}da {\kf51}wa
 Dialogue: 0,0:01:54.38,0:01:58.72,OP English,,0000,0000,0000,,let's wipe them out with the eraser of my heart!
 Dialogue: 0,0:01:54.38,0:01:58.72,OP Romaji,,0000,0000,0000,,{\k13}{\k17}ko{\k18}ko{\k16}ro {\kf50}no {\k35}ke{\k33}shi{\k35}go{\k32}mu {\k39}de {\k10}ke{\k25}shi{\k31}cha{\kf61}ou
 Dialogue: 0,0:01:59.84,0:02:03.31,OP English,,0000,0000,0000,,Metamorphose!
@@ -103,9 +103,9 @@ Dialogue: 0,0:01:24.56,0:01:25.23,OP Romaji2,,0000,0000,0000,,{\pos(352,75)}Yes!
 Dialogue: 0,0:01:27.23,0:01:27.81,OP Romaji2,,0000,0000,0000,,{\pos(352,75)}Yes!
 Dialogue: 0,0:01:32.61,0:01:33.99,OP Romaji2,,0000,0000,0015,,{\an8}Pretty Cure! {2nd}
 Dialogue: 0,0:01:41.33,0:01:44.12,OP English,,0000,0000,0000,,Wha-t, what, what do you?
-Dialogue: 0,0:01:41.33,0:01:44.12,OP Romaji2,,0000,0000,0000,,{\pos(352,30)}na-ni naru naru no
+Dialogue: 0,0:01:41.33,0:01:44.12,OP Romaji2,,0000,0000,0000,,{\pos(352,75)}na-ni naru naru no
 Dialogue: 0,0:01:46.87,0:01:49.13,OP English,,0000,0000,0000,,Do it all!
-Dialogue: 0,0:01:46.87,0:01:49.13,OP Romaji2,,0000,0000,0000,,{\pos(352,30)}i-pai yaritai!
+Dialogue: 0,0:01:46.87,0:01:49.13,OP Romaji2,,0000,0000,0000,,{\pos(352,75)}i-pai yaritai!
 Dialogue: 0,0:02:03.01,0:02:03.72,OP Romaji2,,0000,0000,0000,,{\pos(352,75)}Go!
 Dialogue: 0,0:02:06.48,0:02:08.98,OP Romaji2,,0000,0000,0000,,{\pos(352,75)}1, 2, 3 4 5!
 Dialogue: 0,0:02:11.94,0:02:14.65,OP Romaji2,,0000,0000,0000,,{\pos(352,75)}5, 4, 3 2 1!
@@ -424,7 +424,7 @@ Dialogue: 0,0:23:32.01,0:23:35.22,ED 2 Romaji,,0000,0000,0000,,{\k24}{\kf61}ban{
 Dialogue: 0,0:23:34.31,0:23:35.93,ED 2 English,,0000,0000,0000,,{\pos(352,52)\fs30}Ooh go!
 Dialogue: 0,0:23:35.77,0:23:37.77,ED 2 English,,0000,0000,0000,,The magic of Pretty Cure
 Dialogue: 0,0:23:35.77,0:23:37.77,ED 2 Romaji,,0000,0000,0000,,{\k15}{\k9}pu{\k25}ri{\k12}kyu{\k22}a {\k20}no {\k23}ma{\k19}ho{\k21}u
-Dialogue: 0,0:23:37.77,0:23:38.85,ED 2 English,,0000,0000,0000,,*Happy coming* Hey!
+Dialogue: 0,0:23:37.77,0:23:38.85,ED 2 English,,0000,0000,0000,,*Happy coming* 
 Dialogue: 0,0:23:37.77,0:23:38.85,ED 2 Romaji,,0000,0000,0000,,{\k11}{\k22}*ha{\k23}ppy {\k20}co{\k30}ming*
 Dialogue: 0,0:23:38.85,0:23:39.89,ED 2 English,,0000,0000,0000,,yes!
 Dialogue: 0,0:23:38.85,0:23:39.89,ED 2 Romaji,,0000,0000,0000,,{\k10} {\k76}yes!
