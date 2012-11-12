@@ -8,11 +8,9 @@ PlayResX: 720
 PlayResY: 480
 ScaledBorderAndShadow: yes
 Last Style Storage: Yes! Pretty Cure 5
-Audio File: ?video
-Video File: yes5-45.mkv
-Video Aspect Ratio: 2
-Video Zoom: 4
-Video Position: 13971
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
 Collisions: Normal
 
 [V4+ Styles]
@@ -252,11 +250,11 @@ Dialogue: 0,0:10:55.26,0:10:57.80,Nozomi,,0000,0000,0000,,Coco! Nuts! Milk!
 Dialogue: 0,0:11:12.97,0:11:17.82,Default,,0000,0000,0000,,Now, let's begin the final feast, \Nlegendary warriors Pretty Cure!
 Dialogue: 0,0:11:18.30,0:11:19.89,Nozomi,,0000,0000,0000,,Okay girls, let's go.
 Dialogue: 0,0:11:19.89,0:11:20.49,Default,,0000,0000,0000,,Yeah. {It's faint this time, but there is always some response here.}
-Dialogue: 0,0:11:23.07,0:11:27.19,Default,,0000,0000,0000,,Pretty Cure Metamorphose! 
+Dialogue: 0,0:11:23.07,0:11:27.19,Default,,0000,0000,0000,,Pretty Cure Metamorphose!
 Dialogue: 0,0:11:35.00,0:11:39.19,Nozomi,,0000,0000,0000,,The Great Power of Hope, Cure Dream! {Looking back, I see adding "the" to these was an Aesirism, but I know we both agreed it was better.}
 Dialogue: 0,0:11:40.68,0:11:45.27,Rin,,0000,0000,0000,,The Red Flame of Passion, Cure Rouge!
 Dialogue: 0,0:11:46.93,0:11:51.23,Urara,,0000,0000,0000,,The Effervescent Scent of Lemon, Cure Lemonade!
-Dialogue: 0,0:11:53.06,0:11:57.89,Komachi,,0000,0000,0000,,The Tranquility of the Green Earth, Cure Lemonade!
+Dialogue: 0,0:11:53.06,0:11:57.89,Komachi,,0000,0000,0000,,The Tranquility of the Green Earth, Cure Mint!
 Dialogue: 0,0:11:59.78,0:12:03.98,Karen,,0000,0000,0000,,The Blue Spring of Intelligence, Cure Aqua!
 Dialogue: 0,0:12:06.37,0:12:08.10,Nozomi,,0000,0000,0000,,With the Power of Hope...
 Dialogue: 0,0:12:08.10,0:12:09.50,Default,,0000,0000,0000,,...and the Light of the Future...
@@ -458,7 +456,7 @@ Dialogue: 0,0:23:32.01,0:23:35.22,ED 2 Romaji,,0000,0000,0000,,{\k24}{\kf61}ban{
 Dialogue: 0,0:23:34.31,0:23:35.93,ED 2 English,,0000,0000,0000,,{\pos(352,52)\fs30}Ooh go!
 Dialogue: 0,0:23:35.77,0:23:37.77,ED 2 English,,0000,0000,0000,,The magic of Pretty Cure
 Dialogue: 0,0:23:35.77,0:23:37.77,ED 2 Romaji,,0000,0000,0000,,{\k15}{\k9}pu{\k25}ri{\k12}kyu{\k22}a {\k20}no {\k23}ma{\k19}ho{\k21}u
-Dialogue: 0,0:23:37.77,0:23:38.85,ED 2 English,,0000,0000,0000,,*Happy coming* Hey!
+Dialogue: 0,0:23:37.77,0:23:38.85,ED 2 English,,0000,0000,0000,,*Happy coming* 
 Dialogue: 0,0:23:37.77,0:23:38.85,ED 2 Romaji,,0000,0000,0000,,{\k11}{\k22}*ha{\k23}ppy {\k20}co{\k30}ming*
 Dialogue: 0,0:23:38.85,0:23:39.89,ED 2 English,,0000,0000,0000,,yes!
 Dialogue: 0,0:23:38.85,0:23:39.89,ED 2 Romaji,,0000,0000,0000,,{\k10} {\k76}yes!
