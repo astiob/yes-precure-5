@@ -4,8 +4,8 @@
 Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 720
-PlayResY: 480
+PlayResX: 1920
+PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: c1.77708
 Video Zoom: 7
@@ -13,36 +13,36 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Yes! Pretty Cure 5
-Audio File: Complete/[PCSS] Yes! Pretty Cure 5 - 15 (DVD) [9338F76D].mkv
-Video File: Complete/[PCSS] Yes! Pretty Cure 5 - 15 (DVD) [9338F76D].mkv
+Audio File: ../[Yes! Precure 5][15][BDRIP][1080P][H264_FLAC].mkv
+Video File: ../[Yes! Precure 5][15][BDRIP][1080P][H264_FLAC].mkv
 Video AR Mode: 4
-Video AR Value: 1.777083
+Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 81
-Video Position: 4288
+Scroll Position: 29
+Active Line: 37
+Video Position: 34788
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nozomi,Kabel Bd,37,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Rin,Kabel Bd,37,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Urara,Kabel Bd,37,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Komachi,Kabel Bd,37,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Karen,Kabel Bd,37,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Coco,Kabel Bd,37,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Nuts,Kabel Bd,37,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Default,Kabel Bd,37,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: TopSign,Kabel Bd,31,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,8,30,30,16,1
-Style: Alternate,Kabel Bd,37,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: OP English,Verdana,29,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,2,10,10,20,1
-Style: OP Romaji,Cascade Script LT Std,34,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,8,10,10,15,1
-Style: OP Romaji2,Burst My Bubble KK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,0.5,0,1,2,0,5,0,0,0,1
-Style: ED 1 English,Verdana,29,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,2,10,10,20,1
-Style: ED 1 Romaji,GosmickSans,35,&H00D3A1EE,&H009164C5,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,10,10,15,1
-Style: ED 2 Romaji,Abadi MT Condensed,33,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,12,0
-Style: ED 2 English,Abadi MT Condensed,34,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,0
-Style: Ep Title,Gemelli,33,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,2,2,5,10,10,10,1
-Style: Credits,Abadi MT Condensed,26,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,2,1,5,10,10,10,1
+Style: Nozomi,Kabel Bd,83,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Rin,Kabel Bd,83,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Urara,Kabel Bd,83,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Komachi,Kabel Bd,83,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Karen,Kabel Bd,83,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Coco,Kabel Bd,83,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Nuts,Kabel Bd,83,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Default,Kabel Bd,83,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: TopSign,Kabel Bd,70,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,8,80,80,36,1
+Style: Alternate,Kabel Bd,83,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: OP English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
+Style: OP Romaji,Cascade Script LT Std,77,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,8,27,27,34,1
+Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,1.33333,0,1,4.5,0,5,0,0,0,1
+Style: ED 1 English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
+Style: ED 1 Romaji,GosmickSans,79,&H00D3A1EE,&H009164C5,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.375,0,8,27,27,34,1
+Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,2,80,80,27,0
+Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,8,80,80,45,0
+Style: Ep Title,Gemelli,74,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,4.5,4.5,5,27,27,23,1
+Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,4.5,2.25,5,27,27,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -67,67 +67,67 @@ Dialogue: 0,0:01:22.08,0:01:24.39,Rin,,0,0,0,,Oh, right, where's Nozomi today?
 Dialogue: 0,0:01:25.42,0:01:27.60,Default,,0,0,0,,Ah, about now she's probably...
 Dialogue: 0,0:01:29.84,0:01:34.09,Nozomi,,0,0,0,,I'll take this giant cream bread... \NAND EAT IT!
 Comment: 0,0:01:39.03,0:01:39.03,Default,,0,0,0,, OP = 01:39.099
-Dialogue: 0,0:01:39.37,0:01:42.24,OP English,,0,0,0,,1, 2, 3, 4, Pretty Cure 5!
-Dialogue: 0,0:01:39.37,0:01:42.24,OP Romaji,,0,0,0,,{\k19}{\k31}1, {\k34}2, {\k21}3, {\k46}4, {\k39}Pretty {\kf63}Cure {\k32}5!
-Dialogue: 0,0:01:42.24,0:01:45.00,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
-Dialogue: 0,0:01:42.24,0:01:45.00,OP Romaji,,0,0,0,,{\k0}{\k38}Pu-{\k33}ri-{\kf42}ti {\k48}kyu {\k31}kyu {\k20}kyu {\k30}kyu-{\k29}a
+Dialogue: 0,0:01:39.22,0:01:42.09,OP English,,0,0,0,,1, 2, 3, 4, Pretty Cure 5!
+Dialogue: 0,0:01:39.22,0:01:42.09,OP Romaji,,0,0,0,,{\k19}{\k31}1, {\k34}2, {\k21}3, {\k46}4, {\k39}Pretty {\kf63}Cure {\k32}5!
+Dialogue: 0,0:01:42.09,0:01:44.85,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
+Dialogue: 0,0:01:42.09,0:01:44.85,OP Romaji,,0,0,0,,{\k0}{\k38}Pu-{\k33}ri-{\kf42}ti {\k48}kyu {\k31}kyu {\k20}kyu {\k30}kyu-{\k29}a
 Comment: 0,0:01:44.24,0:01:44.24,OP Romaji,,0,0,0,,VV The following lines are the "shouted" lines.  VV
-Dialogue: 0,0:01:45.00,0:01:47.58,OP English,,0,0,0,,Everybody yes, fight!
-Dialogue: 0,0:01:45.00,0:01:47.58,OP Romaji,,0,0,0,,{\k7}{\k35}ebu{\k30}ri{\k23}ba{\k31}di {\k34}Yes, {\k33}fa{\k20}i{\k33}to!
-Dialogue: 0,0:01:47.58,0:01:50.38,OP English,,0,0,0,,Be excited, laugh like crazy!
-Dialogue: 0,0:01:47.58,0:01:50.38,OP Romaji,,0,0,0,,{\k19}{\k33}do{\k35}ki{\k21}do{\k31}ki {\k35}paa{\k15}tto {\k21}wa{\k15}ra{\k20}t{\k34}te
-Dialogue: 0,0:01:50.38,0:01:52.63,OP English,,0,0,0,,Smile and go! Go!
-Dialogue: 0,0:01:50.38,0:01:52.63,OP Romaji,,0,0,0,,{\k11}{\k16}su{\k37}mai{\k15}ru {\k35}go{\kf110}go!
-Dialogue: 0,0:01:52.67,0:01:58.51,Credits,,0,0,0,,{\fad(607,0)\t(3402,4631,\3c&H6351DA&)\pos(360,348)}Pretty Cure Splash Subs (pcssubs.wordpress.com) \N Original Translations: Arienai\N Encode: K.o.R   Retiming, Editing, etc.: Zalis
-Dialogue: 0,0:01:55.30,0:01:57.55,OP English,,0,0,0,,Yes! Pretty Cure 5! {this line is audio-timed only, there's no in-video lyrics for it.}
-Dialogue: 0,0:01:55.30,0:01:57.55,OP Romaji,,0,0,0,,{\k19}{\k38}Yes! {\k16}Pu{\k34}ri{\k16}kyu{\k34}a {\k51}5!
-Dialogue: 0,0:01:58.51,0:02:01.85,OP English,,0,0,0,,When you grow up, what do you want to be?
-Dialogue: 0,0:01:58.51,0:02:01.85,OP Romaji,,0,0,0,,{\k19}{\k32}oo{\k17}ki{\k15}ku{\k37}nat{\k19}ta{\k18}ra {\k16}na{\k20}ni {\k16}ni {\k33}na{\k15}ri{\k38}ta{\k37}i?
-Dialogue: 0,0:02:04.14,0:02:07.35,OP English,,0,0,0,,I want to do everything, hold it all in my hands!
-Dialogue: 0,0:02:04.14,0:02:07.35,OP Romaji,,0,0,0,,{\k5}{\k35}ryou{\k15}te {\k18}ni {\k36}ip{\k34}pai {\k22}ze{\k17}n{\k12}bu {\k30}ya{\k23}ri{\k35}ta{\k38}i!
-Dialogue: 0,0:02:09.60,0:02:14.28,OP English,,0,0,0,,These tears that just won't go away,
-Dialogue: 0,0:02:09.60,0:02:14.28,OP Romaji,,0,0,0,,{\k7}{\k39}mo{\k32}n{\k36}da{\k33}i {\kf72}ga {\k44}{\k18}to{\k17}ke{\k33}na{\k17}i {\k36}na{\k32}mi{\k22}da {\kf41}wa
-Dialogue: 0,0:02:14.28,0:02:18.82,OP English,,0,0,0,,let's wipe them out with the eraser of my heart!
-Dialogue: 0,0:02:14.28,0:02:18.82,OP Romaji,,0,0,0,,{\k26}{\k17}ko{\k18}ko{\k16}ro {\kf50}no {\k35}ke{\k33}shi{\k35}go{\k32}mu {\k39}de {\k10}ke{\k25}shi{\k31}cha{\kf61}ou
-Dialogue: 0,0:02:19.86,0:02:23.33,OP English,,0,0,0,,Metamorphose!
-Dialogue: 0,0:02:19.86,0:02:23.33,OP Romaji,,0,0,0,,{\k15}{\k16}me{\k15}ta{\k20}mo{\k18}ru{\kf103}fo{\kf38}u{\kf98}ze!
-Dialogue: 0,0:02:23.33,0:02:27.91,OP English,,0,0,0,,We're born to dream.
-Dialogue: 0,0:02:23.33,0:02:27.91,OP Romaji,,0,0,0,,{\k14}{\kf86}yu{\k21}me {\k15}mi{\k17}ru {\k34}ta{\k19}me {\k32}u{\k21}ma{\k17}re{\kf171}ta
-Dialogue: 0,0:02:28.21,0:02:33.38,OP English,,0,0,0,,Soar! Girls, give it your all.
-Dialogue: 0,0:02:28.21,0:02:33.38,OP Romaji,,0,0,0,,{\k7}{\k21}to{\k15}be{\k18}ru{\k52}yo {\k34}ga{\k18}n{\k35}ba{\k17}ru {\k34}o{\k34}n{\k36}na {\k32}no {\kf154}ko
-Dialogue: 0,0:02:34.42,0:02:39.09,OP English,,0,0,0,,It doesn't matter if you win or lose.
-Dialogue: 0,0:02:34.42,0:02:39.09,OP Romaji,,0,0,0,,{\k9}{\k86}ka{\k20}chi{\k12}ma{\k22}ke {\k34}da{\k17}ke {\k37}ja{\k15}na{\k31}i {\k30}mi{\k39}ra{\k33}i {\kf75}e
-Dialogue: 0,0:02:39.09,0:02:42.47,OP English,,0,0,0,,Carve out a new future tomorrow!
-Dialogue: 0,0:02:39.09,0:02:42.47,OP Romaji,,0,0,0,,{\k23}{\k12}a{\k21}su {\k18}wo {\kf55}nu{\k31}ri{\k14}ka{\k23}e{\k20}te{\kf106}ku
-Dialogue: 0,0:02:42.47,0:02:47.60,OP English,,0,0,0,,{\fscx95}When in a pinch, there's your chance! Transform and be tough!
-Dialogue: 0,0:02:42.47,0:02:47.60,OP Romaji,,0,0,0,,{\k17}{\k35}pin{\k14}chi {\k36}ka{\k45}ra {\kf41}cha{\k18}n{\k30}su {\k35}e {\k25}ta{\k41}fu {\k21}ni {\kf47}hen{\k23}shi{\kf60}n!
-Dialogue: 0,0:02:48.02,0:02:50.98,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
-Dialogue: 0,0:02:48.02,0:02:50.98,OP Romaji,,0,0,0,,{\k29}{\k35}pu{\k33}ri{\kf55}ti {\k33}kyu-{\k32}kyu-{\k19}kyu-{\k29}kyu{\k32}a
-Dialogue: 0,0:02:50.98,0:02:53.65,OP English,,0,0,0,,Everybody yes, hustle!
-Dialogue: 0,0:02:50.98,0:02:53.65,OP Romaji,,0,0,0,,{\k7}{\k31}ebu{\k36}ri{\k22}ba{\k25}di {\k37}Yes, {\k24}has{\k28}su{\k48}ru!
-Dialogue: 0,0:02:53.65,0:02:56.32,OP English,,0,0,0,,Be excited, smile and laugh!
-Dialogue: 0,0:02:53.65,0:02:56.32,OP Romaji,,0,0,0,,{\k7}{\k36}do{\k34}ki{\k19}do{\k31}ki {\k38}nit{\k20}to {\k15}wa{\k15}ra{\k18}t{\k33}te
-Dialogue: 0,0:02:56.32,0:02:58.82,OP English,,0,0,0,,Smile and go! Go!
-Dialogue: 0,0:02:56.32,0:02:58.82,OP Romaji,,0,0,0,,{\k11}{\k20}su{\k32}mai{\k16}ru {\k34}go{\kf117}go!
-Dialogue: 0,0:02:58.82,0:03:03.28,OP English,,0,0,0,,One, two, three-four, Pretty Cure (Five!)
-Dialogue: 0,0:02:58.82,0:03:03.28,OP Romaji,,0,0,0,,{\k31}{\k36}1, {\k33}2, {\k20}3-{\k44}4 {\k9}{\k16}Pu{\k18}ri{\k13}kyu{\kf48}a {\k67}(5!)
-Dialogue: 0,0:01:44.57,0:01:45.24,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:01:47.24,0:01:47.83,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:01:52.62,0:01:54.00,OP Romaji2,,0,0,0,,{\an8}Pretty Cure! {2nd}
-Dialogue: 0,0:02:01.34,0:02:04.13,OP English,,0,0,0,,Wha-t, what, what do you?
-Dialogue: 0,0:02:01.34,0:02:04.13,OP Romaji2,,0,0,0,,{\pos(360,75)}na-ni naru naru no
-Dialogue: 0,0:02:06.89,0:02:09.14,OP English,,0,0,0,,Do it all!
-Dialogue: 0,0:02:06.89,0:02:09.14,OP Romaji2,,0,0,0,,{\pos(360,75)}i-pai yaritai!
-Dialogue: 0,0:02:23.03,0:02:23.74,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
-Dialogue: 0,0:02:26.49,0:02:28.99,OP Romaji2,,0,0,0,,{\pos(352,75)}1, 2, 3 4 5!
-Dialogue: 0,0:02:31.95,0:02:34.66,OP Romaji2,,0,0,0,,{\pos(352,75)}5, 4, 3 2 1!
-Dialogue: 0,0:02:43.72,0:02:44.47,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
-Dialogue: 0,0:02:44.80,0:02:45.59,OP Romaji2,,0,0,0,,{\pos(352,75)}Go-go!
-Dialogue: 0,0:02:47.01,0:02:47.89,OP Romaji2,,0,0,0,,{\pos(352,75)}Go-go-go-go!
-Dialogue: 0,0:02:47.89,0:02:48.30,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:50.56,0:02:51.18,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:53.27,0:02:53.85,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:58.81,0:02:59.40,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
+Dialogue: 0,0:01:44.85,0:01:47.43,OP English,,0,0,0,,Everybody yes, fight!
+Dialogue: 0,0:01:44.85,0:01:47.43,OP Romaji,,0,0,0,,{\k7}{\k35}ebu{\k30}ri{\k23}ba{\k31}di {\k34}Yes, {\k33}fa{\k20}i{\k33}to!
+Dialogue: 0,0:01:47.43,0:01:50.23,OP English,,0,0,0,,Be excited, laugh like crazy!
+Dialogue: 0,0:01:47.43,0:01:50.23,OP Romaji,,0,0,0,,{\k19}{\k33}do{\k35}ki{\k21}do{\k31}ki {\k35}paa{\k15}tto {\k21}wa{\k15}ra{\k20}t{\k34}te
+Dialogue: 0,0:01:50.23,0:01:52.48,OP English,,0,0,0,,Smile and go! Go!
+Dialogue: 0,0:01:50.23,0:01:52.48,OP Romaji,,0,0,0,,{\k11}{\k16}su{\k37}mai{\k15}ru {\k35}go{\kf110}go!
+Dialogue: 0,0:01:52.52,0:01:58.36,Credits,,0,0,0,,{\fad(607,0)\t(3402,4631,\3c&H6351DA&)\pos(960,783)}Original release by \NPretty Cure Splash Subs (pcssubs.wordpress.com)
+Dialogue: 0,0:01:55.15,0:01:57.40,OP English,,0,0,0,,Yes! Pretty Cure 5! {this line is audio-timed only, there's no in-video lyrics for it.}
+Dialogue: 0,0:01:55.15,0:01:57.40,OP Romaji,,0,0,0,,{\k19}{\k38}Yes! {\k16}Pu{\k34}ri{\k16}kyu{\k34}a {\k51}5!
+Dialogue: 0,0:01:58.36,0:02:01.70,OP English,,0,0,0,,When you grow up, what do you want to be?
+Dialogue: 0,0:01:58.36,0:02:01.70,OP Romaji,,0,0,0,,{\k19}{\k32}oo{\k17}ki{\k15}ku{\k37}nat{\k19}ta{\k18}ra {\k16}na{\k20}ni {\k16}ni {\k33}na{\k15}ri{\k38}ta{\k37}i?
+Dialogue: 0,0:02:03.99,0:02:07.20,OP English,,0,0,0,,I want to do everything, hold it all in my hands!
+Dialogue: 0,0:02:03.99,0:02:07.20,OP Romaji,,0,0,0,,{\k5}{\k35}ryou{\k15}te {\k18}ni {\k36}ip{\k34}pai {\k22}ze{\k17}n{\k12}bu {\k30}ya{\k23}ri{\k35}ta{\k38}i!
+Dialogue: 0,0:02:09.45,0:02:14.13,OP English,,0,0,0,,These tears that just won't go away,
+Dialogue: 0,0:02:09.45,0:02:14.13,OP Romaji,,0,0,0,,{\k7}{\k39}mo{\k32}n{\k36}da{\k33}i {\kf72}ga {\k44}{\k18}to{\k17}ke{\k33}na{\k17}i {\k36}na{\k32}mi{\k22}da {\kf41}wa
+Dialogue: 0,0:02:14.13,0:02:18.67,OP English,,0,0,0,,let's wipe them out with the eraser of my heart!
+Dialogue: 0,0:02:14.13,0:02:18.67,OP Romaji,,0,0,0,,{\k26}{\k17}ko{\k18}ko{\k16}ro {\kf50}no {\k35}ke{\k33}shi{\k35}go{\k32}mu {\k39}de {\k10}ke{\k25}shi{\k31}cha{\kf61}ou
+Dialogue: 0,0:02:19.71,0:02:23.18,OP English,,0,0,0,,Metamorphose!
+Dialogue: 0,0:02:19.71,0:02:23.18,OP Romaji,,0,0,0,,{\k15}{\k16}me{\k15}ta{\k20}mo{\k18}ru{\kf103}fo{\kf38}u{\kf98}ze!
+Dialogue: 0,0:02:23.18,0:02:27.76,OP English,,0,0,0,,We're born to dream.
+Dialogue: 0,0:02:23.18,0:02:27.76,OP Romaji,,0,0,0,,{\k14}{\kf86}yu{\k21}me {\k15}mi{\k17}ru {\k34}ta{\k19}me {\k32}u{\k21}ma{\k17}re{\kf171}ta
+Dialogue: 0,0:02:28.06,0:02:33.23,OP English,,0,0,0,,Soar! Girls, give it your all.
+Dialogue: 0,0:02:28.06,0:02:33.23,OP Romaji,,0,0,0,,{\k7}{\k21}to{\k15}be{\k18}ru{\k52}yo {\k34}ga{\k18}n{\k35}ba{\k17}ru {\k34}o{\k34}n{\k36}na {\k32}no {\kf154}ko
+Dialogue: 0,0:02:34.27,0:02:38.94,OP English,,0,0,0,,It doesn't matter if you win or lose.
+Dialogue: 0,0:02:34.27,0:02:38.94,OP Romaji,,0,0,0,,{\k9}{\k86}ka{\k20}chi{\k12}ma{\k22}ke {\k34}da{\k17}ke {\k37}ja{\k15}na{\k31}i {\k30}mi{\k39}ra{\k33}i {\kf75}e
+Dialogue: 0,0:02:38.94,0:02:42.32,OP English,,0,0,0,,Carve out a new future tomorrow!
+Dialogue: 0,0:02:38.94,0:02:42.32,OP Romaji,,0,0,0,,{\k23}{\k12}a{\k21}su {\k18}wo {\kf55}nu{\k31}ri{\k14}ka{\k23}e{\k20}te{\kf106}ku
+Dialogue: 0,0:02:42.32,0:02:47.45,OP English,,0,0,0,,{\fscx95}When in a pinch, there's your chance! Transform and be tough!
+Dialogue: 0,0:02:42.32,0:02:47.45,OP Romaji,,0,0,0,,{\k17}{\k35}pin{\k14}chi {\k36}ka{\k45}ra {\kf41}cha{\k18}n{\k30}su {\k35}e {\k25}ta{\k41}fu {\k21}ni {\kf47}hen{\k23}shi{\kf60}n!
+Dialogue: 0,0:02:47.87,0:02:50.83,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
+Dialogue: 0,0:02:47.87,0:02:50.83,OP Romaji,,0,0,0,,{\k29}{\k35}pu{\k33}ri{\kf55}ti {\k33}kyu-{\k32}kyu-{\k19}kyu-{\k29}kyu{\k32}a
+Dialogue: 0,0:02:50.83,0:02:53.50,OP English,,0,0,0,,Everybody yes, hustle!
+Dialogue: 0,0:02:50.83,0:02:53.50,OP Romaji,,0,0,0,,{\k7}{\k31}ebu{\k36}ri{\k22}ba{\k25}di {\k37}Yes, {\k24}has{\k28}su{\k48}ru!
+Dialogue: 0,0:02:53.50,0:02:56.17,OP English,,0,0,0,,Be excited, smile and laugh!
+Dialogue: 0,0:02:53.50,0:02:56.17,OP Romaji,,0,0,0,,{\k7}{\k36}do{\k34}ki{\k19}do{\k31}ki {\k38}nit{\k20}to {\k15}wa{\k15}ra{\k18}t{\k33}te
+Dialogue: 0,0:02:56.17,0:02:58.67,OP English,,0,0,0,,Smile and go! Go!
+Dialogue: 0,0:02:56.17,0:02:58.67,OP Romaji,,0,0,0,,{\k11}{\k20}su{\k32}mai{\k16}ru {\k34}go{\kf117}go!
+Dialogue: 0,0:02:58.67,0:03:03.13,OP English,,0,0,0,,One, two, three-four, Pretty Cure (Five!)
+Dialogue: 0,0:02:58.67,0:03:03.13,OP Romaji,,0,0,0,,{\k31}{\k36}1, {\k33}2, {\k20}3-{\k44}4 {\k9}{\k16}Pu{\k18}ri{\k13}kyu{\kf48}a {\k67}(5!)
+Dialogue: 0,0:01:44.42,0:01:45.09,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:01:47.09,0:01:47.68,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:01:52.47,0:01:53.85,OP Romaji2,,0,0,0,,{\an8}Pretty Cure! {2nd}
+Dialogue: 0,0:02:01.19,0:02:03.98,OP English,,0,0,0,,Wha-t, what, what do you?
+Dialogue: 0,0:02:01.19,0:02:03.98,OP Romaji2,,0,0,0,,{\pos(960,168.75)}na-ni naru naru no
+Dialogue: 0,0:02:06.74,0:02:08.99,OP English,,0,0,0,,Do it all!
+Dialogue: 0,0:02:06.74,0:02:08.99,OP Romaji2,,0,0,0,,{\pos(960,168.75)}i-pai yaritai!
+Dialogue: 0,0:02:22.88,0:02:23.59,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
+Dialogue: 0,0:02:26.34,0:02:28.84,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}1, 2, 3 4 5!
+Dialogue: 0,0:02:31.80,0:02:34.51,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}5, 4, 3 2 1!
+Dialogue: 0,0:02:43.57,0:02:44.32,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
+Dialogue: 0,0:02:44.65,0:02:45.44,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go-go!
+Dialogue: 0,0:02:46.86,0:02:47.74,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go-go-go-go!
+Dialogue: 0,0:02:47.74,0:02:48.15,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:50.41,0:02:51.03,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:53.12,0:02:53.70,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:58.66,0:02:59.25,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
 Comment: 0,0:03:03.95,0:03:03.95,Default,,0,0,0,,Part 1 = 03:04.017
 Dialogue: 0,0:03:08.48,0:03:09.75,Default,,0,0,0,,I'm back.
 Dialogue: 0,0:03:10.40,0:03:12.25,Nozomi,,0,0,0,,Welcome home.
@@ -144,7 +144,7 @@ Dialogue: 0,0:03:39.23,0:03:43.13,Nozomi,,0,0,0,,Let it go. Just leave\N the hou
 Dialogue: 0,0:03:43.13,0:03:44.48,Nozomi,,0,0,0,,Relax and go to sleep.
 Dialogue: 0,0:03:44.48,0:03:46.49,Default,,0,0,0,,Will you be okay, Nozomi?
 Dialogue: 0,0:03:46.49,0:03:48.24,Nozomi,,0,0,0,,Yeah!
-Dialogue: 0,0:03:51.75,0:03:56.24,Ep Title,,0,0,0,,{\pos(360,311)\fad(315,0)}Hustle! Nozomi Helps Out!
+Dialogue: 0,0:03:51.75,0:03:56.24,Ep Title,,0,0,0,,{\pos(960,699.75)\fad(315,0)}Hustle! Nozomi Helps Out!
 Dialogue: 0,0:03:56.44,0:03:58.17,Default,,0,0,0,,Wake up!!!
 Dialogue: 0,0:04:10.61,0:04:13.73,Default,,0,0,0,,What part of working the register involves napping?!
 Dialogue: 0,0:04:13.73,0:04:18.19,Default,,0,0,0,,Shut up, I'm tired...
@@ -381,54 +381,54 @@ Dialogue: 0,0:21:59.07,0:22:02.17,Default,,0,0,0,,Me too. I think I'm getting a 
 Dialogue: 0,0:22:02.78,0:22:05.71,Nozomi,,0,0,0,,All righty! One delicious rice porridge\Ncoming right up!
 Dialogue: 0,0:22:05.71,0:22:07.68,Rin,,0,0,0,,As if!
 Comment: 0,0:22:09.97,0:22:09.97,Default,,0,0,0,,ED = 22:10.938
-Dialogue: 0,0:22:13.98,0:22:16.94,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
-Dialogue: 0,0:22:13.98,0:22:16.94,ED 1 Romaji,,0,0,0,,{\k12}{\k20}yu{\k18}me {\k19}mi{\kf56}tai {\k30}koi {\k29}shi{\kf81}tai
-Dialogue: 0,0:22:16.94,0:22:19.81,ED 1 English,,0,0,0,,With all my heart!
-Dialogue: 0,0:22:16.94,0:22:19.81,ED 1 Romaji,,0,0,0,,{\k18}{\kf42}chou {\k18}me{\k37}ip{\kf150}pai
-Dialogue: 0,0:22:19.81,0:22:22.48,ED 1 English,,0,0,0,,With a smile and a good luck charm
-Dialogue: 0,0:22:19.81,0:22:22.48,ED 1 Romaji,,0,0,0,,{\k15}{\k18}ho{\k12}ho{\k21}e{\k25}n{\k38}de {\k21}o{\k18}ma{\k17}ji{\k20}na{\k48}i
-Dialogue: 0,0:22:22.48,0:22:26.36,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
-Dialogue: 0,0:22:22.48,0:22:26.36,ED 1 Romaji,,0,0,0,,{\k18}{\kf37}pu{\k18}ri{\k23}pu{\k17}ri{\k17}pu{\k19}ri{\k18}kyu{\k19}a {\kf179}faivu
-Dialogue: 0,0:22:26.86,0:22:28.91,ED 1 English,,0,0,0,,Yeah~!
-Dialogue: 0,0:22:26.86,0:22:28.91,ED 1 Romaji,,0,0,0,,{\k14}{\kf37}Ye{\kf135}ah~!
-Dialogue: 0,0:22:36.37,0:22:39.21,ED 1 English,,0,0,0,,Like a coconut
-Dialogue: 0,0:22:36.37,0:22:39.21,ED 1 Romaji,,0,0,0,,{\k13}{\k38}ko{\k36}ko{\k36}nat{\k41}tsu {\k20}mi{\k20}ta{\k22}i {\k38}na
-Dialogue: 0,0:22:39.21,0:22:41.46,ED 1 English,,0,0,0,,A sweet fluffy kiss
-Dialogue: 0,0:22:39.21,0:22:41.46,ED 1 Romaji,,0,0,0,,{\k18}{\k17}fu{\k19}n{\k19}wa{\k18}ri {\k20}a{\k17}ma{\k19}i {\k20}ki{\k57}su
-Dialogue: 0,0:22:42.42,0:22:45.17,ED 1 English,,0,0,0,,If I do it without thinking
-Dialogue: 0,0:22:42.42,0:22:45.17,ED 1 Romaji,,0,0,0,,{\k17}{\k40}u{\k37}t{\k37}to{\k21}ri {\k17}shi{\k22}te{\k18}i{\k19}ta{\k42}ra
-Dialogue: 0,0:22:45.17,0:22:47.51,ED 1 English,,0,0,0,,My alarm clock went off
-Dialogue: 0,0:22:45.17,0:22:47.51,ED 1 Romaji,,0,0,0,,{\k27}{\k38}me{\k19}za{\k14}ma{\k24}shi {\k18}ga {\k19}na{\k22}t{\k54}ta
-Dialogue: 0,0:22:48.51,0:22:50.55,ED 1 English,,0,0,0,,I open the curtain
-Dialogue: 0,0:22:48.51,0:22:50.55,ED 1 Romaji,,0,0,0,,{\k11}{\k39}kaa{\k21}te{\k19}n {\k18}wo {\k20}hi{\k19}ra{\k20}i{\k37}te
-Dialogue: 0,0:22:50.97,0:22:53.64,ED 1 English,,0,0,0,,I've got to find the continuation of my dream
-Dialogue: 0,0:22:50.97,0:22:53.64,ED 1 Romaji,,0,0,0,,{\k17}{\k17}yu{\k21}me {\k19}no {\k20}tsu{\k18}zu{\k20}ki {\k18}sa{\k20}ga{\k18}sa{\k18}na{\k21}ku{\k36}cha
-Dialogue: 0,0:22:54.22,0:22:57.14,ED 1 English,,0,0,0,,The rays of the sun on my chest are too bright
-Dialogue: 0,0:22:54.22,0:22:57.14,ED 1 Romaji,,0,0,0,,{\k14}{\k18}ma{\k19}bu{\k25}shi{\k15}su{\k20}gi{\k37}ru {\k19}mu{\k19}ne {\k20}no {\k20}hi{\k14}za{\k22}shi {\k32}ni
-Dialogue: 0,0:22:57.14,0:22:59.90,ED 1 English,,0,0,0,,I'm enchanted by them, they won't disappear
-Dialogue: 0,0:22:57.14,0:22:59.90,ED 1 Romaji,,0,0,0,,{\k9}{\k17}to{\k18}ro{\k19}ke{\k39}te {\k17}ki{\k20}e{\k37}nai {\k38}you {\k52}ni
-Dialogue: 0,0:22:59.90,0:23:00.69,ED 1 English,,0,0,0,,Oh~!
-Dialogue: 0,0:22:59.90,0:23:00.69,ED 1 Romaji,,0,0,0,,{\k14}{\kf64}Oh~!
-Dialogue: 0,0:23:00.69,0:23:06.74,ED 1 English,,0,0,0,,The happy, carefree face of the sun
-Dialogue: 0,0:23:00.69,0:23:06.74,ED 1 Romaji,,0,0,0,,{\k10}{\kf59}non{\k23}ki {\kf55}de {\k17}o{\kf59}me{\k19}de{\kf83}tai {\k30}{\k20}ka{\k17}o{\k20}shi{\k21}te{\k38}ru {\k38}tai{\k23}yo{\kf52}u
-Dialogue: 0,0:23:06.74,0:23:12.53,ED 1 English,,0,0,0,,How can you just laugh like that!?
-Dialogue: 0,0:23:06.74,0:23:12.53,ED 1 Romaji,,0,0,0,,{\k14}{\k37}nan{\k29}de {\kf46}son{\k21}na {\kf109}ni {\k22}wa{\k15}ra{\k23}t{\k38}te {\k19}i{\k19}ra{\k23}re{\k36}ru {\kf125}no!?
-Dialogue: 0,0:23:12.83,0:23:18.41,ED 1 English,,0,0,0,,You're really just that same cautious color
-Dialogue: 0,0:23:12.83,0:23:18.41,ED 1 Romaji,,0,0,0,,{\k26}{\k31}ho{\k27}n{\k18}tou {\kf57}wa {\k19}{\k59}o{\k20}na{\kf74}ji{\k36}{\kf44}ku{\k34}ra{\k17}i {\k22}ya{\k35}bai {\kf24}co{\kf20}lor
-Dialogue: 0,0:23:18.41,0:23:23.80,ED 1 English,,0,0,0,,Sparkle, My True Love!
-Dialogue: 0,0:23:18.41,0:23:23.80,ED 1 Romaji,,0,0,0,,{\k14}{\k16}ki{\k19}ra{\k21}ki{\k89}ra{\k24}shi{\k40}chat{\k89}te {\k22}My {\kf37}True {\kf134}Love!
-Dialogue: 0,0:23:25.30,0:23:28.34,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
-Dialogue: 0,0:23:25.30,0:23:28.34,ED 1 Romaji,,0,0,0,,{\k7}{\k19}yu{\k17}me {\k25}mi{\kf52}tai {\k34}koi {\k25}shi{\kf69}tai
-Dialogue: 0,0:23:28.34,0:23:31.05,ED 1 English,,0,0,0,,With all my heart!
-Dialogue: 0,0:23:28.34,0:23:31.05,ED 1 Romaji,,0,0,0,,{\k15}{\kf37}chou {\k21}me{\k38}ip{\kf153}pai
-Dialogue: 0,0:23:31.05,0:23:33.68,ED 1 English,,0,0,0,,With a smile and a good luck charm
-Dialogue: 0,0:23:31.05,0:23:33.68,ED 1 Romaji,,0,0,0,,{\k1}{\k24}ho{\k25}ho{\k31}en{\kf40}de {\k20}o{\k19}ma{\k20}ji{\k21}na{\k28}i
-Dialogue: 0,0:23:33.68,0:23:35.43,ED 1 English,,0,0,0,,Ain't I cute?
-Dialogue: 0,0:23:33.68,0:23:35.43,ED 1 Romaji,,0,0,0,,{\k36}{\kf38}ka{\k18}wa{\k17}i{\k21}i{\k32}jan!
-Dialogue: 0,0:23:35.43,0:23:36.93,ED 1 English,,0,0,0,,Ain't I the best?
-Dialogue: 0,0:23:35.43,0:23:36.93,ED 1 Romaji,,0,0,0,,{\k23}{\k25}sa{\k31}i{\kf41}kou {\k34}jan!
-Dialogue: 0,0:23:36.93,0:23:39.89,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
-Dialogue: 0,0:23:36.93,0:23:39.89,ED 1 Romaji,,0,0,0,,{\k25}{\kf29}pu{\k26}ri{\k18}pu{\k20}ri{\k22}pu{\k16}ri{\k20}kyu{\k17}a {\kf72}faivu
+Dialogue: 0,0:22:13.88,0:22:16.84,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
+Dialogue: 0,0:22:13.88,0:22:16.84,ED 1 Romaji,,0,0,0,,{\k12}{\k20}yu{\k18}me {\k19}mi{\kf56}tai {\k30}koi {\k29}shi{\kf81}tai
+Dialogue: 0,0:22:16.84,0:22:19.71,ED 1 English,,0,0,0,,With all my heart!
+Dialogue: 0,0:22:16.84,0:22:19.71,ED 1 Romaji,,0,0,0,,{\k18}{\kf42}chou {\k18}me{\k37}ip{\kf150}pai
+Dialogue: 0,0:22:19.71,0:22:22.38,ED 1 English,,0,0,0,,With a smile and a good luck charm
+Dialogue: 0,0:22:19.71,0:22:22.38,ED 1 Romaji,,0,0,0,,{\k15}{\k18}ho{\k12}ho{\k21}e{\k25}n{\k38}de {\k21}o{\k18}ma{\k17}ji{\k20}na{\k48}i
+Dialogue: 0,0:22:22.38,0:22:26.26,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
+Dialogue: 0,0:22:22.38,0:22:26.26,ED 1 Romaji,,0,0,0,,{\k18}{\kf37}pu{\k18}ri{\k23}pu{\k17}ri{\k17}pu{\k19}ri{\k18}kyu{\k19}a {\kf179}faivu
+Dialogue: 0,0:22:26.76,0:22:28.81,ED 1 English,,0,0,0,,Yeah~!
+Dialogue: 0,0:22:26.76,0:22:28.81,ED 1 Romaji,,0,0,0,,{\k14}{\kf37}Ye{\kf135}ah~!
+Dialogue: 0,0:22:36.27,0:22:39.11,ED 1 English,,0,0,0,,Like a coconut
+Dialogue: 0,0:22:36.27,0:22:39.11,ED 1 Romaji,,0,0,0,,{\k13}{\k38}ko{\k36}ko{\k36}nat{\k41}tsu {\k20}mi{\k20}ta{\k22}i {\k38}na
+Dialogue: 0,0:22:39.11,0:22:41.36,ED 1 English,,0,0,0,,A sweet fluffy kiss
+Dialogue: 0,0:22:39.11,0:22:41.36,ED 1 Romaji,,0,0,0,,{\k18}{\k17}fu{\k19}n{\k19}wa{\k18}ri {\k20}a{\k17}ma{\k19}i {\k20}ki{\k57}su
+Dialogue: 0,0:22:42.32,0:22:45.07,ED 1 English,,0,0,0,,If I do it without thinking
+Dialogue: 0,0:22:42.32,0:22:45.07,ED 1 Romaji,,0,0,0,,{\k17}{\k40}u{\k37}t{\k37}to{\k21}ri {\k17}shi{\k22}te{\k18}i{\k19}ta{\k42}ra
+Dialogue: 0,0:22:45.07,0:22:47.41,ED 1 English,,0,0,0,,My alarm clock went off
+Dialogue: 0,0:22:45.07,0:22:47.41,ED 1 Romaji,,0,0,0,,{\k27}{\k38}me{\k19}za{\k14}ma{\k24}shi {\k18}ga {\k19}na{\k22}t{\k54}ta
+Dialogue: 0,0:22:48.41,0:22:50.45,ED 1 English,,0,0,0,,I open the curtain
+Dialogue: 0,0:22:48.41,0:22:50.45,ED 1 Romaji,,0,0,0,,{\k11}{\k39}kaa{\k21}te{\k19}n {\k18}wo {\k20}hi{\k19}ra{\k20}i{\k37}te
+Dialogue: 0,0:22:50.87,0:22:53.54,ED 1 English,,0,0,0,,I've got to find the continuation of my dream
+Dialogue: 0,0:22:50.87,0:22:53.54,ED 1 Romaji,,0,0,0,,{\k17}{\k17}yu{\k21}me {\k19}no {\k20}tsu{\k18}zu{\k20}ki {\k18}sa{\k20}ga{\k18}sa{\k18}na{\k21}ku{\k36}cha
+Dialogue: 0,0:22:54.12,0:22:57.04,ED 1 English,,0,0,0,,The rays of the sun on my chest are too bright
+Dialogue: 0,0:22:54.12,0:22:57.04,ED 1 Romaji,,0,0,0,,{\k14}{\k18}ma{\k19}bu{\k25}shi{\k15}su{\k20}gi{\k37}ru {\k19}mu{\k19}ne {\k20}no {\k20}hi{\k14}za{\k22}shi {\k32}ni
+Dialogue: 0,0:22:57.04,0:22:59.80,ED 1 English,,0,0,0,,I'm enchanted by them, they won't disappear
+Dialogue: 0,0:22:57.04,0:22:59.80,ED 1 Romaji,,0,0,0,,{\k9}{\k17}to{\k18}ro{\k19}ke{\k39}te {\k17}ki{\k20}e{\k37}nai {\k38}you {\k52}ni
+Dialogue: 0,0:22:59.80,0:23:00.59,ED 1 English,,0,0,0,,Oh~!
+Dialogue: 0,0:22:59.80,0:23:00.59,ED 1 Romaji,,0,0,0,,{\k14}{\kf64}Oh~!
+Dialogue: 0,0:23:00.59,0:23:06.64,ED 1 English,,0,0,0,,The happy, carefree face of the sun
+Dialogue: 0,0:23:00.59,0:23:06.64,ED 1 Romaji,,0,0,0,,{\k10}{\kf59}non{\k23}ki {\kf55}de {\k17}o{\kf59}me{\k19}de{\kf83}tai {\k30}{\k20}ka{\k17}o{\k20}shi{\k21}te{\k38}ru {\k38}tai{\k23}yo{\kf52}u
+Dialogue: 0,0:23:06.64,0:23:12.43,ED 1 English,,0,0,0,,How can you just laugh like that!?
+Dialogue: 0,0:23:06.64,0:23:12.43,ED 1 Romaji,,0,0,0,,{\k14}{\k37}nan{\k29}de {\kf46}son{\k21}na {\kf109}ni {\k22}wa{\k15}ra{\k23}t{\k38}te {\k19}i{\k19}ra{\k23}re{\k36}ru {\kf125}no!?
+Dialogue: 0,0:23:12.73,0:23:18.31,ED 1 English,,0,0,0,,You're really just that same cautious color
+Dialogue: 0,0:23:12.73,0:23:18.31,ED 1 Romaji,,0,0,0,,{\k26}{\k31}ho{\k27}n{\k18}tou {\kf57}wa {\k19}{\k59}o{\k20}na{\kf74}ji{\k36}{\kf44}ku{\k34}ra{\k17}i {\k22}ya{\k35}bai {\kf24}co{\kf20}lor
+Dialogue: 0,0:23:18.31,0:23:23.70,ED 1 English,,0,0,0,,Sparkle, My True Love!
+Dialogue: 0,0:23:18.31,0:23:23.70,ED 1 Romaji,,0,0,0,,{\k14}{\k16}ki{\k19}ra{\k21}ki{\k89}ra{\k24}shi{\k40}chat{\k89}te {\k22}My {\kf37}True {\kf134}Love!
+Dialogue: 0,0:23:25.20,0:23:28.24,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
+Dialogue: 0,0:23:25.20,0:23:28.24,ED 1 Romaji,,0,0,0,,{\k7}{\k19}yu{\k17}me {\k25}mi{\kf52}tai {\k34}koi {\k25}shi{\kf69}tai
+Dialogue: 0,0:23:28.24,0:23:30.95,ED 1 English,,0,0,0,,With all my heart!
+Dialogue: 0,0:23:28.24,0:23:30.95,ED 1 Romaji,,0,0,0,,{\k15}{\kf37}chou {\k21}me{\k38}ip{\kf153}pai
+Dialogue: 0,0:23:30.95,0:23:33.58,ED 1 English,,0,0,0,,With a smile and a good luck charm
+Dialogue: 0,0:23:30.95,0:23:33.58,ED 1 Romaji,,0,0,0,,{\k1}{\k24}ho{\k25}ho{\k31}en{\kf40}de {\k20}o{\k19}ma{\k20}ji{\k21}na{\k28}i
+Dialogue: 0,0:23:33.58,0:23:35.33,ED 1 English,,0,0,0,,Ain't I cute?
+Dialogue: 0,0:23:33.58,0:23:35.33,ED 1 Romaji,,0,0,0,,{\k36}{\kf38}ka{\k18}wa{\k17}i{\k21}i{\k32}jan!
+Dialogue: 0,0:23:35.33,0:23:36.83,ED 1 English,,0,0,0,,Ain't I the best?
+Dialogue: 0,0:23:35.33,0:23:36.83,ED 1 Romaji,,0,0,0,,{\k23}{\k25}sa{\k31}i{\kf41}kou {\k34}jan!
+Dialogue: 0,0:23:36.83,0:23:39.79,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
+Dialogue: 0,0:23:36.83,0:23:39.79,ED 1 Romaji,,0,0,0,,{\k25}{\kf29}pu{\k26}ri{\k18}pu{\k20}ri{\k22}pu{\k16}ri{\k20}kyu{\k17}a {\kf72}faivu
 Comment: 0,0:23:39.89,0:23:39.89,Default,,0,0,0,,Preview = 23:39.962
 Dialogue: 0,0:23:42.90,0:23:45.53,Nozomi,,0,0,0,,Okay, we're starting\N an adventure novel!
 Dialogue: 0,0:23:45.53,0:23:48.84,Komachi,,0,0,0,,I'm glad you're interested\N in my novel, but...

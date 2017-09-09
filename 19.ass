@@ -4,8 +4,8 @@
 Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 720
-PlayResY: 480
+PlayResX: 1920
+PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: c1.77708
 Video Zoom: 6
@@ -13,426 +13,425 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Yes! Pretty Cure 5
-Audio File: yes5-19.mkv
-Video File: yes5-19.mkv
-Keyframes File: yes5-19a.pass
+Audio File: ../[Yes! Precure 5][19][BDRIP][1080P][H264_FLAC].mkv
+Video File: ../[Yes! Precure 5][19][BDRIP][1080P][H264_FLAC].mkv
 Video AR Mode: 4
-Video AR Value: 1.777083
+Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 379
-Active Line: 384
-Video Position: 34357
+Scroll Position: 12
+Active Line: 37
+Video Position: 34812
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Kabel Bd,37,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Nozomi,Kabel Bd,37,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Rin,Kabel Bd,37,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Urara,Kabel Bd,37,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Komachi,Kabel Bd,37,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Karen,Kabel Bd,37,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Coco,Kabel Bd,37,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Nuts,Kabel Bd,37,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: TopSign,Kabel Bd,31,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,8,30,30,16,1
-Style: Alternate,Kabel Bd,37,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: OP English,Verdana,29,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,2,10,10,20,1
-Style: OP Romaji,Cascade Script LT Std,34,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,8,10,10,15,1
-Style: OP Romaji2,Burst My Bubble KK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,0.5,0,1,2,0,5,0,0,0,1
-Style: ED 1 English,Verdana,29,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,2,10,10,20,1
-Style: ED 1 Romaji,GosmickSans,35,&H00D3A1EE,&H009164C5,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,10,10,15,1
-Style: Ep Title,Gemelli,33,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,2,2,5,10,10,10,1
-Style: Credits,Abadi MT Condensed,26,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,2,1,5,10,10,10,1
+Style: Default,Kabel Bd,83,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Nozomi,Kabel Bd,83,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Rin,Kabel Bd,83,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Urara,Kabel Bd,83,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Komachi,Kabel Bd,83,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Karen,Kabel Bd,83,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Coco,Kabel Bd,83,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Nuts,Kabel Bd,83,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: TopSign,Kabel Bd,70,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,8,80,80,36,1
+Style: Alternate,Kabel Bd,83,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: OP English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
+Style: OP Romaji,Cascade Script LT Std,77,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,8,27,27,34,1
+Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,1.33333,0,1,4.5,0,5,0,0,0,1
+Style: ED 1 English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
+Style: ED 1 Romaji,GosmickSans,79,&H00D3A1EE,&H009164C5,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.375,0,8,27,27,34,1
+Style: Ep Title,Gemelli,74,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,4.5,4.5,5,27,27,23,1
+Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,4.5,2.25,5,27,27,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:13.70,0:00:13.70,Urara,,0,0,0,,Transcribed from Spanish subs
-Dialogue: 0,0:00:18.47,0:00:20.83,Urara,,0,0,0,,{So then, I'll be heading out first.} Sorry to jet, but I'm in a hurry.
-Dialogue: 0,0:00:21.15,0:00:23.71,Rin,,0,0,0,,{Ar: That's fast of you.}{ You're on the move. } Do you have another lesson today?
-Dialogue: 0,0:00:23.71,0:00:26.38,Urara,,0,0,0,,No, today's more of a...
-Dialogue: 0,0:00:28.02,0:00:31.21,Nozomi,,0,0,0,,Look out, we've got some creepers outside the store!
-Dialogue: 0,0:00:31.21,0:00:32.59,Coco,,0,0,0,,I saw them too-coco!
-Dialogue: 0,0:00:47.19,0:00:48.73,Rin,,0,0,0,,They sure are creepy.
-Dialogue: 0,0:00:49.91,0:00:51.57,Nuts,,0,0,0,,More like annoying.
-Dialogue: 0,0:00:53.05,0:00:53.86,Komachi,,0,0,0,,Nuts-san...
-Dialogue: 0,0:00:54.33,0:00:55.99,Nuts,,0,0,0,,{It's fine.} I got this.
-Dialogue: 0,0:00:58.57,0:01:00.41,Nuts,,0,0,0,,Hey, you two!
-Dialogue: 0,0:01:07.54,0:01:10.67,Nuts,,0,0,0,,Are you just window-shopping\N at our store?
-Dialogue: 0,0:01:11.14,0:01:12.98,Default,,0,0,0,,Um, we're...
-Dialogue: 0,0:01:12.98,0:01:15.04,Default,,0,0,0,,Just a couple of passersby.
-Dialogue: 0,0:01:19.30,0:01:21.76,Urara,,0,0,0,,Dad! Grandpa!
-Dialogue: 0,0:01:22.62,0:01:24.00,Default,,0,0,0,,O-Oh hey there...
-Dialogue: 0,0:01:24.00,0:01:25.23,Default,,0,0,0,,Urara...
-Comment: 0,0:01:28.02,0:01:28.02,Default,,0,0,0,,OP = 01:28.088
-Dialogue: 0,0:01:28.36,0:01:31.24,OP English,,0,0,0,,1, 2, 3, 4, Pretty Cure 5!
-Dialogue: 0,0:01:28.36,0:01:31.24,OP Romaji,,0,0,0,,{\k19}{\k31}1, {\k34}2, {\k21}3, {\k46}4, {\k39}Pretty {\kf63}Cure {\k32}5!
-Dialogue: 0,0:01:31.24,0:01:33.99,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
-Dialogue: 0,0:01:31.24,0:01:33.99,OP Romaji,,0,0,0,,{\k0}{\k38}Pu-{\k33}ri-{\kf42}ti {\k48}kyu {\k31}kyu {\k20}kyu {\k30}kyu-{\k29}a
-Comment: 0,0:01:33.69,0:01:33.69,OP Romaji,,0,0,0,,VV The following lines are the "shouted" lines.  VV
-Dialogue: 0,0:01:33.99,0:01:36.58,OP English,,0,0,0,,Everybody yes, fight!
-Dialogue: 0,0:01:33.99,0:01:36.58,OP Romaji,,0,0,0,,{\k7}{\k35}ebu{\k30}ri{\k23}ba{\k31}di {\k34}Yes, {\k33}fa{\k20}i{\k33}to!
-Dialogue: 0,0:01:36.58,0:01:39.37,OP English,,0,0,0,,Be excited, laugh like crazy!
-Dialogue: 0,0:01:36.58,0:01:39.37,OP Romaji,,0,0,0,,{\k19}{\k33}do{\k35}ki{\k21}do{\k31}ki {\k35}paa{\k15}tto {\k21}wa{\k15}ra{\k20}t{\k34}te
-Dialogue: 0,0:01:39.37,0:01:41.62,OP English,,0,0,0,,Smile and go! Go!
-Dialogue: 0,0:01:39.37,0:01:41.62,OP Romaji,,0,0,0,,{\k11}{\k16}su{\k37}mai{\k15}ru {\k35}go{\kf110}go!
-Dialogue: 0,0:01:41.66,0:01:47.50,Credits,,0,0,0,,{\fad(607,0)\t(3402,4631,\3c&H6351DA&)\pos(360,348)}Pretty Cure Splash Subs (pcssubs.wordpress.com) \N Original Translations: Arienai\N Encode: K.o.R   Retiming, Editing, etc.: Zalis
-Dialogue: 0,0:01:44.29,0:01:46.54,OP English,,0,0,0,,Yes! Pretty Cure 5! {this line is audio-timed only, there's no in-video lyrics for it.}
-Dialogue: 0,0:01:44.29,0:01:46.54,OP Romaji,,0,0,0,,{\k19}{\k38}Yes! {\k16}Pu{\k34}ri{\k16}kyu{\k34}a {\k51}5!
-Dialogue: 0,0:01:47.50,0:01:50.84,OP English,,0,0,0,,When you grow up, what do you want to be?
-Dialogue: 0,0:01:47.50,0:01:50.84,OP Romaji,,0,0,0,,{\k19}{\k32}oo{\k17}ki{\k15}ku{\k37}nat{\k19}ta{\k18}ra {\k16}na{\k20}ni {\k16}ni {\k33}na{\k15}ri{\k38}ta{\k37}i?
-Dialogue: 0,0:01:53.13,0:01:56.35,OP English,,0,0,0,,I want to do everything, hold it all in my hands!
-Dialogue: 0,0:01:53.13,0:01:56.35,OP Romaji,,0,0,0,,{\k5}{\k35}ryou{\k15}te {\k18}ni {\k36}ip{\k34}pai {\k22}ze{\k17}n{\k12}bu {\k30}ya{\k23}ri{\k35}ta{\k38}i!
-Dialogue: 0,0:01:58.60,0:02:03.27,OP English,,0,0,0,,These tears that just won't go away,
-Dialogue: 0,0:01:58.60,0:02:03.27,OP Romaji,,0,0,0,,{\k7}{\k39}mo{\k32}n{\k36}da{\k33}i {\kf72}ga {\k44}{\k18}to{\k17}ke{\k33}na{\k17}i {\k36}na{\k32}mi{\k22}da {\kf41}wa
-Dialogue: 0,0:02:03.27,0:02:07.82,OP English,,0,0,0,,let's wipe them out with the eraser of my heart!
-Dialogue: 0,0:02:03.27,0:02:07.82,OP Romaji,,0,0,0,,{\k26}{\k17}ko{\k18}ko{\k16}ro {\kf50}no {\k35}ke{\k33}shi{\k35}go{\k32}mu {\k39}de {\k10}ke{\k25}shi{\k31}cha{\kf61}ou
-Dialogue: 0,0:02:08.86,0:02:12.32,OP English,,0,0,0,,Metamorphose!
-Dialogue: 0,0:02:08.86,0:02:12.32,OP Romaji,,0,0,0,,{\k15}{\k16}me{\k15}ta{\k20}mo{\k18}ru{\kf103}fo{\kf38}u{\kf98}ze!
-Dialogue: 0,0:02:12.32,0:02:16.91,OP English,,0,0,0,,We're born to dream.
-Dialogue: 0,0:02:12.32,0:02:16.91,OP Romaji,,0,0,0,,{\k14}{\kf86}yu{\k21}me {\k15}mi{\k17}ru {\k34}ta{\k19}me {\k32}u{\k21}ma{\k17}re{\kf171}ta
-Dialogue: 0,0:02:17.20,0:02:22.37,OP English,,0,0,0,,Soar! Girls, give it your all.
-Dialogue: 0,0:02:17.20,0:02:22.37,OP Romaji,,0,0,0,,{\k7}{\k21}to{\k15}be{\k18}ru{\k52}yo {\k34}ga{\k18}n{\k35}ba{\k17}ru {\k34}o{\k34}n{\k36}na {\k32}no {\kf154}ko
-Dialogue: 0,0:02:23.41,0:02:28.09,OP English,,0,0,0,,It doesn't matter if you win or lose.
-Dialogue: 0,0:02:23.41,0:02:28.09,OP Romaji,,0,0,0,,{\k9}{\k86}ka{\k20}chi{\k12}ma{\k22}ke {\k34}da{\k17}ke {\k37}ja{\k15}na{\k31}i {\k30}mi{\k39}ra{\k33}i {\kf75}e
-Dialogue: 0,0:02:28.09,0:02:31.46,OP English,,0,0,0,,Carve out a new future tomorrow!
-Dialogue: 0,0:02:28.09,0:02:31.46,OP Romaji,,0,0,0,,{\k23}{\k12}a{\k21}su {\k18}wo {\kf55}nu{\k31}ri{\k14}ka{\k23}e{\k20}te{\kf106}ku
-Dialogue: 0,0:02:31.46,0:02:36.59,OP English,,0,0,0,,{\fscx95}When in a pinch, there's your chance! Transform and be tough!
-Dialogue: 0,0:02:31.46,0:02:36.59,OP Romaji,,0,0,0,,{\k17}{\k35}pin{\k14}chi {\k36}ka{\k45}ra {\kf41}cha{\k18}n{\k30}su {\k35}e {\k25}ta{\k41}fu {\k21}ni {\kf47}hen{\k23}shi{\kf60}n!
-Dialogue: 0,0:02:37.01,0:02:39.97,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
-Dialogue: 0,0:02:37.01,0:02:39.97,OP Romaji,,0,0,0,,{\k29}{\k35}pu{\k33}ri{\kf55}ti {\k33}kyu-{\k32}kyu-{\k19}kyu-{\k29}kyu{\k32}a
-Dialogue: 0,0:02:39.97,0:02:42.64,OP English,,0,0,0,,Everybody yes, hustle!
-Dialogue: 0,0:02:39.97,0:02:42.64,OP Romaji,,0,0,0,,{\k7}{\k31}ebu{\k36}ri{\k22}ba{\k25}di {\k37}Yes, {\k24}has{\k28}su{\k48}ru!
-Dialogue: 0,0:02:42.64,0:02:45.31,OP English,,0,0,0,,Be excited, smile and laugh!
-Dialogue: 0,0:02:42.64,0:02:45.31,OP Romaji,,0,0,0,,{\k7}{\k36}do{\k34}ki{\k19}do{\k31}ki {\k38}nit{\k20}to {\k15}wa{\k15}ra{\k18}t{\k33}te
-Dialogue: 0,0:02:45.31,0:02:47.81,OP English,,0,0,0,,Smile and go! Go!
-Dialogue: 0,0:02:45.31,0:02:47.81,OP Romaji,,0,0,0,,{\k11}{\k20}su{\k32}mai{\k16}ru {\k34}go{\kf117}go!
-Dialogue: 0,0:02:47.81,0:02:52.28,OP English,,0,0,0,,One, two, three-four, Pretty Cure (Five!)
-Dialogue: 0,0:02:47.81,0:02:52.28,OP Romaji,,0,0,0,,{\k31}{\k36}1, {\k33}2, {\k20}3-{\k44}4 {\k9}{\k16}Pu{\k18}ri{\k13}kyu{\kf48}a {\k67}(5!)
-Dialogue: 0,0:01:33.57,0:01:34.23,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:01:36.24,0:01:36.82,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:01:41.62,0:01:42.99,OP Romaji2,,0,0,0,,{\an8}Pretty Cure! {2nd}
-Dialogue: 0,0:01:50.33,0:01:53.13,OP English,,0,0,0,,Wha-t, what, what do you?
-Dialogue: 0,0:01:50.33,0:01:53.13,OP Romaji2,,0,0,0,,{\pos(360,75)}na-ni naru naru no
-Dialogue: 0,0:01:55.88,0:01:58.13,OP English,,0,0,0,,Do it all!
-Dialogue: 0,0:01:55.88,0:01:58.13,OP Romaji2,,0,0,0,,{\pos(360,75)}i-pai yaritai!
-Dialogue: 0,0:02:12.02,0:02:12.73,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
-Dialogue: 0,0:02:15.48,0:02:17.99,OP Romaji2,,0,0,0,,{\pos(352,75)}1, 2, 3 4 5!
-Dialogue: 0,0:02:20.95,0:02:23.66,OP Romaji2,,0,0,0,,{\pos(352,75)}5, 4, 3 2 1!
-Dialogue: 0,0:02:32.71,0:02:33.46,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
-Dialogue: 0,0:02:33.79,0:02:34.59,OP Romaji2,,0,0,0,,{\pos(352,75)}Go-go!
-Dialogue: 0,0:02:36.00,0:02:36.88,OP Romaji2,,0,0,0,,{\pos(352,75)}Go-go-go-go!
-Dialogue: 0,0:02:36.88,0:02:37.30,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:39.55,0:02:40.17,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:42.26,0:02:42.84,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:47.81,0:02:48.39,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
-Comment: 0,0:02:52.94,0:02:52.94,Default,,0,0,0,,Part 1 = 02:53.006
-Dialogue: 0,0:02:53.90,0:02:56.45,Default,,0,0,0,,I'm Urara's father, Michel!
-Dialogue: 0,0:02:56.45,0:02:58.74,Default,,0,0,0,,It's nice to meet you all.
-Dialogue: 0,0:02:58.74,0:03:00.57,Nozomi,,0,0,0,,M-Michel-san?
-Dialogue: 0,0:03:00.57,0:03:04.28,Nozomi,,0,0,0,,Um, ah... Gouda moaning!
-Dialogue: 0,0:03:04.28,0:03:07.81,Nozomi,,0,0,0,,Sankyuu Berry Mucchi?
-Dialogue: 0,0:03:07.81,0:03:10.05,Rin,,0,0,0,,That's not a greeting.
-Dialogue: 0,0:03:10.05,0:03:13.47,Karen,,0,0,0,,And anyway, Michel-san was speaking Japanese.
-Dialogue: 0,0:03:13.47,0:03:15.30,Komachi,,0,0,0,,Your Japanese is very good{, I see}.
-Dialogue: 0,0:03:15.30,0:03:20.22,Default,,0,0,0,,Thank you. I've been in Japan for 20 years now.
-Dialogue: 0,0:03:20.22,0:03:22.69,Default,,0,0,0,,It's such a fabulous place.
-Dialogue: 0,0:03:22.69,0:03:26.43,Default,,0,0,0,,I love it no less than my own dear France.
-Dialogue: 0,0:03:26.43,0:03:29.39,Default,,0,0,0,,And I'm Urara's grandfather, Heizou.
-Dialogue: 0,0:03:29.39,0:03:34.12,Default,,0,0,0,,I'm so glad I've gotten to meet all of you wonderful ladies.
-Dialogue: 0,0:03:34.12,0:03:36.44,Default,,0,0,0,,If I were 50 years younger,
-Dialogue: 0,0:03:36.44,0:03:39.83,Default,,0,0,0,,I'd be on the attack for sure! {Yeah, why don't you have a seat over there?}
-Dialogue: 0,0:03:41.11,0:03:42.99,Rin,,0,0,0,,"Attack"?
-Dialogue: 0,0:03:42.99,0:03:46.52,Komachi,,0,0,0,,He's quite a... \N"special" grandfather, isn't he? {Yes, the kind you tell your kids never to be alone around.}
-Dialogue: 0,0:03:49.14,0:03:53.69,Default,,0,0,0,,Okay, now that we've dispensed\Nwith the pleasantries, we really...
-Dialogue: 0,0:03:54.79,0:03:56.67,Default,,0,0,0,,...must be going, you see.
-Dialogue: 0,0:03:56.67,0:03:59.36,Karen,,0,0,0,,Huh? But I was just \Nabout to serve tea.
-Dialogue: 0,0:03:59.36,0:04:03.26,Nozomi,,0,0,0,,What she said! You just got here,\N so why not relax for a bit?
-Dialogue: 0,0:04:03.26,0:04:05.77,Default,,0,0,0,,No, I think we'll be taking our leave.
-Dialogue: 0,0:04:05.77,0:04:07.72,Default,,0,0,0,,See you again!
-Dialogue: 0,0:04:07.72,0:04:09.06,Urara,,0,0,0,,Hold it!
-Dialogue: 0,0:04:09.47,0:04:13.57,Urara,,0,0,0,,What are you guys up to? \N And don't try to fool me.
-Dialogue: 0,0:04:13.57,0:04:15.20,Default,,0,0,0,,W-Well...
-Dialogue: 0,0:04:15.20,0:04:17.32,Default,,0,0,0,,We just happened to pass through here.
-Dialogue: 0,0:04:17.32,0:04:18.94,Urara,,0,0,0,,Yeah, {\i1}sure{\i0}{\fscx133} {\r} you were!
-Dialogue: 0,0:04:22.87,0:04:26.37,Default,,0,0,0,,Hello, Urara-chan! \NI've got your new job right here!
-Dialogue: 0,0:04:26.90,0:04:29.11,Urara,,0,0,0,,W-Washio-san!
-Dialogue: 0,0:04:29.11,0:04:33.41,Default,,0,0,0,,Here's the script. \NYou've got a lot more lines this time.
-Dialogue: 0,0:04:33.41,0:04:36.42,Default,,0,0,0,,Memorize them fast,\Nand then knock 'em dead!
-Dialogue: 0,0:04:36.42,0:04:38.81,Default,,0,0,0,,I'm sure your father and grandfather{\fscx175}-{\r}
-Dialogue: 0,0:04:38.81,0:04:40.70,Default,,0,0,0,,{Of course we will look. }We wouldn't miss it for the world.
-Dialogue: 0,0:04:40.70,0:04:41.84,Default,,0,0,0,,Indubitably.
-Dialogue: 0,0:04:42.77,0:04:46.09,Default,,0,0,0,,Michel-san, Heizou-san, \Nwhy are you here?
-Dialogue: 0,0:04:46.09,0:04:47.77,Default,,0,0,0,,That's...
-Dialogue: 0,0:04:47.77,0:04:49.93,Default,,0,0,0,,We were just passing by, and...
-Dialogue: 0,0:04:50.32,0:04:52.52,Rin,,0,0,0,,Same excuse as before.
-Dialogue: 0,0:04:53.20,0:04:56.31,Default,,0,0,0,,You came to check on Urara-chan, right?
-Dialogue: 0,0:04:57.52,0:04:59.56,Default,,0,0,0,,I can't say I blame you.
-Dialogue: 0,0:04:59.56,0:05:03.05,Default,,0,0,0,,But if you tell us that Urara's acting strange, then...
-Dialogue: 0,0:05:03.05,0:05:05.53,Default,,0,0,0,,There's no way we wouldn't worry.
-Dialogue: 0,0:05:05.53,0:05:10.29,Default,,0,0,0,,{But didn't you tell me not to make a fuss over it because you weren't worried?} Didn't I tell you it wasn't a big deal,\N as I'd be watching her from the shadows?
-Dialogue: 0,0:05:10.29,0:05:12.95,Rin,,0,0,0,,Um, we can hear you.
-Dialogue: 0,0:05:16.17,0:05:18.88,Urara,,0,0,0,,I'm {\i1}not{\i0}{\fscx133} {\r}acting strange.
-Dialogue: 0,0:05:18.88,0:05:22.59,Default,,0,0,0,,T-That's right. \NYou're the same old Urara-chan. {the same U as always}
-Dialogue: 0,0:05:22.59,0:05:24.69,Default,,0,0,0,,I have to get back to the office.
-Dialogue: 0,0:05:24.69,0:05:27.21,Default,,0,0,0,,In that case, \Nwe'll be heading home, too.
-Dialogue: 0,0:05:27.21,0:05:29.63,Default,,0,0,0,,You get home safely now, Urara!
-Dialogue: 0,0:05:32.53,0:05:34.31,Urara,,0,0,0,,Sheesh...
-Dialogue: 0,0:05:37.81,0:05:42.32,Ep Title,,0,0,0,,{\pos(360,318)\fad(320,0)}Seek Out Urara's Secret!
-Dialogue: 0,0:05:45.63,0:05:49.20,Default,,0,0,0,,Girinma-kun... That's you, right?
-Dialogue: 0,0:05:49.20,0:05:52.16,Default,,0,0,0,,W-What's this about, Sir?
-Dialogue: 0,0:05:52.16,0:05:57.70,Default,,0,0,0,,It's just that I've worried myself sick over you.
-Dialogue: 0,0:05:57.70,0:06:01.34,Default,,0,0,0,,You've experienced \Na monumental string of setbacks.
-Dialogue: 0,0:06:01.34,0:06:06.71,Default,,0,0,0,,Have you been eating properly? You seem really nervous lately.
-Dialogue: 0,0:06:06.71,0:06:10.93,Default,,0,0,0,,I've been thinking you might be\N getting depressed.
-Dialogue: 0,0:06:11.70,0:06:12.93,Default,,0,0,0,,Well...
-Dialogue: 0,0:06:15.78,0:06:19.69,Default,,0,0,0,,I've been looking out for you\N this whole time.
-Dialogue: 0,0:06:19.69,0:06:23.24,Default,,0,0,0,,I'd drop everything to help you out.
-Dialogue: 0,0:06:23.24,0:06:25.69,Default,,0,0,0,,NOBODY'S more concerned about you than me.
-Dialogue: 0,0:06:25.69,0:06:28.40,Default,,0,0,0,,If you're that concerned, \N handle things yourself.
-Dialogue: 0,0:06:29.36,0:06:31.37,Default,,0,0,0,,You say something?
-Dialogue: 0,0:06:31.68,0:06:35.46,Default,,0,0,0,,No, sir! I will let nothing deter me\N from executing my duties!
-Dialogue: 0,0:06:35.46,0:06:37.71,Default,,0,0,0,,Please, worry not.
-Dialogue: 0,0:06:38.36,0:06:41.17,Urara,,0,0,0,,I'm sorry about all that chaos.
-Dialogue: 0,0:06:41.73,0:06:44.63,Urara,,0,0,0,,My dad and grandpa are always like that.
-Dialogue: 0,0:06:45.27,0:06:48.63,Default,,0,0,0,,Urara, we're here for you!
-Dialogue: 0,0:06:44.63,0:06:48.63,TopSign,,0,0,0,,On headbands: "Urara"{\fad(984,0)}
-Dialogue: 0,0:06:49.29,0:06:53.81,Default,,0,0,0,,{\t(3039,4499,\c&HFEFEFE&\3c&HFEFEFE&\4c&HFEFEFE&)}Go for it, go for it, Urara!
-Dialogue: 0,0:06:48.63,0:06:53.81,TopSign,,0,0,0,,{\t(3699,5159,\c&HFEFEFE&\3c&HFEFEFE&\4c&HFEFEFE&)}Urara, Fight{\fad(988,0)}
-Dialogue: 0,0:06:54.36,0:06:56.68,Nozomi,,0,0,0,,They really love you, don't they?
-Dialogue: 0,0:06:57.12,0:06:59.35,Urara,,0,0,0,,Yes, to the point of embarrassment.
-Dialogue: 0,0:06:59.83,0:07:01.74,Komachi,,0,0,0,,There's nothing to be ashamed of.
-Dialogue: 0,0:07:01.74,0:07:04.12,Karen,,0,0,0,,Yes, they seem like good parents.
-Dialogue: 0,0:07:04.12,0:07:06.93,Rin,,0,0,0,,Hey, did they come see you at the amusement park? {see ep 10?}
-Dialogue: 0,0:07:07.76,0:07:13.83,Urara,,0,0,0,,{\t(5298,6049,\c&HF2FBFC&\3c&HF2FBFC&\4c&HF2FBFC&)}Neither of them could make it.\N They seemed really broken up about it.
-Dialogue: 0,0:07:14.30,0:07:17.27,Coco,,0,0,0,,They really wanted to see \Nyour debut as an emcee-coco.
-Dialogue: 0,0:07:17.27,0:07:19.79,Nuts,,0,0,0,,There's always next time-nuts.
-Dialogue: 0,0:07:20.28,0:07:23.84,Nozomi,,0,0,0,,Speaking of which, where's your mother? Doesn't she watch your work?
-Dialogue: 0,0:07:26.58,0:07:30.84,Urara,,0,0,0,,I guess... I never told you all about it.
-Dialogue: 0,0:07:31.92,0:07:35.97,Urara,,0,0,0,,My mom passed away\N from an illness when I was little. {At least it wasn't another freakin' traffic accident.}
-Dialogue: 0,0:07:38.90,0:07:42.10,Nozomi,,0,0,0,,I'm so sorry. I didn't know.
-Dialogue: 0,0:07:42.10,0:07:44.73,Urara,,0,0,0,,No, don't worry about it.
-Dialogue: 0,0:07:44.73,0:07:47.61,Urara,,0,0,0,,I was kind of too young to remember it.
-Dialogue: 0,0:07:48.40,0:07:51.84,Urara,,0,0,0,,And I have Dad and Grandpa.
-Dialogue: 0,0:07:51.84,0:07:55.03,Urara,,0,0,0,,And my manager, Washio-san,\N is practically family.
-Dialogue: 0,0:07:55.38,0:07:58.93,Urara,,0,0,0,,It's always been like that,\N so I'm not lonely at all. {Only on the inside.}
-Dialogue: 0,0:07:58.93,0:08:00.62,Urara,,0,0,0,,Things've been \Nalmost TOO lively...
-Dialogue: 0,0:08:02.68,0:08:07.27,Rin,,0,0,0,,I suppose it {\i1}is{\i0}{\fscx133} {\r}hard to feel lonely with\N a father and grandfather like them around.
-Dialogue: 0,0:08:07.27,0:08:08.91,Urara,,0,0,0,,Yes.
-Dialogue: 0,0:08:08.91,0:08:10.17,Nozomi,,0,0,0,,That's right.
-Dialogue: 0,0:08:11.04,0:08:14.39,Urara,,0,0,0,,Well, I've got things to do \Nand places to be. {Ar: So then, I have some things to do, so I'll be heading out. // the epitome of generitranslations right here}
-Dialogue: 0,0:08:16.59,0:08:18.13,Urara,,0,0,0,,Goodbye.
-Dialogue: 0,0:08:18.13,0:08:19.14,Nozomi,,0,0,0,,Urara!
-Dialogue: 0,0:08:20.84,0:08:22.81,Nozomi,,0,0,0,,Good luck with work tomorrow!
-Dialogue: 0,0:08:25.04,0:08:26.33,Urara,,0,0,0,,Right!
-Dialogue: 0,0:08:29.19,0:08:32.71,Karen,,0,0,0,,I never knew Urara went through all that.
-Dialogue: 0,0:08:32.71,0:08:36.52,Komachi,,0,0,0,,I'm impressed that she doesn't let it weigh her spirit down.
-Dialogue: 0,0:08:37.53,0:08:39.87,Rin,,0,0,0,,What is it, Nozomi?
-Dialogue: 0,0:08:40.51,0:08:45.83,Nozomi,,0,0,0,,Urara's dad and grandpa said she's been acting strange, and I have to agree.
-Dialogue: 0,0:08:46.40,0:08:48.83,Karen,,0,0,0,,You've noticed it too?
-Dialogue: 0,0:08:48.83,0:08:52.73,Nozomi,,0,0,0,,Isn't there anything we can do for her?
-Dialogue: 0,0:08:53.55,0:08:57.80,Rin,,0,0,0,,Looks like we weren't{I'm not?}\N the only ones who caught on.
-Dialogue: 0,0:09:00.68,0:09:01.72,Nozomi,,0,0,0,,Um...
-Dialogue: 0,0:09:25.74,0:09:28.21,Default,,0,0,0,,So, you girls also sensed something amiss?
-Dialogue: 0,0:09:28.21,0:09:30.78,Karen,,0,0,0,,On some level, yes. {Yeah, somehow or another.}
-Dialogue: 0,0:09:36.86,0:09:39.52,Default,,0,0,0,,{It seems like she's just doing some normal shopping.} Looks like everyday shopping to {\i1}me.
-Dialogue: 0,0:09:39.52,0:09:42.14,Default,,0,0,0,,{It doesn't seem like something she'd hide from us.} Why would she even \Nneed to hide this?
-Dialogue: 0,0:09:42.14,0:09:44.35,Default,,0,0,0,,Ah, but look at her face... {that facial expression}
-Dialogue: 0,0:09:45.70,0:09:49.25,Default,,0,0,0,,At her job, she was unusually fidgety, {s}
-Dialogue: 0,0:09:49.25,0:09:53.89,Default,,0,0,0,,laughing to herself, \Nand generally acting off-kilter.
-Dialogue: 0,0:09:56.64,0:10:01.78,Default,,0,0,0,,But that expression on Urara-chan's face is one of utmost concentration!
-Dialogue: 0,0:10:02.28,0:10:04.91,Default,,0,0,0,,There's more to this shopping than meets the eye! {Kowainaa in disguise?}
-Dialogue: 0,0:10:07.08,0:10:11.29,Default,,0,0,0,,Way to go, Washio-kun. \NYou have an eye for "Urara-chan details."
-Dialogue: 0,0:10:11.29,0:10:14.90,Default,,0,0,0,,You're just as reliable \Nas a manager should be.
-Dialogue: 0,0:10:14.90,0:10:19.32,Default,,0,0,0,,Oh, you're too kind!\N I've still got a long, long way to go...
-Dialogue: 0,0:10:27.30,0:10:29.94,Default,,0,0,0,,Found{\fnArial}~{\r}you.
-Comment: 0,0:10:29.94,0:10:43.95,Default,,0,0,0,,Part 2 = 10:44.019
-Dialogue: 0,0:10:52.72,0:10:56.59,Nozomi,,0,0,0,,Urara hasn't taken her eyes\N off that notebook for an instant.
-Dialogue: 0,0:10:56.59,0:10:57.97,Rin,,0,0,0,,Yeah.
-Dialogue: 0,0:10:58.60,0:11:03.05,Default,,0,0,0,,Is that notebook...\N what I think it is? {OMG it's a Death Note!!!!!}
-Dialogue: 0,0:11:03.81,0:11:05.68,Coco,,0,0,0,,Something's appeared-coco!
-Dialogue: 0,0:11:21.00,0:11:23.20,Default,,0,0,0,,Hey there, little lady...
-Dialogue: 0,0:11:30.33,0:11:31.51,Rin,,0,0,0,,What?
-Dialogue: 0,0:11:31.51,0:11:32.75,Karen,,0,0,0,,Where's Urara?
-Dialogue: 0,0:11:32.75,0:11:34.05,Default,,0,0,0,,Urara!
-Dialogue: 0,0:11:34.05,0:11:36.34,Default,,0,0,0,,Urara-chan!
-Comment: 0,0:11:38.45,0:11:42.07,Urara,,0,0,0,,I'll take a potato... AND EAT IT!
-Dialogue: 0,0:11:38.45,0:11:42.07,Default,,0,0,0,,This is... Urara's bag!
-Dialogue: 0,0:11:42.07,0:11:44.51,Default,,0,0,0,,Urara had just bought these.
-Dialogue: 0,0:11:45.75,0:11:48.04,Coco,,0,0,0,,Nozomi, Nozomi!
-Dialogue: 0,0:11:49.48,0:11:51.23,Coco,,0,0,0,,We've got trouble-coco!
-Dialogue: 0,0:11:51.23,0:11:53.25,Nuts,,0,0,0,,It's that way-nuts!
-Dialogue: 0,0:11:55.31,0:11:57.25,Karen,,0,0,0,,Let's split up{, Scooby-Doo style, though it actually makes sense here,} and look for her.
-Dialogue: 0,0:11:59.75,0:12:01.20,Coco,,0,0,0,,Hurry-coco! {was Nozomi style in Arienai}
-Dialogue: 0,0:12:06.56,0:12:08.66,Default,,0,0,0,,Looking for someone?
-Dialogue: 0,0:12:11.87,0:12:13.17,Nozomi,,0,0,0,,Urara!
-Dialogue: 0,0:12:14.18,0:12:15.40,Urara,,0,0,0,,Nozomi-san! {sb ok}
-Dialogue: 0,0:12:15.40,0:12:18.46,Default,,0,0,0,,Welcome, young ladies of Pretty Cure. {PC, my ladies}
-Dialogue: 0,0:12:18.46,0:12:20.47,Nozomi,,0,0,0,,Let {my }Urara go!
-Dialogue: 0,0:12:23.06,0:12:27.13,Default,,0,0,0,,Pretty Cure Metamorphose!
-Dialogue: 0,0:12:45.69,0:12:49.99,Nozomi,,0,0,0,,The Great Power of Hope, Cure Dream!
-Dialogue: 0,0:12:51.25,0:12:56.32,Rin,,0,0,0,,The Red Flame of Passion, Cure Rouge!
-Dialogue: 0,0:12:57.54,0:13:02.68,Komachi,,0,0,0,,The Tranquility of the Green Earth, Cure Mint!
-Dialogue: 0,0:13:04.41,0:13:08.81,Karen,,0,0,0,,The Blue Spring of Intelligence, Cure Aqua!
-Dialogue: 0,0:13:21.55,0:13:24.38,Default,,0,0,0,,{If you don't hand over the Dream Collet,}I trust you know \Nwhat'll happen to her...
-Dialogue: 0,0:13:25.10,0:13:28.70,Default,,0,0,0,,{you know what'll happen to her!}...if you don't hand over\N the Dream Collet!
-Dialogue: 0,0:13:29.89,0:13:30.87,Karen,,0,0,0,,Coward!
-Dialogue: 0,0:13:31.22,0:13:33.25,Default,,0,0,0,,So what if I'm a coward?
-Dialogue: 0,0:13:33.25,0:13:37.83,Default,,0,0,0,,I'll do anything and everything\N it takes to get the Dream Collet!
-Dialogue: 0,0:13:38.74,0:13:39.95,Urara,,0,0,0,,That's...
-Dialogue: 0,0:13:39.95,0:13:43.59,Default,,0,0,0,,Until you feel like giving me the Collet...
-Dialogue: 0,0:13:43.59,0:13:47.26,Default,,0,0,0,,...I'll give you a lesson on \N"progressive pain!"
-Dialogue: 0,0:13:47.26,0:13:48.85,Urara,,0,0,0,,S-Stop it!
-Dialogue: 0,0:13:58.69,0:14:00.44,Urara,,0,0,0,,Stop it!
-Dialogue: 0,0:14:03.38,0:14:06.86,Urara,,0,0,0,,That notebook is... That notebook is...
-Dialogue: 0,0:14:07.97,0:14:12.61,Urara,,0,0,0,,A precious notebook \Nthat my mom gave to me!
-Dialogue: 0,0:14:15.92,0:14:20.68,Urara,,0,0,0,,It holds so many \Nmemories of my mother...
-Dialogue: 0,0:14:21.45,0:14:24.30,Urara,,0,0,0,,Everyone, please, don't hurt it! {rw}
-Dialogue: 0,0:14:25.01,0:14:26.30,Nozomi,,0,0,0,,Holds so many...
-Dialogue: 0,0:14:27.29,0:14:28.34,Rin,,0,0,0,,...memories...
-Dialogue: 0,0:14:28.92,0:14:30.76,Komachi,,0,0,0,,...of her mother...
-Dialogue: 0,0:14:31.46,0:14:33.56,Karen,,0,0,0,,An invaluable notebook...
-Dialogue: 0,0:14:35.73,0:14:39.27,Default,,0,0,0,,How worthless! Who needs memories?
-Dialogue: 0,0:14:40.47,0:14:42.36,Nozomi,,0,0,0,,You'll pay for this!
-Dialogue: 0,0:14:42.36,0:14:44.80,Komachi,,0,0,0,,First, let's save Urara-san!
-Dialogue: 0,0:14:50.95,0:14:53.99,Komachi,,0,0,0,,Pretty Cure Mint Protection!
-Dialogue: 0,0:15:04.66,0:15:06.71,Default,,0,0,0,,Two of them disappeared?
-Dialogue: 0,0:15:15.25,0:15:16.39,Nozomi,,0,0,0,,Urara!
-Dialogue: 0,0:15:16.39,0:15:17.81,Komachi,,0,0,0,,Are you okay? {sb ok}
-Dialogue: 0,0:15:17.81,0:15:19.19,Urara,,0,0,0,,Yes.
-Dialogue: 0,0:15:25.69,0:15:29.65,Urara,,0,0,0,,Pretty Cure Metamorphose!
-Dialogue: 0,0:15:44.07,0:15:48.48,Urara,,0,0,0,,The Effervescent Scent of Lemon, Cure Lemonade!
-Dialogue: 0,0:15:50.62,0:15:56.78,Default,,0,0,0,,If it's SO important, you won't be able to attack it, now will you?
-Dialogue: 0,0:15:59.10,0:16:00.44,Nozomi,,0,0,0,,Lemonade!
-Dialogue: 0,0:16:02.49,0:16:04.27,Nozomi,,0,0,0,,Just leave it to us.
-Dialogue: 0,0:16:05.01,0:16:06.44,Urara,,0,0,0,,Dream...
-Dialogue: 0,0:16:10.13,0:16:12.16,Rin,,0,0,0,,It'll be fine, Lemonade!
-Dialogue: 0,0:16:15.70,0:16:18.29,Komachi,,0,0,0,,There's no way that we'd...
-Dialogue: 0,0:16:18.64,0:16:20.96,Karen,,0,0,0,,...harm your mother's precious notebook! {sb ok?}
-Dialogue: 0,0:16:27.32,0:16:29.67,Nozomi,,0,0,0,,We'll get it back, for sure!
-Dialogue: 0,0:16:33.54,0:16:37.18,Nozomi,,0,0,0,,Pretty Cure Dream Attack!
-Dialogue: 0,0:16:54.48,0:16:56.26,Urara,,0,0,0,,I'll never...
-Dialogue: 0,0:16:57.41,0:16:59.54,Urara,,0,0,0,,...EVER forgive you!
-Dialogue: 0,0:17:02.60,0:17:07.14,Urara,,0,0,0,,The effervescent power of a young girl's sparkle... Take this!
-Dialogue: 0,0:17:07.14,0:17:10.42,Urara,,0,0,0,,Pretty Cure Lemonade Flash!
-Dialogue: 0,0:17:27.67,0:17:30.74,Nozomi,,0,0,0,,But I'm really glad that your notebook is safe.
-Dialogue: 0,0:17:30.74,0:17:32.25,Urara,,0,0,0,,Yeah.
-Dialogue: 0,0:17:32.25,0:17:34.20,Default,,0,0,0,,Urara!
-Dialogue: 0,0:17:35.77,0:17:39.37,Urara,,0,0,0,,Dad, Grandpa, even Washio-san...
-Dialogue: 0,0:17:39.69,0:17:42.34,Default,,0,0,0,,Urara, where did you go?
-Dialogue: 0,0:17:42.34,0:17:44.34,Default,,0,0,0,,We were worried...
-Dialogue: 0,0:17:45.27,0:17:46.87,Urara,,0,0,0,,I'm sorry.
-Dialogue: 0,0:17:47.68,0:17:48.84,Default,,0,0,0,,Urara-chan!
-Dialogue: 0,0:17:48.84,0:17:50.21,Urara,,0,0,0,,Y-Yes?
-Dialogue: 0,0:17:50.93,0:17:54.55,Default,,0,0,0,,You understand how much you've been worrying them, don't you?
-Dialogue: 0,0:17:58.36,0:18:00.93,Default,,0,0,0,,It doesn't seem like she's hurt.
-Dialogue: 0,0:18:00.93,0:18:03.52,Default,,0,0,0,,Just let it go.
-Dialogue: 0,0:18:05.15,0:18:08.64,Default,,0,0,0,,Urara-chan, both Heizou-san and Michel-san
-Dialogue: 0,0:18:08.64,0:18:12.98,Default,,0,0,0,,were really sad after your mother died.
-Dialogue: 0,0:18:13.92,0:18:17.09,Default,,0,0,0,,But because you were there for them,
-Dialogue: 0,0:18:17.09,0:18:22.22,Default,,0,0,0,,they cheered up, \Nand put all their efforts into raising you.  {SP: The 2 have been gay, You have made an effort, and have been raising Urara}
-Dialogue: 0,0:18:24.55,0:18:27.34,Default,,0,0,0,,{And as you're doing so well with your work, \N you're already becoming a wonderful adult.} And you've had enough success in the workplace
-Dialogue: 0,0:18:27.34,0:18:30.07,Default,,0,0,0,,that you're virtually \Nan adult already.
-Dialogue: 0,0:18:31.42,0:18:36.96,Default,,0,0,0,,But if you're making your cherished family members worry this much,
-Dialogue: 0,0:18:36.96,0:18:38.64,Default,,0,0,0,,then you're still a child.{ you've still got a lot of growing up to do.}
-Dialogue: 0,0:18:41.38,0:18:43.85,Urara,,0,0,0,,I'm so sorry.
-Dialogue: 0,0:18:46.74,0:18:51.27,Default,,0,0,0,,As long as you're happy now, it's all right{, Urara}.
-Dialogue: 0,0:18:53.45,0:18:56.54,Default,,0,0,0,,Urara, that notebook...?
-Dialogue: 0,0:19:16.85,0:19:18.34,Urara,,0,0,0,,It's yummy!
-Dialogue: 0,0:19:18.34,0:19:20.58,Default,,0,0,0,,That's right, it IS yummy!
-Dialogue: 0,0:19:20.58,0:19:23.82,Default,,0,0,0,,It's your mother's special curry!
-Comment: 0,0:19:20.58,0:19:24.93,Default,,0,0,0,,How does Urara have blonde hair? As the Legally Blonde trivia track once told me, blondness is recessive to all other hair colors, so both her parents would have to be blond, not just her dad. Then again, this show also features pink, blue, and green hair...
-Dialogue: 0,0:19:30.98,0:19:33.95,Urara,,0,0,0,,It happened when I was very young...
-Dialogue: 0,0:19:33.95,0:19:37.08,Urara,,0,0,0,,...so I hardly have any \Nmemories of my mother.
-Dialogue: 0,0:19:37.64,0:19:42.41,Urara,,0,0,0,,But I clearly remember the first time\N we all had curry together.
-Dialogue: 0,0:19:43.64,0:19:48.16,Urara,,0,0,0,,The curry we all ate \Nwas incredibly tasty.
-Dialogue: 0,0:19:49.96,0:19:55.19,Urara,,0,0,0,,I recall the shining looks on Mom's and everyone else's faces. {fsc}
-Dialogue: 0,0:19:57.69,0:20:03.36,Urara,,0,0,0,,I only wanted to make them smile \Nwith my cooking, just like Mom did.
-Dialogue: 0,0:20:04.66,0:20:08.89,Urara,,0,0,0,,If I could just bring Dad and Grandpa\N a little happiness...
-Dialogue: 0,0:20:09.83,0:20:11.10,Default,,0,0,0,,Urara...
-Dialogue: 0,0:20:11.38,0:20:16.90,Urara,,0,0,0,,So I decided I'd make \NMom's special curry today!
-Dialogue: 0,0:20:18.92,0:20:23.62,Urara,,0,0,0,,But I didn't tell anyone,\N and I made you worry...
-Dialogue: 0,0:20:24.57,0:20:27.85,Urara,,0,0,0,,I'm really, really sorry.
-Dialogue: 0,0:20:29.16,0:20:31.88,Default,,0,0,0,,Urara, thank you.
-Dialogue: 0,0:20:31.88,0:20:35.48,Default,,0,0,0,,You've really grown up.
-Dialogue: 0,0:20:35.48,0:20:37.86,Default,,0,0,0,,You're such a good girl.
-Dialogue: 0,0:20:37.86,0:20:41.82,Default,,0,0,0,,So that was it. \NI apologize for going too far.
-Dialogue: 0,0:20:41.82,0:20:44.39,Urara,,0,0,0,,No, {\i1}I{\i0}{\fscx133} {\r}should be apologizing. {You've been apologizing this whole episode!}
-Dialogue: 0,0:20:45.22,0:20:49.08,Default,,0,0,0,,Shall we head home?\N I'm{Dad's} getting hungry, you know.
-Dialogue: 0,0:20:49.84,0:20:52.73,Default,,0,0,0,,I really want to try your{Urara's} curry, Urara. {SP: I eat curry and Urara}
-Dialogue: 0,0:20:53.91,0:20:56.06,Urara,,0,0,0,,Okay!
-Dialogue: 0,0:21:00.75,0:21:02.48,Nozomi,,0,0,0,,S-Sorry...
-Dialogue: 0,0:21:03.21,0:21:04.49,Rin,,0,0,0,,Nozomi.
-Dialogue: 0,0:21:12.62,0:21:14.00,Urara,,0,0,0,,Okay, go ahead!
-Dialogue: 0,0:21:26.80,0:21:28.05,Urara,,0,0,0,,How is it?
-Dialogue: 0,0:21:29.89,0:21:31.77,Default,,0,0,0,,It's delicious!
-Dialogue: 0,0:21:33.88,0:21:39.44,Default,,0,0,0,,It's got such a kind flavor.\N I never thought curry could be so joyous!
-Dialogue: 0,0:21:39.91,0:21:43.99,Default,,0,0,0,,Urara, your dad \Nwill never forget this taste!
-Dialogue: 0,0:21:43.99,0:21:45.53,Default,,0,0,0,,Thank you so much!
-Dialogue: 0,0:21:47.17,0:21:49.24,Urara,,0,0,0,,Thank goodness.
-Dialogue: 0,0:21:55.24,0:21:56.54,Nozomi,,0,0,0,,Seconds, please!
-Dialogue: 0,0:21:56.54,0:21:57.96,Rin,,0,0,0,,Me, too!
-Dialogue: 0,0:21:57.96,0:21:59.94,Komachi,,0,0,0,,I'd like a lot more, please.
-Dialogue: 0,0:21:59.94,0:22:01.87,Karen,,0,0,0,,{Ar:You guys should restrain yourselves.} Have you ever \Nheard of moderation?
-Dialogue: 0,0:22:01.87,0:22:04.83,Rin,,0,0,0,,...says Karen-san, \Nas she holds out her plate.
-Comment: 0,0:22:09.97,0:22:09.97,Default,,0,0,0,,ED = 22:10.038
-Dialogue: 0,0:22:13.98,0:22:16.94,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
-Dialogue: 0,0:22:13.98,0:22:16.94,ED 1 Romaji,,0,0,0,,{\k12}{\k20}yu{\k18}me {\k19}mi{\kf56}tai {\k30}koi {\k29}shi{\kf81}tai
-Dialogue: 0,0:22:16.94,0:22:19.81,ED 1 English,,0,0,0,,With all my heart!
-Dialogue: 0,0:22:16.94,0:22:19.81,ED 1 Romaji,,0,0,0,,{\k18}{\kf42}chou {\k18}me{\k37}ip{\kf150}pai
-Dialogue: 0,0:22:19.81,0:22:22.48,ED 1 English,,0,0,0,,With a smile and a good luck charm
-Dialogue: 0,0:22:19.81,0:22:22.48,ED 1 Romaji,,0,0,0,,{\k15}{\k18}ho{\k12}ho{\k21}e{\k25}n{\k38}de {\k21}o{\k18}ma{\k17}ji{\k20}na{\k48}i
-Dialogue: 0,0:22:22.48,0:22:26.36,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
-Dialogue: 0,0:22:22.48,0:22:26.36,ED 1 Romaji,,0,0,0,,{\k18}{\kf37}pu{\k18}ri{\k23}pu{\k17}ri{\k17}pu{\k19}ri{\k18}kyu{\k19}a {\kf179}faivu
-Dialogue: 0,0:22:26.86,0:22:28.91,ED 1 English,,0,0,0,,Yeah~!
-Dialogue: 0,0:22:26.86,0:22:28.91,ED 1 Romaji,,0,0,0,,{\k14}{\kf37}Ye{\kf135}ah~!
-Dialogue: 0,0:22:36.37,0:22:39.17,ED 1 English,,0,0,0,,Like a coconut
-Dialogue: 0,0:22:36.37,0:22:39.17,ED 1 Romaji,,0,0,0,,{\k13}{\k38}ko{\k36}ko{\k36}nat{\k41}tsu {\k20}mi{\k20}ta{\k22}i {\k38}na
-Dialogue: 0,0:22:39.17,0:22:41.46,ED 1 English,,0,0,0,,A sweet fluffy kiss
-Dialogue: 0,0:22:39.17,0:22:41.46,ED 1 Romaji,,0,0,0,,{\k18}{\k17}fu{\k19}n{\k19}wa{\k18}ri {\k20}a{\k17}ma{\k19}i {\k20}ki{\k57}su
-Comment: 0,0:22:41.92,0:22:41.92,ED 1 English,,0,0,0,,keyframe here
-Dialogue: 0,0:22:42.38,0:22:45.13,ED 1 English,,0,0,0,,If I do it without thinking
-Dialogue: 0,0:22:42.38,0:22:45.13,ED 1 Romaji,,0,0,0,,{\k17}{\k40}u{\k37}t{\k37}to{\k21}ri {\k17}shi{\k22}te{\k18}i{\k19}ta{\k42}ra
-Dialogue: 0,0:22:45.13,0:22:47.51,ED 1 English,,0,0,0,,My alarm clock went off
-Dialogue: 0,0:22:45.13,0:22:47.51,ED 1 Romaji,,0,0,0,,{\k27}{\k38}me{\k19}za{\k14}ma{\k24}shi {\k18}ga {\k19}na{\k22}t{\k54}ta
-Dialogue: 0,0:22:48.51,0:22:50.55,ED 1 English,,0,0,0,,I open the curtain
-Dialogue: 0,0:22:48.51,0:22:50.55,ED 1 Romaji,,0,0,0,,{\k11}{\k39}kaa{\k21}te{\k19}n {\k18}wo {\k20}hi{\k19}ra{\k20}i{\k37}te
-Dialogue: 0,0:22:50.97,0:22:53.64,ED 1 English,,0,0,0,,I've got to find the continuation of my dream
-Dialogue: 0,0:22:50.97,0:22:53.64,ED 1 Romaji,,0,0,0,,{\k17}{\k17}yu{\k21}me {\k19}no {\k20}tsu{\k18}zu{\k20}ki {\k18}sa{\k20}ga{\k18}sa{\k18}na{\k21}ku{\k36}cha
-Dialogue: 0,0:22:54.18,0:22:57.14,ED 1 English,,0,0,0,,The rays of the sun on my chest are too bright
-Dialogue: 0,0:22:54.18,0:22:57.14,ED 1 Romaji,,0,0,0,,{\k14}{\k18}ma{\k19}bu{\k25}shi{\k15}su{\k20}gi{\k37}ru {\k19}mu{\k19}ne {\k20}no {\k20}hi{\k14}za{\k22}shi {\k32}ni
-Dialogue: 0,0:22:57.14,0:22:59.90,ED 1 English,,0,0,0,,I'm enchanted by them, they won't disappear
-Dialogue: 0,0:22:57.14,0:22:59.90,ED 1 Romaji,,0,0,0,,{\k9}{\k17}to{\k18}ro{\k19}ke{\k39}te {\k17}ki{\k20}e{\k37}nai {\k38}you {\k52}ni
-Dialogue: 0,0:22:59.90,0:23:00.69,ED 1 English,,0,0,0,,Oh~!
-Dialogue: 0,0:22:59.90,0:23:00.69,ED 1 Romaji,,0,0,0,,{\k14}{\kf64}Oh~!
-Dialogue: 0,0:23:00.69,0:23:06.74,ED 1 English,,0,0,0,,The happy, carefree face of the sun
-Dialogue: 0,0:23:00.69,0:23:06.74,ED 1 Romaji,,0,0,0,,{\k10}{\kf59}non{\k23}ki {\kf55}de {\k17}o{\kf59}me{\k19}de{\kf83}tai {\k30}{\k20}ka{\k17}o{\k20}shi{\k21}te{\k38}ru {\k38}tai{\k23}yo{\kf52}u
-Dialogue: 0,0:23:06.74,0:23:12.53,ED 1 English,,0,0,0,,How can you just laugh like that!?
-Dialogue: 0,0:23:06.74,0:23:12.53,ED 1 Romaji,,0,0,0,,{\k14}{\k37}nan{\k29}de {\kf46}son{\k21}na {\kf109}ni {\k22}wa{\k15}ra{\k23}t{\k38}te {\k19}i{\k19}ra{\k23}re{\k36}ru {\kf125}no!?
-Dialogue: 0,0:23:12.83,0:23:18.41,ED 1 English,,0,0,0,,You're really just that same cautious color
-Dialogue: 0,0:23:12.83,0:23:18.41,ED 1 Romaji,,0,0,0,,{\k26}{\k31}ho{\k27}n{\k18}tou {\kf57}wa {\k19}{\k59}o{\k20}na{\kf74}ji{\k36}{\kf44}ku{\k34}ra{\k17}i {\k22}ya{\k35}bai {\kf24}co{\kf20}lor
-Dialogue: 0,0:23:18.41,0:23:23.75,ED 1 English,,0,0,0,,Sparkle, My True Love!
-Dialogue: 0,0:23:18.41,0:23:23.75,ED 1 Romaji,,0,0,0,,{\k14}{\k16}ki{\k19}ra{\k21}ki{\k89}ra{\k24}shi{\k40}chat{\k89}te {\k22}My {\kf37}True {\kf134}Love!
-Dialogue: 0,0:23:25.30,0:23:28.30,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
-Dialogue: 0,0:23:25.30,0:23:28.30,ED 1 Romaji,,0,0,0,,{\k7}{\k19}yu{\k17}me {\k25}mi{\kf52}tai {\k34}koi {\k25}shi{\kf69}tai
-Dialogue: 0,0:23:28.30,0:23:31.05,ED 1 English,,0,0,0,,With all my heart!
-Dialogue: 0,0:23:28.30,0:23:31.05,ED 1 Romaji,,0,0,0,,{\k15}{\kf37}chou {\k21}me{\k38}ip{\kf153}pai
-Dialogue: 0,0:23:31.05,0:23:33.64,ED 1 English,,0,0,0,,With a smile and a good luck charm
-Dialogue: 0,0:23:31.05,0:23:33.64,ED 1 Romaji,,0,0,0,,{\k1}{\k24}ho{\k25}ho{\k31}en{\kf40}de {\k20}o{\k19}ma{\k20}ji{\k21}na{\k28}i
-Dialogue: 0,0:23:33.64,0:23:35.39,ED 1 English,,0,0,0,,Ain't I cute?
-Dialogue: 0,0:23:33.64,0:23:35.39,ED 1 Romaji,,0,0,0,,{\k36}{\kf38}ka{\k18}wa{\k17}i{\k21}i{\k32}jan!
-Dialogue: 0,0:23:35.39,0:23:36.93,ED 1 English,,0,0,0,,Ain't I the best?
-Dialogue: 0,0:23:35.39,0:23:36.93,ED 1 Romaji,,0,0,0,,{\k23}{\k25}sa{\k31}i{\kf41}kou {\k34}jan!
-Dialogue: 0,0:23:36.93,0:23:39.89,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
-Dialogue: 0,0:23:36.93,0:23:39.89,ED 1 Romaji,,0,0,0,,{\k25}{\kf29}pu{\k26}ri{\k18}pu{\k20}ri{\k22}pu{\k16}ri{\k20}kyu{\k17}a {\kf72}faivu
-Comment: 0,0:23:39.89,0:23:39.89,Default,,0,0,0,,Preview = 23:39.962
-Dialogue: 0,0:23:42.61,0:23:44.93,Nozomi,,0,0,0,,Put your hands in the air{like you just don't care}!
-Dialogue: 0,0:23:44.93,0:23:46.90,Nozomi,,0,0,0,,Urara's debuting as a singer!
-Dialogue: 0,0:23:46.90,0:23:49.20,Nozomi,,0,0,0,,It's getting me all fired too, too!
-Dialogue: 0,0:23:49.20,0:23:50.08,Urara,,0,0,0,,Whatever...
-Dialogue: 0,0:23:50.08,0:23:52.97,Nozomi,,0,0,0,,What's the matter?\N You seem down, Urara.
-Dialogue: 0,0:23:52.97,0:23:56.41,Urara,,0,0,0,,I have to write the lyrics\N for my debut song, but I've hit a wall.
-Dialogue: 0,0:23:56.41,0:23:58.66,Nozomi,,0,0,0,,It'll work out somehow or anothers! {Arienai had "anothers"}
-Dialogue: 0,0:23:58.66,0:24:00.85,Nozomi,,0,0,0,,We can all join you on stage! {Ar: stange}
-Dialogue: 0,0:24:00.85,0:24:03.21,Urara,,0,0,0,,Somehow, I don't see that helping.
-Dialogue: 0,0:24:03.21,0:24:05.05,Nozomi,,0,0,0,,Yes! Pretty Cure 5:
-Dialogue: 0,0:24:05.05,0:24:07.09,Nozomi,,0,0,0,,Pretty Cure 5's Singing Debut!? {Ar: missed the ? }
-Dialogue: 0,0:24:07.43,0:24:09.42,Nozomi,,0,0,0,,Watch it, watch it, watch it, 'kay?
+Comment: 0,0:00:14.70,0:00:14.70,Urara,,0,0,0,,Transcribed from Spanish subs
+Dialogue: 0,0:00:19.47,0:00:21.83,Urara,,0,0,0,,{So then, I'll be heading out first.} Sorry to jet, but I'm in a hurry.
+Dialogue: 0,0:00:22.15,0:00:24.71,Rin,,0,0,0,,{Ar: That's fast of you.}{ You're on the move. } Do you have another lesson today?
+Dialogue: 0,0:00:24.71,0:00:27.38,Urara,,0,0,0,,No, today's more of a...
+Dialogue: 0,0:00:29.02,0:00:32.21,Nozomi,,0,0,0,,Look out, we've got some creepers outside the store!
+Dialogue: 0,0:00:32.21,0:00:33.59,Coco,,0,0,0,,I saw them too-coco!
+Dialogue: 0,0:00:48.19,0:00:49.73,Rin,,0,0,0,,They sure are creepy.
+Dialogue: 0,0:00:50.91,0:00:52.57,Nuts,,0,0,0,,More like annoying.
+Dialogue: 0,0:00:54.05,0:00:54.86,Komachi,,0,0,0,,Nuts-san...
+Dialogue: 0,0:00:55.33,0:00:56.99,Nuts,,0,0,0,,{It's fine.} I got this.
+Dialogue: 0,0:00:59.57,0:01:01.41,Nuts,,0,0,0,,Hey, you two!
+Dialogue: 0,0:01:08.54,0:01:11.67,Nuts,,0,0,0,,Are you just window-shopping\N at our store?
+Dialogue: 0,0:01:12.14,0:01:13.98,Default,,0,0,0,,Um, we're...
+Dialogue: 0,0:01:13.98,0:01:16.04,Default,,0,0,0,,Just a couple of passersby.
+Dialogue: 0,0:01:20.30,0:01:22.76,Urara,,0,0,0,,Dad! Grandpa!
+Dialogue: 0,0:01:23.62,0:01:25.00,Default,,0,0,0,,O-Oh hey there...
+Dialogue: 0,0:01:25.00,0:01:26.23,Default,,0,0,0,,Urara...
+Comment: 0,0:01:29.02,0:01:29.02,Default,,0,0,0,,OP = 01:28.088
+Dialogue: 0,0:01:29.26,0:01:32.14,OP English,,0,0,0,,1, 2, 3, 4, Pretty Cure 5!
+Dialogue: 0,0:01:29.26,0:01:32.14,OP Romaji,,0,0,0,,{\k19}{\k31}1, {\k34}2, {\k21}3, {\k46}4, {\k39}Pretty {\kf63}Cure {\k32}5!
+Dialogue: 0,0:01:32.14,0:01:34.89,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
+Dialogue: 0,0:01:32.14,0:01:34.89,OP Romaji,,0,0,0,,{\k0}{\k38}Pu-{\k33}ri-{\kf42}ti {\k48}kyu {\k31}kyu {\k20}kyu {\k30}kyu-{\k29}a
+Comment: 0,0:01:34.69,0:01:34.69,OP Romaji,,0,0,0,,VV The following lines are the "shouted" lines.  VV
+Dialogue: 0,0:01:34.89,0:01:37.48,OP English,,0,0,0,,Everybody yes, fight!
+Dialogue: 0,0:01:34.89,0:01:37.48,OP Romaji,,0,0,0,,{\k7}{\k35}ebu{\k30}ri{\k23}ba{\k31}di {\k34}Yes, {\k33}fa{\k20}i{\k33}to!
+Dialogue: 0,0:01:37.48,0:01:40.27,OP English,,0,0,0,,Be excited, laugh like crazy!
+Dialogue: 0,0:01:37.48,0:01:40.27,OP Romaji,,0,0,0,,{\k19}{\k33}do{\k35}ki{\k21}do{\k31}ki {\k35}paa{\k15}tto {\k21}wa{\k15}ra{\k20}t{\k34}te
+Dialogue: 0,0:01:40.27,0:01:42.52,OP English,,0,0,0,,Smile and go! Go!
+Dialogue: 0,0:01:40.27,0:01:42.52,OP Romaji,,0,0,0,,{\k11}{\k16}su{\k37}mai{\k15}ru {\k35}go{\kf110}go!
+Dialogue: 0,0:01:42.56,0:01:48.40,Credits,,0,0,0,,{\fad(607,0)\t(3402,4631,\3c&H6351DA&)\pos(960,783)}Original release by \NPretty Cure Splash Subs (pcssubs.wordpress.com)
+Dialogue: 0,0:01:45.19,0:01:47.44,OP English,,0,0,0,,Yes! Pretty Cure 5! {this line is audio-timed only, there's no in-video lyrics for it.}
+Dialogue: 0,0:01:45.19,0:01:47.44,OP Romaji,,0,0,0,,{\k19}{\k38}Yes! {\k16}Pu{\k34}ri{\k16}kyu{\k34}a {\k51}5!
+Dialogue: 0,0:01:48.40,0:01:51.74,OP English,,0,0,0,,When you grow up, what do you want to be?
+Dialogue: 0,0:01:48.40,0:01:51.74,OP Romaji,,0,0,0,,{\k19}{\k32}oo{\k17}ki{\k15}ku{\k37}nat{\k19}ta{\k18}ra {\k16}na{\k20}ni {\k16}ni {\k33}na{\k15}ri{\k38}ta{\k37}i?
+Dialogue: 0,0:01:54.03,0:01:57.25,OP English,,0,0,0,,I want to do everything, hold it all in my hands!
+Dialogue: 0,0:01:54.03,0:01:57.25,OP Romaji,,0,0,0,,{\k5}{\k35}ryou{\k15}te {\k18}ni {\k36}ip{\k34}pai {\k22}ze{\k17}n{\k12}bu {\k30}ya{\k23}ri{\k35}ta{\k38}i!
+Dialogue: 0,0:01:59.50,0:02:04.17,OP English,,0,0,0,,These tears that just won't go away,
+Dialogue: 0,0:01:59.50,0:02:04.17,OP Romaji,,0,0,0,,{\k7}{\k39}mo{\k32}n{\k36}da{\k33}i {\kf72}ga {\k44}{\k18}to{\k17}ke{\k33}na{\k17}i {\k36}na{\k32}mi{\k22}da {\kf41}wa
+Dialogue: 0,0:02:04.17,0:02:08.72,OP English,,0,0,0,,let's wipe them out with the eraser of my heart!
+Dialogue: 0,0:02:04.17,0:02:08.72,OP Romaji,,0,0,0,,{\k26}{\k17}ko{\k18}ko{\k16}ro {\kf50}no {\k35}ke{\k33}shi{\k35}go{\k32}mu {\k39}de {\k10}ke{\k25}shi{\k31}cha{\kf61}ou
+Dialogue: 0,0:02:09.76,0:02:13.22,OP English,,0,0,0,,Metamorphose!
+Dialogue: 0,0:02:09.76,0:02:13.22,OP Romaji,,0,0,0,,{\k15}{\k16}me{\k15}ta{\k20}mo{\k18}ru{\kf103}fo{\kf38}u{\kf98}ze!
+Dialogue: 0,0:02:13.22,0:02:17.81,OP English,,0,0,0,,We're born to dream.
+Dialogue: 0,0:02:13.22,0:02:17.81,OP Romaji,,0,0,0,,{\k14}{\kf86}yu{\k21}me {\k15}mi{\k17}ru {\k34}ta{\k19}me {\k32}u{\k21}ma{\k17}re{\kf171}ta
+Dialogue: 0,0:02:18.10,0:02:23.27,OP English,,0,0,0,,Soar! Girls, give it your all.
+Dialogue: 0,0:02:18.10,0:02:23.27,OP Romaji,,0,0,0,,{\k7}{\k21}to{\k15}be{\k18}ru{\k52}yo {\k34}ga{\k18}n{\k35}ba{\k17}ru {\k34}o{\k34}n{\k36}na {\k32}no {\kf154}ko
+Dialogue: 0,0:02:24.31,0:02:28.99,OP English,,0,0,0,,It doesn't matter if you win or lose.
+Dialogue: 0,0:02:24.31,0:02:28.99,OP Romaji,,0,0,0,,{\k9}{\k86}ka{\k20}chi{\k12}ma{\k22}ke {\k34}da{\k17}ke {\k37}ja{\k15}na{\k31}i {\k30}mi{\k39}ra{\k33}i {\kf75}e
+Dialogue: 0,0:02:28.99,0:02:32.36,OP English,,0,0,0,,Carve out a new future tomorrow!
+Dialogue: 0,0:02:28.99,0:02:32.36,OP Romaji,,0,0,0,,{\k23}{\k12}a{\k21}su {\k18}wo {\kf55}nu{\k31}ri{\k14}ka{\k23}e{\k20}te{\kf106}ku
+Dialogue: 0,0:02:32.36,0:02:37.49,OP English,,0,0,0,,{\fscx95}When in a pinch, there's your chance! Transform and be tough!
+Dialogue: 0,0:02:32.36,0:02:37.49,OP Romaji,,0,0,0,,{\k17}{\k35}pin{\k14}chi {\k36}ka{\k45}ra {\kf41}cha{\k18}n{\k30}su {\k35}e {\k25}ta{\k41}fu {\k21}ni {\kf47}hen{\k23}shi{\kf60}n!
+Dialogue: 0,0:02:37.91,0:02:40.87,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
+Dialogue: 0,0:02:37.91,0:02:40.87,OP Romaji,,0,0,0,,{\k29}{\k35}pu{\k33}ri{\kf55}ti {\k33}kyu-{\k32}kyu-{\k19}kyu-{\k29}kyu{\k32}a
+Dialogue: 0,0:02:40.87,0:02:43.54,OP English,,0,0,0,,Everybody yes, hustle!
+Dialogue: 0,0:02:40.87,0:02:43.54,OP Romaji,,0,0,0,,{\k7}{\k31}ebu{\k36}ri{\k22}ba{\k25}di {\k37}Yes, {\k24}has{\k28}su{\k48}ru!
+Dialogue: 0,0:02:43.54,0:02:46.21,OP English,,0,0,0,,Be excited, smile and laugh!
+Dialogue: 0,0:02:43.54,0:02:46.21,OP Romaji,,0,0,0,,{\k7}{\k36}do{\k34}ki{\k19}do{\k31}ki {\k38}nit{\k20}to {\k15}wa{\k15}ra{\k18}t{\k33}te
+Dialogue: 0,0:02:46.21,0:02:48.71,OP English,,0,0,0,,Smile and go! Go!
+Dialogue: 0,0:02:46.21,0:02:48.71,OP Romaji,,0,0,0,,{\k11}{\k20}su{\k32}mai{\k16}ru {\k34}go{\kf117}go!
+Dialogue: 0,0:02:48.71,0:02:53.18,OP English,,0,0,0,,One, two, three-four, Pretty Cure (Five!)
+Dialogue: 0,0:02:48.71,0:02:53.18,OP Romaji,,0,0,0,,{\k31}{\k36}1, {\k33}2, {\k20}3-{\k44}4 {\k9}{\k16}Pu{\k18}ri{\k13}kyu{\kf48}a {\k67}(5!)
+Dialogue: 0,0:01:34.47,0:01:35.13,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:01:37.14,0:01:37.72,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:01:42.52,0:01:43.89,OP Romaji2,,0,0,0,,{\an8}Pretty Cure! {2nd}
+Dialogue: 0,0:01:51.23,0:01:54.03,OP English,,0,0,0,,Wha-t, what, what do you?
+Dialogue: 0,0:01:51.23,0:01:54.03,OP Romaji2,,0,0,0,,{\pos(960,168.75)}na-ni naru naru no
+Dialogue: 0,0:01:56.78,0:01:59.03,OP English,,0,0,0,,Do it all!
+Dialogue: 0,0:01:56.78,0:01:59.03,OP Romaji2,,0,0,0,,{\pos(960,168.75)}i-pai yaritai!
+Dialogue: 0,0:02:12.92,0:02:13.63,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
+Dialogue: 0,0:02:16.38,0:02:18.89,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}1, 2, 3 4 5!
+Dialogue: 0,0:02:21.85,0:02:24.56,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}5, 4, 3 2 1!
+Dialogue: 0,0:02:33.61,0:02:34.36,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
+Dialogue: 0,0:02:34.69,0:02:35.49,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go-go!
+Dialogue: 0,0:02:36.90,0:02:37.78,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go-go-go-go!
+Dialogue: 0,0:02:37.78,0:02:38.20,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:40.45,0:02:41.07,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:43.16,0:02:43.74,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:48.71,0:02:49.29,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
+Comment: 0,0:02:53.94,0:02:53.94,Default,,0,0,0,,Part 1 = 02:53.006
+Dialogue: 0,0:02:54.97,0:02:57.52,Default,,0,0,0,,I'm Urara's father, Michel!
+Dialogue: 0,0:02:57.52,0:02:59.81,Default,,0,0,0,,It's nice to meet you all.
+Dialogue: 0,0:02:59.81,0:03:01.64,Nozomi,,0,0,0,,M-Michel-san?
+Dialogue: 0,0:03:01.64,0:03:05.35,Nozomi,,0,0,0,,Um, ah... Gouda moaning!
+Dialogue: 0,0:03:05.35,0:03:08.88,Nozomi,,0,0,0,,Sankyuu Berry Mucchi?
+Dialogue: 0,0:03:08.88,0:03:11.12,Rin,,0,0,0,,That's not a greeting.
+Dialogue: 0,0:03:11.12,0:03:14.54,Karen,,0,0,0,,And anyway, Michel-san was speaking Japanese.
+Dialogue: 0,0:03:14.54,0:03:16.37,Komachi,,0,0,0,,Your Japanese is very good{, I see}.
+Dialogue: 0,0:03:16.37,0:03:21.29,Default,,0,0,0,,Thank you. I've been in Japan for 20 years now.
+Dialogue: 0,0:03:21.29,0:03:23.76,Default,,0,0,0,,It's such a fabulous place.
+Dialogue: 0,0:03:23.76,0:03:27.50,Default,,0,0,0,,I love it no less than my own dear France.
+Dialogue: 0,0:03:27.50,0:03:30.46,Default,,0,0,0,,And I'm Urara's grandfather, Heizou.
+Dialogue: 0,0:03:30.46,0:03:35.19,Default,,0,0,0,,I'm so glad I've gotten to meet all of you wonderful ladies.
+Dialogue: 0,0:03:35.19,0:03:37.51,Default,,0,0,0,,If I were 50 years younger,
+Dialogue: 0,0:03:37.51,0:03:40.90,Default,,0,0,0,,I'd be on the attack for sure! {Yeah, why don't you have a seat over there?}
+Dialogue: 0,0:03:42.18,0:03:44.06,Rin,,0,0,0,,"Attack"?
+Dialogue: 0,0:03:44.06,0:03:47.59,Komachi,,0,0,0,,He's quite a... \N"special" grandfather, isn't he? {Yes, the kind you tell your kids never to be alone around.}
+Dialogue: 0,0:03:50.21,0:03:54.76,Default,,0,0,0,,Okay, now that we've dispensed\Nwith the pleasantries, we really...
+Dialogue: 0,0:03:55.86,0:03:57.74,Default,,0,0,0,,...must be going, you see.
+Dialogue: 0,0:03:57.74,0:04:00.43,Karen,,0,0,0,,Huh? But I was just \Nabout to serve tea.
+Dialogue: 0,0:04:00.43,0:04:04.33,Nozomi,,0,0,0,,What she said! You just got here,\N so why not relax for a bit?
+Dialogue: 0,0:04:04.33,0:04:06.84,Default,,0,0,0,,No, I think we'll be taking our leave.
+Dialogue: 0,0:04:06.84,0:04:08.79,Default,,0,0,0,,See you again!
+Dialogue: 0,0:04:08.79,0:04:10.13,Urara,,0,0,0,,Hold it!
+Dialogue: 0,0:04:10.54,0:04:14.64,Urara,,0,0,0,,What are you guys up to? \N And don't try to fool me.
+Dialogue: 0,0:04:14.64,0:04:16.27,Default,,0,0,0,,W-Well...
+Dialogue: 0,0:04:16.27,0:04:18.39,Default,,0,0,0,,We just happened to pass through here.
+Dialogue: 0,0:04:18.39,0:04:20.01,Urara,,0,0,0,,Yeah, {\i1}sure{\i0}{\fscx133} {\r} you were!
+Dialogue: 0,0:04:23.94,0:04:27.44,Default,,0,0,0,,Hello, Urara-chan! \NI've got your new job right here!
+Dialogue: 0,0:04:27.97,0:04:30.18,Urara,,0,0,0,,W-Washio-san!
+Dialogue: 0,0:04:30.18,0:04:34.48,Default,,0,0,0,,Here's the script. \NYou've got a lot more lines this time.
+Dialogue: 0,0:04:34.48,0:04:37.49,Default,,0,0,0,,Memorize them fast,\Nand then knock 'em dead!
+Dialogue: 0,0:04:37.49,0:04:39.88,Default,,0,0,0,,I'm sure your father and grandfather{\fscx175}-{\r}
+Dialogue: 0,0:04:39.88,0:04:41.77,Default,,0,0,0,,{Of course we will look. }We wouldn't miss it for the world.
+Dialogue: 0,0:04:41.77,0:04:42.91,Default,,0,0,0,,Indubitably.
+Dialogue: 0,0:04:43.84,0:04:47.16,Default,,0,0,0,,Michel-san, Heizou-san, \Nwhy are you here?
+Dialogue: 0,0:04:47.16,0:04:48.84,Default,,0,0,0,,That's...
+Dialogue: 0,0:04:48.84,0:04:51.00,Default,,0,0,0,,We were just passing by, and...
+Dialogue: 0,0:04:51.39,0:04:53.59,Rin,,0,0,0,,Same excuse as before.
+Dialogue: 0,0:04:54.27,0:04:57.38,Default,,0,0,0,,You came to check on Urara-chan, right?
+Dialogue: 0,0:04:58.59,0:05:00.63,Default,,0,0,0,,I can't say I blame you.
+Dialogue: 0,0:05:00.63,0:05:04.12,Default,,0,0,0,,But if you tell us that Urara's acting strange, then...
+Dialogue: 0,0:05:04.12,0:05:06.60,Default,,0,0,0,,There's no way we wouldn't worry.
+Dialogue: 0,0:05:06.60,0:05:11.36,Default,,0,0,0,,{But didn't you tell me not to make a fuss over it because you weren't worried?} Didn't I tell you it wasn't a big deal,\N as I'd be watching her from the shadows?
+Dialogue: 0,0:05:11.36,0:05:14.02,Rin,,0,0,0,,Um, we can hear you.
+Dialogue: 0,0:05:17.24,0:05:19.95,Urara,,0,0,0,,I'm {\i1}not{\i0}{\fscx133} {\r}acting strange.
+Dialogue: 0,0:05:19.95,0:05:23.66,Default,,0,0,0,,T-That's right. \NYou're the same old Urara-chan. {the same U as always}
+Dialogue: 0,0:05:23.66,0:05:25.76,Default,,0,0,0,,I have to get back to the office.
+Dialogue: 0,0:05:25.76,0:05:28.28,Default,,0,0,0,,In that case, \Nwe'll be heading home, too.
+Dialogue: 0,0:05:28.28,0:05:30.70,Default,,0,0,0,,You get home safely now, Urara!
+Dialogue: 0,0:05:33.60,0:05:35.38,Urara,,0,0,0,,Sheesh...
+Dialogue: 0,0:05:38.88,0:05:43.39,Ep Title,,0,0,0,,{\pos(960,715.5)\fad(320,0)}Seek Out Urara's Secret!
+Dialogue: 0,0:05:46.70,0:05:50.27,Default,,0,0,0,,Girinma-kun... That's you, right?
+Dialogue: 0,0:05:50.27,0:05:53.23,Default,,0,0,0,,W-What's this about, Sir?
+Dialogue: 0,0:05:53.23,0:05:58.77,Default,,0,0,0,,It's just that I've worried myself sick over you.
+Dialogue: 0,0:05:58.77,0:06:02.41,Default,,0,0,0,,You've experienced \Na monumental string of setbacks.
+Dialogue: 0,0:06:02.41,0:06:07.78,Default,,0,0,0,,Have you been eating properly? You seem really nervous lately.
+Dialogue: 0,0:06:07.78,0:06:12.00,Default,,0,0,0,,I've been thinking you might be\N getting depressed.
+Dialogue: 0,0:06:12.77,0:06:14.00,Default,,0,0,0,,Well...
+Dialogue: 0,0:06:16.85,0:06:20.76,Default,,0,0,0,,I've been looking out for you\N this whole time.
+Dialogue: 0,0:06:20.76,0:06:24.31,Default,,0,0,0,,I'd drop everything to help you out.
+Dialogue: 0,0:06:24.31,0:06:26.76,Default,,0,0,0,,NOBODY'S more concerned about you than me.
+Dialogue: 0,0:06:26.76,0:06:29.47,Default,,0,0,0,,If you're that concerned, \N handle things yourself.
+Dialogue: 0,0:06:30.43,0:06:32.44,Default,,0,0,0,,You say something?
+Dialogue: 0,0:06:32.75,0:06:36.53,Default,,0,0,0,,No, sir! I will let nothing deter me\N from executing my duties!
+Dialogue: 0,0:06:36.53,0:06:38.78,Default,,0,0,0,,Please, worry not.
+Dialogue: 0,0:06:39.43,0:06:42.24,Urara,,0,0,0,,I'm sorry about all that chaos.
+Dialogue: 0,0:06:42.80,0:06:45.70,Urara,,0,0,0,,My dad and grandpa are always like that.
+Dialogue: 0,0:06:46.34,0:06:49.70,Default,,0,0,0,,Urara, we're here for you!
+Dialogue: 0,0:06:45.70,0:06:49.70,TopSign,,0,0,0,,On headbands: "Urara"{\fad(984,0)}
+Dialogue: 0,0:06:50.36,0:06:54.88,Default,,0,0,0,,{\t(3039,4499,\c&HFEFEFE&\3c&HFEFEFE&\4c&HFEFEFE&)}Go for it, go for it, Urara!
+Dialogue: 0,0:06:49.70,0:06:54.88,TopSign,,0,0,0,,{\t(3699,5159,\c&HFEFEFE&\3c&HFEFEFE&\4c&HFEFEFE&)}Urara, Fight{\fad(988,0)}
+Dialogue: 0,0:06:55.43,0:06:57.75,Nozomi,,0,0,0,,They really love you, don't they?
+Dialogue: 0,0:06:58.19,0:07:00.42,Urara,,0,0,0,,Yes, to the point of embarrassment.
+Dialogue: 0,0:07:00.90,0:07:02.81,Komachi,,0,0,0,,There's nothing to be ashamed of.
+Dialogue: 0,0:07:02.81,0:07:05.19,Karen,,0,0,0,,Yes, they seem like good parents.
+Dialogue: 0,0:07:05.19,0:07:08.00,Rin,,0,0,0,,Hey, did they come see you at the amusement park? {see ep 10?}
+Dialogue: 0,0:07:08.83,0:07:14.90,Urara,,0,0,0,,{\t(5298,6049,\c&HF2FBFC&\3c&HF2FBFC&\4c&HF2FBFC&)}Neither of them could make it.\N They seemed really broken up about it.
+Dialogue: 0,0:07:15.37,0:07:18.34,Coco,,0,0,0,,They really wanted to see \Nyour debut as an emcee-coco.
+Dialogue: 0,0:07:18.34,0:07:20.86,Nuts,,0,0,0,,There's always next time-nuts.
+Dialogue: 0,0:07:21.35,0:07:24.91,Nozomi,,0,0,0,,Speaking of which, where's your mother? Doesn't she watch your work?
+Dialogue: 0,0:07:27.65,0:07:31.91,Urara,,0,0,0,,I guess... I never told you all about it.
+Dialogue: 0,0:07:32.99,0:07:37.04,Urara,,0,0,0,,My mom passed away\N from an illness when I was little. {At least it wasn't another freakin' traffic accident.}
+Dialogue: 0,0:07:39.97,0:07:43.17,Nozomi,,0,0,0,,I'm so sorry. I didn't know.
+Dialogue: 0,0:07:43.17,0:07:45.80,Urara,,0,0,0,,No, don't worry about it.
+Dialogue: 0,0:07:45.80,0:07:48.68,Urara,,0,0,0,,I was kind of too young to remember it.
+Dialogue: 0,0:07:49.47,0:07:52.91,Urara,,0,0,0,,And I have Dad and Grandpa.
+Dialogue: 0,0:07:52.91,0:07:56.10,Urara,,0,0,0,,And my manager, Washio-san,\N is practically family.
+Dialogue: 0,0:07:56.45,0:08:00.00,Urara,,0,0,0,,It's always been like that,\N so I'm not lonely at all. {Only on the inside.}
+Dialogue: 0,0:08:00.00,0:08:01.69,Urara,,0,0,0,,Things've been \Nalmost TOO lively...
+Dialogue: 0,0:08:03.75,0:08:08.34,Rin,,0,0,0,,I suppose it {\i1}is{\i0}{\fscx133} {\r}hard to feel lonely with\N a father and grandfather like them around.
+Dialogue: 0,0:08:08.34,0:08:09.98,Urara,,0,0,0,,Yes.
+Dialogue: 0,0:08:09.98,0:08:11.24,Nozomi,,0,0,0,,That's right.
+Dialogue: 0,0:08:12.11,0:08:15.46,Urara,,0,0,0,,Well, I've got things to do \Nand places to be. {Ar: So then, I have some things to do, so I'll be heading out. // the epitome of generitranslations right here}
+Dialogue: 0,0:08:17.66,0:08:19.20,Urara,,0,0,0,,Goodbye.
+Dialogue: 0,0:08:19.20,0:08:20.21,Nozomi,,0,0,0,,Urara!
+Dialogue: 0,0:08:21.91,0:08:23.88,Nozomi,,0,0,0,,Good luck with work tomorrow!
+Dialogue: 0,0:08:26.11,0:08:27.40,Urara,,0,0,0,,Right!
+Dialogue: 0,0:08:30.26,0:08:33.78,Karen,,0,0,0,,I never knew Urara went through all that.
+Dialogue: 0,0:08:33.78,0:08:37.59,Komachi,,0,0,0,,I'm impressed that she doesn't let it weigh her spirit down.
+Dialogue: 0,0:08:38.60,0:08:40.94,Rin,,0,0,0,,What is it, Nozomi?
+Dialogue: 0,0:08:41.58,0:08:46.90,Nozomi,,0,0,0,,Urara's dad and grandpa said she's been acting strange, and I have to agree.
+Dialogue: 0,0:08:47.47,0:08:49.90,Karen,,0,0,0,,You've noticed it too?
+Dialogue: 0,0:08:49.90,0:08:53.80,Nozomi,,0,0,0,,Isn't there anything we can do for her?
+Dialogue: 0,0:08:54.62,0:08:58.87,Rin,,0,0,0,,Looks like we weren't{I'm not?}\N the only ones who caught on.
+Dialogue: 0,0:09:01.75,0:09:02.79,Nozomi,,0,0,0,,Um...
+Dialogue: 0,0:09:26.81,0:09:29.28,Default,,0,0,0,,So, you girls also sensed something amiss?
+Dialogue: 0,0:09:29.28,0:09:31.85,Karen,,0,0,0,,On some level, yes. {Yeah, somehow or another.}
+Dialogue: 0,0:09:37.93,0:09:40.59,Default,,0,0,0,,{It seems like she's just doing some normal shopping.} Looks like everyday shopping to {\i1}me.
+Dialogue: 0,0:09:40.59,0:09:43.21,Default,,0,0,0,,{It doesn't seem like something she'd hide from us.} Why would she even \Nneed to hide this?
+Dialogue: 0,0:09:43.21,0:09:45.42,Default,,0,0,0,,Ah, but look at her face... {that facial expression}
+Dialogue: 0,0:09:46.77,0:09:50.32,Default,,0,0,0,,At her job, she was unusually fidgety, {s}
+Dialogue: 0,0:09:50.32,0:09:54.96,Default,,0,0,0,,laughing to herself, \Nand generally acting off-kilter.
+Dialogue: 0,0:09:57.71,0:10:02.85,Default,,0,0,0,,But that expression on Urara-chan's face is one of utmost concentration!
+Dialogue: 0,0:10:03.35,0:10:05.98,Default,,0,0,0,,There's more to this shopping than meets the eye! {Kowainaa in disguise?}
+Dialogue: 0,0:10:08.15,0:10:12.36,Default,,0,0,0,,Way to go, Washio-kun. \NYou have an eye for "Urara-chan details."
+Dialogue: 0,0:10:12.36,0:10:15.97,Default,,0,0,0,,You're just as reliable \Nas a manager should be.
+Dialogue: 0,0:10:15.97,0:10:20.39,Default,,0,0,0,,Oh, you're too kind!\N I've still got a long, long way to go...
+Dialogue: 0,0:10:28.37,0:10:31.01,Default,,0,0,0,,Found{\fnArial}~{\r}you.
+Comment: 0,0:10:30.94,0:10:44.95,Default,,0,0,0,,Part 2 = 10:44.019
+Dialogue: 0,0:10:53.79,0:10:57.66,Nozomi,,0,0,0,,Urara hasn't taken her eyes\N off that notebook for an instant.
+Dialogue: 0,0:10:57.66,0:10:59.04,Rin,,0,0,0,,Yeah.
+Dialogue: 0,0:10:59.67,0:11:04.12,Default,,0,0,0,,Is that notebook...\N what I think it is? {OMG it's a Death Note!!!!!}
+Dialogue: 0,0:11:04.88,0:11:06.75,Coco,,0,0,0,,Something's appeared-coco!
+Dialogue: 0,0:11:22.07,0:11:24.27,Default,,0,0,0,,Hey there, little lady...
+Dialogue: 0,0:11:31.40,0:11:32.58,Rin,,0,0,0,,What?
+Dialogue: 0,0:11:32.58,0:11:33.82,Karen,,0,0,0,,Where's Urara?
+Dialogue: 0,0:11:33.82,0:11:35.12,Default,,0,0,0,,Urara!
+Dialogue: 0,0:11:35.12,0:11:37.41,Default,,0,0,0,,Urara-chan!
+Comment: 0,0:11:39.45,0:11:43.07,Urara,,0,0,0,,I'll take a potato... AND EAT IT!
+Dialogue: 0,0:11:39.52,0:11:43.14,Default,,0,0,0,,This is... Urara's bag!
+Dialogue: 0,0:11:43.14,0:11:45.58,Default,,0,0,0,,Urara had just bought these.
+Dialogue: 0,0:11:46.82,0:11:49.11,Coco,,0,0,0,,Nozomi, Nozomi!
+Dialogue: 0,0:11:50.55,0:11:52.30,Coco,,0,0,0,,We've got trouble-coco!
+Dialogue: 0,0:11:52.30,0:11:54.32,Nuts,,0,0,0,,It's that way-nuts!
+Dialogue: 0,0:11:56.38,0:11:58.32,Karen,,0,0,0,,Let's split up{, Scooby-Doo style, though it actually makes sense here,} and look for her.
+Dialogue: 0,0:12:00.82,0:12:02.27,Coco,,0,0,0,,Hurry-coco! {was Nozomi style in Arienai}
+Dialogue: 0,0:12:07.63,0:12:09.73,Default,,0,0,0,,Looking for someone?
+Dialogue: 0,0:12:12.94,0:12:14.24,Nozomi,,0,0,0,,Urara!
+Dialogue: 0,0:12:15.25,0:12:16.47,Urara,,0,0,0,,Nozomi-san! {sb ok}
+Dialogue: 0,0:12:16.47,0:12:19.53,Default,,0,0,0,,Welcome, young ladies of Pretty Cure. {PC, my ladies}
+Dialogue: 0,0:12:19.53,0:12:21.54,Nozomi,,0,0,0,,Let {my }Urara go!
+Dialogue: 0,0:12:24.13,0:12:28.20,Default,,0,0,0,,Pretty Cure Metamorphose!
+Dialogue: 0,0:12:46.76,0:12:51.06,Nozomi,,0,0,0,,The Great Power of Hope, Cure Dream!
+Dialogue: 0,0:12:52.32,0:12:57.39,Rin,,0,0,0,,The Red Flame of Passion, Cure Rouge!
+Dialogue: 0,0:12:58.61,0:13:03.75,Komachi,,0,0,0,,The Tranquility of the Green Earth, Cure Mint!
+Dialogue: 0,0:13:05.48,0:13:09.88,Karen,,0,0,0,,The Blue Spring of Intelligence, Cure Aqua!
+Dialogue: 0,0:13:22.62,0:13:25.45,Default,,0,0,0,,{If you don't hand over the Dream Collet,}I trust you know \Nwhat'll happen to her...
+Dialogue: 0,0:13:26.17,0:13:29.77,Default,,0,0,0,,{you know what'll happen to her!}...if you don't hand over\N the Dream Collet!
+Dialogue: 0,0:13:30.96,0:13:31.94,Karen,,0,0,0,,Coward!
+Dialogue: 0,0:13:32.29,0:13:34.32,Default,,0,0,0,,So what if I'm a coward?
+Dialogue: 0,0:13:34.32,0:13:38.90,Default,,0,0,0,,I'll do anything and everything\N it takes to get the Dream Collet!
+Dialogue: 0,0:13:39.81,0:13:41.02,Urara,,0,0,0,,That's...
+Dialogue: 0,0:13:41.02,0:13:44.66,Default,,0,0,0,,Until you feel like giving me the Collet...
+Dialogue: 0,0:13:44.66,0:13:48.33,Default,,0,0,0,,...I'll give you a lesson on \N"progressive pain!"
+Dialogue: 0,0:13:48.33,0:13:49.92,Urara,,0,0,0,,S-Stop it!
+Dialogue: 0,0:13:59.76,0:14:01.51,Urara,,0,0,0,,Stop it!
+Dialogue: 0,0:14:04.45,0:14:07.93,Urara,,0,0,0,,That notebook is... That notebook is...
+Dialogue: 0,0:14:09.04,0:14:13.68,Urara,,0,0,0,,A precious notebook \Nthat my mom gave to me!
+Dialogue: 0,0:14:16.99,0:14:21.75,Urara,,0,0,0,,It holds so many \Nmemories of my mother...
+Dialogue: 0,0:14:22.52,0:14:25.37,Urara,,0,0,0,,Everyone, please, don't hurt it! {rw}
+Dialogue: 0,0:14:26.08,0:14:27.37,Nozomi,,0,0,0,,Holds so many...
+Dialogue: 0,0:14:28.36,0:14:29.41,Rin,,0,0,0,,...memories...
+Dialogue: 0,0:14:29.99,0:14:31.83,Komachi,,0,0,0,,...of her mother...
+Dialogue: 0,0:14:32.53,0:14:34.63,Karen,,0,0,0,,An invaluable notebook...
+Dialogue: 0,0:14:36.80,0:14:40.34,Default,,0,0,0,,How worthless! Who needs memories?
+Dialogue: 0,0:14:41.54,0:14:43.43,Nozomi,,0,0,0,,You'll pay for this!
+Dialogue: 0,0:14:43.43,0:14:45.87,Komachi,,0,0,0,,First, let's save Urara-san!
+Dialogue: 0,0:14:52.02,0:14:55.06,Komachi,,0,0,0,,Pretty Cure Mint Protection!
+Dialogue: 0,0:15:05.73,0:15:07.78,Default,,0,0,0,,Two of them disappeared?
+Dialogue: 0,0:15:16.32,0:15:17.46,Nozomi,,0,0,0,,Urara!
+Dialogue: 0,0:15:17.46,0:15:18.88,Komachi,,0,0,0,,Are you okay? {sb ok}
+Dialogue: 0,0:15:18.88,0:15:20.26,Urara,,0,0,0,,Yes.
+Dialogue: 0,0:15:26.76,0:15:30.72,Urara,,0,0,0,,Pretty Cure Metamorphose!
+Dialogue: 0,0:15:45.14,0:15:49.55,Urara,,0,0,0,,The Effervescent Scent of Lemon, Cure Lemonade!
+Dialogue: 0,0:15:51.69,0:15:57.85,Default,,0,0,0,,If it's SO important, you won't be able to attack it, now will you?
+Dialogue: 0,0:16:00.17,0:16:01.51,Nozomi,,0,0,0,,Lemonade!
+Dialogue: 0,0:16:03.56,0:16:05.34,Nozomi,,0,0,0,,Just leave it to us.
+Dialogue: 0,0:16:06.08,0:16:07.51,Urara,,0,0,0,,Dream...
+Dialogue: 0,0:16:11.20,0:16:13.23,Rin,,0,0,0,,It'll be fine, Lemonade!
+Dialogue: 0,0:16:16.77,0:16:19.36,Komachi,,0,0,0,,There's no way that we'd...
+Dialogue: 0,0:16:19.71,0:16:22.03,Karen,,0,0,0,,...harm your mother's precious notebook! {sb ok?}
+Dialogue: 0,0:16:28.39,0:16:30.74,Nozomi,,0,0,0,,We'll get it back, for sure!
+Dialogue: 0,0:16:34.61,0:16:38.25,Nozomi,,0,0,0,,Pretty Cure Dream Attack!
+Dialogue: 0,0:16:55.55,0:16:57.33,Urara,,0,0,0,,I'll never...
+Dialogue: 0,0:16:58.48,0:17:00.61,Urara,,0,0,0,,...EVER forgive you!
+Dialogue: 0,0:17:03.67,0:17:08.21,Urara,,0,0,0,,The effervescent power of a young girl's sparkle... Take this!
+Dialogue: 0,0:17:08.21,0:17:11.49,Urara,,0,0,0,,Pretty Cure Lemonade Flash!
+Dialogue: 0,0:17:28.74,0:17:31.81,Nozomi,,0,0,0,,But I'm really glad that your notebook is safe.
+Dialogue: 0,0:17:31.81,0:17:33.32,Urara,,0,0,0,,Yeah.
+Dialogue: 0,0:17:33.32,0:17:35.27,Default,,0,0,0,,Urara!
+Dialogue: 0,0:17:36.84,0:17:40.44,Urara,,0,0,0,,Dad, Grandpa, even Washio-san...
+Dialogue: 0,0:17:40.76,0:17:43.41,Default,,0,0,0,,Urara, where did you go?
+Dialogue: 0,0:17:43.41,0:17:45.41,Default,,0,0,0,,We were worried...
+Dialogue: 0,0:17:46.34,0:17:47.94,Urara,,0,0,0,,I'm sorry.
+Dialogue: 0,0:17:48.75,0:17:49.91,Default,,0,0,0,,Urara-chan!
+Dialogue: 0,0:17:49.91,0:17:51.28,Urara,,0,0,0,,Y-Yes?
+Dialogue: 0,0:17:52.00,0:17:55.62,Default,,0,0,0,,You understand how much you've been worrying them, don't you?
+Dialogue: 0,0:17:59.43,0:18:02.00,Default,,0,0,0,,It doesn't seem like she's hurt.
+Dialogue: 0,0:18:02.00,0:18:04.59,Default,,0,0,0,,Just let it go.
+Dialogue: 0,0:18:06.22,0:18:09.71,Default,,0,0,0,,Urara-chan, both Heizou-san and Michel-san
+Dialogue: 0,0:18:09.71,0:18:14.05,Default,,0,0,0,,were really sad after your mother died.
+Dialogue: 0,0:18:14.99,0:18:18.16,Default,,0,0,0,,But because you were there for them,
+Dialogue: 0,0:18:18.16,0:18:23.29,Default,,0,0,0,,they cheered up, \Nand put all their efforts into raising you.  {SP: The 2 have been gay, You have made an effort, and have been raising Urara}
+Dialogue: 0,0:18:25.62,0:18:28.41,Default,,0,0,0,,{And as you're doing so well with your work, \N you're already becoming a wonderful adult.} And you've had enough success in the workplace
+Dialogue: 0,0:18:28.41,0:18:31.14,Default,,0,0,0,,that you're virtually \Nan adult already.
+Dialogue: 0,0:18:32.49,0:18:38.03,Default,,0,0,0,,But if you're making your cherished family members worry this much,
+Dialogue: 0,0:18:38.03,0:18:39.71,Default,,0,0,0,,then you're still a child.{ you've still got a lot of growing up to do.}
+Dialogue: 0,0:18:42.45,0:18:44.92,Urara,,0,0,0,,I'm so sorry.
+Dialogue: 0,0:18:47.81,0:18:52.34,Default,,0,0,0,,As long as you're happy now, it's all right{, Urara}.
+Dialogue: 0,0:18:54.52,0:18:57.61,Default,,0,0,0,,Urara, that notebook...?
+Dialogue: 0,0:19:17.92,0:19:19.41,Urara,,0,0,0,,It's yummy!
+Dialogue: 0,0:19:19.41,0:19:21.65,Default,,0,0,0,,That's right, it IS yummy!
+Comment: 0,0:19:21.58,0:19:25.93,Default,,0,0,0,,How does Urara have blonde hair? As the Legally Blonde trivia track once told me, blondness is recessive to all other hair colors, so both her parents would have to be blond, not just her dad. Then again, this show also features pink, blue, and green hair...
+Dialogue: 0,0:19:21.65,0:19:24.89,Default,,0,0,0,,It's your mother's special curry!
+Dialogue: 0,0:19:32.05,0:19:35.02,Urara,,0,0,0,,It happened when I was very young...
+Dialogue: 0,0:19:35.02,0:19:38.15,Urara,,0,0,0,,...so I hardly have any \Nmemories of my mother.
+Dialogue: 0,0:19:38.71,0:19:43.48,Urara,,0,0,0,,But I clearly remember the first time\N we all had curry together.
+Dialogue: 0,0:19:44.71,0:19:49.23,Urara,,0,0,0,,The curry we all ate \Nwas incredibly tasty.
+Dialogue: 0,0:19:51.03,0:19:56.26,Urara,,0,0,0,,I recall the shining looks on Mom's and everyone else's faces. {fsc}
+Dialogue: 0,0:19:58.76,0:20:04.43,Urara,,0,0,0,,I only wanted to make them smile \Nwith my cooking, just like Mom did.
+Dialogue: 0,0:20:05.73,0:20:09.96,Urara,,0,0,0,,If I could just bring Dad and Grandpa\N a little happiness...
+Dialogue: 0,0:20:10.90,0:20:12.17,Default,,0,0,0,,Urara...
+Dialogue: 0,0:20:12.45,0:20:17.97,Urara,,0,0,0,,So I decided I'd make \NMom's special curry today!
+Dialogue: 0,0:20:19.99,0:20:24.69,Urara,,0,0,0,,But I didn't tell anyone,\N and I made you worry...
+Dialogue: 0,0:20:25.64,0:20:28.92,Urara,,0,0,0,,I'm really, really sorry.
+Dialogue: 0,0:20:30.23,0:20:32.95,Default,,0,0,0,,Urara, thank you.
+Dialogue: 0,0:20:32.95,0:20:36.55,Default,,0,0,0,,You've really grown up.
+Dialogue: 0,0:20:36.55,0:20:38.93,Default,,0,0,0,,You're such a good girl.
+Dialogue: 0,0:20:38.93,0:20:42.89,Default,,0,0,0,,So that was it. \NI apologize for going too far.
+Dialogue: 0,0:20:42.89,0:20:45.46,Urara,,0,0,0,,No, {\i1}I{\i0}{\fscx133} {\r}should be apologizing. {You've been apologizing this whole episode!}
+Dialogue: 0,0:20:46.29,0:20:50.15,Default,,0,0,0,,Shall we head home?\N I'm{Dad's} getting hungry, you know.
+Dialogue: 0,0:20:50.91,0:20:53.80,Default,,0,0,0,,I really want to try your{Urara's} curry, Urara. {SP: I eat curry and Urara}
+Dialogue: 0,0:20:54.98,0:20:57.13,Urara,,0,0,0,,Okay!
+Dialogue: 0,0:21:01.82,0:21:03.55,Nozomi,,0,0,0,,S-Sorry...
+Dialogue: 0,0:21:04.28,0:21:05.56,Rin,,0,0,0,,Nozomi.
+Dialogue: 0,0:21:13.69,0:21:15.07,Urara,,0,0,0,,Okay, go ahead!
+Dialogue: 0,0:21:27.87,0:21:29.12,Urara,,0,0,0,,How is it?
+Dialogue: 0,0:21:30.96,0:21:32.84,Default,,0,0,0,,It's delicious!
+Dialogue: 0,0:21:34.95,0:21:40.51,Default,,0,0,0,,It's got such a kind flavor.\N I never thought curry could be so joyous!
+Dialogue: 0,0:21:40.98,0:21:45.06,Default,,0,0,0,,Urara, your dad \Nwill never forget this taste!
+Dialogue: 0,0:21:45.06,0:21:46.60,Default,,0,0,0,,Thank you so much!
+Dialogue: 0,0:21:48.24,0:21:50.31,Urara,,0,0,0,,Thank goodness.
+Dialogue: 0,0:21:56.31,0:21:57.61,Nozomi,,0,0,0,,Seconds, please!
+Dialogue: 0,0:21:57.61,0:21:59.03,Rin,,0,0,0,,Me, too!
+Dialogue: 0,0:21:59.03,0:22:01.01,Komachi,,0,0,0,,I'd like a lot more, please.
+Dialogue: 0,0:22:01.01,0:22:02.94,Karen,,0,0,0,,{Ar:You guys should restrain yourselves.} Have you ever \Nheard of moderation?
+Dialogue: 0,0:22:02.94,0:22:05.90,Rin,,0,0,0,,...says Karen-san, \Nas she holds out her plate.
+Comment: 0,0:22:10.97,0:22:10.97,Default,,0,0,0,,ED = 22:10.038
+Dialogue: 0,0:22:14.95,0:22:17.91,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
+Dialogue: 0,0:22:14.95,0:22:17.91,ED 1 Romaji,,0,0,0,,{\k12}{\k20}yu{\k18}me {\k19}mi{\kf56}tai {\k30}koi {\k29}shi{\kf81}tai
+Dialogue: 0,0:22:17.91,0:22:20.78,ED 1 English,,0,0,0,,With all my heart!
+Dialogue: 0,0:22:17.91,0:22:20.78,ED 1 Romaji,,0,0,0,,{\k18}{\kf42}chou {\k18}me{\k37}ip{\kf150}pai
+Dialogue: 0,0:22:20.78,0:22:23.45,ED 1 English,,0,0,0,,With a smile and a good luck charm
+Dialogue: 0,0:22:20.78,0:22:23.45,ED 1 Romaji,,0,0,0,,{\k15}{\k18}ho{\k12}ho{\k21}e{\k25}n{\k38}de {\k21}o{\k18}ma{\k17}ji{\k20}na{\k48}i
+Dialogue: 0,0:22:23.45,0:22:27.33,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
+Dialogue: 0,0:22:23.45,0:22:27.33,ED 1 Romaji,,0,0,0,,{\k18}{\kf37}pu{\k18}ri{\k23}pu{\k17}ri{\k17}pu{\k19}ri{\k18}kyu{\k19}a {\kf179}faivu
+Dialogue: 0,0:22:27.83,0:22:29.88,ED 1 English,,0,0,0,,Yeah~!
+Dialogue: 0,0:22:27.83,0:22:29.88,ED 1 Romaji,,0,0,0,,{\k14}{\kf37}Ye{\kf135}ah~!
+Dialogue: 0,0:22:37.34,0:22:40.14,ED 1 English,,0,0,0,,Like a coconut
+Dialogue: 0,0:22:37.34,0:22:40.14,ED 1 Romaji,,0,0,0,,{\k13}{\k38}ko{\k36}ko{\k36}nat{\k41}tsu {\k20}mi{\k20}ta{\k22}i {\k38}na
+Dialogue: 0,0:22:40.14,0:22:42.43,ED 1 English,,0,0,0,,A sweet fluffy kiss
+Dialogue: 0,0:22:40.14,0:22:42.43,ED 1 Romaji,,0,0,0,,{\k18}{\k17}fu{\k19}n{\k19}wa{\k18}ri {\k20}a{\k17}ma{\k19}i {\k20}ki{\k57}su
+Comment: 0,0:22:42.92,0:22:42.92,ED 1 English,,0,0,0,,keyframe here
+Dialogue: 0,0:22:43.35,0:22:46.10,ED 1 English,,0,0,0,,If I do it without thinking
+Dialogue: 0,0:22:43.35,0:22:46.10,ED 1 Romaji,,0,0,0,,{\k17}{\k40}u{\k37}t{\k37}to{\k21}ri {\k17}shi{\k22}te{\k18}i{\k19}ta{\k42}ra
+Dialogue: 0,0:22:46.10,0:22:48.48,ED 1 English,,0,0,0,,My alarm clock went off
+Dialogue: 0,0:22:46.10,0:22:48.48,ED 1 Romaji,,0,0,0,,{\k27}{\k38}me{\k19}za{\k14}ma{\k24}shi {\k18}ga {\k19}na{\k22}t{\k54}ta
+Dialogue: 0,0:22:49.48,0:22:51.52,ED 1 English,,0,0,0,,I open the curtain
+Dialogue: 0,0:22:49.48,0:22:51.52,ED 1 Romaji,,0,0,0,,{\k11}{\k39}kaa{\k21}te{\k19}n {\k18}wo {\k20}hi{\k19}ra{\k20}i{\k37}te
+Dialogue: 0,0:22:51.94,0:22:54.61,ED 1 English,,0,0,0,,I've got to find the continuation of my dream
+Dialogue: 0,0:22:51.94,0:22:54.61,ED 1 Romaji,,0,0,0,,{\k17}{\k17}yu{\k21}me {\k19}no {\k20}tsu{\k18}zu{\k20}ki {\k18}sa{\k20}ga{\k18}sa{\k18}na{\k21}ku{\k36}cha
+Dialogue: 0,0:22:55.15,0:22:58.11,ED 1 English,,0,0,0,,The rays of the sun on my chest are too bright
+Dialogue: 0,0:22:55.15,0:22:58.11,ED 1 Romaji,,0,0,0,,{\k14}{\k18}ma{\k19}bu{\k25}shi{\k15}su{\k20}gi{\k37}ru {\k19}mu{\k19}ne {\k20}no {\k20}hi{\k14}za{\k22}shi {\k32}ni
+Dialogue: 0,0:22:58.11,0:23:00.87,ED 1 English,,0,0,0,,I'm enchanted by them, they won't disappear
+Dialogue: 0,0:22:58.11,0:23:00.87,ED 1 Romaji,,0,0,0,,{\k9}{\k17}to{\k18}ro{\k19}ke{\k39}te {\k17}ki{\k20}e{\k37}nai {\k38}you {\k52}ni
+Dialogue: 0,0:23:00.87,0:23:01.66,ED 1 English,,0,0,0,,Oh~!
+Dialogue: 0,0:23:00.87,0:23:01.66,ED 1 Romaji,,0,0,0,,{\k14}{\kf64}Oh~!
+Dialogue: 0,0:23:01.66,0:23:07.71,ED 1 English,,0,0,0,,The happy, carefree face of the sun
+Dialogue: 0,0:23:01.66,0:23:07.71,ED 1 Romaji,,0,0,0,,{\k10}{\kf59}non{\k23}ki {\kf55}de {\k17}o{\kf59}me{\k19}de{\kf83}tai {\k30}{\k20}ka{\k17}o{\k20}shi{\k21}te{\k38}ru {\k38}tai{\k23}yo{\kf52}u
+Dialogue: 0,0:23:07.71,0:23:13.50,ED 1 English,,0,0,0,,How can you just laugh like that!?
+Dialogue: 0,0:23:07.71,0:23:13.50,ED 1 Romaji,,0,0,0,,{\k14}{\k37}nan{\k29}de {\kf46}son{\k21}na {\kf109}ni {\k22}wa{\k15}ra{\k23}t{\k38}te {\k19}i{\k19}ra{\k23}re{\k36}ru {\kf125}no!?
+Dialogue: 0,0:23:13.80,0:23:19.38,ED 1 English,,0,0,0,,You're really just that same cautious color
+Dialogue: 0,0:23:13.80,0:23:19.38,ED 1 Romaji,,0,0,0,,{\k26}{\k31}ho{\k27}n{\k18}tou {\kf57}wa {\k19}{\k59}o{\k20}na{\kf74}ji{\k36}{\kf44}ku{\k34}ra{\k17}i {\k22}ya{\k35}bai {\kf24}co{\kf20}lor
+Dialogue: 0,0:23:19.38,0:23:24.72,ED 1 English,,0,0,0,,Sparkle, My True Love!
+Dialogue: 0,0:23:19.38,0:23:24.72,ED 1 Romaji,,0,0,0,,{\k14}{\k16}ki{\k19}ra{\k21}ki{\k89}ra{\k24}shi{\k40}chat{\k89}te {\k22}My {\kf37}True {\kf134}Love!
+Dialogue: 0,0:23:26.27,0:23:29.27,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
+Dialogue: 0,0:23:26.27,0:23:29.27,ED 1 Romaji,,0,0,0,,{\k7}{\k19}yu{\k17}me {\k25}mi{\kf52}tai {\k34}koi {\k25}shi{\kf69}tai
+Dialogue: 0,0:23:29.27,0:23:32.02,ED 1 English,,0,0,0,,With all my heart!
+Dialogue: 0,0:23:29.27,0:23:32.02,ED 1 Romaji,,0,0,0,,{\k15}{\kf37}chou {\k21}me{\k38}ip{\kf153}pai
+Dialogue: 0,0:23:32.02,0:23:34.61,ED 1 English,,0,0,0,,With a smile and a good luck charm
+Dialogue: 0,0:23:32.02,0:23:34.61,ED 1 Romaji,,0,0,0,,{\k1}{\k24}ho{\k25}ho{\k31}en{\kf40}de {\k20}o{\k19}ma{\k20}ji{\k21}na{\k28}i
+Dialogue: 0,0:23:34.61,0:23:36.36,ED 1 English,,0,0,0,,Ain't I cute?
+Dialogue: 0,0:23:34.61,0:23:36.36,ED 1 Romaji,,0,0,0,,{\k36}{\kf38}ka{\k18}wa{\k17}i{\k21}i{\k32}jan!
+Dialogue: 0,0:23:36.36,0:23:37.90,ED 1 English,,0,0,0,,Ain't I the best?
+Dialogue: 0,0:23:36.36,0:23:37.90,ED 1 Romaji,,0,0,0,,{\k23}{\k25}sa{\k31}i{\kf41}kou {\k34}jan!
+Dialogue: 0,0:23:37.90,0:23:40.86,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
+Dialogue: 0,0:23:37.90,0:23:40.86,ED 1 Romaji,,0,0,0,,{\k25}{\kf29}pu{\k26}ri{\k18}pu{\k20}ri{\k22}pu{\k16}ri{\k20}kyu{\k17}a {\kf72}faivu
+Comment: 0,0:23:40.89,0:23:40.89,Default,,0,0,0,,Preview = 23:39.962
+Dialogue: 0,0:23:43.68,0:23:46.00,Nozomi,,0,0,0,,Put your hands in the air{like you just don't care}!
+Dialogue: 0,0:23:46.00,0:23:47.97,Nozomi,,0,0,0,,Urara's debuting as a singer!
+Dialogue: 0,0:23:47.97,0:23:50.27,Nozomi,,0,0,0,,It's getting me all fired too, too!
+Dialogue: 0,0:23:50.27,0:23:51.15,Urara,,0,0,0,,Whatever...
+Dialogue: 0,0:23:51.15,0:23:54.04,Nozomi,,0,0,0,,What's the matter?\N You seem down, Urara.
+Dialogue: 0,0:23:54.04,0:23:57.48,Urara,,0,0,0,,I have to write the lyrics\N for my debut song, but I've hit a wall.
+Dialogue: 0,0:23:57.48,0:23:59.73,Nozomi,,0,0,0,,It'll work out somehow or anothers! {Arienai had "anothers"}
+Dialogue: 0,0:23:59.73,0:24:01.92,Nozomi,,0,0,0,,We can all join you on stage! {Ar: stange}
+Dialogue: 0,0:24:01.92,0:24:04.28,Urara,,0,0,0,,Somehow, I don't see that helping.
+Dialogue: 0,0:24:04.28,0:24:06.12,Nozomi,,0,0,0,,Yes! Pretty Cure 5:
+Dialogue: 0,0:24:06.12,0:24:08.16,Nozomi,,0,0,0,,Pretty Cure 5's Singing Debut!? {Ar: missed the ? }
+Dialogue: 0,0:24:08.50,0:24:10.49,Nozomi,,0,0,0,,Watch it, watch it, watch it, 'kay?

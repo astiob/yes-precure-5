@@ -4,8 +4,8 @@
 Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 720
-PlayResY: 480
+PlayResX: 1920
+PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: c1.77778
 Video Zoom: 6
@@ -13,46 +13,46 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Yes! Pretty Cure 5
-Audio File: Complete/[PCSS] Yes! Pretty Cure 5 - 16 (DVD) [0E585078].mkv
-Video File: Complete/[PCSS] Yes! Pretty Cure 5 - 16 (DVD) [0E585078].mkv
+Audio File: ../[Yes! Precure 5][16][BDRIP][1080P][H264_FLAC].mkv
+Video File: ../[Yes! Precure 5][16][BDRIP][1080P][H264_FLAC].mkv
 Video AR Mode: 4
-Video AR Value: 1.777083
+Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 33
+Scroll Position: 9
 Active Line: 38
-Video Position: 2675
+Video Position: 34790
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Kabel Bd,37,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Nozomi,Kabel Bd,37,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Rin,Kabel Bd,37,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Urara,Kabel Bd,37,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Komachi,Kabel Bd,37,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Karen,Kabel Bd,37,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Coco,Kabel Bd,37,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: Nuts,Kabel Bd,37,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: TopSign,Kabel Bd,31,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,8,30,30,16,1
-Style: Alternate,Kabel Bd,37,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,0.5,0,1,2,0.5,2,54,54,24,1
-Style: OP English,Verdana,29,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,2,10,10,20,1
-Style: OP Romaji,Cascade Script LT Std,34,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,8,10,10,15,1
-Style: OP Romaji2,Burst My Bubble KK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,0.5,0,1,2,0,5,0,0,0,1
-Style: ED 1 English,Verdana,29,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,2,0,2,10,10,20,1
-Style: ED 1 Romaji,GosmickSans,35,&H00D3A1EE,&H009164C5,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,8,10,10,15,1
-Style: ED 2 Romaji,Abadi MT Condensed,33,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,12,0
-Style: ED 2 English,Abadi MT Condensed,34,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,0
-Style: Ep Title,Gemelli,33,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,2,2,5,10,10,10,1
-Style: Credits,Abadi MT Condensed,26,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,2,1,5,10,10,10,1
+Style: Default,Kabel Bd,83,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Nozomi,Kabel Bd,83,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Rin,Kabel Bd,83,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Urara,Kabel Bd,83,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Komachi,Kabel Bd,83,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Karen,Kabel Bd,83,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Coco,Kabel Bd,83,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: Nuts,Kabel Bd,83,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: TopSign,Kabel Bd,70,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,8,80,80,36,1
+Style: Alternate,Kabel Bd,83,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
+Style: OP English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
+Style: OP Romaji,Cascade Script LT Std,77,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,8,27,27,34,1
+Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,1.33333,0,1,4.5,0,5,0,0,0,1
+Style: ED 1 English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
+Style: ED 1 Romaji,GosmickSans,79,&H00D3A1EE,&H009164C5,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.375,0,8,27,27,34,1
+Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,2,80,80,27,0
+Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,8,80,80,45,0
+Style: Ep Title,Gemelli,74,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,4.5,4.5,5,27,27,23,1
+Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,4.5,2.25,5,27,27,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.97,0:00:07.34,Komachi,,20,20,0,,The ship was battered by the raging waves from the fierce storm it had encountered,
+Dialogue: 0,0:00:02.97,0:00:07.34,Komachi,,53,53,0,,The ship was battered by the raging waves from the fierce storm it had encountered,
 Dialogue: 0,0:00:07.34,0:00:09.07,Komachi,,0,0,0,,and was on the verge of capsizing.
 Dialogue: 0,0:00:10.04,0:00:14.19,Komachi,,0,0,0,,As if adding insult to injury,\N a pirate ship appeared.
 Dialogue: 0,0:00:15.41,0:00:20.08,Komachi,,0,0,0,,The despondent passengers \Nall screamed out,
 Dialogue: 0,0:00:20.51,0:00:23.58,Komachi,,0,0,0,,"Please, save us!!" "It's all over!"
 Dialogue: 0,0:00:24.26,0:00:27.04,Komachi,,0,0,0,,However, one soul had not fallen into despair.
-Dialogue: 0,0:00:28.05,0:00:33.69,Komachi,,20,20,0,,A young boy, eyes filled with the sparkle of hope, stood up boldly and declared:
+Dialogue: 0,0:00:28.05,0:00:33.69,Komachi,,53,53,0,,A young boy, eyes filled with the sparkle of hope, stood up boldly and declared:
 Dialogue: 0,0:00:33.69,0:00:35.72,Komachi,,0,0,0,,"It's not over yet!"
 Dialogue: 0,0:00:35.72,0:00:38.79,Karen,,0,0,0,,"Pirate Hurricane" was highly compelling.
 Dialogue: 0,0:00:38.79,0:00:42.59,Urara,,0,0,0,,I didn't expect you to write\N an adventure novel like this, Komachi-san.
@@ -66,397 +66,397 @@ Dialogue: 0,0:00:59.45,0:01:03.00,Coco,,0,0,0,,Nuts was the biggest reader \Nin 
 Dialogue: 0,0:01:07.03,0:01:10.15,Komachi,,0,0,0,,Would you like to read it, Nuts-san?
 Dialogue: 0,0:01:10.15,0:01:12.97,Komachi,,0,0,0,,I'd appreciate hearing your opinion.
 Dialogue: 0,0:01:19.24,0:01:20.97,Nuts,,0,0,0,,No problem.
-Dialogue: 0,0:01:21.31,0:01:24.18,OP English,,0,0,0,,1, 2, 3, 4, Pretty Cure 5!
-Dialogue: 0,0:01:21.31,0:01:24.18,OP Romaji,,0,0,0,,{\k19}{\k31}1, {\k34}2, {\k21}3, {\k46}4, {\k39}Pretty {\kf63}Cure {\k32}5!
+Dialogue: 0,0:01:21.26,0:01:24.13,OP English,,0,0,0,,1, 2, 3, 4, Pretty Cure 5!
+Dialogue: 0,0:01:21.26,0:01:24.13,OP Romaji,,0,0,0,,{\k19}{\k31}1, {\k34}2, {\k21}3, {\k46}4, {\k39}Pretty {\kf63}Cure {\k32}5!
 Comment: 0,0:01:21.43,0:01:21.47,Default,,0,0,0,,OP = 01:21.540
-Dialogue: 0,0:01:24.18,0:01:26.94,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
-Dialogue: 0,0:01:24.18,0:01:26.94,OP Romaji,,0,0,0,,{\k0}{\k38}Pu-{\k33}ri-{\kf42}ti {\k48}kyu {\k31}kyu {\k20}kyu {\k30}kyu-{\k29}a
+Dialogue: 0,0:01:24.13,0:01:26.89,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
+Dialogue: 0,0:01:24.13,0:01:26.89,OP Romaji,,0,0,0,,{\k0}{\k38}Pu-{\k33}ri-{\kf42}ti {\k48}kyu {\k31}kyu {\k20}kyu {\k30}kyu-{\k29}a
 Comment: 0,0:01:26.64,0:01:26.64,OP Romaji,,0,0,0,,VV The following lines are the "shouted" lines.  VV
-Dialogue: 0,0:01:26.94,0:01:29.52,OP English,,0,0,0,,Everybody yes, fight!
-Dialogue: 0,0:01:26.94,0:01:29.52,OP Romaji,,0,0,0,,{\k7}{\k35}ebu{\k30}ri{\k23}ba{\k31}di {\k34}Yes, {\k33}fa{\k20}i{\k33}to!
-Dialogue: 0,0:01:29.52,0:01:32.32,OP English,,0,0,0,,Be excited, laugh like crazy!
-Dialogue: 0,0:01:29.52,0:01:32.32,OP Romaji,,0,0,0,,{\k19}{\k33}do{\k35}ki{\k21}do{\k31}ki {\k35}paa{\k15}tto {\k21}wa{\k15}ra{\k20}t{\k34}te
-Dialogue: 0,0:01:32.32,0:01:34.57,OP English,,0,0,0,,Smile and go! Go!
-Dialogue: 0,0:01:32.32,0:01:34.57,OP Romaji,,0,0,0,,{\k11}{\k16}su{\k37}mai{\k15}ru {\k35}go{\kf110}go!
-Dialogue: 0,0:01:34.61,0:01:40.45,Credits,,0,0,0,,{\fad(607,0)\t(3402,4631,\3c&H6351DA&)\pos(360,348)}Pretty Cure Splash Subs (pcssubs.wordpress.com) \N Original Translations: Arienai\N Encode: K.o.R   Retiming, Editing, etc.: Zalis
-Dialogue: 0,0:01:37.24,0:01:39.49,OP English,,0,0,0,,Yes! Pretty Cure 5! {this line is audio-timed only, there's no in-video lyrics for it.}
-Dialogue: 0,0:01:37.24,0:01:39.49,OP Romaji,,0,0,0,,{\k19}{\k38}Yes! {\k16}Pu{\k34}ri{\k16}kyu{\k34}a {\k51}5!
-Dialogue: 0,0:01:40.45,0:01:43.79,OP English,,0,0,0,,When you grow up, what do you want to be?
-Dialogue: 0,0:01:40.45,0:01:43.79,OP Romaji,,0,0,0,,{\k19}{\k32}oo{\k17}ki{\k15}ku{\k37}nat{\k19}ta{\k18}ra {\k16}na{\k20}ni {\k16}ni {\k33}na{\k15}ri{\k38}ta{\k37}i?
-Dialogue: 0,0:01:46.08,0:01:49.29,OP English,,0,0,0,,I want to do everything, hold it all in my hands!
-Dialogue: 0,0:01:46.08,0:01:49.29,OP Romaji,,0,0,0,,{\k5}{\k35}ryou{\k15}te {\k18}ni {\k36}ip{\k34}pai {\k22}ze{\k17}n{\k12}bu {\k30}ya{\k23}ri{\k35}ta{\k38}i!
-Dialogue: 0,0:01:51.54,0:01:56.22,OP English,,0,0,0,,These tears that just won't go away,
-Dialogue: 0,0:01:51.54,0:01:56.22,OP Romaji,,0,0,0,,{\k7}{\k39}mo{\k32}n{\k36}da{\k33}i {\kf72}ga {\k44}{\k18}to{\k17}ke{\k33}na{\k17}i {\k36}na{\k32}mi{\k22}da {\kf41}wa
-Dialogue: 0,0:01:56.22,0:02:00.76,OP English,,0,0,0,,let's wipe them out with the eraser of my heart!
-Dialogue: 0,0:01:56.22,0:02:00.76,OP Romaji,,0,0,0,,{\k26}{\k17}ko{\k18}ko{\k16}ro {\kf50}no {\k35}ke{\k33}shi{\k35}go{\k32}mu {\k39}de {\k10}ke{\k25}shi{\k31}cha{\kf61}ou
-Dialogue: 0,0:02:01.80,0:02:05.27,OP English,,0,0,0,,Metamorphose!
-Dialogue: 0,0:02:01.80,0:02:05.27,OP Romaji,,0,0,0,,{\k15}{\k16}me{\k15}ta{\k20}mo{\k18}ru{\kf103}fo{\kf38}u{\kf98}ze!
-Dialogue: 0,0:02:05.27,0:02:09.85,OP English,,0,0,0,,We're born to dream.
-Dialogue: 0,0:02:05.27,0:02:09.85,OP Romaji,,0,0,0,,{\k14}{\kf86}yu{\k21}me {\k15}mi{\k17}ru {\k34}ta{\k19}me {\k32}u{\k21}ma{\k17}re{\kf171}ta
-Dialogue: 0,0:02:10.15,0:02:15.32,OP English,,0,0,0,,Soar! Girls, give it your all.
-Dialogue: 0,0:02:10.15,0:02:15.32,OP Romaji,,0,0,0,,{\k7}{\k21}to{\k15}be{\k18}ru{\k52}yo {\k34}ga{\k18}n{\k35}ba{\k17}ru {\k34}o{\k34}n{\k36}na {\k32}no {\kf154}ko
-Dialogue: 0,0:02:16.36,0:02:21.03,OP English,,0,0,0,,It doesn't matter if you win or lose.
-Dialogue: 0,0:02:16.36,0:02:21.03,OP Romaji,,0,0,0,,{\k9}{\k86}ka{\k20}chi{\k12}ma{\k22}ke {\k34}da{\k17}ke {\k37}ja{\k15}na{\k31}i {\k30}mi{\k39}ra{\k33}i {\kf75}e
-Dialogue: 0,0:02:21.03,0:02:24.41,OP English,,0,0,0,,Carve out a new future tomorrow!
-Dialogue: 0,0:02:21.03,0:02:24.41,OP Romaji,,0,0,0,,{\k23}{\k12}a{\k21}su {\k18}wo {\kf55}nu{\k31}ri{\k14}ka{\k23}e{\k20}te{\kf106}ku
-Dialogue: 0,0:02:24.41,0:02:29.54,OP English,,0,0,0,,{\fscx95}When in a pinch, there's your chance! Transform and be tough!
-Dialogue: 0,0:02:24.41,0:02:29.54,OP Romaji,,0,0,0,,{\k17}{\k35}pin{\k14}chi {\k36}ka{\k45}ra {\kf41}cha{\k18}n{\k30}su {\k35}e {\k25}ta{\k41}fu {\k21}ni {\kf47}hen{\k23}shi{\kf60}n!
-Dialogue: 0,0:02:29.96,0:02:32.92,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
-Dialogue: 0,0:02:29.96,0:02:32.92,OP Romaji,,0,0,0,,{\k29}{\k35}pu{\k33}ri{\kf55}ti {\k33}kyu-{\k32}kyu-{\k19}kyu-{\k29}kyu{\k32}a
-Dialogue: 0,0:02:32.92,0:02:35.59,OP English,,0,0,0,,Everybody yes, hustle!
-Dialogue: 0,0:02:32.92,0:02:35.59,OP Romaji,,0,0,0,,{\k7}{\k31}ebu{\k36}ri{\k22}ba{\k25}di {\k37}Yes, {\k24}has{\k28}su{\k48}ru!
-Dialogue: 0,0:02:35.59,0:02:38.26,OP English,,0,0,0,,Be excited, smile and laugh!
-Dialogue: 0,0:02:35.59,0:02:38.26,OP Romaji,,0,0,0,,{\k7}{\k36}do{\k34}ki{\k19}do{\k31}ki {\k38}nit{\k20}to {\k15}wa{\k15}ra{\k18}t{\k33}te
-Dialogue: 0,0:02:38.26,0:02:40.76,OP English,,0,0,0,,Smile and go! Go!
-Dialogue: 0,0:02:38.26,0:02:40.76,OP Romaji,,0,0,0,,{\k11}{\k20}su{\k32}mai{\k16}ru {\k34}go{\kf117}go!
-Dialogue: 0,0:02:40.76,0:02:45.22,OP English,,0,0,0,,One, two, three-four, Pretty Cure (Five!)
-Dialogue: 0,0:02:40.76,0:02:45.22,OP Romaji,,0,0,0,,{\k31}{\k36}1, {\k33}2, {\k20}3-{\k44}4 {\k9}{\k16}Pu{\k18}ri{\k13}kyu{\kf48}a {\k67}(5!)
-Dialogue: 0,0:01:26.52,0:01:27.19,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:01:29.19,0:01:29.77,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:01:34.57,0:01:35.95,OP Romaji2,,0,0,0,,{\an8}Pretty Cure! {2nd}
-Dialogue: 0,0:01:43.29,0:01:46.08,OP English,,0,0,0,,Wha-t, what, what do you?
-Dialogue: 0,0:01:43.29,0:01:46.08,OP Romaji2,,0,0,0,,{\pos(360,75)}na-ni naru naru no
-Dialogue: 0,0:01:48.83,0:01:51.09,OP English,,0,0,0,,Do it all!
-Dialogue: 0,0:01:48.83,0:01:51.09,OP Romaji2,,0,0,0,,{\pos(360,75)}i-pai yaritai!
-Dialogue: 0,0:02:04.97,0:02:05.68,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
-Dialogue: 0,0:02:08.44,0:02:10.94,OP Romaji2,,0,0,0,,{\pos(352,75)}1, 2, 3 4 5!
-Dialogue: 0,0:02:13.90,0:02:16.61,OP Romaji2,,0,0,0,,{\pos(352,75)}5, 4, 3 2 1!
-Dialogue: 0,0:02:25.66,0:02:26.41,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
-Dialogue: 0,0:02:26.75,0:02:27.54,OP Romaji2,,0,0,0,,{\pos(352,75)}Go-go!
-Dialogue: 0,0:02:28.96,0:02:29.83,OP Romaji2,,0,0,0,,{\pos(352,75)}Go-go-go-go!
-Dialogue: 0,0:02:29.83,0:02:30.25,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:32.50,0:02:33.13,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:35.21,0:02:35.80,OP Romaji2,,0,0,0,,{\pos(352,75)}Yes!
-Dialogue: 0,0:02:40.76,0:02:41.34,OP Romaji2,,0,0,0,,{\pos(352,75)}Go!
+Dialogue: 0,0:01:26.89,0:01:29.47,OP English,,0,0,0,,Everybody yes, fight!
+Dialogue: 0,0:01:26.89,0:01:29.47,OP Romaji,,0,0,0,,{\k7}{\k35}ebu{\k30}ri{\k23}ba{\k31}di {\k34}Yes, {\k33}fa{\k20}i{\k33}to!
+Dialogue: 0,0:01:29.47,0:01:32.27,OP English,,0,0,0,,Be excited, laugh like crazy!
+Dialogue: 0,0:01:29.47,0:01:32.27,OP Romaji,,0,0,0,,{\k19}{\k33}do{\k35}ki{\k21}do{\k31}ki {\k35}paa{\k15}tto {\k21}wa{\k15}ra{\k20}t{\k34}te
+Dialogue: 0,0:01:32.27,0:01:34.52,OP English,,0,0,0,,Smile and go! Go!
+Dialogue: 0,0:01:32.27,0:01:34.52,OP Romaji,,0,0,0,,{\k11}{\k16}su{\k37}mai{\k15}ru {\k35}go{\kf110}go!
+Dialogue: 0,0:01:34.56,0:01:40.40,Credits,,0,0,0,,{\fad(607,0)\t(3402,4631,\3c&H6351DA&)\pos(960,783)}Original release by \NPretty Cure Splash Subs (pcssubs.wordpress.com)
+Dialogue: 0,0:01:37.19,0:01:39.44,OP English,,0,0,0,,Yes! Pretty Cure 5! {this line is audio-timed only, there's no in-video lyrics for it.}
+Dialogue: 0,0:01:37.19,0:01:39.44,OP Romaji,,0,0,0,,{\k19}{\k38}Yes! {\k16}Pu{\k34}ri{\k16}kyu{\k34}a {\k51}5!
+Dialogue: 0,0:01:40.40,0:01:43.74,OP English,,0,0,0,,When you grow up, what do you want to be?
+Dialogue: 0,0:01:40.40,0:01:43.74,OP Romaji,,0,0,0,,{\k19}{\k32}oo{\k17}ki{\k15}ku{\k37}nat{\k19}ta{\k18}ra {\k16}na{\k20}ni {\k16}ni {\k33}na{\k15}ri{\k38}ta{\k37}i?
+Dialogue: 0,0:01:46.03,0:01:49.24,OP English,,0,0,0,,I want to do everything, hold it all in my hands!
+Dialogue: 0,0:01:46.03,0:01:49.24,OP Romaji,,0,0,0,,{\k5}{\k35}ryou{\k15}te {\k18}ni {\k36}ip{\k34}pai {\k22}ze{\k17}n{\k12}bu {\k30}ya{\k23}ri{\k35}ta{\k38}i!
+Dialogue: 0,0:01:51.49,0:01:56.17,OP English,,0,0,0,,These tears that just won't go away,
+Dialogue: 0,0:01:51.49,0:01:56.17,OP Romaji,,0,0,0,,{\k7}{\k39}mo{\k32}n{\k36}da{\k33}i {\kf72}ga {\k44}{\k18}to{\k17}ke{\k33}na{\k17}i {\k36}na{\k32}mi{\k22}da {\kf41}wa
+Dialogue: 0,0:01:56.17,0:02:00.71,OP English,,0,0,0,,let's wipe them out with the eraser of my heart!
+Dialogue: 0,0:01:56.17,0:02:00.71,OP Romaji,,0,0,0,,{\k26}{\k17}ko{\k18}ko{\k16}ro {\kf50}no {\k35}ke{\k33}shi{\k35}go{\k32}mu {\k39}de {\k10}ke{\k25}shi{\k31}cha{\kf61}ou
+Dialogue: 0,0:02:01.75,0:02:05.22,OP English,,0,0,0,,Metamorphose!
+Dialogue: 0,0:02:01.75,0:02:05.22,OP Romaji,,0,0,0,,{\k15}{\k16}me{\k15}ta{\k20}mo{\k18}ru{\kf103}fo{\kf38}u{\kf98}ze!
+Dialogue: 0,0:02:05.22,0:02:09.80,OP English,,0,0,0,,We're born to dream.
+Dialogue: 0,0:02:05.22,0:02:09.80,OP Romaji,,0,0,0,,{\k14}{\kf86}yu{\k21}me {\k15}mi{\k17}ru {\k34}ta{\k19}me {\k32}u{\k21}ma{\k17}re{\kf171}ta
+Dialogue: 0,0:02:10.10,0:02:15.27,OP English,,0,0,0,,Soar! Girls, give it your all.
+Dialogue: 0,0:02:10.10,0:02:15.27,OP Romaji,,0,0,0,,{\k7}{\k21}to{\k15}be{\k18}ru{\k52}yo {\k34}ga{\k18}n{\k35}ba{\k17}ru {\k34}o{\k34}n{\k36}na {\k32}no {\kf154}ko
+Dialogue: 0,0:02:16.31,0:02:20.98,OP English,,0,0,0,,It doesn't matter if you win or lose.
+Dialogue: 0,0:02:16.31,0:02:20.98,OP Romaji,,0,0,0,,{\k9}{\k86}ka{\k20}chi{\k12}ma{\k22}ke {\k34}da{\k17}ke {\k37}ja{\k15}na{\k31}i {\k30}mi{\k39}ra{\k33}i {\kf75}e
+Dialogue: 0,0:02:20.98,0:02:24.36,OP English,,0,0,0,,Carve out a new future tomorrow!
+Dialogue: 0,0:02:20.98,0:02:24.36,OP Romaji,,0,0,0,,{\k23}{\k12}a{\k21}su {\k18}wo {\kf55}nu{\k31}ri{\k14}ka{\k23}e{\k20}te{\kf106}ku
+Dialogue: 0,0:02:24.36,0:02:29.49,OP English,,0,0,0,,{\fscx95}When in a pinch, there's your chance! Transform and be tough!
+Dialogue: 0,0:02:24.36,0:02:29.49,OP Romaji,,0,0,0,,{\k17}{\k35}pin{\k14}chi {\k36}ka{\k45}ra {\kf41}cha{\k18}n{\k30}su {\k35}e {\k25}ta{\k41}fu {\k21}ni {\kf47}hen{\k23}shi{\kf60}n!
+Dialogue: 0,0:02:29.91,0:02:32.87,OP English,,0,0,0,,Pretty Cu-cu-cu-cure
+Dialogue: 0,0:02:29.91,0:02:32.87,OP Romaji,,0,0,0,,{\k29}{\k35}pu{\k33}ri{\kf55}ti {\k33}kyu-{\k32}kyu-{\k19}kyu-{\k29}kyu{\k32}a
+Dialogue: 0,0:02:32.87,0:02:35.54,OP English,,0,0,0,,Everybody yes, hustle!
+Dialogue: 0,0:02:32.87,0:02:35.54,OP Romaji,,0,0,0,,{\k7}{\k31}ebu{\k36}ri{\k22}ba{\k25}di {\k37}Yes, {\k24}has{\k28}su{\k48}ru!
+Dialogue: 0,0:02:35.54,0:02:38.21,OP English,,0,0,0,,Be excited, smile and laugh!
+Dialogue: 0,0:02:35.54,0:02:38.21,OP Romaji,,0,0,0,,{\k7}{\k36}do{\k34}ki{\k19}do{\k31}ki {\k38}nit{\k20}to {\k15}wa{\k15}ra{\k18}t{\k33}te
+Dialogue: 0,0:02:38.21,0:02:40.71,OP English,,0,0,0,,Smile and go! Go!
+Dialogue: 0,0:02:38.21,0:02:40.71,OP Romaji,,0,0,0,,{\k11}{\k20}su{\k32}mai{\k16}ru {\k34}go{\kf117}go!
+Dialogue: 0,0:02:40.71,0:02:45.17,OP English,,0,0,0,,One, two, three-four, Pretty Cure (Five!)
+Dialogue: 0,0:02:40.71,0:02:45.17,OP Romaji,,0,0,0,,{\k31}{\k36}1, {\k33}2, {\k20}3-{\k44}4 {\k9}{\k16}Pu{\k18}ri{\k13}kyu{\kf48}a {\k67}(5!)
+Dialogue: 0,0:01:26.47,0:01:27.14,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:01:29.14,0:01:29.72,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:01:34.52,0:01:35.90,OP Romaji2,,0,0,0,,{\an8}Pretty Cure! {2nd}
+Dialogue: 0,0:01:43.24,0:01:46.03,OP English,,0,0,0,,Wha-t, what, what do you?
+Dialogue: 0,0:01:43.24,0:01:46.03,OP Romaji2,,0,0,0,,{\pos(960,168.75)}na-ni naru naru no
+Dialogue: 0,0:01:48.78,0:01:51.04,OP English,,0,0,0,,Do it all!
+Dialogue: 0,0:01:48.78,0:01:51.04,OP Romaji2,,0,0,0,,{\pos(960,168.75)}i-pai yaritai!
+Dialogue: 0,0:02:04.92,0:02:05.63,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
+Dialogue: 0,0:02:08.39,0:02:10.89,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}1, 2, 3 4 5!
+Dialogue: 0,0:02:13.85,0:02:16.56,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}5, 4, 3 2 1!
+Dialogue: 0,0:02:25.61,0:02:26.36,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
+Dialogue: 0,0:02:26.70,0:02:27.49,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go-go!
+Dialogue: 0,0:02:28.91,0:02:29.78,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go-go-go-go!
+Dialogue: 0,0:02:29.78,0:02:30.20,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:32.45,0:02:33.08,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:35.16,0:02:35.75,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
+Dialogue: 0,0:02:40.71,0:02:41.29,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
 Comment: 0,0:02:45.89,0:02:48.02,Default,,0,0,0,,Part 1 = 02:45.958
-Dialogue: 0,0:02:48.56,0:02:52.91,Komachi,,0,0,0,,Oh, yes. I really enjoyed your father's latest children's book.
-Dialogue: 0,0:02:52.91,0:02:55.28,Komachi,,0,0,0,,Especially the heroine.
-Dialogue: 0,0:02:55.28,0:02:59.10,Komachi,,0,0,0,,I felt just like that when I was little.\N I could really empathize with her.
-Dialogue: 0,0:02:59.10,0:03:02.85,Nozomi,,0,0,0,,Really? My dad'll be\N really happy to hear that.
-Dialogue: 0,0:03:04.06,0:03:08.33,Komachi,,0,0,0,,I want to write stories \Nthat'll move people the same way
-Dialogue: 0,0:03:08.33,0:03:10.72,Karen,,0,0,0,,I'm sure you can do it, Komachi.
-Dialogue: 0,0:03:10.72,0:03:12.07,Urara,,0,0,0,,That's right.
-Dialogue: 0,0:03:11.42,0:03:12.88,TopSign,,0,0,0,,Pirate Hurricane by Akimoto Komachi
-Dialogue: 0,0:03:14.04,0:03:16.47,Rin,,0,0,0,,Huh?! You're done already?
-Dialogue: 0,0:03:16.47,0:03:17.20,Nuts,,0,0,0,,Yes.
-Dialogue: 0,0:03:17.20,0:03:18.13,Nozomi,,0,0,0,,That was fast!
-Dialogue: 0,0:03:18.59,0:03:19.87,Komachi,,0,0,0,,How was it?
-Dialogue: 0,0:03:21.19,0:03:23.09,Nuts,,0,0,0,,I don't know what\N you're trying to say.
-Dialogue: 0,0:03:24.80,0:03:28.98,Nuts,,0,0,0,,I just don't understand what you want to get at with this story.  {+sign: Pirate Hurricane by Akimoto Komachi}
-Dialogue: 0,0:03:29.74,0:03:31.49,Komachi,,0,0,0,,Um, well...
-Dialogue: 0,0:03:31.49,0:03:35.72,Nuts,,0,0,0,,If the author has to explain a story,\N there's no point in reading it.
-Dialogue: 0,0:03:35.72,0:03:37.19,Nuts,,0,0,0,,It's worthless as a book.
-Dialogue: 0,0:03:40.07,0:03:41.46,Nozomi,,0,0,0,,Hey, Nuts!
-Dialogue: 0,0:03:41.46,0:03:42.75,Rin,,0,0,0,,What're you saying?
-Dialogue: 0,0:03:42.75,0:03:44.70,Nuts,,0,0,0,,What? I'm giving my opinion.
-Dialogue: 0,0:03:44.70,0:03:46.89,Rin,,0,0,0,,I thought it was fun to read.
-Dialogue: 0,0:03:46.89,0:03:49.94,Urara,,0,0,0,,Yes, it was really exciting!
-Dialogue: 0,0:03:49.94,0:03:54.04,Nuts,,0,0,0,,You're just biased because it was written by a friend of yours.
-Dialogue: 0,0:03:54.64,0:03:58.67,Nuts,,0,0,0,,Speaking objectively,\N I can't say that it's any good.
-Dialogue: 0,0:04:01.33,0:04:02.18,Karen,,0,0,0,,Komachi...
-Dialogue: 0,0:04:02.85,0:04:08.14,Komachi,,0,0,0,,That's true. It's not that easy to write a truly good story.
-Dialogue: 0,0:04:08.14,0:04:10.10,Nozomi,,0,0,0,,Komachi-san...
-Dialogue: 0,0:04:10.10,0:04:13.22,Komachi,,0,0,0,,I'm going home for today. \NSorry, everyone...
-Dialogue: 0,0:04:13.90,0:04:15.23,Karen,,0,0,0,,Komachi, wait!
-Dialogue: 0,0:04:17.44,0:04:18.73,Default,,0,0,0,,Nuts!
-Dialogue: 0,0:04:19.56,0:04:20.94,Nuts,,0,0,0,,What'd I do?
-Dialogue: 0,0:04:24.45,0:04:28.95,Ep Title,,0,0,0,,{\pos(361,316)\fad(273,0)}Komachi Abandons Being a Novelist!?
-Dialogue: 0,0:04:29.35,0:04:33.41,Default,,0,0,0,,Their dream is to resurrect the Palmier Kingdom.
-Dialogue: 0,0:04:33.41,0:04:36.52,Default,,0,0,0,,We are to work day \Nand night to stop them,{s}
-Dialogue: 0,0:04:36.52,0:04:40.42,Default,,0,0,0,,and to present the \NDream Collet to Despariah-sama.
-Dialogue: 0,0:04:40.42,0:04:45.21,Default,,0,0,0,,Do not worry; everything is proceeding according to our scenario.
-Dialogue: 0,0:04:45.21,0:04:47.64,Default,,0,0,0,,Isn't that right, Arachnea-kun?
-Dialogue: 0,0:04:47.64,0:04:50.56,Default,,0,0,0,,Yes, we are of one mind on this matter.
-Dialogue: 0,0:04:51.28,0:04:52.56,Default,,0,0,0,,I see.
-Dialogue: 0,0:04:53.28,0:04:58.02,Default,,0,0,0,,However, your efforts are irrelevant to the progression of the scenario.
-Dialogue: 0,0:04:58.02,0:05:01.57,Default,,0,0,0,,The real question is, \N"When will we see results?"
-Dialogue: 0,0:05:01.57,0:05:02.84,Default,,0,0,0,,When, pray tell?
-Dialogue: 0,0:05:02.84,0:05:07.32,Default,,0,0,0,,Well... I'll delegate answering that to Arachnea-kun.
-Dialogue: 0,0:05:07.32,0:05:09.83,Default,,0,0,0,,Huh?! M-Me?
-Dialogue: 0,0:05:10.80,0:05:13.54,Default,,0,0,0,,Why can they still dream? {fsc}
-Dialogue: 0,0:05:14.34,0:05:16.00,Default,,0,0,0,,D-Despariah-sama!
-Dialogue: 0,0:05:16.40,0:05:21.34,Default,,0,0,0,,The Palmier Kingdom has been destroyed, \Nleaving them in despair.
-Dialogue: 0,0:05:21.34,0:05:23.67,Default,,0,0,0,,And yet, why do they dream?
-Dialogue: 0,0:05:23.67,0:05:27.60,Default,,0,0,0,,B-B-Because... They have the Dream Collet?
-Dialogue: 0,0:05:27.60,0:05:32.60,Default,,0,0,0,,Without hope, one holds no dreams. \NWhere is hope born from?
-Dialogue: 0,0:05:33.12,0:05:34.97,Default,,0,0,0,,From a thin paycheck? {some1 who helps them}
-Dialogue: 0,0:05:34.97,0:05:39.56,Default,,30,30,0,,There are people protecting the Dream Collet,\N which is the source of the hope.
-Dialogue: 0,0:05:39.94,0:05:43.57,Default,,0,0,0,,They are known as the\N legendary warriors, Pretty Cure!
-Dialogue: 0,0:05:44.64,0:05:49.57,Default,,0,0,0,,Let them dream no longer!\N Defeat Pretty Cure, and crush their hope!
-Dialogue: 0,0:05:50.18,0:05:53.58,Default,,0,0,0,,And then plunge the world into despair!
-Dialogue: 0,0:05:53.58,0:05:55.29,Default,,0,0,0,,Yes!
-Dialogue: 0,0:05:56.15,0:05:59.63,Rin,,0,0,0,,Nuts, don't you think that was cruel?
-Dialogue: 0,0:05:59.63,0:06:01.97,Rin,,0,0,0,,Why did you have to talk like that?
-Dialogue: 0,0:06:01.97,0:06:05.36,Nuts,,0,0,0,,She asked for my opinion, \Nand I gave it to her. That's all.
-Dialogue: 0,0:06:05.36,0:06:10.33,Urara,,0,0,0,,Komachi-san put her heart into writing it.\N And you shot her down!
-Dialogue: 0,0:06:10.33,0:06:12.14,Nuts,,0,0,0,,Would you rather I'd lied?
-Dialogue: 0,0:06:12.14,0:06:14.74,Rin,,0,0,0,,Couldn't you have\N sugarcoated things a {\i1}little?
-Dialogue: 0,0:06:14.74,0:06:17.06,Nozomi,,0,0,0,,Komachi-san might not come tomorrow.
-Dialogue: 0,0:06:17.47,0:06:20.41,Nozomi,,0,0,0,,The mamedaifuku train\N might not stop here anymore.
-Dialogue: 0,0:06:21.42,0:06:23.28,Nuts,,0,0,0,,This conversation's over.
-Dialogue: 0,0:06:24.03,0:06:25.90,Rin,,0,0,0,,Hey, Nuts!
-Dialogue: 0,0:06:39.45,0:06:42.53,Nuts,,0,0,0,,I was just telling the truth\N about what I felt.
-Dialogue: 0,0:06:42.53,0:06:44.73,Coco,,0,0,0,,I didn't say anything, did I?
-Dialogue: 0,0:06:44.73,0:06:46.90,Nuts,,0,0,0,,Your face says you wanted to.
-Dialogue: 0,0:06:47.41,0:06:49.79,Nuts,,0,0,0,,Do you think I was wrong?
-Dialogue: 0,0:06:50.26,0:06:53.81,Coco,,0,0,0,,Not really. \NI thought it was very "you," Nuts.
-Dialogue: 0,0:06:54.67,0:06:56.27,Nuts,,0,0,0,,Very "me"?
-Dialogue: 0,0:06:56.54,0:07:01.73,Coco,,0,0,0,,An awkward person who's honest to a fault,\N never uttering a compliment...
-Dialogue: 0,0:07:03.48,0:07:08.48,Coco,,0,0,0,,Someone who gets angry at himself for hurting Komachi, right?
-Dialogue: 0,0:07:10.02,0:07:11.59,Nuts,,0,0,0,,So what?
-Dialogue: 0,0:07:11.59,0:07:14.00,Nuts,,0,0,0,,What should I do?
-Dialogue: 0,0:07:14.00,0:07:16.84,Coco,,0,0,0,,Admit that you're powerless on your own?
-Dialogue: 0,0:07:16.84,0:07:20.50,Coco,,0,0,0,,Although if you INSIST,\N I suppose I could lend you a hand.
-Dialogue: 0,0:07:21.10,0:07:24.79,Nuts,,0,0,0,,I don't need your help!\N I'll do something about it myself!
-Dialogue: 0,0:07:28.93,0:07:31.01,Coco,,0,0,0,,Good luck.
-Dialogue: 0,0:07:33.60,0:07:35.97,Karen,,0,0,0,,Now look, everyone has different tastes.
-Dialogue: 0,0:07:35.97,0:07:39.86,Karen,,0,0,0,,That story just wasn't something that Nuts would've enjoyed.
-Dialogue: 0,0:07:39.86,0:07:42.60,Karen,,0,0,0,,So don't worry yourself about it.
-Dialogue: 0,0:07:43.23,0:07:45.85,Karen,,0,0,0,,I liked "Pirate Hurricane."
-Dialogue: 0,0:07:45.85,0:07:49.48,Karen,,0,0,0,,It was really exciting, \Nand it's holding me in suspense.
-Dialogue: 0,0:07:49.89,0:07:52.61,Komachi,,0,0,0,,Karen, don't worry about me.
-Dialogue: 0,0:07:52.92,0:07:55.28,Komachi,,0,0,0,,I'll... be fine.
-Dialogue: 0,0:07:55.87,0:07:57.12,Karen,,0,0,0,,Really?
-Dialogue: 0,0:07:57.12,0:07:59.13,Komachi,,0,0,0,,Isn't it time you went home?
-Dialogue: 0,0:07:59.13,0:08:02.00,Komachi,,0,0,0,,You shouldn't keep Sakamoto-san waiting. {And haven't you heard that he's Sakamoto?}
-Dialogue: 0,0:08:02.70,0:08:04.75,Komachi,,0,0,0,,I'm going home, too.
-Dialogue: 0,0:08:04.75,0:08:07.53,Karen,,0,0,0,,Okay. You can call me any time.
-Dialogue: 0,0:08:07.53,0:08:09.75,Komachi,,0,0,0,,Sure, thank you.
-Dialogue: 0,0:08:22.17,0:08:25.31,Default,,0,0,0,,{\t(2335,3127,\c&H000103&\3c&H000103&\4c&H000103&}The scent of despair is in the air.
-Dialogue: 0,0:08:36.66,0:08:38.03,Nuts,,0,0,0,,Dang it.
-Dialogue: 0,0:08:38.80,0:08:41.50,Nuts,,0,0,0,,{Isn't there a book that has a way to settle this?}I thought books had \Nthe answers to everything.
-Dialogue: 0,0:08:44.58,0:08:45.96,Nuts,,0,0,0,,Should I apologize?
-Dialogue: 0,0:08:45.96,0:08:49.70,Nuts,,0,0,0,,No. I can understand apologizing\N if I'd told a lie.
-Dialogue: 0,0:08:49.70,0:08:53.80,Nuts,,0,0,0,,But why should I apologize for telling her the truth?
-Dialogue: 0,0:09:05.95,0:09:07.41,Rin,,0,0,0,,A female biker?
-Dialogue: 0,0:09:07.41,0:09:09.02,Urara,,0,0,0,,Pretty cool...
-Dialogue: 0,0:09:09.02,0:09:11.27,Nuts,,0,0,0,,Hey, that noise is too loud.
-Dialogue: 0,0:09:11.27,0:09:13.19,Default,,0,0,0,,But I'm a customer.
-Dialogue: 0,0:09:13.68,0:09:16.21,Nuts,,0,0,0,,Customer or not, you're being a nuisance.
-Dialogue: 0,0:09:16.21,0:09:17.60,Nozomi,,0,0,0,,Hey, Nuts!
-Dialogue: 0,0:09:17.60,0:09:19.66,Rin,,0,0,0,,This is {\i1}not{\i0}{\fscx133} {\r}quality customer service!
-Dialogue: 0,0:09:19.66,0:09:23.75,Nuts,,0,0,0,,There's no need to be polite with someone who keeps their face hidden like that!
-Dialogue: 0,0:09:25.01,0:09:26.71,Default,,0,0,0,,Oh, I see.
-Dialogue: 0,0:09:30.55,0:09:33.88,Default,,0,0,0,,It's just as you said. \N I apologize for acting rude.
-Dialogue: 0,0:09:33.88,0:09:35.22,Default,,0,0,0,,Sorry about that.
-Dialogue: 0,0:09:35.22,0:09:37.14,Default,,0,0,0,,K-Komachi-san?!
-Dialogue: 0,0:09:37.14,0:09:38.62,Rin,,0,0,0,,No way!
-Dialogue: 0,0:09:38.62,0:09:40.47,Urara,,0,0,0,,You said you had\N stuff to do at home!
-Dialogue: 0,0:09:40.47,0:09:42.60,Nozomi,,0,0,0,,Wait, are you really Komachi-san?
-Dialogue: 0,0:09:43.07,0:09:44.87,Karen,,0,0,0,,Madoka-san, correct?
-Dialogue: 0,0:09:44.87,0:09:46.68,Default,,0,0,0,,Long time no see, Karen-chan.
-Dialogue: 0,0:09:46.68,0:09:49.01,Default,,0,0,0,,Thanks for looking out\N for my little sister.
-Dialogue: 0,0:09:49.01,0:09:50.24,Default,,0,0,0,,"Little sister"?
-Dialogue: 0,0:09:50.24,0:09:52.78,Default,,0,0,0,,I'm Komachi's older sister,\N Akimoto Madoka.
-Dialogue: 0,0:09:52.78,0:09:54.44,Default,,0,0,0,,Nice to meetcha!
+Dialogue: 0,0:02:48.68,0:02:53.03,Komachi,,0,0,0,,Oh, yes. I really enjoyed your father's latest children's book.
+Dialogue: 0,0:02:53.03,0:02:55.40,Komachi,,0,0,0,,Especially the heroine.
+Dialogue: 0,0:02:55.40,0:02:59.22,Komachi,,0,0,0,,I felt just like that when I was little.\N I could really empathize with her.
+Dialogue: 0,0:02:59.22,0:03:02.97,Nozomi,,0,0,0,,Really? My dad'll be\N really happy to hear that.
+Dialogue: 0,0:03:04.18,0:03:08.45,Komachi,,0,0,0,,I want to write stories \Nthat'll move people the same way
+Dialogue: 0,0:03:08.45,0:03:10.84,Karen,,0,0,0,,I'm sure you can do it, Komachi.
+Dialogue: 0,0:03:10.84,0:03:12.19,Urara,,0,0,0,,That's right.
+Dialogue: 0,0:03:11.54,0:03:13.00,TopSign,,0,0,0,,Pirate Hurricane by Akimoto Komachi
+Dialogue: 0,0:03:14.16,0:03:16.59,Rin,,0,0,0,,Huh?! You're done already?
+Dialogue: 0,0:03:16.59,0:03:17.32,Nuts,,0,0,0,,Yes.
+Dialogue: 0,0:03:17.32,0:03:18.25,Nozomi,,0,0,0,,That was fast!
+Dialogue: 0,0:03:18.71,0:03:19.99,Komachi,,0,0,0,,How was it?
+Dialogue: 0,0:03:21.31,0:03:23.21,Nuts,,0,0,0,,I don't know what\N you're trying to say.
+Dialogue: 0,0:03:24.92,0:03:29.10,Nuts,,0,0,0,,I just don't understand what you want to get at with this story.  {+sign: Pirate Hurricane by Akimoto Komachi}
+Dialogue: 0,0:03:29.86,0:03:31.61,Komachi,,0,0,0,,Um, well...
+Dialogue: 0,0:03:31.61,0:03:35.84,Nuts,,0,0,0,,If the author has to explain a story,\N there's no point in reading it.
+Dialogue: 0,0:03:35.84,0:03:37.31,Nuts,,0,0,0,,It's worthless as a book.
+Dialogue: 0,0:03:40.19,0:03:41.58,Nozomi,,0,0,0,,Hey, Nuts!
+Dialogue: 0,0:03:41.58,0:03:42.87,Rin,,0,0,0,,What're you saying?
+Dialogue: 0,0:03:42.87,0:03:44.82,Nuts,,0,0,0,,What? I'm giving my opinion.
+Dialogue: 0,0:03:44.82,0:03:47.01,Rin,,0,0,0,,I thought it was fun to read.
+Dialogue: 0,0:03:47.01,0:03:50.06,Urara,,0,0,0,,Yes, it was really exciting!
+Dialogue: 0,0:03:50.06,0:03:54.16,Nuts,,0,0,0,,You're just biased because it was written by a friend of yours.
+Dialogue: 0,0:03:54.76,0:03:58.79,Nuts,,0,0,0,,Speaking objectively,\N I can't say that it's any good.
+Dialogue: 0,0:04:01.45,0:04:02.30,Karen,,0,0,0,,Komachi...
+Dialogue: 0,0:04:02.97,0:04:08.26,Komachi,,0,0,0,,That's true. It's not that easy to write a truly good story.
+Dialogue: 0,0:04:08.26,0:04:10.22,Nozomi,,0,0,0,,Komachi-san...
+Dialogue: 0,0:04:10.22,0:04:13.34,Komachi,,0,0,0,,I'm going home for today. \NSorry, everyone...
+Dialogue: 0,0:04:14.02,0:04:15.35,Karen,,0,0,0,,Komachi, wait!
+Dialogue: 0,0:04:17.56,0:04:18.85,Default,,0,0,0,,Nuts!
+Dialogue: 0,0:04:19.68,0:04:21.06,Nuts,,0,0,0,,What'd I do?
+Dialogue: 0,0:04:24.57,0:04:29.07,Ep Title,,0,0,0,,{\pos(962.667,711)\fad(273,0)}Komachi Abandons Being a Novelist!?
+Dialogue: 0,0:04:29.47,0:04:33.53,Default,,0,0,0,,Their dream is to resurrect the Palmier Kingdom.
+Dialogue: 0,0:04:33.53,0:04:36.64,Default,,0,0,0,,We are to work day \Nand night to stop them,{s}
+Dialogue: 0,0:04:36.64,0:04:40.54,Default,,0,0,0,,and to present the \NDream Collet to Despariah-sama.
+Dialogue: 0,0:04:40.54,0:04:45.33,Default,,0,0,0,,Do not worry; everything is proceeding according to our scenario.
+Dialogue: 0,0:04:45.33,0:04:47.76,Default,,0,0,0,,Isn't that right, Arachnea-kun?
+Dialogue: 0,0:04:47.76,0:04:50.68,Default,,0,0,0,,Yes, we are of one mind on this matter.
+Dialogue: 0,0:04:51.40,0:04:52.68,Default,,0,0,0,,I see.
+Dialogue: 0,0:04:53.40,0:04:58.14,Default,,0,0,0,,However, your efforts are irrelevant to the progression of the scenario.
+Dialogue: 0,0:04:58.14,0:05:01.69,Default,,0,0,0,,The real question is, \N"When will we see results?"
+Dialogue: 0,0:05:01.69,0:05:02.96,Default,,0,0,0,,When, pray tell?
+Dialogue: 0,0:05:02.96,0:05:07.44,Default,,0,0,0,,Well... I'll delegate answering that to Arachnea-kun.
+Dialogue: 0,0:05:07.44,0:05:09.95,Default,,0,0,0,,Huh?! M-Me?
+Dialogue: 0,0:05:10.92,0:05:13.66,Default,,0,0,0,,Why can they still dream? {fsc}
+Dialogue: 0,0:05:14.46,0:05:16.12,Default,,0,0,0,,D-Despariah-sama!
+Dialogue: 0,0:05:16.52,0:05:21.46,Default,,0,0,0,,The Palmier Kingdom has been destroyed, \Nleaving them in despair.
+Dialogue: 0,0:05:21.46,0:05:23.79,Default,,0,0,0,,And yet, why do they dream?
+Dialogue: 0,0:05:23.79,0:05:27.72,Default,,0,0,0,,B-B-Because... They have the Dream Collet?
+Dialogue: 0,0:05:27.72,0:05:32.72,Default,,0,0,0,,Without hope, one holds no dreams. \NWhere is hope born from?
+Dialogue: 0,0:05:33.24,0:05:35.09,Default,,0,0,0,,From a thin paycheck? {some1 who helps them}
+Dialogue: 0,0:05:35.09,0:05:39.68,Default,,80,80,0,,There are people protecting the Dream Collet,\N which is the source of the hope.
+Dialogue: 0,0:05:40.06,0:05:43.69,Default,,0,0,0,,They are known as the\N legendary warriors, Pretty Cure!
+Dialogue: 0,0:05:44.76,0:05:49.69,Default,,0,0,0,,Let them dream no longer!\N Defeat Pretty Cure, and crush their hope!
+Dialogue: 0,0:05:50.30,0:05:53.70,Default,,0,0,0,,And then plunge the world into despair!
+Dialogue: 0,0:05:53.70,0:05:55.41,Default,,0,0,0,,Yes!
+Dialogue: 0,0:05:56.27,0:05:59.75,Rin,,0,0,0,,Nuts, don't you think that was cruel?
+Dialogue: 0,0:05:59.75,0:06:02.09,Rin,,0,0,0,,Why did you have to talk like that?
+Dialogue: 0,0:06:02.09,0:06:05.48,Nuts,,0,0,0,,She asked for my opinion, \Nand I gave it to her. That's all.
+Dialogue: 0,0:06:05.48,0:06:10.45,Urara,,0,0,0,,Komachi-san put her heart into writing it.\N And you shot her down!
+Dialogue: 0,0:06:10.45,0:06:12.26,Nuts,,0,0,0,,Would you rather I'd lied?
+Dialogue: 0,0:06:12.26,0:06:14.86,Rin,,0,0,0,,Couldn't you have\N sugarcoated things a {\i1}little?
+Dialogue: 0,0:06:14.86,0:06:17.18,Nozomi,,0,0,0,,Komachi-san might not come tomorrow.
+Dialogue: 0,0:06:17.59,0:06:20.53,Nozomi,,0,0,0,,The mamedaifuku train\N might not stop here anymore.
+Dialogue: 0,0:06:21.54,0:06:23.40,Nuts,,0,0,0,,This conversation's over.
+Dialogue: 0,0:06:24.15,0:06:26.02,Rin,,0,0,0,,Hey, Nuts!
+Dialogue: 0,0:06:39.57,0:06:42.65,Nuts,,0,0,0,,I was just telling the truth\N about what I felt.
+Dialogue: 0,0:06:42.65,0:06:44.85,Coco,,0,0,0,,I didn't say anything, did I?
+Dialogue: 0,0:06:44.85,0:06:47.02,Nuts,,0,0,0,,Your face says you wanted to.
+Dialogue: 0,0:06:47.53,0:06:49.91,Nuts,,0,0,0,,Do you think I was wrong?
+Dialogue: 0,0:06:50.38,0:06:53.93,Coco,,0,0,0,,Not really. \NI thought it was very "you," Nuts.
+Dialogue: 0,0:06:54.79,0:06:56.39,Nuts,,0,0,0,,Very "me"?
+Dialogue: 0,0:06:56.66,0:07:01.85,Coco,,0,0,0,,An awkward person who's honest to a fault,\N never uttering a compliment...
+Dialogue: 0,0:07:03.60,0:07:08.60,Coco,,0,0,0,,Someone who gets angry at himself for hurting Komachi, right?
+Dialogue: 0,0:07:10.14,0:07:11.71,Nuts,,0,0,0,,So what?
+Dialogue: 0,0:07:11.71,0:07:14.12,Nuts,,0,0,0,,What should I do?
+Dialogue: 0,0:07:14.12,0:07:16.96,Coco,,0,0,0,,Admit that you're powerless on your own?
+Dialogue: 0,0:07:16.96,0:07:20.62,Coco,,0,0,0,,Although if you INSIST,\N I suppose I could lend you a hand.
+Dialogue: 0,0:07:21.22,0:07:24.91,Nuts,,0,0,0,,I don't need your help!\N I'll do something about it myself!
+Dialogue: 0,0:07:29.05,0:07:31.13,Coco,,0,0,0,,Good luck.
+Dialogue: 0,0:07:33.72,0:07:36.09,Karen,,0,0,0,,Now look, everyone has different tastes.
+Dialogue: 0,0:07:36.09,0:07:39.98,Karen,,0,0,0,,That story just wasn't something that Nuts would've enjoyed.
+Dialogue: 0,0:07:39.98,0:07:42.72,Karen,,0,0,0,,So don't worry yourself about it.
+Dialogue: 0,0:07:43.35,0:07:45.97,Karen,,0,0,0,,I liked "Pirate Hurricane."
+Dialogue: 0,0:07:45.97,0:07:49.60,Karen,,0,0,0,,It was really exciting, \Nand it's holding me in suspense.
+Dialogue: 0,0:07:50.01,0:07:52.73,Komachi,,0,0,0,,Karen, don't worry about me.
+Dialogue: 0,0:07:53.04,0:07:55.40,Komachi,,0,0,0,,I'll... be fine.
+Dialogue: 0,0:07:55.99,0:07:57.24,Karen,,0,0,0,,Really?
+Dialogue: 0,0:07:57.24,0:07:59.25,Komachi,,0,0,0,,Isn't it time you went home?
+Dialogue: 0,0:07:59.25,0:08:02.12,Komachi,,0,0,0,,You shouldn't keep Sakamoto-san waiting. {And haven't you heard that he's Sakamoto?}
+Dialogue: 0,0:08:02.82,0:08:04.87,Komachi,,0,0,0,,I'm going home, too.
+Dialogue: 0,0:08:04.87,0:08:07.65,Karen,,0,0,0,,Okay. You can call me any time.
+Dialogue: 0,0:08:07.65,0:08:09.87,Komachi,,0,0,0,,Sure, thank you.
+Dialogue: 0,0:08:22.29,0:08:25.43,Default,,0,0,0,,{\t(2335,3127,\c&H000103&\3c&H000103&\4c&H000103&)}The scent of despair is in the air.
+Dialogue: 0,0:08:36.78,0:08:38.15,Nuts,,0,0,0,,Dang it.
+Dialogue: 0,0:08:38.92,0:08:41.62,Nuts,,0,0,0,,{Isn't there a book that has a way to settle this?}I thought books had \Nthe answers to everything.
+Dialogue: 0,0:08:44.70,0:08:46.08,Nuts,,0,0,0,,Should I apologize?
+Dialogue: 0,0:08:46.08,0:08:49.82,Nuts,,0,0,0,,No. I can understand apologizing\N if I'd told a lie.
+Dialogue: 0,0:08:49.82,0:08:53.92,Nuts,,0,0,0,,But why should I apologize for telling her the truth?
+Dialogue: 0,0:09:06.07,0:09:07.53,Rin,,0,0,0,,A female biker?
+Dialogue: 0,0:09:07.53,0:09:09.14,Urara,,0,0,0,,Pretty cool...
+Dialogue: 0,0:09:09.14,0:09:11.39,Nuts,,0,0,0,,Hey, that noise is too loud.
+Dialogue: 0,0:09:11.39,0:09:13.31,Default,,0,0,0,,But I'm a customer.
+Dialogue: 0,0:09:13.80,0:09:16.33,Nuts,,0,0,0,,Customer or not, you're being a nuisance.
+Dialogue: 0,0:09:16.33,0:09:17.72,Nozomi,,0,0,0,,Hey, Nuts!
+Dialogue: 0,0:09:17.72,0:09:19.78,Rin,,0,0,0,,This is {\i1}not{\i0}{\fscx133} {\r}quality customer service!
+Dialogue: 0,0:09:19.78,0:09:23.87,Nuts,,0,0,0,,There's no need to be polite with someone who keeps their face hidden like that!
+Dialogue: 0,0:09:25.13,0:09:26.83,Default,,0,0,0,,Oh, I see.
+Dialogue: 0,0:09:30.67,0:09:34.00,Default,,0,0,0,,It's just as you said. \N I apologize for acting rude.
+Dialogue: 0,0:09:34.00,0:09:35.34,Default,,0,0,0,,Sorry about that.
+Dialogue: 0,0:09:35.34,0:09:37.26,Default,,0,0,0,,K-Komachi-san?!
+Dialogue: 0,0:09:37.26,0:09:38.74,Rin,,0,0,0,,No way!
+Dialogue: 0,0:09:38.74,0:09:40.59,Urara,,0,0,0,,You said you had\N stuff to do at home!
+Dialogue: 0,0:09:40.59,0:09:42.72,Nozomi,,0,0,0,,Wait, are you really Komachi-san?
+Dialogue: 0,0:09:43.19,0:09:44.99,Karen,,0,0,0,,Madoka-san, correct?
+Dialogue: 0,0:09:44.99,0:09:46.80,Default,,0,0,0,,Long time no see, Karen-chan.
+Dialogue: 0,0:09:46.80,0:09:49.13,Default,,0,0,0,,Thanks for looking out\N for my little sister.
+Dialogue: 0,0:09:49.13,0:09:50.36,Default,,0,0,0,,"Little sister"?
+Dialogue: 0,0:09:50.36,0:09:52.90,Default,,0,0,0,,I'm Komachi's older sister,\N Akimoto Madoka.
+Dialogue: 0,0:09:52.90,0:09:54.56,Default,,0,0,0,,Nice to meetcha!
 Comment: 0,0:09:57.03,0:09:57.49,Default,,0,0,0,,It STINKS!
 Comment: 0,0:10:19.84,0:10:33.94,Default,,0,0,0,,Part 2 = 10:34.009
-Dialogue: 0,0:10:36.08,0:10:37.62,Karen,,0,0,0,,Why did you come here? {resume edit}
-Dialogue: 0,0:10:37.62,0:10:39.76,Default,,0,0,0,,Just running a little errand.
-Dialogue: 0,0:10:39.76,0:10:43.29,Default,,0,0,0,,Who is it that loves\Nour shop's mamedaifuku?
-Dialogue: 0,0:10:48.37,0:10:51.92,Default,,0,0,0,,Here. Komachi sent these.
-Dialogue: 0,0:10:57.13,0:10:59.32,Default,,0,0,0,,Komachi-san is so kind!
-Dialogue: 0,0:10:59.32,0:11:00.81,Rin,,0,0,0,,How adult of her.
-Dialogue: 0,0:11:00.81,0:11:03.14,Rin,,0,0,0,,You should follow her example, Nuts!
-Dialogue: 0,0:11:03.61,0:11:06.69,Nuts,,0,0,0,,There's no point giving out dishonest opinions.
-Dialogue: 0,0:11:06.69,0:11:08.60,Nuts,,0,0,0,,{Ar: It's not just for the sake of the person.}It won't do anyone any good.
-Dialogue: 0,0:11:08.60,0:11:12.23,Karen,,0,0,0,,So you don't mind hurting people,\N as long as you're telling the truth?
-Dialogue: 0,0:11:12.23,0:11:14.57,Urara,,0,0,0,,You should go apologize right now.
-Dialogue: 0,0:11:14.95,0:11:16.57,Default,,0,0,0,,So that's the deal.
-Dialogue: 0,0:11:17.61,0:11:20.38,Default,,0,0,0,,Nuts-san, don't worry about it.
-Dialogue: 0,0:11:20.38,0:11:24.40,Default,,0,0,0,,She's weak enough to get all sulky\N after getting her feelings hurt a little.
-Dialogue: 0,0:11:24.40,0:11:25.54,Karen,,0,0,0,,That's not...!
-Dialogue: 0,0:11:26.03,0:11:31.00,Default,,0,0,0,,If she can't take this much criticism, \N it's impossible for her to be a novelist.
-Dialogue: 0,0:11:31.00,0:11:32.96,Default,,0,0,0,,It's not impossible!
-Dialogue: 0,0:11:32.96,0:11:38.09,Nozomi,,0,0,0,,Komachi-san is always writing \Nwhen she's working at the library! {Wouldn't that mean she's slacking on the job?}
-Dialogue: 0,0:11:38.09,0:11:41.18,Nozomi,,0,0,0,,If she's able to work that hard,\N she must have amazing talent! {for her to be able to work that hard, she must have...}
-Dialogue: 0,0:11:41.48,0:11:44.89,Rin,,0,0,0,,It's like improving at sports through motivation and practice.
-Dialogue: 0,0:11:44.89,0:11:47.43,Rin,,0,0,0,,If she tries her best at writing, she'll improve!
-Dialogue: 0,0:11:47.43,0:11:51.36,Urara,,0,0,0,,Like that boy in her story who never lets his troubles get him down,
-Dialogue: 0,0:11:51.36,0:11:54.59,Urara,,0,0,0,,I'm trying my best to be \Nan actress no matter what! {sb ok}
-Dialogue: 0,0:11:54.59,0:11:58.60,Karen,,0,0,0,,The writer's feelings are paramount,\N more so in writing than in art.
-Dialogue: 0,0:11:58.60,0:12:02.95,Karen,,0,0,0,,Komachi {\i1}can{\i0}{\fscx133} {\r}become a great author,\N because her feelings are just that strong!
-Dialogue: 0,0:12:02.95,0:12:04.12,Nozomi,,0,0,0,,We're all...
-Dialogue: 0,0:12:04.52,0:12:06.78,Default,,0,0,0,,...supporting Komachi-san!
-Dialogue: 0,0:12:08.14,0:12:10.00,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:12:10.00,0:12:13.46,Default,,0,0,0,,{I'll make sure to tell Komachi about everyone's encouragement.} I'll be sure to pass \Nyour encouragement on to Komachi.
-Dialogue: 0,0:12:13.91,0:12:16.29,Default,,0,0,0,,Thanks for the tea. See you later.
-Dialogue: 0,0:12:16.29,0:12:17.64,Nuts,,0,0,0,,Please, wait.
-Dialogue: 0,0:12:20.07,0:12:22.43,Nuts,,0,0,0,,I have a favor to ask.
-Dialogue: 0,0:12:30.56,0:12:32.64,Default,,0,0,0,,Komachi, I'm coming in.
-Dialogue: 0,0:12:35.25,0:12:36.39,Komachi,,0,0,0,,Onee-chan?
-Dialogue: 0,0:12:36.39,0:12:37.40,Default,,0,0,0,,You have a guest.
-Dialogue: 0,0:12:43.88,0:12:45.52,Default,,0,0,0,,Take it easy now.
-Dialogue: 0,0:13:08.56,0:13:11.10,Nuts,,0,0,0,,Have you been working on your novel?
-Dialogue: 0,0:13:11.56,0:13:14.02,Komachi,,0,0,0,,I've got... writer's block.
-Dialogue: 0,0:13:14.47,0:13:17.23,Nuts,,0,0,0,,What about your dream of becoming an author?
-Dialogue: 0,0:13:18.13,0:13:23.19,Komachi,,0,0,0,,I put everything I had into\N writing "Pirate Hurricane."
-Dialogue: 0,0:13:23.64,0:13:26.67,Komachi,,0,0,0,,I'm embarrassed that I ever\N felt proud about it.
-Dialogue: 0,0:13:26.67,0:13:28.20,Komachi,,0,0,0,,If it's no good, then...
-Dialogue: 0,0:13:28.56,0:13:31.92,Komachi,,0,0,0,,Then I'm simply devoid of talent.
-Dialogue: 0,0:13:33.17,0:13:34.88,Nuts,,0,0,0,,Is that all there is?
-Dialogue: 0,0:13:36.14,0:13:38.92,Nuts,,0,0,0,,You're going to up and quit,\N just like that?
-Dialogue: 0,0:13:39.59,0:13:43.40,Nuts,,0,0,0,,Are your dreams so worthless\N that you'd sell them away for nothing?!
-Dialogue: 0,0:13:43.40,0:13:44.97,Karen,,0,0,0,,Nuts!
-Dialogue: 0,0:13:45.39,0:13:47.87,Karen,,0,0,0,,Didn't you come here to cheer her up?!
-Dialogue: 0,0:13:47.87,0:13:49.67,Rin,,0,0,0,,Yeah! What's with the scolding?
-Dialogue: 0,0:13:49.67,0:13:51.88,Urara,,0,0,0,,Please consider Komachi-san's feelings!
-Dialogue: 0,0:13:51.88,0:13:55.09,Nozomi,,0,0,0,,Um, um... Let's all calm down, okay?
-Dialogue: 0,0:13:55.94,0:13:57.54,Komachi,,0,0,0,,E-Everyone...?
-Dialogue: 0,0:13:57.54,0:14:00.15,Nuts,,0,0,0,,I'm not mad, I'm just...
-Dialogue: 0,0:14:02.48,0:14:04.19,Nozomi,,0,0,0,,C'mon, you guys...
-Dialogue: 0,0:14:04.19,0:14:05.61,Coco,,0,0,0,,Something's appeared-coco!
-Dialogue: 0,0:14:08.87,0:14:09.99,Nuts,,0,0,0,,Be careful!
-Dialogue: 0,0:14:12.49,0:14:16.06,Default,,0,0,0,,Hey, keep it down!\N You'll bother the neighbors!
-Dialogue: 0,0:14:29.53,0:14:30.87,Karen,,0,0,0,,Where are we?
-Dialogue: 0,0:14:32.50,0:14:33.70,Rin,,0,0,0,,Is this a dream?
-Dialogue: 0,0:14:33.70,0:14:35.96,Nozomi,,0,0,0,,Ow, ow, ow! That hurts!
-Dialogue: 0,0:14:35.96,0:14:37.53,Rin,,0,0,0,,Guess it's not a dream.
-Dialogue: 0,0:14:37.53,0:14:39.02,Nozomi,,0,0,0,,Rin-chan, pinch yourself!
-Dialogue: 0,0:14:39.02,0:14:41.02,Karen,,0,0,0,,Where in the world are we?
-Dialogue: 0,0:14:41.02,0:14:41.98,Urara,,0,0,0,,The sea.
-Dialogue: 0,0:14:43.88,0:14:44.96,Urara,,0,0,0,,It's salty.
-Dialogue: 0,0:14:44.96,0:14:46.65,Karen,,0,0,0,,The real ocean?
-Dialogue: 0,0:14:48.92,0:14:50.87,Komachi,,0,0,0,,That ship...
-Dialogue: 0,0:14:51.31,0:14:53.28,Komachi,,0,0,0,,Inconceivable!
-Dialogue: 0,0:14:55.50,0:14:58.62,Default,,0,0,0,,We're all inside the story you created.
-Dialogue: 0,0:14:59.05,0:15:01.50,Default,,0,0,0,,Does it suit your interests?
-Dialogue: 0,0:15:01.50,0:15:03.09,Default,,0,0,0,,Nightmare!
-Dialogue: 0,0:15:03.37,0:15:06.55,Default,,0,0,0,,I'll take you all down for good,\N right here and now!
-Dialogue: 0,0:15:21.12,0:15:25.11,Default,,0,0,0,,Pretty Cure Metamorphose!
-Dialogue: 0,0:16:07.89,0:16:12.25,Nozomi,,0,0,0,,The Great Power of Hope, Cure Dream!
-Dialogue: 0,0:16:13.62,0:16:18.67,Rin,,0,0,0,,The Red Flame of Passion, Cure Rouge!
-Dialogue: 0,0:16:20.33,0:16:24.70,Urara,,0,0,0,,The Effervescent Scent of Lemon, Cure Lemonade!
-Dialogue: 0,0:16:26.29,0:16:31.45,Komachi,,0,0,0,,The Tranquility of the Green Earth, Cure Mint!
-Dialogue: 0,0:16:33.19,0:16:37.47,Karen,,0,0,0,,The Blue Spring of Intelligence, Cure Aqua!
-Dialogue: 0,0:16:39.71,0:16:41.10,Nozomi,,0,0,0,,With the Power of Hope...
-Dialogue: 0,0:16:41.53,0:16:42.98,Default,,0,0,0,,...and the Light of the Future!
-Dialogue: 0,0:16:44.02,0:16:46.86,Default,,0,0,0,,Our five beautiful hearts will soar!
-Dialogue: 0,0:16:47.86,0:16:50.86,Default,,0,0,0,,Yes! Pretty Cure 5!
-Dialogue: 0,0:16:58.70,0:16:59.99,Rin,,0,0,0,,Dream!
-Dialogue: 0,0:16:59.99,0:17:01.12,Rin,,0,0,0,,Why you...!
-Dialogue: 0,0:17:23.75,0:17:25.48,Default,,0,0,0,,Dream, Aqua!
-Dialogue: 0,0:17:29.27,0:17:33.53,Default,,0,0,0,,"Everyone on board scored \Na 1-way ticket to Davy Jones's locker."
-Dialogue: 0,0:17:35.31,0:17:38.58,Default,,0,0,0,,That's the ending of this story!
-Dialogue: 0,0:17:39.37,0:17:40.97,Nuts,,0,0,0,,Mint...
-Dialogue: 0,0:17:41.51,0:17:43.87,Default,,0,0,0,,Oh, no need to thank me.
-Dialogue: 0,0:17:43.87,0:17:48.59,Default,,0,0,0,,This novel you wrote gave me\N enough inspiration to complete my job.
-Dialogue: 0,0:17:50.76,0:17:52.38,Komachi,,0,0,0,,I'm sorry...
-Dialogue: 0,0:17:52.75,0:17:56.26,Komachi,,0,0,0,,It's all because of my novel that everyone is...
-Dialogue: 0,0:17:57.21,0:17:59.11,Nuts,,0,0,0,,Why're you apologizing-nuts?
-Dialogue: 0,0:17:59.11,0:18:01.94,Nuts,,0,0,0,,Mint, did you do anything wrong-nuts?
-Dialogue: 0,0:18:02.77,0:18:06.61,Nuts,,0,0,0,,Aren't you upset at the\N loss of authorial control here?
-Dialogue: 0,0:18:06.61,0:18:08.73,Nuts,,0,0,0,,Aren't you angry that you're being used-nuts?!
-Dialogue: 0,0:18:09.28,0:18:10.69,Komachi,,0,0,0,,But...
-Dialogue: 0,0:18:10.69,0:18:15.36,Nuts,,0,0,0,,If you just blame yourself and get depressed, nothing will change-nuts.
-Dialogue: 0,0:18:15.36,0:18:17.70,Nuts,,0,0,0,,Nobody's born a great writer-nuts!
-Dialogue: 0,0:18:18.33,0:18:22.31,Nuts,,0,0,0,,Everyone makes mistakes, repeats those mistakes...
-Dialogue: 0,0:18:22.31,0:18:23.78,Nuts,,0,0,0,,And even so...
-Dialogue: 0,0:18:24.37,0:18:28.08,Nozomi,,0,0,0,,If you screw up, \Nyou should try again and fix it!
-Dialogue: 0,0:18:29.37,0:18:32.05,Nozomi,,0,0,0,,You'll overcome the challenge somehow!
-Dialogue: 0,0:18:33.50,0:18:36.80,Nuts,,0,0,0,,If you keep writing, \N you'll keep getting better-nuts!
-Dialogue: 0,0:18:36.80,0:18:39.67,Nuts,,0,0,0,,If you don't give up, you'll surely...
-Dialogue: 0,0:18:39.67,0:18:42.49,Nuts,,0,0,0,,So... So...
-Dialogue: 0,0:18:42.49,0:18:44.97,Nuts,,0,0,0,,Don't give up on your dream-nuts!
-Dialogue: 0,0:18:46.15,0:18:47.94,Komachi,,0,0,0,,Nuts-san...
-Dialogue: 0,0:19:03.41,0:19:07.25,Default,,0,0,0,,I found the Dream Collet!
-Dialogue: 0,0:19:11.08,0:19:12.54,Nuts,,0,0,0,,W-Why?
-Dialogue: 0,0:19:12.54,0:19:15.10,Default,,0,0,0,,Hand over the Dream Collet.
-Dialogue: 0,0:19:15.10,0:19:16.51,Nuts,,0,0,0,,N-No-nuts!
-Dialogue: 0,0:19:17.67,0:19:19.47,Default,,0,0,0,,Give it to me!
-Dialogue: 0,0:19:24.58,0:19:27.13,Komachi,,0,0,0,,This story is not a tragedy!
-Dialogue: 0,0:19:28.20,0:19:31.86,Komachi,,0,0,0,,No matter what happens, \N the protagonist never gives up!
-Dialogue: 0,0:19:31.86,0:19:36.36,Komachi,,0,0,0,,Even when he's in despair, he has \Nthe courage to stand up and fight again!
-Dialogue: 0,0:19:36.36,0:19:39.01,Default,,0,0,0,,Sounds like a trite \Nand lame plotline to {\i1}me!
-Dialogue: 0,0:19:39.01,0:19:40.86,Default,,0,0,0,,Time to put it out of its misery.
-Dialogue: 0,0:19:40.86,0:19:43.16,Komachi,,0,0,0,,This is {\i1}my{\i0}{\fscx133} {\r}story!
-Dialogue: 0,0:19:44.41,0:19:46.58,Komachi,,0,0,0,,And{\i1} you{\i0}{\fscx133} {\r}don't get\N to meddle with the ending!
-Dialogue: 0,0:19:52.13,0:19:55.13,Komachi,,0,0,0,,Pretty Cure Mint Protection!
-Dialogue: 0,0:19:57.20,0:19:58.80,Komachi,,0,0,0,,Do it now, girls!
-Dialogue: 0,0:19:59.78,0:20:01.34,Nozomi,,0,0,0,,Let's go!
-Dialogue: 0,0:20:01.34,0:20:02.22,Default,,0,0,0,,Yes!
-Dialogue: 0,0:20:07.39,0:20:10.56,Urara,,0,0,0,,Pretty Cure Lemonade Flash!
-Dialogue: 0,0:20:19.15,0:20:24.49,Karen,,0,0,0,,You'd better think twice about \Ntrampling all over Mint's precious story!
-Dialogue: 0,0:20:26.33,0:20:30.62,Karen,,0,0,0,,Pretty Cure Aqua Stream!
-Dialogue: 0,0:20:39.33,0:20:40.72,Default,,0,0,0,,What?
-Dialogue: 0,0:20:41.09,0:20:44.26,Default,,0,0,0,,This story's lamer than lame! One star!
-Dialogue: 0,0:20:56.96,0:20:58.29,Komachi,,0,0,0,,Nuts-san.
-Dialogue: 0,0:21:16.51,0:21:18.71,Nuts,,0,0,0,,Hang on a sec.
-Dialogue: 0,0:21:24.53,0:21:26.47,Nuts,,0,0,0,,There's lots of room for improvement.
-Dialogue: 0,0:21:28.06,0:21:31.04,Nuts,,0,0,0,,But the main character isn't bad.
-Dialogue: 0,0:21:31.94,0:21:35.91,Nuts,,0,0,0,,And the idea of combining a hurricane with pirates is all right, too.
-Dialogue: 0,0:21:35.91,0:21:39.65,Nuts,,0,0,0,,If you keep polishing it,\N you can bring out its potential.
-Dialogue: 0,0:21:39.65,0:21:40.97,Nozomi,,0,0,0,,Nuts...
-Dialogue: 0,0:21:40.97,0:21:43.11,Rin,,0,0,0,,You really suck at compliments.
-Dialogue: 0,0:21:43.77,0:21:45.57,Nuts,,0,0,0,,Quiet, you... Here.
-Dialogue: 0,0:21:47.56,0:21:50.17,Komachi,,0,0,0,,I... I'll rewrite it.
-Dialogue: 0,0:21:50.17,0:21:52.81,Komachi,,0,0,0,,Although it might take me a while.
-Dialogue: 0,0:21:54.88,0:21:57.24,Komachi,,0,0,0,,Will you read the next draft?
-Dialogue: 0,0:21:57.24,0:21:58.54,Nuts,,0,0,0,,Yeah.
-Dialogue: 0,0:21:58.54,0:22:03.19,Nozomi,,0,0,0,,Nuts, aren't you glad the \Nmamedaifuku train's up and running again?
-Dialogue: 0,0:22:03.19,0:22:05.33,Rin,,0,0,0,,That's not what he's glad about!
-Dialogue: 0,0:22:06.43,0:22:09.93,Default,,0,0,0,,Huh? When'd they all get back?
+Dialogue: 0,0:10:36.20,0:10:37.74,Karen,,0,0,0,,Why did you come here? {resume edit}
+Dialogue: 0,0:10:37.74,0:10:39.88,Default,,0,0,0,,Just running a little errand.
+Dialogue: 0,0:10:39.88,0:10:43.41,Default,,0,0,0,,Who is it that loves\Nour shop's mamedaifuku?
+Dialogue: 0,0:10:48.49,0:10:52.04,Default,,0,0,0,,Here. Komachi sent these.
+Dialogue: 0,0:10:57.25,0:10:59.44,Default,,0,0,0,,Komachi-san is so kind!
+Dialogue: 0,0:10:59.44,0:11:00.93,Rin,,0,0,0,,How adult of her.
+Dialogue: 0,0:11:00.93,0:11:03.26,Rin,,0,0,0,,You should follow her example, Nuts!
+Dialogue: 0,0:11:03.73,0:11:06.81,Nuts,,0,0,0,,There's no point giving out dishonest opinions.
+Dialogue: 0,0:11:06.81,0:11:08.72,Nuts,,0,0,0,,{Ar: It's not just for the sake of the person.}It won't do anyone any good.
+Dialogue: 0,0:11:08.72,0:11:12.35,Karen,,0,0,0,,So you don't mind hurting people,\N as long as you're telling the truth?
+Dialogue: 0,0:11:12.35,0:11:14.69,Urara,,0,0,0,,You should go apologize right now.
+Dialogue: 0,0:11:15.07,0:11:16.69,Default,,0,0,0,,So that's the deal.
+Dialogue: 0,0:11:17.73,0:11:20.50,Default,,0,0,0,,Nuts-san, don't worry about it.
+Dialogue: 0,0:11:20.50,0:11:24.52,Default,,0,0,0,,She's weak enough to get all sulky\N after getting her feelings hurt a little.
+Dialogue: 0,0:11:24.52,0:11:25.66,Karen,,0,0,0,,That's not...!
+Dialogue: 0,0:11:26.15,0:11:31.12,Default,,0,0,0,,If she can't take this much criticism, \N it's impossible for her to be a novelist.
+Dialogue: 0,0:11:31.12,0:11:33.08,Default,,0,0,0,,It's not impossible!
+Dialogue: 0,0:11:33.08,0:11:38.21,Nozomi,,0,0,0,,Komachi-san is always writing \Nwhen she's working at the library! {Wouldn't that mean she's slacking on the job?}
+Dialogue: 0,0:11:38.21,0:11:41.30,Nozomi,,0,0,0,,If she's able to work that hard,\N she must have amazing talent! {for her to be able to work that hard, she must have...}
+Dialogue: 0,0:11:41.60,0:11:45.01,Rin,,0,0,0,,It's like improving at sports through motivation and practice.
+Dialogue: 0,0:11:45.01,0:11:47.55,Rin,,0,0,0,,If she tries her best at writing, she'll improve!
+Dialogue: 0,0:11:47.55,0:11:51.48,Urara,,0,0,0,,Like that boy in her story who never lets his troubles get him down,
+Dialogue: 0,0:11:51.48,0:11:54.71,Urara,,0,0,0,,I'm trying my best to be \Nan actress no matter what! {sb ok}
+Dialogue: 0,0:11:54.71,0:11:58.72,Karen,,0,0,0,,The writer's feelings are paramount,\N more so in writing than in art.
+Dialogue: 0,0:11:58.72,0:12:03.07,Karen,,0,0,0,,Komachi {\i1}can{\i0}{\fscx133} {\r}become a great author,\N because her feelings are just that strong!
+Dialogue: 0,0:12:03.07,0:12:04.24,Nozomi,,0,0,0,,We're all...
+Dialogue: 0,0:12:04.64,0:12:06.90,Default,,0,0,0,,...supporting Komachi-san!
+Dialogue: 0,0:12:08.26,0:12:10.12,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:12:10.12,0:12:13.58,Default,,0,0,0,,{I'll make sure to tell Komachi about everyone's encouragement.} I'll be sure to pass \Nyour encouragement on to Komachi.
+Dialogue: 0,0:12:14.03,0:12:16.41,Default,,0,0,0,,Thanks for the tea. See you later.
+Dialogue: 0,0:12:16.41,0:12:17.76,Nuts,,0,0,0,,Please, wait.
+Dialogue: 0,0:12:20.19,0:12:22.55,Nuts,,0,0,0,,I have a favor to ask.
+Dialogue: 0,0:12:30.68,0:12:32.76,Default,,0,0,0,,Komachi, I'm coming in.
+Dialogue: 0,0:12:35.37,0:12:36.51,Komachi,,0,0,0,,Onee-chan?
+Dialogue: 0,0:12:36.51,0:12:37.52,Default,,0,0,0,,You have a guest.
+Dialogue: 0,0:12:44.00,0:12:45.64,Default,,0,0,0,,Take it easy now.
+Dialogue: 0,0:13:08.68,0:13:11.22,Nuts,,0,0,0,,Have you been working on your novel?
+Dialogue: 0,0:13:11.68,0:13:14.14,Komachi,,0,0,0,,I've got... writer's block.
+Dialogue: 0,0:13:14.59,0:13:17.35,Nuts,,0,0,0,,What about your dream of becoming an author?
+Dialogue: 0,0:13:18.25,0:13:23.31,Komachi,,0,0,0,,I put everything I had into\N writing "Pirate Hurricane."
+Dialogue: 0,0:13:23.76,0:13:26.79,Komachi,,0,0,0,,I'm embarrassed that I ever\N felt proud about it.
+Dialogue: 0,0:13:26.79,0:13:28.32,Komachi,,0,0,0,,If it's no good, then...
+Dialogue: 0,0:13:28.68,0:13:32.04,Komachi,,0,0,0,,Then I'm simply devoid of talent.
+Dialogue: 0,0:13:33.29,0:13:35.00,Nuts,,0,0,0,,Is that all there is?
+Dialogue: 0,0:13:36.26,0:13:39.04,Nuts,,0,0,0,,You're going to up and quit,\N just like that?
+Dialogue: 0,0:13:39.71,0:13:43.52,Nuts,,0,0,0,,Are your dreams so worthless\N that you'd sell them away for nothing?!
+Dialogue: 0,0:13:43.52,0:13:45.09,Karen,,0,0,0,,Nuts!
+Dialogue: 0,0:13:45.51,0:13:47.99,Karen,,0,0,0,,Didn't you come here to cheer her up?!
+Dialogue: 0,0:13:47.99,0:13:49.79,Rin,,0,0,0,,Yeah! What's with the scolding?
+Dialogue: 0,0:13:49.79,0:13:52.00,Urara,,0,0,0,,Please consider Komachi-san's feelings!
+Dialogue: 0,0:13:52.00,0:13:55.21,Nozomi,,0,0,0,,Um, um... Let's all calm down, okay?
+Dialogue: 0,0:13:56.06,0:13:57.66,Komachi,,0,0,0,,E-Everyone...?
+Dialogue: 0,0:13:57.66,0:14:00.27,Nuts,,0,0,0,,I'm not mad, I'm just...
+Dialogue: 0,0:14:02.60,0:14:04.31,Nozomi,,0,0,0,,C'mon, you guys...
+Dialogue: 0,0:14:04.31,0:14:05.73,Coco,,0,0,0,,Something's appeared-coco!
+Dialogue: 0,0:14:08.99,0:14:10.11,Nuts,,0,0,0,,Be careful!
+Dialogue: 0,0:14:12.61,0:14:16.18,Default,,0,0,0,,Hey, keep it down!\N You'll bother the neighbors!
+Dialogue: 0,0:14:29.65,0:14:30.99,Karen,,0,0,0,,Where are we?
+Dialogue: 0,0:14:32.62,0:14:33.82,Rin,,0,0,0,,Is this a dream?
+Dialogue: 0,0:14:33.82,0:14:36.08,Nozomi,,0,0,0,,Ow, ow, ow! That hurts!
+Dialogue: 0,0:14:36.08,0:14:37.65,Rin,,0,0,0,,Guess it's not a dream.
+Dialogue: 0,0:14:37.65,0:14:39.14,Nozomi,,0,0,0,,Rin-chan, pinch yourself!
+Dialogue: 0,0:14:39.14,0:14:41.14,Karen,,0,0,0,,Where in the world are we?
+Dialogue: 0,0:14:41.14,0:14:42.10,Urara,,0,0,0,,The sea.
+Dialogue: 0,0:14:44.00,0:14:45.08,Urara,,0,0,0,,It's salty.
+Dialogue: 0,0:14:45.08,0:14:46.77,Karen,,0,0,0,,The real ocean?
+Dialogue: 0,0:14:49.04,0:14:50.99,Komachi,,0,0,0,,That ship...
+Dialogue: 0,0:14:51.43,0:14:53.40,Komachi,,0,0,0,,Inconceivable!
+Dialogue: 0,0:14:55.62,0:14:58.74,Default,,0,0,0,,We're all inside the story you created.
+Dialogue: 0,0:14:59.17,0:15:01.62,Default,,0,0,0,,Does it suit your interests?
+Dialogue: 0,0:15:01.62,0:15:03.21,Default,,0,0,0,,Nightmare!
+Dialogue: 0,0:15:03.49,0:15:06.67,Default,,0,0,0,,I'll take you all down for good,\N right here and now!
+Dialogue: 0,0:15:21.24,0:15:25.23,Default,,0,0,0,,Pretty Cure Metamorphose!
+Dialogue: 0,0:16:08.01,0:16:12.37,Nozomi,,0,0,0,,The Great Power of Hope, Cure Dream!
+Dialogue: 0,0:16:13.74,0:16:18.79,Rin,,0,0,0,,The Red Flame of Passion, Cure Rouge!
+Dialogue: 0,0:16:20.45,0:16:24.82,Urara,,0,0,0,,The Effervescent Scent of Lemon, Cure Lemonade!
+Dialogue: 0,0:16:26.41,0:16:31.57,Komachi,,0,0,0,,The Tranquility of the Green Earth, Cure Mint!
+Dialogue: 0,0:16:33.31,0:16:37.59,Karen,,0,0,0,,The Blue Spring of Intelligence, Cure Aqua!
+Dialogue: 0,0:16:39.83,0:16:41.22,Nozomi,,0,0,0,,With the Power of Hope...
+Dialogue: 0,0:16:41.65,0:16:43.10,Default,,0,0,0,,...and the Light of the Future!
+Dialogue: 0,0:16:44.14,0:16:46.98,Default,,0,0,0,,Our five beautiful hearts will soar!
+Dialogue: 0,0:16:47.98,0:16:50.98,Default,,0,0,0,,Yes! Pretty Cure 5!
+Dialogue: 0,0:16:58.82,0:17:00.11,Rin,,0,0,0,,Dream!
+Dialogue: 0,0:17:00.11,0:17:01.24,Rin,,0,0,0,,Why you...!
+Dialogue: 0,0:17:23.87,0:17:25.60,Default,,0,0,0,,Dream, Aqua!
+Dialogue: 0,0:17:29.39,0:17:33.65,Default,,0,0,0,,"Everyone on board scored \Na 1-way ticket to Davy Jones's locker."
+Dialogue: 0,0:17:35.43,0:17:38.70,Default,,0,0,0,,That's the ending of this story!
+Dialogue: 0,0:17:39.49,0:17:41.09,Nuts,,0,0,0,,Mint...
+Dialogue: 0,0:17:41.63,0:17:43.99,Default,,0,0,0,,Oh, no need to thank me.
+Dialogue: 0,0:17:43.99,0:17:48.71,Default,,0,0,0,,This novel you wrote gave me\N enough inspiration to complete my job.
+Dialogue: 0,0:17:50.88,0:17:52.50,Komachi,,0,0,0,,I'm sorry...
+Dialogue: 0,0:17:52.87,0:17:56.38,Komachi,,0,0,0,,It's all because of my novel that everyone is...
+Dialogue: 0,0:17:57.33,0:17:59.23,Nuts,,0,0,0,,Why're you apologizing-nuts?
+Dialogue: 0,0:17:59.23,0:18:02.06,Nuts,,0,0,0,,Mint, did you do anything wrong-nuts?
+Dialogue: 0,0:18:02.89,0:18:06.73,Nuts,,0,0,0,,Aren't you upset at the\N loss of authorial control here?
+Dialogue: 0,0:18:06.73,0:18:08.85,Nuts,,0,0,0,,Aren't you angry that you're being used-nuts?!
+Dialogue: 0,0:18:09.40,0:18:10.81,Komachi,,0,0,0,,But...
+Dialogue: 0,0:18:10.81,0:18:15.48,Nuts,,0,0,0,,If you just blame yourself and get depressed, nothing will change-nuts.
+Dialogue: 0,0:18:15.48,0:18:17.82,Nuts,,0,0,0,,Nobody's born a great writer-nuts!
+Dialogue: 0,0:18:18.45,0:18:22.43,Nuts,,0,0,0,,Everyone makes mistakes, repeats those mistakes...
+Dialogue: 0,0:18:22.43,0:18:23.90,Nuts,,0,0,0,,And even so...
+Dialogue: 0,0:18:24.49,0:18:28.20,Nozomi,,0,0,0,,If you screw up, \Nyou should try again and fix it!
+Dialogue: 0,0:18:29.49,0:18:32.17,Nozomi,,0,0,0,,You'll overcome the challenge somehow!
+Dialogue: 0,0:18:33.62,0:18:36.92,Nuts,,0,0,0,,If you keep writing, \N you'll keep getting better-nuts!
+Dialogue: 0,0:18:36.92,0:18:39.79,Nuts,,0,0,0,,If you don't give up, you'll surely...
+Dialogue: 0,0:18:39.79,0:18:42.61,Nuts,,0,0,0,,So... So...
+Dialogue: 0,0:18:42.61,0:18:45.09,Nuts,,0,0,0,,Don't give up on your dream-nuts!
+Dialogue: 0,0:18:46.27,0:18:48.06,Komachi,,0,0,0,,Nuts-san...
+Dialogue: 0,0:19:03.53,0:19:07.37,Default,,0,0,0,,I found the Dream Collet!
+Dialogue: 0,0:19:11.20,0:19:12.66,Nuts,,0,0,0,,W-Why?
+Dialogue: 0,0:19:12.66,0:19:15.22,Default,,0,0,0,,Hand over the Dream Collet.
+Dialogue: 0,0:19:15.22,0:19:16.63,Nuts,,0,0,0,,N-No-nuts!
+Dialogue: 0,0:19:17.79,0:19:19.59,Default,,0,0,0,,Give it to me!
+Dialogue: 0,0:19:24.70,0:19:27.25,Komachi,,0,0,0,,This story is not a tragedy!
+Dialogue: 0,0:19:28.32,0:19:31.98,Komachi,,0,0,0,,No matter what happens, \N the protagonist never gives up!
+Dialogue: 0,0:19:31.98,0:19:36.48,Komachi,,0,0,0,,Even when he's in despair, he has \Nthe courage to stand up and fight again!
+Dialogue: 0,0:19:36.48,0:19:39.13,Default,,0,0,0,,Sounds like a trite \Nand lame plotline to {\i1}me!
+Dialogue: 0,0:19:39.13,0:19:40.98,Default,,0,0,0,,Time to put it out of its misery.
+Dialogue: 0,0:19:40.98,0:19:43.28,Komachi,,0,0,0,,This is {\i1}my{\i0}{\fscx133} {\r}story!
+Dialogue: 0,0:19:44.53,0:19:46.70,Komachi,,0,0,0,,And{\i1} you{\i0}{\fscx133} {\r}don't get\N to meddle with the ending!
+Dialogue: 0,0:19:52.25,0:19:55.25,Komachi,,0,0,0,,Pretty Cure Mint Protection!
+Dialogue: 0,0:19:57.32,0:19:58.92,Komachi,,0,0,0,,Do it now, girls!
+Dialogue: 0,0:19:59.90,0:20:01.46,Nozomi,,0,0,0,,Let's go!
+Dialogue: 0,0:20:01.46,0:20:02.34,Default,,0,0,0,,Yes!
+Dialogue: 0,0:20:07.51,0:20:10.68,Urara,,0,0,0,,Pretty Cure Lemonade Flash!
+Dialogue: 0,0:20:19.27,0:20:24.61,Karen,,0,0,0,,You'd better think twice about \Ntrampling all over Mint's precious story!
+Dialogue: 0,0:20:26.45,0:20:30.74,Karen,,0,0,0,,Pretty Cure Aqua Stream!
+Dialogue: 0,0:20:39.45,0:20:40.84,Default,,0,0,0,,What?
+Dialogue: 0,0:20:41.21,0:20:44.38,Default,,0,0,0,,This story's lamer than lame! One star!
+Dialogue: 0,0:20:57.08,0:20:58.41,Komachi,,0,0,0,,Nuts-san.
+Dialogue: 0,0:21:16.63,0:21:18.83,Nuts,,0,0,0,,Hang on a sec.
+Dialogue: 0,0:21:24.65,0:21:26.59,Nuts,,0,0,0,,There's lots of room for improvement.
+Dialogue: 0,0:21:28.18,0:21:31.16,Nuts,,0,0,0,,But the main character isn't bad.
+Dialogue: 0,0:21:32.06,0:21:36.03,Nuts,,0,0,0,,And the idea of combining a hurricane with pirates is all right, too.
+Dialogue: 0,0:21:36.03,0:21:39.77,Nuts,,0,0,0,,If you keep polishing it,\N you can bring out its potential.
+Dialogue: 0,0:21:39.77,0:21:41.09,Nozomi,,0,0,0,,Nuts...
+Dialogue: 0,0:21:41.09,0:21:43.23,Rin,,0,0,0,,You really suck at compliments.
+Dialogue: 0,0:21:43.89,0:21:45.69,Nuts,,0,0,0,,Quiet, you... Here.
+Dialogue: 0,0:21:47.68,0:21:50.29,Komachi,,0,0,0,,I... I'll rewrite it.
+Dialogue: 0,0:21:50.29,0:21:52.93,Komachi,,0,0,0,,Although it might take me a while.
+Dialogue: 0,0:21:55.00,0:21:57.36,Komachi,,0,0,0,,Will you read the next draft?
+Dialogue: 0,0:21:57.36,0:21:58.66,Nuts,,0,0,0,,Yeah.
+Dialogue: 0,0:21:58.66,0:22:03.31,Nozomi,,0,0,0,,Nuts, aren't you glad the \Nmamedaifuku train's up and running again?
+Dialogue: 0,0:22:03.31,0:22:05.45,Rin,,0,0,0,,That's not what he's glad about!
+Dialogue: 0,0:22:06.55,0:22:10.05,Default,,0,0,0,,Huh? When'd they all get back?
 Comment: 0,0:22:09.93,0:22:09.93,Default,,0,0,0,,ED = 22:09.997
-Dialogue: 0,0:22:13.93,0:22:16.90,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
-Dialogue: 0,0:22:13.93,0:22:16.90,ED 1 Romaji,,0,0,0,,{\k12}{\k20}yu{\k18}me {\k19}mi{\kf56}tai {\k30}koi {\k29}shi{\kf81}tai
-Dialogue: 0,0:22:16.90,0:22:19.77,ED 1 English,,0,0,0,,With all my heart!
-Dialogue: 0,0:22:16.90,0:22:19.77,ED 1 Romaji,,0,0,0,,{\k18}{\kf42}chou {\k18}me{\k37}ip{\kf150}pai
-Dialogue: 0,0:22:19.77,0:22:22.44,ED 1 English,,0,0,0,,With a smile and a good luck charm
-Dialogue: 0,0:22:19.77,0:22:22.44,ED 1 Romaji,,0,0,0,,{\k15}{\k18}ho{\k12}ho{\k21}e{\k25}n{\k38}de {\k21}o{\k18}ma{\k17}ji{\k20}na{\k48}i
-Dialogue: 0,0:22:22.44,0:22:26.32,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
-Dialogue: 0,0:22:22.44,0:22:26.32,ED 1 Romaji,,0,0,0,,{\k18}{\kf37}pu{\k18}ri{\k23}pu{\k17}ri{\k17}pu{\k19}ri{\k18}kyu{\k19}a {\kf179}faivu
-Dialogue: 0,0:22:26.82,0:22:28.87,ED 1 English,,0,0,0,,Yeah~!
-Dialogue: 0,0:22:26.82,0:22:28.87,ED 1 Romaji,,0,0,0,,{\k14}{\kf37}Ye{\kf135}ah~!
-Dialogue: 0,0:22:36.33,0:22:39.17,ED 1 English,,0,0,0,,Like a coconut
-Dialogue: 0,0:22:36.33,0:22:39.17,ED 1 Romaji,,0,0,0,,{\k13}{\k38}ko{\k36}ko{\k36}nat{\k41}tsu {\k20}mi{\k20}ta{\k22}i {\k38}na
-Dialogue: 0,0:22:39.17,0:22:41.42,ED 1 English,,0,0,0,,A sweet fluffy kiss
-Dialogue: 0,0:22:39.17,0:22:41.42,ED 1 Romaji,,0,0,0,,{\k18}{\k17}fu{\k19}n{\k19}wa{\k18}ri {\k20}a{\k17}ma{\k19}i {\k20}ki{\k57}su
-Dialogue: 0,0:22:42.38,0:22:45.13,ED 1 English,,0,0,0,,If I do it without thinking
-Dialogue: 0,0:22:42.38,0:22:45.13,ED 1 Romaji,,0,0,0,,{\k17}{\k40}u{\k37}t{\k37}to{\k21}ri {\k17}shi{\k22}te{\k18}i{\k19}ta{\k42}ra
-Dialogue: 0,0:22:45.13,0:22:47.47,ED 1 English,,0,0,0,,My alarm clock went off
-Dialogue: 0,0:22:45.13,0:22:47.47,ED 1 Romaji,,0,0,0,,{\k27}{\k38}me{\k19}za{\k14}ma{\k24}shi {\k18}ga {\k19}na{\k22}t{\k54}ta
-Dialogue: 0,0:22:48.47,0:22:50.51,ED 1 English,,0,0,0,,I open the curtain
-Dialogue: 0,0:22:48.47,0:22:50.51,ED 1 Romaji,,0,0,0,,{\k11}{\k39}kaa{\k21}te{\k19}n {\k18}wo {\k20}hi{\k19}ra{\k20}i{\k37}te
-Dialogue: 0,0:22:50.93,0:22:53.60,ED 1 English,,0,0,0,,I've got to find the continuation of my dream
-Dialogue: 0,0:22:50.93,0:22:53.60,ED 1 Romaji,,0,0,0,,{\k17}{\k17}yu{\k21}me {\k19}no {\k20}tsu{\k18}zu{\k20}ki {\k18}sa{\k20}ga{\k18}sa{\k18}na{\k21}ku{\k36}cha
-Dialogue: 0,0:22:54.18,0:22:57.10,ED 1 English,,0,0,0,,The rays of the sun on my chest are too bright
-Dialogue: 0,0:22:54.18,0:22:57.10,ED 1 Romaji,,0,0,0,,{\k14}{\k18}ma{\k19}bu{\k25}shi{\k15}su{\k20}gi{\k37}ru {\k19}mu{\k19}ne {\k20}no {\k20}hi{\k14}za{\k22}shi {\k32}ni
-Dialogue: 0,0:22:57.10,0:22:59.85,ED 1 English,,0,0,0,,I'm enchanted by them, they won't disappear
-Dialogue: 0,0:22:57.10,0:22:59.85,ED 1 Romaji,,0,0,0,,{\k9}{\k17}to{\k18}ro{\k19}ke{\k39}te {\k17}ki{\k20}e{\k37}nai {\k38}you {\k52}ni
-Dialogue: 0,0:22:59.85,0:23:00.65,ED 1 English,,0,0,0,,Oh~!
-Dialogue: 0,0:22:59.85,0:23:00.65,ED 1 Romaji,,0,0,0,,{\k14}{\kf64}Oh~!
-Dialogue: 0,0:23:00.65,0:23:06.69,ED 1 English,,0,0,0,,The happy, carefree face of the sun
-Dialogue: 0,0:23:00.65,0:23:06.69,ED 1 Romaji,,0,0,0,,{\k10}{\kf59}non{\k23}ki {\kf55}de {\k17}o{\kf59}me{\k19}de{\kf83}tai {\k30}{\k20}ka{\k17}o{\k20}shi{\k21}te{\k38}ru {\k38}tai{\k23}yo{\kf52}u
-Dialogue: 0,0:23:06.69,0:23:12.49,ED 1 English,,0,0,0,,How can you just laugh like that!?
-Dialogue: 0,0:23:06.69,0:23:12.49,ED 1 Romaji,,0,0,0,,{\k14}{\k37}nan{\k29}de {\kf46}son{\k21}na {\kf109}ni {\k22}wa{\k15}ra{\k23}t{\k38}te {\k19}i{\k19}ra{\k23}re{\k36}ru {\kf125}no!?
-Dialogue: 0,0:23:12.78,0:23:18.37,ED 1 English,,0,0,0,,You're really just that same cautious color
-Dialogue: 0,0:23:12.78,0:23:18.37,ED 1 Romaji,,0,0,0,,{\k26}{\k31}ho{\k27}n{\k18}tou {\kf57}wa {\k19}{\k59}o{\k20}na{\kf74}ji{\k36}{\kf44}ku{\k34}ra{\k17}i {\k22}ya{\k35}bai {\kf24}co{\kf20}lor
-Dialogue: 0,0:23:18.37,0:23:23.75,ED 1 English,,0,0,0,,Sparkle, My True Love!
-Dialogue: 0,0:23:18.37,0:23:23.75,ED 1 Romaji,,0,0,0,,{\k14}{\k16}ki{\k19}ra{\k21}ki{\k89}ra{\k24}shi{\k40}chat{\k89}te {\k22}My {\kf37}True {\kf134}Love!
-Dialogue: 0,0:23:25.26,0:23:28.30,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
-Dialogue: 0,0:23:25.26,0:23:28.30,ED 1 Romaji,,0,0,0,,{\k7}{\k19}yu{\k17}me {\k25}mi{\kf52}tai {\k34}koi {\k25}shi{\kf69}tai
-Dialogue: 0,0:23:28.30,0:23:31.01,ED 1 English,,0,0,0,,With all my heart!
-Dialogue: 0,0:23:28.30,0:23:31.01,ED 1 Romaji,,0,0,0,,{\k15}{\kf37}chou {\k21}me{\k38}ip{\kf153}pai
-Dialogue: 0,0:23:31.01,0:23:33.64,ED 1 English,,0,0,0,,With a smile and a good luck charm
-Dialogue: 0,0:23:31.01,0:23:33.64,ED 1 Romaji,,0,0,0,,{\k1}{\k24}ho{\k25}ho{\k31}en{\kf40}de {\k20}o{\k19}ma{\k20}ji{\k21}na{\k28}i
-Dialogue: 0,0:23:33.64,0:23:35.39,ED 1 English,,0,0,0,,Ain't I cute?
-Dialogue: 0,0:23:33.64,0:23:35.39,ED 1 Romaji,,0,0,0,,{\k36}{\kf38}ka{\k18}wa{\k17}i{\k21}i{\k32}jan!
-Dialogue: 0,0:23:35.39,0:23:36.89,ED 1 English,,0,0,0,,Ain't I the best?
-Dialogue: 0,0:23:35.39,0:23:36.89,ED 1 Romaji,,0,0,0,,{\k23}{\k25}sa{\k31}i{\kf41}kou {\k34}jan!
-Dialogue: 0,0:23:36.89,0:23:39.85,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
-Dialogue: 0,0:23:36.89,0:23:39.85,ED 1 Romaji,,0,0,0,,{\k25}{\kf29}pu{\k26}ri{\k18}pu{\k20}ri{\k22}pu{\k16}ri{\k20}kyu{\k17}a {\kf72}faivu
+Dialogue: 0,0:22:13.95,0:22:16.92,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
+Dialogue: 0,0:22:13.95,0:22:16.92,ED 1 Romaji,,0,0,0,,{\k12}{\k20}yu{\k18}me {\k19}mi{\kf56}tai {\k30}koi {\k29}shi{\kf81}tai
+Dialogue: 0,0:22:16.92,0:22:19.79,ED 1 English,,0,0,0,,With all my heart!
+Dialogue: 0,0:22:16.92,0:22:19.79,ED 1 Romaji,,0,0,0,,{\k18}{\kf42}chou {\k18}me{\k37}ip{\kf150}pai
+Dialogue: 0,0:22:19.79,0:22:22.46,ED 1 English,,0,0,0,,With a smile and a good luck charm
+Dialogue: 0,0:22:19.79,0:22:22.46,ED 1 Romaji,,0,0,0,,{\k15}{\k18}ho{\k12}ho{\k21}e{\k25}n{\k38}de {\k21}o{\k18}ma{\k17}ji{\k20}na{\k48}i
+Dialogue: 0,0:22:22.46,0:22:26.34,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
+Dialogue: 0,0:22:22.46,0:22:26.34,ED 1 Romaji,,0,0,0,,{\k18}{\kf37}pu{\k18}ri{\k23}pu{\k17}ri{\k17}pu{\k19}ri{\k18}kyu{\k19}a {\kf179}faivu
+Dialogue: 0,0:22:26.84,0:22:28.89,ED 1 English,,0,0,0,,Yeah~!
+Dialogue: 0,0:22:26.84,0:22:28.89,ED 1 Romaji,,0,0,0,,{\k14}{\kf37}Ye{\kf135}ah~!
+Dialogue: 0,0:22:36.35,0:22:39.19,ED 1 English,,0,0,0,,Like a coconut
+Dialogue: 0,0:22:36.35,0:22:39.19,ED 1 Romaji,,0,0,0,,{\k13}{\k38}ko{\k36}ko{\k36}nat{\k41}tsu {\k20}mi{\k20}ta{\k22}i {\k38}na
+Dialogue: 0,0:22:39.19,0:22:41.44,ED 1 English,,0,0,0,,A sweet fluffy kiss
+Dialogue: 0,0:22:39.19,0:22:41.44,ED 1 Romaji,,0,0,0,,{\k18}{\k17}fu{\k19}n{\k19}wa{\k18}ri {\k20}a{\k17}ma{\k19}i {\k20}ki{\k57}su
+Dialogue: 0,0:22:42.40,0:22:45.15,ED 1 English,,0,0,0,,If I do it without thinking
+Dialogue: 0,0:22:42.40,0:22:45.15,ED 1 Romaji,,0,0,0,,{\k17}{\k40}u{\k37}t{\k37}to{\k21}ri {\k17}shi{\k22}te{\k18}i{\k19}ta{\k42}ra
+Dialogue: 0,0:22:45.15,0:22:47.49,ED 1 English,,0,0,0,,My alarm clock went off
+Dialogue: 0,0:22:45.15,0:22:47.49,ED 1 Romaji,,0,0,0,,{\k27}{\k38}me{\k19}za{\k14}ma{\k24}shi {\k18}ga {\k19}na{\k22}t{\k54}ta
+Dialogue: 0,0:22:48.49,0:22:50.53,ED 1 English,,0,0,0,,I open the curtain
+Dialogue: 0,0:22:48.49,0:22:50.53,ED 1 Romaji,,0,0,0,,{\k11}{\k39}kaa{\k21}te{\k19}n {\k18}wo {\k20}hi{\k19}ra{\k20}i{\k37}te
+Dialogue: 0,0:22:50.95,0:22:53.62,ED 1 English,,0,0,0,,I've got to find the continuation of my dream
+Dialogue: 0,0:22:50.95,0:22:53.62,ED 1 Romaji,,0,0,0,,{\k17}{\k17}yu{\k21}me {\k19}no {\k20}tsu{\k18}zu{\k20}ki {\k18}sa{\k20}ga{\k18}sa{\k18}na{\k21}ku{\k36}cha
+Dialogue: 0,0:22:54.20,0:22:57.12,ED 1 English,,0,0,0,,The rays of the sun on my chest are too bright
+Dialogue: 0,0:22:54.20,0:22:57.12,ED 1 Romaji,,0,0,0,,{\k14}{\k18}ma{\k19}bu{\k25}shi{\k15}su{\k20}gi{\k37}ru {\k19}mu{\k19}ne {\k20}no {\k20}hi{\k14}za{\k22}shi {\k32}ni
+Dialogue: 0,0:22:57.12,0:22:59.87,ED 1 English,,0,0,0,,I'm enchanted by them, they won't disappear
+Dialogue: 0,0:22:57.12,0:22:59.87,ED 1 Romaji,,0,0,0,,{\k9}{\k17}to{\k18}ro{\k19}ke{\k39}te {\k17}ki{\k20}e{\k37}nai {\k38}you {\k52}ni
+Dialogue: 0,0:22:59.87,0:23:00.67,ED 1 English,,0,0,0,,Oh~!
+Dialogue: 0,0:22:59.87,0:23:00.67,ED 1 Romaji,,0,0,0,,{\k14}{\kf64}Oh~!
+Dialogue: 0,0:23:00.67,0:23:06.71,ED 1 English,,0,0,0,,The happy, carefree face of the sun
+Dialogue: 0,0:23:00.67,0:23:06.71,ED 1 Romaji,,0,0,0,,{\k10}{\kf59}non{\k23}ki {\kf55}de {\k17}o{\kf59}me{\k19}de{\kf83}tai {\k30}{\k20}ka{\k17}o{\k20}shi{\k21}te{\k38}ru {\k38}tai{\k23}yo{\kf52}u
+Dialogue: 0,0:23:06.71,0:23:12.51,ED 1 English,,0,0,0,,How can you just laugh like that!?
+Dialogue: 0,0:23:06.71,0:23:12.51,ED 1 Romaji,,0,0,0,,{\k14}{\k37}nan{\k29}de {\kf46}son{\k21}na {\kf109}ni {\k22}wa{\k15}ra{\k23}t{\k38}te {\k19}i{\k19}ra{\k23}re{\k36}ru {\kf125}no!?
+Dialogue: 0,0:23:12.80,0:23:18.39,ED 1 English,,0,0,0,,You're really just that same cautious color
+Dialogue: 0,0:23:12.80,0:23:18.39,ED 1 Romaji,,0,0,0,,{\k26}{\k31}ho{\k27}n{\k18}tou {\kf57}wa {\k19}{\k59}o{\k20}na{\kf74}ji{\k36}{\kf44}ku{\k34}ra{\k17}i {\k22}ya{\k35}bai {\kf24}co{\kf20}lor
+Dialogue: 0,0:23:18.39,0:23:23.77,ED 1 English,,0,0,0,,Sparkle, My True Love!
+Dialogue: 0,0:23:18.39,0:23:23.77,ED 1 Romaji,,0,0,0,,{\k14}{\k16}ki{\k19}ra{\k21}ki{\k89}ra{\k24}shi{\k40}chat{\k89}te {\k22}My {\kf37}True {\kf134}Love!
+Dialogue: 0,0:23:25.28,0:23:28.32,ED 1 English,,0,0,0,,I wanna dream, I wanna love!
+Dialogue: 0,0:23:25.28,0:23:28.32,ED 1 Romaji,,0,0,0,,{\k7}{\k19}yu{\k17}me {\k25}mi{\kf52}tai {\k34}koi {\k25}shi{\kf69}tai
+Dialogue: 0,0:23:28.32,0:23:31.03,ED 1 English,,0,0,0,,With all my heart!
+Dialogue: 0,0:23:28.32,0:23:31.03,ED 1 Romaji,,0,0,0,,{\k15}{\kf37}chou {\k21}me{\k38}ip{\kf153}pai
+Dialogue: 0,0:23:31.03,0:23:33.66,ED 1 English,,0,0,0,,With a smile and a good luck charm
+Dialogue: 0,0:23:31.03,0:23:33.66,ED 1 Romaji,,0,0,0,,{\k1}{\k24}ho{\k25}ho{\k31}en{\kf40}de {\k20}o{\k19}ma{\k20}ji{\k21}na{\k28}i
+Dialogue: 0,0:23:33.66,0:23:35.41,ED 1 English,,0,0,0,,Ain't I cute?
+Dialogue: 0,0:23:33.66,0:23:35.41,ED 1 Romaji,,0,0,0,,{\k36}{\kf38}ka{\k18}wa{\k17}i{\k21}i{\k32}jan!
+Dialogue: 0,0:23:35.41,0:23:36.91,ED 1 English,,0,0,0,,Ain't I the best?
+Dialogue: 0,0:23:35.41,0:23:36.91,ED 1 Romaji,,0,0,0,,{\k23}{\k25}sa{\k31}i{\kf41}kou {\k34}jan!
+Dialogue: 0,0:23:36.91,0:23:39.87,ED 1 English,,0,0,0,,Pretty-pretty-pretty Cure Five!
+Dialogue: 0,0:23:36.91,0:23:39.87,ED 1 Romaji,,0,0,0,,{\k25}{\kf29}pu{\k26}ri{\k18}pu{\k20}ri{\k22}pu{\k16}ri{\k20}kyu{\k17}a {\kf72}faivu
 Comment: 0,0:23:39.85,0:23:39.85,Default,,0,0,0,,Preview = 23:29.920
-Dialogue: 0,0:23:43.03,0:23:44.59,Rin,,0,0,0,,Nozomi, am I acting weird?
-Dialogue: 0,0:23:44.59,0:23:46.15,Nozomi,,0,0,0,,Huh? You're not weird at all.
-Dialogue: 0,0:23:46.15,0:23:47.96,Rin,,0,0,0,,How's my hair? \NDo my clothes match?
-Dialogue: 0,0:23:47.96,0:23:50.09,Nozomi,,0,0,0,,Wait, is something special going on?
-Dialogue: 0,0:23:50.09,0:23:51.67,Rin,,0,0,0,,Huh? It's nothing. NOTHING.
-Dialogue: 0,0:23:51.67,0:23:53.87,Nozomi,,0,0,0,,Your blushing face says otherwise!
-Dialogue: 0,0:23:53.87,0:23:57.20,Rin,,0,0,0,,No way! But what am I to do? \NThat person is coming!
-Dialogue: 0,0:23:56.38,0:23:58.10,Nozomi,,0,0,0,,"That person"? {}
-Dialogue: 0,0:23:57.20,0:23:58.50,Rin,,0,0,0,,Ah, well...
-Dialogue: 0,0:23:58.50,0:24:00.84,Nozomi,,0,0,0,,Rin-chan, could you be in lo{\fscx175}-{\r}?
-Dialogue: 0,0:24:00.51,0:24:02.31,Rin,,0,0,0,,You don't have to spell it out! {}
-Dialogue: 0,0:24:02.89,0:24:04.59,Nozomi,,0,0,0,,Yes! Pretty Cure 5:
-Dialogue: 0,0:24:04.59,0:24:07.09,Nozomi,,0,0,0,,Love Story of a Pure-Hearted Maiden
-Dialogue: 0,0:24:07.09,0:24:08.55,Nozomi,,0,0,0,,Watch it, watch it, watch it, 'kay?
+Dialogue: 0,0:23:43.15,0:23:44.71,Rin,,0,0,0,,Nozomi, am I acting weird?
+Dialogue: 0,0:23:44.71,0:23:46.27,Nozomi,,0,0,0,,Huh? You're not weird at all.
+Dialogue: 0,0:23:46.27,0:23:48.08,Rin,,0,0,0,,How's my hair? \NDo my clothes match?
+Dialogue: 0,0:23:48.08,0:23:50.21,Nozomi,,0,0,0,,Wait, is something special going on?
+Dialogue: 0,0:23:50.21,0:23:51.79,Rin,,0,0,0,,Huh? It's nothing. NOTHING.
+Dialogue: 0,0:23:51.79,0:23:53.99,Nozomi,,0,0,0,,Your blushing face says otherwise!
+Dialogue: 0,0:23:53.99,0:23:57.32,Rin,,0,0,0,,No way! But what am I to do? \NThat person is coming!
+Dialogue: 0,0:23:56.50,0:23:58.22,Nozomi,,0,0,0,,"That person"? {}
+Dialogue: 0,0:23:57.32,0:23:58.62,Rin,,0,0,0,,Ah, well...
+Dialogue: 0,0:23:58.62,0:24:00.96,Nozomi,,0,0,0,,Rin-chan, could you be in lo{\fscx175}-{\r}?
+Dialogue: 0,0:24:00.63,0:24:02.43,Rin,,0,0,0,,You don't have to spell it out! {}
+Dialogue: 0,0:24:03.01,0:24:04.71,Nozomi,,0,0,0,,Yes! Pretty Cure 5:
+Dialogue: 0,0:24:04.71,0:24:07.21,Nozomi,,0,0,0,,Love Story of a Pure-Hearted Maiden
+Dialogue: 0,0:24:07.21,0:24:08.67,Nozomi,,0,0,0,,Watch it, watch it, watch it, 'kay?
