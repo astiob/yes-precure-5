@@ -9,7 +9,7 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 2
 Video Zoom: 4
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Yes! Pretty Cure 5
@@ -24,24 +24,24 @@ Video Position: 34787
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nozomi,Kabel Bd,83,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Rin,Kabel Bd,83,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Urara,Kabel Bd,83,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Komachi,Kabel Bd,83,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Karen,Kabel Bd,83,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Coco,Kabel Bd,83,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Nuts,Kabel Bd,83,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Milk,Kabel Bd,83,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Default,Kabel Bd,83,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Alternate,Kabel Bd,83,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: TopSign,Kabel Bd,70,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,8,80,80,36,1
-Style: OP English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
-Style: OP Romaji,Cascade Script LT Std,77,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,8,27,27,34,1
-Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,1.33333,0,1,4.5,0,5,0,0,0,1
-Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,2,80,80,27,0
+Style: Nozomi,Kabel Bd,83.25,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Rin,Kabel Bd,83.25,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Urara,Kabel Bd,83.25,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Komachi,Kabel Bd,83.25,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Karen,Kabel Bd,83.25,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Coco,Kabel Bd,83.25,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Nuts,Kabel Bd,83.25,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Milk,Kabel Bd,83.25,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Default,Kabel Bd,83.25,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Alternate,Kabel Bd,83.25,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: TopSign,Kabel Bd,69.75,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,8,80,80,36,1
+Style: OP English,Verdana,65.25,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,100,100,0,0,1,5.45455,0,2,27,27,27,1
+Style: OP Romaji,Cascade Script LT Std,76.5,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,27,27,34,1
+Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,106.625,100,0,0,1,4.5,0,5,0,0,0,1
+Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,2,80,80,20,0
 Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,8,80,80,45,0
-Style: Ep Title,Gemelli,74,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,4.5,4.5,5,27,27,23,1
-Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,4.5,2.25,5,27,27,23,1
+Style: Ep Title,Gemelli,74.25,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,106.625,130,0,0,1,4.5,4.5,5,27,27,23,1
+Style: Credits,Abadi MT Condensed,58.5,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,100,100,0,0,1,4.5,2.25,5,27,27,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -365,8 +365,8 @@ Dialogue: 0,0:22:10.79,0:22:11.20,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:11.20,0:22:11.49,ED 2 English,,0,0,0,,3
 Dialogue: 0,0:22:11.49,0:22:11.70,ED 2 English,,0,0,0,,4
 Dialogue: 0,0:22:11.70,0:22:12.04,ED 2 English,,0,0,0,,5
-Dialogue: 0,0:22:16.71,0:22:17.42,ED 2 English,,0,0,0,,Let's dance!
-Dialogue: 0,0:22:20.13,0:22:20.84,ED 2 English,,0,0,0,,Let's dance!
+Dialogue: 0,0:22:16.71,0:22:17.42,ED 2 English,,0,0,0,,Let’s dance!
+Dialogue: 0,0:22:20.13,0:22:20.84,ED 2 English,,0,0,0,,Let’s dance!
 Dialogue: 0,0:22:20.84,0:22:21.67,ED 2 English,,0,0,0,,1
 Dialogue: 0,0:22:21.67,0:22:22.55,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:22.55,0:22:22.80,ED 2 English,,0,0,0,,1
@@ -385,7 +385,7 @@ Dialogue: 0,0:22:30.51,0:22:34.14,ED 2 English,,0,0,0,,Take a shower in the ligh
 Dialogue: 0,0:22:30.51,0:22:34.14,ED 2 Romaji,,0,0,0,,{\k11}{\k22}hi{\k10}ka{\k22}ri {\k17}no {\k28}sha{\k40}waa {\k20}o {\k24}a{\k45}bi{\kf87}te
 Dialogue: 0,0:22:33.27,0:22:33.93,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
 Dialogue: 0,0:22:34.14,0:22:37.60,ED 2 Romaji,,0,0,0,,{\k9}{\k18}kyo{\k23}u {\k20}mo {\k22}i{\k21}chi{\k22}ni{\k22}chi {\k22}pi{\k21}ka{\k24}pi{\kf102}ka
-Dialogue: 0,0:22:34.14,0:22:37.60,ED 2 English,,0,0,0,,You'll sparkle all day
+Dialogue: 0,0:22:34.14,0:22:37.60,ED 2 English,,0,0,0,,You’ll sparkle all day
 Dialogue: 0,0:22:37.60,0:22:39.52,ED 2 Romaji,,0,0,0,,{\k28}{\k45}all {\kf115}right!
 Dialogue: 0,0:22:37.60,0:22:39.52,ED 2 English,,0,0,0,,All right!
 Dialogue: 0,0:22:39.98,0:22:43.86,ED 2 English,,0,0,0,,Work it, to the limit, hold your head up a a a oh!
@@ -393,36 +393,36 @@ Dialogue: 0,0:22:39.98,0:22:43.86,ED 2 Romaji,,0,0,0,,{\k7}{\k23}gan{\k21}bat{\k
 Dialogue: 0,0:22:44.65,0:22:45.15,ED 2 English,,0,0,0,,Yes!
 Dialogue: 0,0:22:45.15,0:22:47.91,ED 2 English,,0,0,0,,When you run up against a wall
 Dialogue: 0,0:22:45.15,0:22:47.91,ED 2 Romaji,,0,0,0,,{\k12}{\k46}ka{\k42}be {\k43}ni {\k17}bu{\k29}tsu{\k30}ka{\k34}t{\k22}te
-Dialogue: 0,0:22:48.07,0:22:48.66,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let's go!
+Dialogue: 0,0:22:48.07,0:22:48.66,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let’s go!
 Dialogue: 0,0:22:48.53,0:22:50.58,ED 2 English,,0,0,0,,Your eyes will narrow
 Dialogue: 0,0:22:48.53,0:22:50.58,ED 2 Romaji,,0,0,0,,{\k22}{\k25}me {\k47}ga {\k39}ten {\k23}ni {\k24}naru
-Dialogue: 0,0:22:50.58,0:22:52.16,ED 2 English,,0,0,0,,"Hey, what's with that?"
-Dialogue: 0,0:22:50.58,0:22:52.16,ED 2 Romaji,,0,0,0,,{\k23}{\k26}"do{\k14}n{\k20}da{\k43}kee!?" {\k10}tte
-Dialogue: 0,0:22:52.16,0:22:55.54,ED 2 English,,0,0,0,,It's okay to start from way down
+Dialogue: 0,0:22:50.58,0:22:52.16,ED 2 English,,0,0,0,,“Hey, what’s with that?”
+Dialogue: 0,0:22:50.58,0:22:52.16,ED 2 Romaji,,0,0,0,,{\k23}{\k26}“do{\k14}n{\k20}da{\k43}kee!?” {\k10}tte
+Dialogue: 0,0:22:52.16,0:22:55.54,ED 2 English,,0,0,0,,It’s okay to start from way down
 Dialogue: 0,0:22:52.16,0:22:55.54,ED 2 Romaji,,0,0,0,,{\k11}{\k41}mai{\k41}na{\k45}su {\k23}ka{\k22}ra {\k21}de{\k21}mo {\k23}O{\k36}K!
 Dialogue: 0,0:22:54.91,0:22:55.66,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}OK!
-Dialogue: 0,0:22:55.54,0:22:57.58,ED 2 English,,0,0,0,,Let's turn it around!
+Dialogue: 0,0:22:55.54,0:22:57.58,ED 2 English,,0,0,0,,Let’s turn it around!
 Dialogue: 0,0:22:55.54,0:22:57.58,ED 2 Romaji,,0,0,0,,{\k16}{\k23}gya{\k46}ku{\k22}te{\k32}n {\k29}shi{\k34}you!
 Dialogue: 0,0:22:57.58,0:22:59.08,ED 2 English,,0,0,0,,All at once, yo yo!
 Dialogue: 0,0:22:57.58,0:22:59.08,ED 2 Romaji,,0,0,0,,{\k13}{\k43}ik{\k19}ki! {\k40}YO {\k34}YO
 Dialogue: 0,0:22:59.08,0:23:02.92,ED 2 English,,0,0,0,,Let out a yawn and stretch your back
 Dialogue: 0,0:22:59.08,0:23:02.92,ED 2 Romaji,,0,0,0,,{\k11}{\kf100}a{\k29}ku{\k23}bi{\k21}to {\kf108}se{\k23}no{\k23}bi{\k15}de
-Dialogue: 0,0:23:02.92,0:23:05.59,ED 2 English,,0,0,0,,and you'll feel at ease
+Dialogue: 0,0:23:02.92,0:23:05.59,ED 2 English,,0,0,0,,and you’ll feel at ease
 Dialogue: 0,0:23:02.92,0:23:05.59,ED 2 Romaji,,0,0,0,,{\k17}{\k23}ra{\k22}ku {\k24}ni {\k41}na{\kf133}ru
-Dialogue: 0,0:23:04.80,0:23:06.01,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let's go!
-Dialogue: 0,0:23:05.92,0:23:07.72,ED 2 English,,0,0,0,,It's your source of energy
+Dialogue: 0,0:23:04.80,0:23:06.01,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let’s go!
+Dialogue: 0,0:23:05.92,0:23:07.72,ED 2 English,,0,0,0,,It’s your source of energy
 Dialogue: 0,0:23:05.92,0:23:07.72,ED 2 Romaji,,0,0,0,,{\k21}{\k39}gen{\k10}ki {\k24}no {\k19}mi{\k21}na{\k22}mo{\kf8}to
-Dialogue: 0,0:23:07.72,0:23:09.39,ED 2 English,,0,0,0,,Even if you're worried
+Dialogue: 0,0:23:07.72,0:23:09.39,ED 2 English,,0,0,0,,Even if you’re worried
 Dialogue: 0,0:23:07.72,0:23:09.39,ED 2 Romaji,,0,0,0,,{\k24}{\k33}na{\k26}ya{\k47}n{\k23}de{\kf6}mo
-Dialogue: 0,0:23:09.39,0:23:11.05,ED 2 English,,0,0,0,,Even if you're tired
+Dialogue: 0,0:23:09.39,0:23:11.05,ED 2 English,,0,0,0,,Even if you’re tired
 Dialogue: 0,0:23:09.39,0:23:11.05,ED 2 Romaji,,0,0,0,,{\k21}{\k39}ne{\k30}mu{\k45}ku{\k19}te{\k14}mo
-Dialogue: 0,0:23:11.30,0:23:13.97,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪!
+Dialogue: 0,0:23:11.30,0:23:13.97,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪{\r}!
 Dialogue: 0,0:23:11.30,0:23:13.97,ED 2 Romaji,,0,0,0,,{\k12}{\k27}pa{\k25}wa{\k29}fu{\k23}ru {\kf21}su{\kf16}ma{\kf22}i{\kf28}ri{\kf36}n{\fnArial}♪{\r}!
 Dialogue: 0,0:23:13.01,0:23:14.18,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}1 2 3 4 5!
 Dialogue: 0,0:23:13.97,0:23:17.44,ED 2 English,,0,0,0,,And then hold your head high and dance (Go! Go!)
 Dialogue: 0,0:23:13.97,0:23:17.44,ED 2 Romaji,,0,0,0,,{\k29}{\k14}so{\k27}shi{\k23}te {\k41}gan{\k24}ba{\k14}ran{\k31}su {\k43}de {\kf89}dansu
 Dialogue: 0,0:23:16.85,0:23:17.85,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
-Dialogue: 0,0:23:17.44,0:23:21.02,ED 2 English,,0,0,0,,If you're stressed it will make you refreshed
+Dialogue: 0,0:23:17.44,0:23:21.02,ED 2 English,,0,0,0,,If you’re stressed it will make you refreshed
 Dialogue: 0,0:23:17.44,0:23:21.02,ED 2 Romaji,,0,0,0,,{\k15}{\k28}son{\k0}de{\k27}mo{\k20}tte {\k26}su{\k20}to{\k13}re{\k27}su {\k22}mo > {\k43}ri{\kf95}furesshu
 Dialogue: 0,0:23:20.40,0:23:21.31,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Pretty Cure 5!)
 Dialogue: 0,0:23:21.02,0:23:24.32,ED 2 English,,0,0,0,,Everyone is a glittering gem

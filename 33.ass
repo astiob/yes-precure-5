@@ -12,7 +12,7 @@ Video Zoom: 5
 Original Translation: Zalis
 Original Timing: Zalis
 Script Updated By: Force Gaia
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Yes! Pretty Cure 5
@@ -27,24 +27,25 @@ Video Position: 34790
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nozomi,Kabel Bd,83,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Rin,Kabel Bd,83,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Urara,Kabel Bd,83,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Komachi,Kabel Bd,83,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Karen,Kabel Bd,83,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Default,Kabel Bd,83,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Coco,Kabel Bd,83,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Nuts,Kabel Bd,83,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Milk,Kabel Bd,83,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Alternate,Kabel Bd,83,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: TopSign,Kabel Bd,70,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,8,80,80,36,1
-Style: OP English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
-Style: OP Romaji,Cascade Script LT Std,77,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,8,27,27,34,1
-Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,1.33333,0,1,4.5,0,5,0,0,0,1
-Style: Ep Title,Gemelli,74,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,4.5,4.5,5,27,27,23,1
-Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,4.5,2.25,5,27,27,23,1
-Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,86,100,0,0,1,6.75,0,2,80,80,27,0
-Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,86,100,0,0,1,6.75,0,8,80,80,45,0
+Style: Nozomi,Kabel Bd,83.25,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Rin,Kabel Bd,83.25,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Urara,Kabel Bd,83.25,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Komachi,Kabel Bd,83.25,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Karen,Kabel Bd,83.25,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Default,Kabel Bd,83.25,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Coco,Kabel Bd,83.25,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Nuts,Kabel Bd,83.25,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Milk,Kabel Bd,83.25,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Alternate,Kabel Bd,83.25,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: TopSign,Kabel Bd,69.75,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,8,80,80,36,1
+Style: OP English,Verdana,65.25,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,100,100,0,0,1,5.45455,0,2,27,27,27,1
+Style: OP Romaji,Cascade Script LT Std,76.5,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,27,27,34,1
+Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,106.625,100,0,0,1,4.5,0,5,0,0,0,1
+Style: Ep Title,Gemelli,74.25,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,106.625,130,0,0,1,4.5,4.5,5,27,27,23,1
+Style: Credits,Abadi MT Condensed,58.5,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,100,100,0,0,1,4.5,2.25,5,27,27,23,1
+Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,2,80,80,27,0
+Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,8,80,80,27,0
+Style: Kana,Aller,63,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,-1,0,0,97.3,92,0,0,1,4.5,0,8,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,9 +56,9 @@ Comment: 0,0:00:10.03,0:00:11.74,TopSign,,0,0,0,,{sign - in grey on right} Cinq 
 Dialogue: 0,0:00:10.03,0:00:11.74,TopSign,,0,0,0,,{\pos(824,276.75)}{sign - in red}{\c&H0309F8&\3c&HFDF9D7&} Futsal Team Suffers Crushing Defeat!!
 Dialogue: 0,0:00:10.03,0:00:11.74,TopSign,,0,0,0,,{\pos(1496,897.75)}{sign - in blue}{\c&HE84618&\3c&HFFEDD6&} Autumn Season \NNews Roundup!
 Dialogue: 0,0:00:12.20,0:00:14.45,Nozomi,,0,0,0,,The Futsal team's match?
-Dialogue: 0,0:00:14.97,0:00:18.51,Nozomi,,0,0,0,,"Captain Konno's Critical Mistake. Failure to Adjust!? {Nozomi is reading off the black text here, so no need to typeset it.}
+Dialogue: 0,0:00:14.97,0:00:18.51,Nozomi,,0,0,0,,“Captain Konno's Critical Mistake. Failure to Adjust!? {Nozomi is reading off the black text here, so no need to typeset it.}
 Dialogue: 0,0:00:15.70,0:00:21.91,TopSign,,0,0,0,,{blue text on left, beneath picture - fade time is approximate}{\fad(3000,0)}Captain Konno Getting the Ball Stolen from Her
-Dialogue: 0,0:00:18.51,0:00:21.91,Nozomi,,0,0,0,,"Insufficient Practice!? \NThe Captain will Resign?"
+Dialogue: 0,0:00:18.51,0:00:21.91,Nozomi,,0,0,0,,“Insufficient Practice!? \NThe Captain will Resign?”
 Dialogue: 0,0:00:22.84,0:00:23.62,Default,,0,0,0,,Ah...{check this, not sure if this is rin, nozomi or other, although i think it's the team capt as it alerts rin to her precence}
 Dialogue: 0,0:00:23.62,0:00:25.02,Rin,,0,0,0,,C-Captain!
 Dialogue: 0,0:00:25.02,0:00:26.58,Default,,0,0,0,,'Morning.
@@ -94,7 +95,12 @@ Dialogue: 0,0:01:32.47,0:01:35.31,OP Romaji,,0,0,0,,{\k23}{\k33}do{\k35}ki{\k21}
 Dialogue: 0,0:01:35.31,0:01:37.56,OP English,,0,0,0,,Smile and go! Go!
 Dialogue: 0,0:01:35.31,0:01:37.56,OP Romaji,,0,0,0,,{\k11}{\k16}su{\k37}mai{\k15}ru {\k35}go{\kf110}go!
 Dialogue: 0,0:01:37.56,0:01:38.93,OP Romaji2,,0,0,34,,{\an8}Pretty Cure! {2nd}
-Dialogue: 0,0:01:37.60,0:01:43.44,Credits,,0,0,0,,{\fad(607,0)\pos(938.667,729)\t(3402,4631,\3c&H6351DA&)}Original release by \NPretty Cure Splash Subs (pcssubs.wordpress.com)
+Dialogue: 0,0:01:37.66,0:01:43.54,Credits,,0,0,0,,{\fad(607,0)\pos(938.667,729)\t(3402,4631,\3c&H6351DA&)}Original release by \NPretty Cure Splash Subs (pcssubs.wordpress.com)
+Dialogue: 0,0:01:37.66,0:01:38.24,Kana,,0,0,0,,{\fs18\fscx107\fscy95\bord1.5\xbord1.77708\an5\c&HEF8850&\3c&HFFF7AD&\t(\fs61.5\bord4.5\xbord5.33125)\move(911,489,773.4,635)}Pretty Cure
+Dialogue: 1,0:01:38.24,0:01:39.87,Kana,,0,0,0,,{\fs61.5\xbord5.33125\an5\c&HEF8850&\3c&HFFF7AD&\t(0,0,\fs63)\move(773.4,635,767.4,638)}Pretty Cure
+Dialogue: 0,0:01:39.87,0:01:43.54,Kana,,0,0,0,,{\blur0.5\alpha&HFF&\bord9\xbord10.6625\fs63\an5\c&HEF8850&\3c&H9893A4&\t(800,950,\alpha&H0&)\pos(767.4,638)}Pre{\alpha&HFF&\3c&H9893A4&\t(950,1100,\alpha0)}tty {\alpha&HFF&\3c&H9893A4&\t(1300,1450,\alpha&H0&)}Cure
+Dialogue: 1,0:01:39.87,0:01:43.54,Kana,,0,0,0,,{\blur0.5\xbord5.33125\an5\c&HFFF7AD&\3c&HFFF7AD&\t(900,1050,\c&Hffffff&\3c&Hffffff&)\pos(767.4,638)}Pre{\c&HFFF7AD&\3c&HFFF7AD&\t(1050,1200,\c&Hffffff&\3c&Hffffff&)}tty {\c&HFFF7AD&\3c&HFFF7AD&\t(1400,1550,\c&Hffffff&\3c&Hffffff&)}Cure
+Dialogue: 1,0:01:39.87,0:01:43.54,Kana,,0,0,0,,{\blur0.5\bord0\an5\c&HEF8850&\t(900,1050,\c&H830DDD&)\pos(767.4,638)}Pre{\c&HEF8850&\t(1050,1200,\c&H830DDD&)}tty {\c&HEF8850&\t(1400,1550,\c&H830DDD&)}Cure
 Dialogue: 0,0:01:40.23,0:01:42.48,OP English,,0,0,0,,Yes! Pretty Cure 5! {this line is audio-timed only, there's no in-video lyrics for it.}
 Dialogue: 0,0:01:40.23,0:01:42.48,OP Romaji,,0,0,0,,{\k19}{\k38}Yes! {\k16}Pu{\k34}ri{\k16}kyu{\k34}a {\k51}5!
 Dialogue: 0,0:01:43.44,0:01:46.78,OP English,,0,0,0,,When you grow up, what do you want to be?
@@ -151,7 +157,7 @@ Dialogue: 0,0:03:17.18,0:03:20.24,Default,,0,0,0,,I'll recover the Dream Collet 
 Dialogue: 0,0:03:22.35,0:03:26.63,Default,,0,0,0,,Kawarino-chan, those little girls\N can't hope to compete against {\i1}me.{\i0}
 Dialogue: 0,0:03:26.63,0:03:28.56,Default,,0,0,0,,Please take care of it.
 Dialogue: 0,0:03:29.51,0:03:33.93,Default,,0,0,0,,Despariah-sama places more trust in this department than any other.
-Dialogue: 0,0:03:33.93,0:03:36.30,Default,,0,0,0,,That's exactly why I should{\fscx200}-
+Dialogue: 0,0:03:33.93,0:03:36.30,Default,,0,0,0,,That's exactly why I should—
 Dialogue: 0,0:03:37.51,0:03:41.47,Default,,0,0,0,,Hadenya-san, please do not disappoint Despariah-sama.
 Dialogue: 0,0:03:41.47,0:03:44.14,Default,,0,0,0,,You don't even have to tell me.
 Dialogue: 0,0:03:44.14,0:03:46.10,Default,,0,0,0,,Is anybody listening to me?!
@@ -182,27 +188,29 @@ Dialogue: 0,0:05:37.13,0:05:39.10,Nozomi,,0,0,0,,Don't you have more interviews?
 Dialogue: 0,0:05:41.76,0:05:44.71,Nozomi,,0,0,0,,But it's amazing that you can take pictures,
 Dialogue: 0,0:05:44.71,0:05:48.52,Nozomi,,0,0,0,,write articles, and put out \Na newspaper all by yourself.{removed line break, the lines look more balanced in length without the forced LB} {split the line because it wound up as a 3-liner}
 Dialogue: 0,0:05:49.14,0:05:51.69,Default,,0,0,0,,I only wound up... by myself.
-Dialogue: 0,0:05:53.65,0:05:57.49,Default,,0,0,0,,{\fad(0,480)}There used to be other\N club members, besides me.
+Dialogue: 0,0:05:53.65,0:05:57.00,Default,,0,0,0,,There used to be other\N club members, besides me.
+Dialogue: 0,0:05:57.00,0:05:57.49,Default,,0,0,0,,{\t(-47,525,\c&HFEFEFE&\3c&HFEFEFE&\4c&HFEFEFE&)}There used to be other\N club members, besides me.
 Dialogue: 0,0:06:09.16,0:06:13.08,Default,,0,0,0,,I got so obsessed that I\N lost sight of my surroundings.
 Dialogue: 0,0:06:13.99,0:06:16.76,Default,,0,0,0,,They all said they couldn't work with me anymore.
 Dialogue: 0,0:06:18.21,0:06:22.43,Default,,0,0,0,,At some point, I looked around and realized I was all alone.
 Dialogue: 0,0:06:24.53,0:06:26.85,Default,,0,0,0,,I buckled down and forged ahead by myself.
 Dialogue: 0,0:06:26.85,0:06:29.06,Default,,0,0,0,,But I wound up doing less and less research,
-Dialogue: 0,0:06:28.72,0:06:31.56,TopSign,,0,0,0,,{\fad(239,0)}"Cute Guys at the School Festival"
+Dialogue: 0,0:06:28.72,0:06:31.56,TopSign,,0,0,0,,{\fad(239,0)}“Cute Guys at the School Festival”
 Dialogue: 0,0:06:29.06,0:06:33.94,Default,,0,0,0,,and writing more and more articles full of rumors and wild exaggerations.
-Dialogue: 0,0:06:31.56,0:06:34.98,TopSign,,0,0,0,,{vertical headline} "The School Trip is Canceled!?"
+Dialogue: 0,0:06:31.56,0:06:34.98,TopSign,,0,0,0,,{vertical headline} “The School Trip is Canceled!?”
 Dialogue: 0,0:06:34.31,0:06:36.54,Default,,0,0,0,,Including the most recent incident.
 Dialogue: 0,0:06:37.69,0:06:42.54,Default,,80,80,0,,I couldn't check into things thoroughly enough,\N and wound up hurting Konno-san.
 Dialogue: 0,0:06:43.91,0:06:46.35,Default,,0,0,0,,Maybe I just can't go it alone.
 Dialogue: 0,0:06:46.85,0:06:49.79,Default,,0,0,0,,I'm thinking I should quit.
-Dialogue: 0,0:06:50.22,0:06:52.79,Nozomi,,0,0,0,,"What the people want to know,\N I want to know!"
+Dialogue: 0,0:06:50.22,0:06:52.79,Nozomi,,0,0,0,,“What the people want to know,\N I want to know!”
 Dialogue: 0,0:06:53.33,0:06:54.13,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:54.57,0:06:57.06,Nozomi,,0,0,0,,Isn't that what you always say, Masuko-san?
 Dialogue: 0,0:06:57.06,0:06:58.34,Nozomi,,0,0,0,,I'm on the same page.
-Dialogue: 0,0:06:58.34,0:07:00.59,TopSign,,0,0,0,,{\fad(0,475)\an5\pos(960,33.75)\c&H91F9FC&\3c&H9C5356&} Congrats on Getting In
-Dialogue: 0,0:06:58.34,0:07:00.59,TopSign,,0,0,0,,{\fad(0,475)\an5\c&H860BE2&\3c&H50F74D&\pos(960,816.75)} Welcome to Cinq Lumieres Academy
+Dialogue: 0,0:06:58.34,0:07:00.61,TopSign,,0,0,0,,{\fad(0,500)\an5\pos(960,33.75)\c&H91F9FC&\3c&H9C5356&} Congrats on Getting In
+Dialogue: 0,0:06:58.34,0:07:00.61,TopSign,,0,0,0,,{\fad(0,500)\an5\c&H860BE2&\3c&H50F74D&\pos(960,816.75)} Welcome to Cinq Lumieres Academy
 Dialogue: 0,0:06:58.80,0:07:02.33,Default,,0,0,0,,There's always tons of entertaining and informative articles!
-Dialogue: 0,0:07:00.09,0:07:03.09,TopSign,,0,0,0,,{\fad(526,0)\pos(960,175.5)\c&HFCFEFE&\3c&H202327&}Otaka-san's                           New Menu
+Dialogue: 0,0:07:00.09,0:07:03.09,TopSign,,0,0,0,,{\fad(526,0)\pos(960,175.5)\c&H1315180&\3c&H131518&\blur1\shad0}Otaka-san's                           New Menu
+Dialogue: 0,0:07:00.09,0:07:03.09,TopSign,,0,0,0,,{\fad(526,0)\pos(960,175.5)\c&HE0E0E0&\bord0\blur1\shad0}Otaka-san's                           New Menu
 Dialogue: 0,0:07:03.38,0:07:06.68,Nozomi,,0,0,0,,I like the Cinq Lumieres News.
 Dialogue: 0,0:07:06.68,0:07:07.94,Urara,,0,0,0,,So do I!
 Dialogue: 0,0:07:09.64,0:07:12.52,Urara,,0,0,0,,Please give me more coverage!
@@ -216,7 +224,7 @@ Dialogue: 0,0:07:34.58,0:07:37.13,Nozomi,,0,0,0,,Come on, let's keep\N the Newsp
 Dialogue: 0,0:07:39.50,0:07:41.72,Default,,0,0,0,,I'm happy you all feel that way.
 Dialogue: 0,0:07:45.22,0:07:46.26,Default,,0,0,0,,But...
 Dialogue: 0,0:07:53.96,0:07:55.48,Nozomi,,0,0,0,,Masuko-san!
-Dialogue: 0,0:08:03.65,0:08:07.82,Default,,0,0,0,,I'll show {\i1}you{\i0} the "power of one."
+Dialogue: 0,0:08:03.65,0:08:07.82,Default,,0,0,0,,I'll show {\i1}you{\i0} the “power of one.”
 Dialogue: 0,0:08:10.53,0:08:12.20,Nuts,,0,0,0,,I have to decline.
 Dialogue: 0,0:08:12.20,0:08:13.83,Nozomi,,0,0,0,,Can't you do {\i1}something?{\i0}
 Dialogue: 0,0:08:13.83,0:08:16.79,Urara,,0,0,0,,I think Masuko-san would be motivated to keep the newspaper going
@@ -229,8 +237,8 @@ Dialogue: 0,0:08:35.10,0:08:37.14,Karen,,0,0,0,,I suppose it wouldn't.
 Dialogue: 0,0:08:37.14,0:08:39.90,Coco,,0,0,0,,Nuts might be right on this one.
 Dialogue: 0,0:08:40.31,0:08:42.57,Nozomi,,0,0,0,,I'm gonna talk to her one more time!
 Dialogue: 0,0:08:42.57,0:08:43.76,Rin,,0,0,0,,N-Nozomi!
-Dialogue: 0,0:08:59.04,0:09:00.67,TopSign,,0,0,0,,"Cinq Lumieres News Back Issues"
-Dialogue: 0,0:09:04.34,0:09:06.80,TopSign,,0,0,0,,{\fad(275,892)}(First Issue)\N"Collecting for Owner"
+Dialogue: 0,0:08:59.04,0:09:00.67,TopSign,,0,0,0,,“Cinq Lumieres News Back Issues”
+Dialogue: 0,0:09:04.34,0:09:06.80,TopSign,,0,0,0,,{\fad(275,892)}(First Issue)\N“Collecting for Owner”
 Dialogue: 0,0:09:05.88,0:09:09.76,TopSign,,0,0,0,,{\an2\fad(945,891)}{fades in from previous sign}In-Depth Coverage of\Nthe Legendary Newspaper-Fetching Dog
 Dialogue: 0,0:10:20.04,0:10:22.42,Default,,0,0,0,,Are you an acquaintance of Pretty Cure? {If this were HeartCatch, Mika would definitely be getting her Heart Flower stolen about now.}
 Dialogue: 0,0:10:22.42,0:10:24.88,Default,,0,0,0,,W-Who ARE you?!
@@ -248,7 +256,7 @@ Dialogue: 0,0:11:41.62,0:11:43.57,Default,,0,0,0,,Maybe over here?
 Dialogue: 0,0:11:44.39,0:11:45.71,Nozomi,,0,0,0,,Hold it!
 Dialogue: 0,0:11:45.71,0:11:46.70,Default,,0,0,0,,Rats.
 Dialogue: 0,0:11:52.15,0:11:54.52,Default,,0,0,0,,So you've appeared, Pretty Cure!
-Dialogue: 0,0:11:54.87,0:11:56.63,Default,,0,0,0,,"Pretty Cure"?
+Dialogue: 0,0:11:54.87,0:11:56.63,Default,,0,0,0,,“Pretty Cure”?
 Dialogue: 0,0:11:58.06,0:12:01.31,Rin,,0,0,0,,Wait a sec, aren't these Masuko-san's?
 Dialogue: 0,0:12:03.48,0:12:05.85,Nozomi,,0,0,0,,What have you done with Masuko-san?
 Dialogue: 0,0:12:05.85,0:12:08.52,Default,,0,0,0,,Hmm, good question.
@@ -276,7 +284,7 @@ Dialogue: 0,0:14:36.52,0:14:41.47,Nozomi,,0,0,0,,Alone, we think, worry, and str
 Dialogue: 0,0:14:41.47,0:14:43.65,Rin,,0,0,0,,Even if things don't work out,
 Dialogue: 0,0:14:43.65,0:14:46.82,Rin,,0,0,0,,those feelings will \Ndefinitely reach out to others.
 Dialogue: 0,0:14:46.82,0:14:48.95,Urara,,0,0,0,,And when those feelings reach you,
-Dialogue: 0,0:14:48.95,0:14:52.19,Urara,,0,0,0,,they make you think, \N"I want to help that person."
+Dialogue: 0,0:14:48.95,0:14:52.19,Urara,,0,0,0,,they make you think, \N“I want to help that person.”
 Dialogue: 0,0:14:52.52,0:14:54.86,Komachi,,0,0,0,,Even if they're powerless.
 Dialogue: 0,0:14:55.18,0:14:58.36,Karen,,0,0,0,,If we all stand united,\N we might be able to do it.
 Dialogue: 0,0:14:59.23,0:15:01.36,Nozomi,,0,0,0,,That's what friends are all about!
@@ -292,7 +300,7 @@ Dialogue: 0,0:16:39.10,0:16:41.96,Default,,0,0,0,,Thank you very much. Excuse me
 Dialogue: 0,0:16:43.42,0:16:44.75,Nozomi,,0,0,0,,Masuko-san!
 Dialogue: 0,0:16:45.77,0:16:48.68,Nozomi,,0,0,0,,Don't you want to interview us?
 Dialogue: 0,0:16:49.16,0:16:50.10,Default,,0,0,0,,Huh?
-Dialogue: 0,0:16:50.10,0:16:51.51,Karen,,0,0,0,,Hey{\fscx200}-
+Dialogue: 0,0:16:50.10,0:16:51.51,Karen,,0,0,0,,Hey—
 Dialogue: 0,0:16:51.92,0:16:54.98,Default,,0,0,0,,But, I've already...
 Dialogue: 0,0:16:55.36,0:16:59.06,Urara,,107,107,0,,You've been taking our pictures, haven't you?
 Dialogue: 0,0:16:59.06,0:17:01.54,Rin,,0,0,0,,Don't you want to continue the Newspaper Club?
@@ -314,10 +322,10 @@ Dialogue: 0,0:17:44.27,0:17:47.17,Milk,,0,0,0,,Should they {\i1}really{\i0} be i
 Dialogue: 0,0:17:47.17,0:17:49.78,Coco,,0,0,0,,They all... decided to do it,
 Dialogue: 0,0:17:49.78,0:17:52.18,Coco,,0,0,0,,so I... trust them-coco.
 Dialogue: 0,0:17:54.20,0:17:57.05,Default,,0,0,0,,What do you normally do?
-Dialogue: 0,0:17:57.05,0:17:59.14,Nozomi,,0,0,0,,Let's see, we come to this school, and{\fscx200}-
+Dialogue: 0,0:17:57.05,0:17:59.14,Nozomi,,0,0,0,,Let's see, we come to this school, and—
 Dialogue: 0,0:17:59.14,0:18:01.41,Urara,,0,0,0,,That type of question is no good.
 Dialogue: 0,0:18:01.41,0:18:03.22,Default,,0,0,0,,Then, what were those monsters?
-Dialogue: 0,0:18:03.55,0:18:05.36,Nozomi,,0,0,0,,Ah, they were from Nightma{\fscx200}-
+Dialogue: 0,0:18:03.55,0:18:05.36,Nozomi,,0,0,0,,Ah, they were from Nightma—
 Dialogue: 0,0:18:04.84,0:18:07.26,Urara,,0,0,0,,Um, we don't know, either. {}
 Dialogue: 0,0:18:08.80,0:18:11.43,Rin,,0,0,0,,You can tell she's a veteran interviewee.
 Dialogue: 0,0:18:11.43,0:18:12.80,Karen,,0,0,0,,Yes.
@@ -380,15 +388,15 @@ Dialogue: 0,0:21:28.35,0:21:30.54,Default,,0,0,0,,I'd like to introduce you all\
 Dialogue: 0,0:21:30.88,0:21:33.01,Karen,,0,0,0,,Y-Yeah, sure...
 Dialogue: 0,0:21:33.01,0:21:34.75,Komachi,,0,0,0,,I'd really like to meet them!
 Comment: 0,0:21:36.93,0:21:40.36,Nozomi,,53,53,0,,did some size and margin manipulations to avoid 3-liners with the overlaps
-Dialogue: 0,0:21:37.00,0:21:40.43,Nozomi,,53,53,0,,{\fs78.75}But it'd be pretty strange to meet them, since we{\fscx200}-
+Dialogue: 0,0:21:37.00,0:21:40.43,Nozomi,,53,53,0,,{\fs78.75}But it'd be pretty strange to meet them, since we—
 Dialogue: 0,0:21:39.45,0:21:41.97,Rin,,0,0,0,,Stop! That's about enough out of you.{}
-Dialogue: 0,0:21:41.97,0:21:45.54,Nozomi,,53,53,0,,{\fs78.75}But she finally wrote an article about Pretty Cu{\fscx200}- {Find+Replace missed a "the Precu" here}
+Dialogue: 0,0:21:41.97,0:21:45.54,Nozomi,,53,53,0,,{\fs78.75}But she finally wrote an article about Pretty Cu— {Find+Replace missed a "the Precu" here}
 Dialogue: 0,0:21:44.56,0:21:46.58,Rin,,0,0,0,,Stop talking about Pretty Cure!{}
 Comment: 0,0:21:46.51,0:21:49.72,Nozomi,,0,0,0,,she's supposed to be singing the OP from Pretty Cure '04, I believe // nope, shes singing the "Pu-ri-ti kyu kyu kyu kyu-a" part of this season's op or combining that part of this season's lyrics with the melody of the "Puriti de kyuakyua futari wa purikyua" part of '04's, and yes i did just transcribe that from the arienai sub of futari wa
 Dialogue: 0,0:21:46.58,0:21:49.79,Nozomi,,0,0,0,,{\fnArial}♪{\r} Pu-ri-ti-de, Cu-Cu-Cu-Cure... {\fnArial}♪{\r}
 Dialogue: 0,0:21:49.32,0:21:50.94,Rin,,0,0,0,,And don't sing about them, either. {}{Literally: "Even if you separate (the syllables), it's still bad!"}
-Dialogue: 0,0:21:56.57,0:22:03.95,TopSign,,0,0,0,,{\fad(0,2809)}Cinq Lumieres News Seeking Fantastic Fellow Writers!!
-Dialogue: 0,0:21:56.57,0:22:03.95,TopSign,,0,0,0,,{\fad(0,2809)}All Applicants, see Chief Editor Masuko Mika!
+Dialogue: 0,0:21:56.57,0:22:04.01,TopSign,,0,0,0,,{\fad(0,2919)}Cinq Lumieres News Seeking Fantastic Fellow Writers!!
+Dialogue: 0,0:21:56.57,0:22:04.01,TopSign,,0,0,0,,{\fad(0,2919)}All Applicants, see Chief Editor Masuko Mika!
 Comment: 0,0:22:09.93,0:22:09.93,Default,,0,0,0,,ED = 22:09.997
 Comment: 0,0:22:09.93,0:22:10.51,ED 2 English,,0,0,0,,ED - Timed for Episode 33 DVD
 Dialogue: 0,0:22:10.41,0:22:10.87,ED 2 English,,0,0,0,,1
@@ -396,8 +404,8 @@ Dialogue: 0,0:22:10.87,0:22:11.25,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:11.25,0:22:11.58,ED 2 English,,0,0,0,,3
 Dialogue: 0,0:22:11.58,0:22:11.75,ED 2 English,,0,0,0,,4
 Dialogue: 0,0:22:11.75,0:22:12.12,ED 2 English,,0,0,0,,5
-Dialogue: 0,0:22:16.79,0:22:17.50,ED 2 English,,0,0,0,,Let's dance!
-Dialogue: 0,0:22:20.21,0:22:20.92,ED 2 English,,0,0,0,,Let's dance!
+Dialogue: 0,0:22:16.79,0:22:17.50,ED 2 English,,0,0,0,,Let’s dance!
+Dialogue: 0,0:22:20.21,0:22:20.92,ED 2 English,,0,0,0,,Let’s dance!
 Dialogue: 0,0:22:20.92,0:22:21.72,ED 2 English,,0,0,0,,1
 Dialogue: 0,0:22:21.72,0:22:22.63,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:22.63,0:22:22.88,ED 2 English,,0,0,0,,1
@@ -416,7 +424,7 @@ Dialogue: 0,0:22:30.60,0:22:34.22,ED 2 English,,0,0,0,,Take a shower in the ligh
 Dialogue: 0,0:22:30.60,0:22:34.22,ED 2 Romaji,,0,0,0,,{\k11}{\k22}hi{\k10}ka{\k22}ri {\k17}no {\k28}sha{\k40}waa {\k20}o {\k24}a{\k45}bi{\kf87}te
 Dialogue: 0,0:22:33.35,0:22:34.02,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
 Dialogue: 0,0:22:34.22,0:22:37.65,ED 2 Romaji,,0,0,0,,{\k9}{\k18}kyo{\k23}u {\k20}mo {\k22}i{\k21}chi{\k22}ni{\k22}chi {\k22}pi{\k21}ka{\k24}pi{\kf102}ka
-Dialogue: 0,0:22:34.22,0:22:37.65,ED 2 English,,0,0,0,,You'll sparkle all day
+Dialogue: 0,0:22:34.22,0:22:37.65,ED 2 English,,0,0,0,,You’ll sparkle all day
 Dialogue: 0,0:22:37.65,0:22:39.57,ED 2 Romaji,,0,0,0,,{\k28}{\k45}all {\kf115}right!
 Dialogue: 0,0:22:37.65,0:22:39.57,ED 2 English,,0,0,0,,All right!
 Dialogue: 0,0:22:40.03,0:22:43.91,ED 2 English,,0,0,0,,Work it, to the limit, hold your head up a a a oh!
@@ -424,36 +432,36 @@ Dialogue: 0,0:22:40.03,0:22:43.91,ED 2 Romaji,,0,0,0,,{\k7}{\k23}gan{\k21}bat{\k
 Dialogue: 0,0:22:44.74,0:22:45.20,ED 2 English,,0,0,0,,Yes!
 Dialogue: 0,0:22:45.20,0:22:47.99,ED 2 English,,0,0,0,,When you run up against a wall
 Dialogue: 0,0:22:45.20,0:22:47.99,ED 2 Romaji,,0,0,0,,{\k12}{\k46}ka{\k42}be {\k43}ni {\k17}bu{\k29}tsu{\k30}ka{\k34}t{\k22}te
-Dialogue: 0,0:22:48.12,0:22:48.74,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let's go!
+Dialogue: 0,0:22:48.12,0:22:48.74,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let’s go!
 Dialogue: 0,0:22:48.58,0:22:50.64,ED 2 English,,0,0,0,,Your eyes will narrow
 Dialogue: 0,0:22:48.58,0:22:50.64,ED 2 Romaji,,0,0,0,,{\k22}{\k25}me {\k47}ga {\k39}ten {\k23}ni {\k24}naru
-Dialogue: 0,0:22:50.64,0:22:52.21,ED 2 English,,0,0,0,,"Hey, what's with that?"
-Dialogue: 0,0:22:50.64,0:22:52.21,ED 2 Romaji,,0,0,0,,{\k23}{\k26}"do{\k14}n{\k20}da{\k43}kee!?" {\k10}tte
-Dialogue: 0,0:22:52.21,0:22:55.59,ED 2 English,,0,0,0,,It's okay to start from way down
+Dialogue: 0,0:22:50.64,0:22:52.21,ED 2 English,,0,0,0,,“Hey, what’s with that?”
+Dialogue: 0,0:22:50.64,0:22:52.21,ED 2 Romaji,,0,0,0,,{\k23}{\k26}“do{\k14}n{\k20}da{\k43}kee!?” {\k10}tte
+Dialogue: 0,0:22:52.21,0:22:55.59,ED 2 English,,0,0,0,,It’s okay to start from way down
 Dialogue: 0,0:22:52.21,0:22:55.59,ED 2 Romaji,,0,0,0,,{\k11}{\k41}mai{\k41}na{\k45}su {\k23}ka{\k22}ra {\k21}de{\k21}mo {\k23}O{\k36}K!
 Dialogue: 0,0:22:55.00,0:22:55.71,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}OK!
-Dialogue: 0,0:22:55.59,0:22:57.63,ED 2 English,,0,0,0,,Let's turn it around!
+Dialogue: 0,0:22:55.59,0:22:57.63,ED 2 English,,0,0,0,,Let’s turn it around!
 Dialogue: 0,0:22:55.59,0:22:57.63,ED 2 Romaji,,0,0,0,,{\k16}{\k23}gya{\k46}ku{\k22}te{\k32}n {\k29}shi{\k34}you!
 Dialogue: 0,0:22:57.63,0:22:59.15,ED 2 English,,0,0,0,,All at once, yo yo!
 Dialogue: 0,0:22:57.63,0:22:59.15,ED 2 Romaji,,0,0,0,,{\k13}{\k43}ik{\k19}ki! {\k40}YO {\k34}YO
 Dialogue: 0,0:22:59.15,0:23:02.98,ED 2 English,,0,0,0,,Let out a yawn and stretch your back
 Dialogue: 0,0:22:59.15,0:23:02.98,ED 2 Romaji,,0,0,0,,{\k11}{\kf100}a{\k29}ku{\k23}bi{\k21}to {\kf108}se{\k23}no{\k23}bi{\k15}de
-Dialogue: 0,0:23:02.98,0:23:05.64,ED 2 English,,0,0,0,,and you'll feel at ease
+Dialogue: 0,0:23:02.98,0:23:05.64,ED 2 English,,0,0,0,,and you’ll feel at ease
 Dialogue: 0,0:23:02.98,0:23:05.64,ED 2 Romaji,,0,0,0,,{\k17}{\k23}ra{\k22}ku {\k24}ni {\k41}na{\kf133}ru
-Dialogue: 0,0:23:04.88,0:23:06.09,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let's go!
-Dialogue: 0,0:23:05.97,0:23:07.77,ED 2 English,,0,0,0,,It's your source of energy
+Dialogue: 0,0:23:04.88,0:23:06.09,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let’s go!
+Dialogue: 0,0:23:05.97,0:23:07.77,ED 2 English,,0,0,0,,It’s your source of energy
 Dialogue: 0,0:23:05.97,0:23:07.77,ED 2 Romaji,,0,0,0,,{\k21}{\k39}gen{\k10}ki {\k24}no {\k19}mi{\k21}na{\k22}mo{\kf8}to
-Dialogue: 0,0:23:07.77,0:23:09.46,ED 2 English,,0,0,0,,Even if you're worried
+Dialogue: 0,0:23:07.77,0:23:09.46,ED 2 English,,0,0,0,,Even if you’re worried
 Dialogue: 0,0:23:07.77,0:23:09.46,ED 2 Romaji,,0,0,0,,{\k24}{\k33}na{\k26}ya{\k47}n{\k23}de{\kf6}mo
-Dialogue: 0,0:23:09.46,0:23:11.14,ED 2 English,,0,0,0,,Even if you're tired
+Dialogue: 0,0:23:09.46,0:23:11.14,ED 2 English,,0,0,0,,Even if you’re tired
 Dialogue: 0,0:23:09.46,0:23:11.14,ED 2 Romaji,,0,0,0,,{\k21}{\k39}ne{\k30}mu{\k45}ku{\k19}te{\k14}mo
-Dialogue: 0,0:23:11.39,0:23:14.02,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪!
+Dialogue: 0,0:23:11.39,0:23:14.02,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪{\r}!
 Dialogue: 0,0:23:11.39,0:23:14.02,ED 2 Romaji,,0,0,0,,{\k12}{\k27}pa{\k25}wa{\k29}fu{\k23}ru {\kf21}su{\kf16}ma{\kf22}i{\kf28}ri{\kf36}n{\fnArial}♪{\r}!
 Dialogue: 0,0:23:13.10,0:23:14.23,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}1 2 3 4 5!
 Dialogue: 0,0:23:14.02,0:23:17.51,ED 2 English,,0,0,0,,And then hold your head high and dance (Go! Go!)
 Dialogue: 0,0:23:14.02,0:23:17.51,ED 2 Romaji,,0,0,0,,{\k29}{\k14}so{\k27}shi{\k23}te {\k41}gan{\k24}ba{\k14}ran{\k31}su {\k43}de {\kf89}dansu
 Dialogue: 0,0:23:16.90,0:23:17.90,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
-Dialogue: 0,0:23:17.51,0:23:21.07,ED 2 English,,0,0,0,,If you're stressed it will make you refreshed
+Dialogue: 0,0:23:17.51,0:23:21.07,ED 2 English,,0,0,0,,If you’re stressed it will make you refreshed
 Dialogue: 0,0:23:17.51,0:23:21.07,ED 2 Romaji,,0,0,0,,{\k15}{\k28}son{\k0}de{\k27}mo{\k20}tte {\k26}su{\k20}to{\k13}re{\k27}su {\k22}mo > {\k43}ri{\kf95}furesshu
 Dialogue: 0,0:23:20.48,0:23:21.40,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Pretty Cure 5!)
 Dialogue: 0,0:23:21.07,0:23:24.39,ED 2 English,,0,0,0,,Everyone is a glittering gem
@@ -481,7 +489,7 @@ Dialogue: 0,0:23:42.68,0:23:44.52,Karen,,0,0,0,,Nozomi, we have a situation with
 Dialogue: 0,0:23:44.52,0:23:47.47,Nozomi,,0,0,0,,Milk? Did she eat all my chocolate again? {This "situation" had better not involve her eating all my chocolate again!}{too long, too fast!}
 Dialogue: 0,0:23:47.47,0:23:48.65,Karen,,0,0,0,,No, that's not it! {No, it doesn't!}
 Dialogue: 0,0:23:48.65,0:23:53.58,Nozomi,,0,0,0,,Wait, I know! She drank all the grape juice, \NAND ate all the chocolate!
-Dialogue: 0,0:23:53.58,0:23:56.25,Karen,,0,0,0,,Hey, I was saving tha{\fscx200}-{\r} \N No, you're wrong again!
+Dialogue: 0,0:23:53.58,0:23:56.25,Karen,,0,0,0,,Hey, I was saving tha— \N No, you're wrong again!
 Dialogue: 0,0:23:56.25,0:23:58.34,Karen,,0,0,0,,Milk's fallen ill!
 Dialogue: 0,0:23:58.34,0:24:01.91,Nozomi,,0,0,0,,Oh, I see. EEHH? Milk's sick?!
 Dialogue: 0,0:24:02.61,0:24:04.40,Nozomi,,0,0,0,,Yes! Pretty Cure 5!

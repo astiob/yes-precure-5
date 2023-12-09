@@ -9,7 +9,7 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
 Video Zoom: 6
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Yes! Pretty Cure 5
@@ -24,24 +24,24 @@ Video Position: 34790
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Kabel Bd,83,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Nozomi,Kabel Bd,83,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Rin,Kabel Bd,83,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Urara,Kabel Bd,83,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Komachi,Kabel Bd,83,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Karen,Kabel Bd,83,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Coco,Kabel Bd,83,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Nuts,Kabel Bd,83,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Milk,Kabel Bd,83,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: TopSign,Kabel Bd,70,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,8,80,80,36,1
-Style: Alternate,Kabel Bd,83,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: OP English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
-Style: OP Romaji,Cascade Script LT Std,77,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,8,27,27,34,1
-Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,1.33333,0,1,4.5,0,5,0,0,0,1
-Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,2,80,80,27,0
-Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,8,80,80,45,0
-Style: Ep Title,Gemelli,74,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,4.5,4.5,5,27,27,23,1
-Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,4.5,2.25,5,27,27,23,1
+Style: Default,Kabel Bd,83.25,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Nozomi,Kabel Bd,83.25,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Rin,Kabel Bd,83.25,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Urara,Kabel Bd,83.25,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Komachi,Kabel Bd,83.25,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Karen,Kabel Bd,83.25,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Coco,Kabel Bd,83.25,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Nuts,Kabel Bd,83.25,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Milk,Kabel Bd,83.25,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: TopSign,Kabel Bd,69.75,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,8,80,80,36,1
+Style: Alternate,Kabel Bd,83.25,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: OP English,Verdana,65.25,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,100,100,0,0,1,5.45455,0,2,27,27,27,1
+Style: OP Romaji,Cascade Script LT Std,76.5,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,27,27,34,1
+Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,106.625,100,0,0,1,4.5,0,5,0,0,0,1
+Style: ED 2 Romaji,Abadi MT Condensed,74.25,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,118.472,100,0,0,1,6.75,0,2,80,80,20,0
+Style: ED 2 English,Abadi MT Condensed,76.5,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,118.472,100,0,0,1,6.75,0,8,80,80,27,0
+Style: Ep Title,Gemelli,74.25,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,106.625,130,0,0,1,4.5,4.5,5,27,27,23,1
+Style: Credits,Abadi MT Condensed,58.5,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,100,100,0,0,1,4.5,2.25,8,27,27,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -149,9 +149,9 @@ Dialogue: 0,0:04:00.01,0:04:02.78,Milk,,0,0,0,,I'll be happy no matter which one
 Dialogue: 0,0:04:03.20,0:04:07.75,Milk,,0,0,0,,The king is elected \Nby everyone in the kingdom-mil. {some monarchy this is.}{I've never heard of that. but i suppose that i thought it was always in a family because of being in a country under Liz 2}
 Dialogue: 0,0:04:08.25,0:04:11.19,Nozomi,,0,0,0,,A king, huh? That's so awesome!
 Dialogue: 0,0:04:11.19,0:04:13.41,Nozomi,,0,0,0,,Kings are pretty important, aren't they?
-Dialogue: 0,0:04:13.41,0:04:16.60,Rin,,0,0,0,,They're not just "pretty" important, \Nthey're the {\i1}most{\i0}  important!
+Dialogue: 0,0:04:13.41,0:04:16.60,Rin,,0,0,0,,They're not just “pretty” important, \Nthey're the {\i1}most{\i0}  important!
 Dialogue: 0,0:04:18.18,0:04:20.91,Nozomi,,0,0,0,,Be sure to come visit us,\N even after you've become king.
-Dialogue: 0,0:04:20.91,0:04:22.85,Nuts,,0,0,0,,That's impossible-nuts{\fscx200}-
+Dialogue: 0,0:04:20.91,0:04:22.85,Nuts,,0,0,0,,That's impossible-nuts—
 Dialogue: 0,0:04:22.85,0:04:25.77,Coco,,0,0,0,,We might not be able to come \Nall that often-coco.
 Dialogue: 0,0:04:26.11,0:04:30.39,Nozomi,,0,0,0,,Really? Don't kings get vacations, too?
 Dialogue: 0,0:04:30.39,0:04:33.29,Nozomi,,0,0,0,,Didn't you say you went on trips all the time?
@@ -185,7 +185,7 @@ Dialogue: 0,0:06:15.89,0:06:20.84,Default,,0,0,0,,You think I would have an obje
 Dialogue: 0,0:06:30.45,0:06:33.36,Default,,0,0,0,,All I can say is, good luck, Bloody-san... {inaudible at the start}
 Dialogue: 0,0:06:33.36,0:06:37.53,Default,,0,0,0,,I'll get results, with my own methods.
 Dialogue: 0,0:06:40.98,0:06:43.87,Default,,0,0,0,,What, you were still here, Bunbee-san? {something tells me he won't be for much longer...}{some sort of clairvoynace you got there, as i don't know how you'd know that otherwise}
-Dialogue: 0,0:06:43.87,0:06:46.19,Default,,0,0,0,,W-What do you mean, "still"?
+Dialogue: 0,0:06:43.87,0:06:46.19,Default,,0,0,0,,W-What do you mean, “still”?
 Dialogue: 0,0:06:46.19,0:06:48.88,Default,,0,0,0,,If you think there's still a place for those...
 Comment: 0,0:06:48.85,0:06:53.60,Default,,0,0,0,,{force gaia: technically correct, yes, but the funny thing with language like mentioned in that grammist article is that things get warped, and i'd really rather not have to keep correcting folks who think they're correcting a mistake when we get a crap-ton of comments about it, if it weren't for that i'd say go ahead but i've changed it to 'thing' to avoid fags like that commenting} {Zalis: I definitely see your point, but I decided to revert it back. What can I say, I like to troll people who'd post those kinds of comments. Plus, I think Kawarino would be the pedantic/prescriptivist type who would use "think."}
 Dialogue: 0,0:06:48.88,0:06:53.63,Default,,0,0,0,,...who can't be useful to Despariah-sama, \N you've got another think{ note: this is technically the correct expression! http://grammarist.com/usage/another-think-coming/ ~Z} coming.
@@ -221,7 +221,7 @@ Dialogue: 0,0:08:32.84,0:08:35.48,Coco,,0,0,0,,Nozomi's got a strong spirit.
 Dialogue: 0,0:08:35.48,0:08:36.47,Nuts,,0,0,0,,And you?
 Dialogue: 0,0:08:37.61,0:08:40.19,Nuts,,0,0,0,,Are you okay with separating from Nozomi?
 Dialogue: 0,0:08:49.81,0:08:51.24,Default,,0,0,0,,Amazing!
-Dialogue: 0,0:08:49.08,0:08:51.24,TopSign,,0,0,0,,On cake: "Thank you" {I figure since Nozomi mentions the text on the cake later, it should be established first}
+Dialogue: 0,0:08:49.08,0:08:51.24,TopSign,,0,0,0,,On cake: “Thank you” {I figure since Nozomi mentions the text on the cake later, it should be established first}
 Dialogue: 0,0:08:51.64,0:08:53.08,Rin,,0,0,0,,What's this for?
 Dialogue: 0,0:08:53.38,0:08:56.83,Coco,,0,0,0,,The three of us made\N this Christmas cake-coco.
 Dialogue: 0,0:08:56.83,0:08:58.75,Coco,,0,0,0,,It's a present to all of you-coco!
@@ -248,7 +248,7 @@ Dialogue: 0,0:10:03.99,0:10:05.70,Milk,,0,0,0,,It doesn't taste good to you-mil?
 Dialogue: 0,0:10:05.70,0:10:08.41,Nozomi,,0,0,0,,No, it's delicious.
 Dialogue: 0,0:10:08.41,0:10:12.91,Nozomi,,0,0,0,,But for some reason, I can't get\N the cake down my throat too well...
 Dialogue: 0,0:10:13.45,0:10:15.37,Nozomi,,0,0,0,,It's strange...
-Dialogue: 0,0:10:16.47,0:10:19.96,Nozomi,,0,0,0,,When I saw the words "thank you",{I believe this comma should go outside the quote since there was no comma on the cake to quote} I couldn't help thinking...
+Dialogue: 0,0:10:16.47,0:10:19.96,Nozomi,,0,0,0,,When I saw the words “thank you”,{I believe this comma should go outside the quote since there was no comma on the cake to quote} I couldn't help thinking...
 Dialogue: 0,0:10:20.94,0:10:25.67,Nozomi,,0,0,0,,How much longer can we stay here,\N like this, with Coco and the others...
 Dialogue: 0,0:10:27.90,0:10:29.80,Default,,0,0,0,,This is the last time. {freakin' party crasher}{but you gotta admit he's the scariest of the lot bar kawarino, his tactics are rather good}
 Dialogue: 0,0:10:32.54,0:10:33.72,Default,,0,0,0,,Nightmare!
@@ -274,12 +274,12 @@ Dialogue: 0,0:12:24.24,0:12:28.17,Default,,0,0,0,,However, I've found your cripp
 Comment: 0,0:12:31.93,0:12:46.03,Default,,0,0,0,,Part 2 = 12:46.099
 Dialogue: 0,0:12:50.42,0:12:54.95,Default,,0,0,0,,If I take out the central supporting pillar,\N the rest of you will collapse!
 Dialogue: 0,0:12:59.91,0:13:00.95,Default,,0,0,0,,Dream!
-Dialogue: 0,0:13:03.76,0:13:04.78,Nozomi,,0,0,0,,Girls{\fscx200}-{\r}!
+Dialogue: 0,0:13:03.76,0:13:04.78,Nozomi,,0,0,0,,Girls—!
 Dialogue: 0,0:13:06.00,0:13:09.59,Default,,0,0,0,,This is no time to be worrying about your teammates.
 Dialogue: 0,0:13:17.41,0:13:21.89,Default,,27,27,0,,It's like you're just going through the motions. \NYou can't defeat me like that! {literally: "You're moving as if yawns will come out. You can't defeat me like that." imo the rewrite works better. }
 Dialogue: 0,0:13:21.89,0:13:25.52,Nozomi,,0,0,0,,Yes we can!{not an intentional Obama reference, at least not initially} If we all combine our powers, we'll find a way!
 Dialogue: 0,0:13:27.19,0:13:29.65,Default,,0,0,0,,There is hesitation in your heart.
-Dialogue: 0,0:13:30.86,0:13:35.44,Default,,0,0,0,,"What will happen after this?" \N"Is this the right thing to do?" {timing-wise, it does make sense to split this line at the pause, but thematically, these two lines fit together better.}
+Dialogue: 0,0:13:30.86,0:13:35.44,Default,,0,0,0,,“What will happen after this?” \N“Is this the right thing to do?” {timing-wise, it does make sense to split this line at the pause, but thematically, these two lines fit together better.}
 Dialogue: 0,0:13:35.44,0:13:38.03,Default,,0,0,0,,Your dream is at odds with itself.
 Dialogue: 0,0:13:38.39,0:13:39.53,Nozomi,,0,0,0,,No, it's not!
 Dialogue: 0,0:13:45.64,0:13:47.42,Default,,0,0,0,,Your movements are hesitant.
@@ -335,7 +335,7 @@ Dialogue: 0,0:17:22.40,0:17:23.46,Coco,,0,0,0,,Nuts...
 Dialogue: 0,0:17:34.14,0:17:35.15,Coco,,0,0,0,,Shall we go?
 Dialogue: 0,0:17:35.15,0:17:35.94,Nozomi,,0,0,0,,Yeah.
 Dialogue: 0,0:17:49.55,0:17:52.45,Nozomi,,0,0,0,,Nobody else has been down this path. {I initially messed up the verb tense and had "nobody else ever takes this path}
-Dialogue: 0,0:17:55.46,0:17:57.09,Default,,0,0,0,,And a one, two{\fscx200}-
+Dialogue: 0,0:17:55.46,0:17:57.09,Default,,0,0,0,,And a one, two—
 Dialogue: 0,0:18:03.07,0:18:08.18,Nozomi,,0,0,0,,Once the snow melts, these footprints will disappear, won't they?
 Dialogue: 0,0:18:09.86,0:18:15.17,Coco,,0,0,0,,Question: when snow melts, what gets left behind? {According to the highly tearjerking eighth episode of Fruits Basket, "Spring"}{fruits basket has always been a curiosity of mine, what is it about?}
 Dialogue: 0,0:18:15.17,0:18:16.54,Nozomi,,0,0,0,,What is it?
@@ -391,8 +391,8 @@ Dialogue: 0,0:22:10.82,0:22:11.24,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:11.24,0:22:11.53,ED 2 English,,0,0,0,,3
 Dialogue: 0,0:22:11.53,0:22:11.74,ED 2 English,,0,0,0,,4
 Dialogue: 0,0:22:11.74,0:22:12.08,ED 2 English,,0,0,0,,5
-Dialogue: 0,0:22:16.75,0:22:17.46,ED 2 English,,0,0,0,,Let's dance!
-Dialogue: 0,0:22:20.17,0:22:20.88,ED 2 English,,0,0,0,,Let's dance!
+Dialogue: 0,0:22:16.75,0:22:17.46,ED 2 English,,0,0,0,,Let’s dance!
+Dialogue: 0,0:22:20.17,0:22:20.88,ED 2 English,,0,0,0,,Let’s dance!
 Dialogue: 0,0:22:20.88,0:22:21.71,ED 2 English,,0,0,0,,1
 Dialogue: 0,0:22:21.71,0:22:22.59,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:22.59,0:22:22.84,ED 2 English,,0,0,0,,1
@@ -411,7 +411,7 @@ Dialogue: 0,0:22:30.55,0:22:34.18,ED 2 English,,0,0,0,,Take a shower in the ligh
 Dialogue: 0,0:22:30.55,0:22:34.18,ED 2 Romaji,,0,0,0,,{\k11}{\k22}hi{\k10}ka{\k22}ri {\k17}no {\k28}sha{\k40}waa {\k20}o {\k24}a{\k45}bi{\kf87}te
 Dialogue: 0,0:22:33.30,0:22:33.97,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
 Dialogue: 0,0:22:34.18,0:22:37.64,ED 2 Romaji,,0,0,0,,{\k9}{\k18}kyo{\k23}u {\k20}mo {\k22}i{\k21}chi{\k22}ni{\k22}chi {\k22}pi{\k21}ka{\k24}pi{\kf102}ka
-Dialogue: 0,0:22:34.18,0:22:37.64,ED 2 English,,0,0,0,,You'll sparkle all day
+Dialogue: 0,0:22:34.18,0:22:37.64,ED 2 English,,0,0,0,,You’ll sparkle all day
 Dialogue: 0,0:22:37.64,0:22:39.56,ED 2 Romaji,,0,0,0,,{\k28}{\k45}all {\kf115}right!
 Dialogue: 0,0:22:37.64,0:22:39.56,ED 2 English,,0,0,0,,All right!
 Dialogue: 0,0:22:40.02,0:22:43.90,ED 2 English,,0,0,0,,Work it, to the limit, hold your head up a a a oh!
@@ -419,36 +419,36 @@ Dialogue: 0,0:22:40.02,0:22:43.90,ED 2 Romaji,,0,0,0,,{\k7}{\k23}gan{\k21}bat{\k
 Dialogue: 0,0:22:44.69,0:22:45.19,ED 2 English,,0,0,0,,Yes!
 Dialogue: 0,0:22:45.19,0:22:47.94,ED 2 English,,0,0,0,,When you run up against a wall
 Dialogue: 0,0:22:45.19,0:22:47.94,ED 2 Romaji,,0,0,0,,{\k12}{\k46}ka{\k42}be {\k43}ni {\k17}bu{\k29}tsu{\k30}ka{\k34}t{\k22}te
-Dialogue: 0,0:22:48.11,0:22:48.70,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let's go!
+Dialogue: 0,0:22:48.11,0:22:48.70,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let’s go!
 Dialogue: 0,0:22:48.57,0:22:50.61,ED 2 English,,0,0,0,,Your eyes will narrow
 Dialogue: 0,0:22:48.57,0:22:50.61,ED 2 Romaji,,0,0,0,,{\k22}{\k25}me {\k47}ga {\k39}ten {\k23}ni {\k24}naru
-Dialogue: 0,0:22:50.61,0:22:52.20,ED 2 English,,0,0,0,,"Hey, what's with that?"
-Dialogue: 0,0:22:50.61,0:22:52.20,ED 2 Romaji,,0,0,0,,{\k23}{\k26}"do{\k14}n{\k20}da{\k43}kee!?" {\k10}tte
-Dialogue: 0,0:22:52.20,0:22:55.58,ED 2 English,,0,0,0,,It's okay to start from way down
+Dialogue: 0,0:22:50.61,0:22:52.20,ED 2 English,,0,0,0,,“Hey, what’s with that?”
+Dialogue: 0,0:22:50.61,0:22:52.20,ED 2 Romaji,,0,0,0,,{\k23}{\k26}“do{\k14}n{\k20}da{\k43}kee!?” {\k10}tte
+Dialogue: 0,0:22:52.20,0:22:55.58,ED 2 English,,0,0,0,,It’s okay to start from way down
 Dialogue: 0,0:22:52.20,0:22:55.58,ED 2 Romaji,,0,0,0,,{\k11}{\k41}mai{\k41}na{\k45}su {\k23}ka{\k22}ra {\k21}de{\k21}mo {\k23}O{\k36}K!
 Dialogue: 0,0:22:54.95,0:22:55.70,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}OK!
-Dialogue: 0,0:22:55.58,0:22:57.62,ED 2 English,,0,0,0,,Let's turn it around!
+Dialogue: 0,0:22:55.58,0:22:57.62,ED 2 English,,0,0,0,,Let’s turn it around!
 Dialogue: 0,0:22:55.58,0:22:57.62,ED 2 Romaji,,0,0,0,,{\k16}{\k23}gya{\k46}ku{\k22}te{\k32}n {\k29}shi{\k34}you!
 Dialogue: 0,0:22:57.62,0:22:59.12,ED 2 English,,0,0,0,,All at once, yo yo!
 Dialogue: 0,0:22:57.62,0:22:59.12,ED 2 Romaji,,0,0,0,,{\k13}{\k43}ik{\k19}ki! {\k40}YO {\k34}YO
 Dialogue: 0,0:22:59.12,0:23:02.96,ED 2 English,,0,0,0,,Let out a yawn and stretch your back
 Dialogue: 0,0:22:59.12,0:23:02.96,ED 2 Romaji,,0,0,0,,{\k11}{\kf100}a{\k29}ku{\k23}bi{\k21}to {\kf108}se{\k23}no{\k23}bi{\k15}de
-Dialogue: 0,0:23:02.96,0:23:05.63,ED 2 English,,0,0,0,,and you'll feel at ease
+Dialogue: 0,0:23:02.96,0:23:05.63,ED 2 English,,0,0,0,,and you’ll feel at ease
 Dialogue: 0,0:23:02.96,0:23:05.63,ED 2 Romaji,,0,0,0,,{\k17}{\k23}ra{\k22}ku {\k24}ni {\k41}na{\kf133}ru
-Dialogue: 0,0:23:04.84,0:23:06.05,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let's go!
-Dialogue: 0,0:23:05.96,0:23:07.76,ED 2 English,,0,0,0,,It's your source of energy
+Dialogue: 0,0:23:04.84,0:23:06.05,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let’s go!
+Dialogue: 0,0:23:05.96,0:23:07.76,ED 2 English,,0,0,0,,It’s your source of energy
 Dialogue: 0,0:23:05.96,0:23:07.76,ED 2 Romaji,,0,0,0,,{\k21}{\k39}gen{\k10}ki {\k24}no {\k19}mi{\k21}na{\k22}mo{\kf8}to
-Dialogue: 0,0:23:07.76,0:23:09.42,ED 2 English,,0,0,0,,Even if you're worried
+Dialogue: 0,0:23:07.76,0:23:09.42,ED 2 English,,0,0,0,,Even if you’re worried
 Dialogue: 0,0:23:07.76,0:23:09.42,ED 2 Romaji,,0,0,0,,{\k24}{\k33}na{\k26}ya{\k47}n{\k23}de{\kf6}mo
-Dialogue: 0,0:23:09.42,0:23:11.09,ED 2 English,,0,0,0,,Even if you're tired
+Dialogue: 0,0:23:09.42,0:23:11.09,ED 2 English,,0,0,0,,Even if you’re tired
 Dialogue: 0,0:23:09.42,0:23:11.09,ED 2 Romaji,,0,0,0,,{\k21}{\k39}ne{\k30}mu{\k45}ku{\k19}te{\k14}mo
-Dialogue: 0,0:23:11.34,0:23:14.01,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪!
+Dialogue: 0,0:23:11.34,0:23:14.01,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪{\r}!
 Dialogue: 0,0:23:11.34,0:23:14.01,ED 2 Romaji,,0,0,0,,{\k12}{\k27}pa{\k25}wa{\k29}fu{\k23}ru {\kf21}su{\kf16}ma{\kf22}i{\kf28}ri{\kf36}n{\fnArial}♪{\r}!
 Dialogue: 0,0:23:13.05,0:23:14.22,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}1 2 3 4 5!
 Dialogue: 0,0:23:14.01,0:23:17.47,ED 2 English,,0,0,0,,And then hold your head high and dance (Go! Go!)
 Dialogue: 0,0:23:14.01,0:23:17.47,ED 2 Romaji,,0,0,0,,{\k29}{\k14}so{\k27}shi{\k23}te {\k41}gan{\k24}ba{\k14}ran{\k31}su {\k43}de {\kf89}dansu
 Dialogue: 0,0:23:16.89,0:23:17.89,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
-Dialogue: 0,0:23:17.47,0:23:21.06,ED 2 English,,0,0,0,,If you're stressed it will make you refreshed
+Dialogue: 0,0:23:17.47,0:23:21.06,ED 2 English,,0,0,0,,If you’re stressed it will make you refreshed
 Dialogue: 0,0:23:17.47,0:23:21.06,ED 2 Romaji,,0,0,0,,{\k15}{\k28}son{\k0}de{\k27}mo{\k20}tte {\k26}su{\k20}to{\k13}re{\k27}su {\k22}mo > {\k43}ri{\kf95}furesshu
 Dialogue: 0,0:23:20.44,0:23:21.35,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Pretty Cure 5!)
 Dialogue: 0,0:23:21.06,0:23:24.36,ED 2 English,,0,0,0,,Everyone is a glittering gem

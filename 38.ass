@@ -9,7 +9,7 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 2
 Video Zoom: 4
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Yes! Pretty Cure 5
@@ -24,24 +24,26 @@ Video Position: 34788
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Kabel Bd,83,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Nozomi,Kabel Bd,83,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Rin,Kabel Bd,83,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Urara,Kabel Bd,83,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Komachi,Kabel Bd,83,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Karen,Kabel Bd,83,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Coco,Kabel Bd,83,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Nuts,Kabel Bd,83,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Milk,Kabel Bd,83,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: TopSign,Kabel Bd,70,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,8,80,80,36,1
-Style: Alternate,Kabel Bd,83,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: OP English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
-Style: OP Romaji,Cascade Script LT Std,77,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,8,27,27,34,1
-Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,1.33333,0,1,4.5,0,5,0,0,0,1
-Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,2,80,80,27,0
-Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,8,80,80,45,0
-Style: Ep Title,Gemelli,74,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,4.5,4.5,5,27,27,23,1
-Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,4.5,2.25,5,27,27,23,1
+Style: Default,Kabel Bd,83.25,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Nozomi,Kabel Bd,83.25,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Rin,Kabel Bd,83.25,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Urara,Kabel Bd,83.25,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Komachi,Kabel Bd,83.25,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Karen,Kabel Bd,83.25,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Coco,Kabel Bd,83.25,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Nuts,Kabel Bd,83.25,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Milk,Kabel Bd,83.25,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: TopSign,Kabel Bd,69.75,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,8,80,80,36,1
+Style: Alternate,Kabel Bd,83.25,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: OP English,Verdana,65.25,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,100,100,0,0,1,5.45455,0,2,27,27,27,1
+Style: OP Romaji,Cascade Script LT Std,76.5,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,27,27,34,1
+Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,106.625,100,0,0,1,4.5,0,5,0,0,0,1
+Style: ED 2 Romaji,Abadi MT Condensed,74.25,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,118.472,100,0,0,1,6.75,0,2,80,80,20,0
+Style: ED 2 English,Abadi MT Condensed,76.5,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,118.472,100,0,0,1,6.75,0,8,80,80,27,0
+Style: Ep Title,Gemelli,74.25,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,106.625,130,0,0,1,4.5,4.5,5,27,27,23,1
+Style: Credits,Abadi MT Condensed,58.5,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,100,100,0,0,1,4.5,2.25,5,27,27,23,1
+Style: Logo,Aller,63,&H00EF8850,&H000000FF,&HFFFFF7AD,&HFF420671,-1,-1,0,0,104.416,100,0,0,1,0,0,5,90,90,14,0
+Style: Logo Outline,Aller,63,&H00FFF7AD,&H000000FF,&H00FFF7AD,&H80000000,-1,-1,0,0,104.416,100,0,0,1,5.3,0,5,90,90,14,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -58,7 +60,7 @@ Dialogue: 0,0:00:39.48,0:00:40.92,Default,,0,0,0,,Novel?!
 Dialogue: 0,0:00:42.55,0:00:44.62,Rin,,0,0,0,,And... you're writing one?
 Dialogue: 0,0:00:44.62,0:00:49.15,Milk,,0,0,0,,That's right-mil! Unlike Nozomi, Milk is very studious.
 Dialogue: 0,0:00:49.15,0:00:51.56,Milk,,0,0,0,,I want to write a story from this world-mil.
-Dialogue: 0,0:00:51.56,0:00:53.85,Nozomi,,0,0,0,,Did you really need \Nthe "Unlike Nozomi" part?
+Dialogue: 0,0:00:51.56,0:00:53.85,Nozomi,,0,0,0,,Did you really need \Nthe “Unlike Nozomi” part?
 Dialogue: 0,0:00:55.21,0:00:58.46,Urara,,0,0,0,,But what're you going to do with that Cinderella storybook?{which conveniently happens to be your size for no apparent reason?}
 Dialogue: 0,0:00:58.46,0:01:00.65,Milk,,0,0,0,,I'm going to copy down its story-mil. {And so Milk adds plagiarism to her long list of crimes against humanity.}
 Dialogue: 0,0:01:00.65,0:01:05.61,Komachi,,0,0,0,,Transcribing a story can be very helpful in learning about story structure
@@ -152,7 +154,7 @@ Dialogue: 0,0:04:19.94,0:04:22.20,Milk,,0,0,0,,I'll tweak the story a little-mil
 Dialogue: 0,0:04:33.03,0:04:36.15,Milk,,0,0,0,,Once upon a time, in a faraway land...
 Dialogue: 0,0:04:37.94,0:04:42.04,Milk,,0,0,0,,...there lived a girl named Cinderella,\N along with her wicked mother... {she does not specify "step-" here.}
 Dialogue: 0,0:04:42.04,0:04:45.07,Milk,,0,0,0,,...and two wicked older sisters-mil. {added extra "wicked" for parallelism, since the timing breakdown of the subs makes it unclear.}
-Dialogue: 0,0:04:46.90,0:04:51.46,Nozomi,,53,53,0,,Aah{\fnArial}~{\r} I was just about to finish,\N but now I have even more to clean!{how could she miss that?}{that was your clue that the line was mistranslated ^^; she bumped into the table a moment ago}
+Dialogue: 0,0:04:46.90,0:04:51.46,Nozomi,,53,53,0,,Aah{\fnKabelITCbyBT-Bold}~{\r} I was just about to finish,\N but now I have even more to clean!{how could she miss that?}{that was your clue that the line was mistranslated ^^; she bumped into the table a moment ago}
 Dialogue: 0,0:04:51.46,0:04:56.74,Rin,,0,0,0,,Cinderella, unless this place is spotless,\N we can't make a deal.
 Dialogue: 0,0:04:56.74,0:04:58.23,Nozomi,,0,0,0,,Aw, c'mon...!
 Dialogue: 0,0:04:58.23,0:05:00.43,Komachi,,0,0,0,,She's right. Good luck, Cinderella{-san is in audio, but might not be needed since they're in a Western fairytale. let me know your opinion.}!{i agree on the dropping of -san}
@@ -210,7 +212,7 @@ Dialogue: 0,0:08:21.39,0:08:23.38,Urara,,0,0,0,,You'll return to your original f
 Dialogue: 0,0:08:23.88,0:08:28.97,Urara,,0,0,0,,Therefore, you must be home\N from the ball by 12:00.
 Dialogue: 0,0:08:30.93,0:08:32.44,Nozomi,,0,0,0,,Got it!
 Dialogue: 0,0:08:50.37,0:08:53.17,Rin,,0,0,0,,Now then, we should be dancing, too.
-Dialogue: 0,0:08:57.33,0:08:59.90,Nozomi,,0,0,0,,They're not called "slippers" for nothing. {literal line: I'm not used to slippers like these.}
+Dialogue: 0,0:08:57.33,0:08:59.90,Nozomi,,0,0,0,,They're not called “slippers” for nothing. {literal line: I'm not used to slippers like these.}
 Dialogue: 0,0:08:59.90,0:09:01.47,Coco,,0,0,0,,Are you all right?
 Dialogue: 0,0:09:05.63,0:09:07.93,Nozomi,,0,0,0,,Y-Yes, I'm fine!
 Dialogue: 0,0:09:11.47,0:09:14.10,Nozomi,,0,0,0,,T-Thank you very much!
@@ -231,7 +233,7 @@ Dialogue: 0,0:10:37.32,0:10:40.31,Nozomi,,0,0,0,,{\fad(0,680)}And I was just at 
 Dialogue: 0,0:10:41.41,0:10:44.70,Milk,,0,0,0,,Cinderella had a great fall-mil.
 Dialogue: 0,0:10:44.70,0:10:49.14,Milk,,0,0,0,,Poor clumsy Cinderella will trip and fall\N while dancing at the ball...
 Dialogue: 0,0:10:49.14,0:10:50.24,Nozomi,,0,0,0,,How's it going?
-Dialogue: 0,0:10:50.97,0:10:54.57,Milk,,0,0,0,,What do you want, Cinderella {\fscx222}-{\r}\N I mean, Nozomi-mil?
+Dialogue: 0,0:10:50.97,0:10:54.57,Milk,,0,0,0,,What do you want, Cinderella —\N I mean, Nozomi-mil?
 Dialogue: 0,0:10:54.57,0:10:56.11,Nozomi,,0,0,0,,I brought you some snacks.
 Dialogue: 0,0:10:56.11,0:10:59.41,Rin,,0,0,0,,Don't disturb her, Nozomi.
 Dialogue: 0,0:10:59.41,0:11:01.79,Karen,,0,0,0,,Milk won't be able to concentrate.
@@ -258,9 +260,9 @@ Dialogue: 0,0:12:25.50,0:12:28.55,Nozomi,,0,0,0,,And also... glass slippers?
 Dialogue: 0,0:12:29.58,0:12:32.51,Komachi,,0,0,0,,A grand ball... and glass slippers?
 Dialogue: 0,0:12:32.95,0:12:34.97,Nozomi,,0,0,0,,Cinderella?!
 Comment: 0,0:12:34.98,0:12:48.99,Default,,0,0,0,,Part 2 = 12:49.061
-Dialogue: 0,0:13:01.51,0:13:06.99,Coco,,53,53,0,,Komachi, this is just like that time when\N we were in your novel, "Pirate Hurricane."
+Dialogue: 0,0:13:01.51,0:13:06.99,Coco,,53,53,0,,Komachi, this is just like that time when\N we were in your novel, “Pirate Hurricane.”
 Dialogue: 0,0:13:06.99,0:13:09.07,Nuts,,0,0,0,,Yes. Nightmare's behind this.
-Dialogue: 0,0:13:09.07,0:13:12.53,Komachi,,0,0,0,,This is probably the world \Nof Milk's "Cinderella."
+Dialogue: 0,0:13:09.07,0:13:12.53,Komachi,,0,0,0,,This is probably the world \Nof Milk's “Cinderella.”
 Dialogue: 0,0:13:12.90,0:13:17.54,Komachi,,0,0,0,,We've become the characters in the story!
 Dialogue: 0,0:13:17.54,0:13:19.20,Nozomi,,0,0,0,,So where's Milk?
 Dialogue: 0,0:13:25.15,0:13:28.67,Default,,0,0,0,,You really do look the part of princes,
@@ -324,7 +326,7 @@ Dialogue: 0,0:20:12.39,0:20:14.41,Komachi,,0,0,0,,But it's kind of a shame.
 Dialogue: 0,0:20:14.91,0:20:17.25,Karen,,0,0,0,,It was such a lovely ball.
 Dialogue: 0,0:20:18.00,0:20:20.18,Urara,,0,0,0,,My dress was so wonderful...
 Dialogue: 0,0:20:20.18,0:20:22.23,Nozomi,,0,0,0,,I wanted to have some more fun.
-Dialogue: 0,0:20:22.23,0:20:26.56,Rin,,0,0,0,,I've had enough of this brand of\N"immersive storytelling."
+Dialogue: 0,0:20:22.23,0:20:26.56,Rin,,0,0,0,,I've had enough of this brand of\N“immersive storytelling.”
 Dialogue: 0,0:20:26.56,0:20:29.43,Karen,,0,0,0,,Well, at least we made it back safely.
 Dialogue: 0,0:20:30.00,0:20:30.93,Karen,,0,0,0,,Huh?
 Dialogue: 0,0:20:30.93,0:20:32.94,Komachi,,0,0,0,,What is it, Karen?
@@ -359,8 +361,8 @@ Dialogue: 0,0:22:10.79,0:22:11.20,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:11.20,0:22:11.49,ED 2 English,,0,0,0,,3
 Dialogue: 0,0:22:11.49,0:22:11.70,ED 2 English,,0,0,0,,4
 Dialogue: 0,0:22:11.70,0:22:12.04,ED 2 English,,0,0,0,,5
-Dialogue: 0,0:22:16.71,0:22:17.42,ED 2 English,,0,0,0,,Let's dance!
-Dialogue: 0,0:22:20.13,0:22:20.84,ED 2 English,,0,0,0,,Let's dance!
+Dialogue: 0,0:22:16.71,0:22:17.42,ED 2 English,,0,0,0,,Let’s dance!
+Dialogue: 0,0:22:20.13,0:22:20.84,ED 2 English,,0,0,0,,Let’s dance!
 Dialogue: 0,0:22:20.84,0:22:21.67,ED 2 English,,0,0,0,,1
 Dialogue: 0,0:22:21.67,0:22:22.55,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:22.55,0:22:22.80,ED 2 English,,0,0,0,,1
@@ -379,7 +381,7 @@ Dialogue: 0,0:22:30.51,0:22:34.14,ED 2 English,,0,0,0,,Take a shower in the ligh
 Dialogue: 0,0:22:30.51,0:22:34.14,ED 2 Romaji,,0,0,0,,{\k11}{\k22}hi{\k10}ka{\k22}ri {\k17}no {\k28}sha{\k40}waa {\k20}o {\k24}a{\k45}bi{\kf87}te
 Dialogue: 0,0:22:33.27,0:22:33.93,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
 Dialogue: 0,0:22:34.14,0:22:37.60,ED 2 Romaji,,0,0,0,,{\k9}{\k18}kyo{\k23}u {\k20}mo {\k22}i{\k21}chi{\k22}ni{\k22}chi {\k22}pi{\k21}ka{\k24}pi{\kf102}ka
-Dialogue: 0,0:22:34.14,0:22:37.60,ED 2 English,,0,0,0,,You'll sparkle all day
+Dialogue: 0,0:22:34.14,0:22:37.60,ED 2 English,,0,0,0,,You’ll sparkle all day
 Dialogue: 0,0:22:37.60,0:22:39.52,ED 2 Romaji,,0,0,0,,{\k28}{\k45}all {\kf115}right!
 Dialogue: 0,0:22:37.60,0:22:39.52,ED 2 English,,0,0,0,,All right!
 Dialogue: 0,0:22:39.98,0:22:43.86,ED 2 English,,0,0,0,,Work it, to the limit, hold your head up a a a oh!
@@ -387,36 +389,36 @@ Dialogue: 0,0:22:39.98,0:22:43.86,ED 2 Romaji,,0,0,0,,{\k7}{\k23}gan{\k21}bat{\k
 Dialogue: 0,0:22:44.65,0:22:45.15,ED 2 English,,0,0,0,,Yes!
 Dialogue: 0,0:22:45.15,0:22:47.91,ED 2 English,,0,0,0,,When you run up against a wall
 Dialogue: 0,0:22:45.15,0:22:47.91,ED 2 Romaji,,0,0,0,,{\k12}{\k46}ka{\k42}be {\k43}ni {\k17}bu{\k29}tsu{\k30}ka{\k34}t{\k22}te
-Dialogue: 0,0:22:48.07,0:22:48.66,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let's go!
+Dialogue: 0,0:22:48.07,0:22:48.66,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let’s go!
 Dialogue: 0,0:22:48.53,0:22:50.58,ED 2 English,,0,0,0,,Your eyes will narrow
 Dialogue: 0,0:22:48.53,0:22:50.58,ED 2 Romaji,,0,0,0,,{\k22}{\k25}me {\k47}ga {\k39}ten {\k23}ni {\k24}naru
-Dialogue: 0,0:22:50.58,0:22:52.16,ED 2 English,,0,0,0,,"Hey, what's with that?"
-Dialogue: 0,0:22:50.58,0:22:52.16,ED 2 Romaji,,0,0,0,,{\k23}{\k26}"do{\k14}n{\k20}da{\k43}kee!?" {\k10}tte
-Dialogue: 0,0:22:52.16,0:22:55.54,ED 2 English,,0,0,0,,It's okay to start from way down
+Dialogue: 0,0:22:50.58,0:22:52.16,ED 2 English,,0,0,0,,“Hey, what’s with that?”
+Dialogue: 0,0:22:50.58,0:22:52.16,ED 2 Romaji,,0,0,0,,{\k23}{\k26}“do{\k14}n{\k20}da{\k43}kee!?” {\k10}tte
+Dialogue: 0,0:22:52.16,0:22:55.54,ED 2 English,,0,0,0,,It’s okay to start from way down
 Dialogue: 0,0:22:52.16,0:22:55.54,ED 2 Romaji,,0,0,0,,{\k11}{\k41}mai{\k41}na{\k45}su {\k23}ka{\k22}ra {\k21}de{\k21}mo {\k23}O{\k36}K!
 Dialogue: 0,0:22:54.91,0:22:55.66,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}OK!
-Dialogue: 0,0:22:55.54,0:22:57.58,ED 2 English,,0,0,0,,Let's turn it around!
+Dialogue: 0,0:22:55.54,0:22:57.58,ED 2 English,,0,0,0,,Let’s turn it around!
 Dialogue: 0,0:22:55.54,0:22:57.58,ED 2 Romaji,,0,0,0,,{\k16}{\k23}gya{\k46}ku{\k22}te{\k32}n {\k29}shi{\k34}you!
 Dialogue: 0,0:22:57.58,0:22:59.08,ED 2 English,,0,0,0,,All at once, yo yo!
 Dialogue: 0,0:22:57.58,0:22:59.08,ED 2 Romaji,,0,0,0,,{\k13}{\k43}ik{\k19}ki! {\k40}YO {\k34}YO
 Dialogue: 0,0:22:59.08,0:23:02.92,ED 2 English,,0,0,0,,Let out a yawn and stretch your back
 Dialogue: 0,0:22:59.08,0:23:02.92,ED 2 Romaji,,0,0,0,,{\k11}{\kf100}a{\k29}ku{\k23}bi{\k21}to {\kf108}se{\k23}no{\k23}bi{\k15}de
-Dialogue: 0,0:23:02.92,0:23:05.59,ED 2 English,,0,0,0,,and you'll feel at ease
+Dialogue: 0,0:23:02.92,0:23:05.59,ED 2 English,,0,0,0,,and you’ll feel at ease
 Dialogue: 0,0:23:02.92,0:23:05.59,ED 2 Romaji,,0,0,0,,{\k17}{\k23}ra{\k22}ku {\k24}ni {\k41}na{\kf133}ru
-Dialogue: 0,0:23:04.80,0:23:06.01,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let's go!
-Dialogue: 0,0:23:05.92,0:23:07.72,ED 2 English,,0,0,0,,It's your source of energy
+Dialogue: 0,0:23:04.80,0:23:06.01,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let’s go!
+Dialogue: 0,0:23:05.92,0:23:07.72,ED 2 English,,0,0,0,,It’s your source of energy
 Dialogue: 0,0:23:05.92,0:23:07.72,ED 2 Romaji,,0,0,0,,{\k21}{\k39}gen{\k10}ki {\k24}no {\k19}mi{\k21}na{\k22}mo{\kf8}to
-Dialogue: 0,0:23:07.72,0:23:09.39,ED 2 English,,0,0,0,,Even if you're worried
+Dialogue: 0,0:23:07.72,0:23:09.39,ED 2 English,,0,0,0,,Even if you’re worried
 Dialogue: 0,0:23:07.72,0:23:09.39,ED 2 Romaji,,0,0,0,,{\k24}{\k33}na{\k26}ya{\k47}n{\k23}de{\kf6}mo
-Dialogue: 0,0:23:09.39,0:23:11.05,ED 2 English,,0,0,0,,Even if you're tired
+Dialogue: 0,0:23:09.39,0:23:11.05,ED 2 English,,0,0,0,,Even if you’re tired
 Dialogue: 0,0:23:09.39,0:23:11.05,ED 2 Romaji,,0,0,0,,{\k21}{\k39}ne{\k30}mu{\k45}ku{\k19}te{\k14}mo
-Dialogue: 0,0:23:11.30,0:23:13.97,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪!
+Dialogue: 0,0:23:11.30,0:23:13.97,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪{\r}!
 Dialogue: 0,0:23:11.30,0:23:13.97,ED 2 Romaji,,0,0,0,,{\k12}{\k27}pa{\k25}wa{\k29}fu{\k23}ru {\kf21}su{\kf16}ma{\kf22}i{\kf28}ri{\kf36}n{\fnArial}♪{\r}!
 Dialogue: 0,0:23:13.01,0:23:14.18,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}1 2 3 4 5!
 Dialogue: 0,0:23:13.97,0:23:17.44,ED 2 English,,0,0,0,,And then hold your head high and dance (Go! Go!)
 Dialogue: 0,0:23:13.97,0:23:17.44,ED 2 Romaji,,0,0,0,,{\k29}{\k14}so{\k27}shi{\k23}te {\k41}gan{\k24}ba{\k14}ran{\k31}su {\k43}de {\kf89}dansu
 Dialogue: 0,0:23:16.85,0:23:17.85,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
-Dialogue: 0,0:23:17.44,0:23:21.02,ED 2 English,,0,0,0,,If you're stressed it will make you refreshed
+Dialogue: 0,0:23:17.44,0:23:21.02,ED 2 English,,0,0,0,,If you’re stressed it will make you refreshed
 Dialogue: 0,0:23:17.44,0:23:21.02,ED 2 Romaji,,0,0,0,,{\k15}{\k28}son{\k0}de{\k27}mo{\k20}tte {\k26}su{\k20}to{\k13}re{\k27}su {\k22}mo > {\k43}ri{\kf95}furesshu
 Dialogue: 0,0:23:20.40,0:23:21.31,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Pretty Cure 5!)
 Dialogue: 0,0:23:21.02,0:23:24.32,ED 2 English,,0,0,0,,Everyone is a glittering gem
@@ -443,8 +445,19 @@ Dialogue: 0,0:23:44.79,0:23:47.54,Nozomi,,0,0,0,,It's like a taste of spring, du
 Dialogue: 0,0:23:47.54,0:23:49.67,Komachi,,0,0,0,,You sure know a lot, Nozomi-san.
 Dialogue: 0,0:23:50.37,0:23:52.37,Nozomi,,0,0,0,,I learned it from Cocoda-sensei.
 Dialogue: 0,0:23:52.37,0:23:56.35,Komachi,,0,0,0,,But it's almost too calm. \NI hope nothing bad happens...
-Dialogue: 0,0:23:56.35,0:23:58.22,Nozomi,,0,0,0,,There's no way{\fscx222}-
+Dialogue: 0,0:23:56.35,0:23:58.22,Nozomi,,0,0,0,,There's no way—
 Dialogue: 0,0:23:58.22,0:24:00.78,Nozomi,,0,0,0,,We've got trouble! {\i1}She's{\i0} here!
 Dialogue: 0,0:24:01.58,0:24:03.75,Nozomi,,0,0,0,,Yes! Pretty Cure 5:
 Dialogue: 0,0:24:03.75,0:24:06.35,Nozomi,,0,0,0,,Terror! Despariah Appears
 Dialogue: 0,0:24:06.35,0:24:08.23,Nozomi,,0,0,0,,Watch it, watch it, watch it, 'kay!?
+Dialogue: 0,0:01:28.65,0:01:29.25,Logo Outline,,0,0,0,,{\blur1\fs21.27\bord1.92\3c&HFFF7BD\t(22,606,\fs57.669\bord5.206\3c&HFFF7AD)\move(906.264,493.669,771.101,633.852,22,606)}Pretty Cure
+Dialogue: 0,0:01:28.65,0:01:29.25,Logo,,0,0,0,,{\blur1\fs21.27\t(22,606,\fs57.669)\move(906.264,493.669,771.101,633.852,22,606)}Pretty Cure
+Dialogue: 0,0:01:29.25,0:01:30.86,Logo Outline,,0,0,0,,{\blur1\fs57.669\bord5.206\iclip(-225,0,-96,1080)\t(6,1507,\fs58.706\bord5.3\iclip(1636,0,1650,1080))\move(771.101,633.852,767.25,637.846,6,1507)}Pretty Cure
+Dialogue: 0,0:01:29.25,0:01:30.86,Logo Outline,,0,0,0,,{\blur1\fs57.669\bord5.206\clip(-225,0,-96,1080)\t(6,1507,\fs58.706\bord5.3\clip(1636,0,1650,1080))\move(771.101,633.852,767.25,637.846,6,1507)\3c&HFFFFD5}Pretty Cure
+Dialogue: 0,0:01:29.25,0:01:30.86,Logo,,0,0,0,,{\blur1\fs57.669\t(6,1507,\fs58.706)\move(771.101,633.852,767.25,637.846,6,1507)}Pretty Cure
+Dialogue: 0,0:01:30.86,0:01:34.49,Logo,,0,0,0,,{\blur1\fs58.706\pos(767.25,637.846)\bord11.6\3c&H9893A4\t(941,1065,\3a0)}Pre{\3a\t(1107,1232,\3a0)}tty {\3a\t(1399,1565,\3a0)}Cure
+Dialogue: 0,0:01:30.86,0:01:34.49,Logo Outline,,0,0,0,,{\blur1\fs58.706\pos(767.25,637.846)\t(941,1065,\3c&HFFFFFF\c&HFFFFFF)}Pre{\3c\c\t(1107,1232,\3c&HFFFFFF\c&HFFFFFF)}tty {\3c\c\t(1399,1565,\3c&HFFFFFF\c&HFFFFFF)}Cure
+Dialogue: 0,0:01:30.86,0:01:34.49,Logo,,0,0,0,,{\blur1\fs58.706\pos(767.25,637.846)\shad0.5\t(899,981,\c&HFB84B9)\t(982,1023,\c&HFC8BD6)\t(1024,1065,\c&HFD77F3)\t(1066,1106,\c&HFF35FE)\t(1107,1232,\c&HFF26FE)\t(1232,1398,\c&HAB15FE)\t(1399,1440,\c&H9310F7)\t(1441,1482,\c&H830DE1)\t(899,1482,\4a40)}Pre{\c\4a\t(1066,1148,\c&HFB84B9)\t(1149,1190,\c&HFC8BD6)\t(1191,1232,\c&HFD77F3)\t(1232,1273,\c&HFF35FE)\t(1274,1398,\c&HFF26FE)\t(1399,1565,\c&HAB15FE)\t(1566,1607,\c&H9310F7)\t(1608,1649,\c&H830DE1)\t(1066,1649,\4a40)}tty {\c\4a\t(1358,1440,\c&HFB84B9)\t(1441,1482,\c&HFC8BD6)\t(1483,1523,\c&HFD77F3)\t(1524,1607,\c&HFF35FE)\t(1608,1690,\c&HFF26FE)\t(1691,1857,\c&HAB15FE)\t(1858,1899,\c&H9310F7)\t(1900,1941,\c&H830DE1)\t(1358,1941,\4a40)}Cure
+Dialogue: 0,0:23:39.98,0:23:42.98,Logo,,0,0,0,,{\blur1\fs58.706\pos(767.25,637.846)\bord11.6\3c&H9893A4\t(898,1022,\3a0)}Pre{\3a\t(1065,1189,\3a0)}tty {\3a\t(1357,1523,\3a0)}Cure
+Dialogue: 0,0:23:39.98,0:23:42.98,Logo Outline,,0,0,0,,{\blur1\fs58.706\pos(767.25,637.846)\t(898,1022,\3c&HFFFFFF\c&HFFFFFF)}Pre{\3c\c\t(1065,1189,\3c&HFFFFFF\c&HFFFFFF)}tty {\3c\c\t(1357,1523,\3c&HFFFFFF\c&HFFFFFF)}Cure
+Dialogue: 0,0:23:39.98,0:23:42.98,Logo,,0,0,0,,{\blur1\fs58.706\pos(767.25,637.846)\shad0.5\t(857,939,\c&HFB84B9)\t(940,981,\c&HFC8BD6)\t(982,1022,\c&HFD77F3)\t(1023,1064,\c&HFF35FE)\t(1065,1189,\c&HFF26FE)\t(1190,1356,\c&HAB15FE)\t(1357,1398,\c&H9310F7)\t(1399,1440,\c&H830DE1)\t(857,1440,\4a40)}Pre{\c\4a\t(1023,1106,\c&HFB84B9)\t(1107,1148,\c&HFC8BD6)\t(1149,1189,\c&HFD77F3)\t(1190,1231,\c&HFF35FE)\t(1232,1356,\c&HFF26FE)\t(1357,1523,\c&HAB15FE)\t(1524,1565,\c&H9310F7)\t(1566,1606,\c&H830DE1)\t(1023,1606,\4a40)}tty {\c\4a\t(1315,1398,\c&HFB84B9)\t(1399,1440,\c&HFC8BD6)\t(1440,1481,\c&HFD77F3)\t(1482,1565,\c&HFF35FE)\t(1566,1648,\c&HFF26FE)\t(1649,1815,\c&HAB15FE)\t(1816,1857,\c&H9310F7)\t(1858,1898,\c&H830DE1)\t(1315,1898,\4a40)}Cure

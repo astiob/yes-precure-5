@@ -9,7 +9,7 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 2
 Video Zoom: 4
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Yes! Pretty Cure 5
@@ -24,26 +24,26 @@ Video Position: 34788
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Kabel Bd,83,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Nozomi,Kabel Bd,83,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Rin,Kabel Bd,83,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Urara,Kabel Bd,83,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Komachi,Kabel Bd,83,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Karen,Kabel Bd,83,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Coco,Kabel Bd,83,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Nuts,Kabel Bd,83,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: Milk,Kabel Bd,83,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: TopSign,Kabel Bd,70,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,8,80,80,36,1
-Style: Alternate,Kabel Bd,83,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,86,100,1.33333,0,1,4.5,1.125,2,144,144,54,1
-Style: OP English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
-Style: OP Romaji,Cascade Script LT Std,77,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,8,27,27,34,1
-Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,1.33333,0,1,4.5,0,5,0,0,0,1
-Style: ED 1 English,Verdana,65,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,86,100,0,0,1,4.5,0,2,27,27,45,1
-Style: ED 1 Romaji,GosmickSans,79,&H00D3A1EE,&H009164C5,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.375,0,8,27,27,34,1
-Style: ED 2 Romaji,Abadi MT Condensed,74,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,2,80,80,27,0
-Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,100,100,0,0,1,6.75,0,8,80,80,45,0
-Style: Ep Title,Gemelli,74,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,90,130,0,0,1,4.5,4.5,5,27,27,23,1
-Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,86,100,0,0,1,4.5,2.25,5,27,27,23,1
+Style: Default,Kabel Bd,83.25,&H00F8F8F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Nozomi,Kabel Bd,83.25,&H00FFD3FE,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Rin,Kabel Bd,83.25,&H008C93E9,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Urara,Kabel Bd,83.25,&H0091E5F8,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Komachi,Kabel Bd,83.25,&H009EE67A,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Karen,Kabel Bd,83.25,&H00F1C19E,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Coco,Kabel Bd,83.25,&H00E6FDFB,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Nuts,Kabel Bd,83.25,&H009CA4C0,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: Milk,Kabel Bd,83.25,&H00CED8F4,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: TopSign,Kabel Bd,69.75,&H00FAFFFF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,8,80,80,36,1
+Style: Alternate,Kabel Bd,83.25,&H00FAD2CF,&H000000FF,&H00151515,&H80000000,0,0,0,0,100,100,0,0,1,4.5,1.125,2,144,144,54,1
+Style: OP English,Verdana,65.25,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,100,100,0,0,1,5.45455,0,2,27,27,27,1
+Style: OP Romaji,Cascade Script LT Std,76.5,&H00E4E890,&H00E1900B,&H001C1305,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,27,27,34,1
+Style: OP Romaji2,Burst My Bubble KK,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,106.625,100,0,0,1,4.5,0,5,0,0,0,1
+Style: ED 1 English,Verdana,65.25,&H00F5F5F5,&H000000FF,&H000A0A0A,&H00000000,-1,0,0,0,100,100,0,0,1,5.45455,0,2,27,27,27,1
+Style: ED 1 Romaji,GosmickSans,78.75,&H00D3A1EE,&H009164C5,&H00000000,&H00000000,-1,-1,0,0,118.472,100,0,0,1,3.375,0,8,27,27,34,1
+Style: ED 2 Romaji,Abadi MT Condensed,74.25,&H00FF8080,&H00FFFFFF,&H00000008,&H80000008,-1,0,0,0,118.472,100,0,0,1,6.75,0,2,80,80,20,0
+Style: ED 2 English,Abadi MT Condensed,76.5,&H00FFFFFF,&H0000FFFF,&H00000008,&H80000008,-1,0,0,0,118.472,100,0,0,1,6.75,0,8,80,80,27,0
+Style: Ep Title,Gemelli,74.25,&H00F3F6F4,&H000000FF,&H00000405,&H90000000,-1,0,0,0,106.625,130,0,0,1,4.5,4.5,5,27,27,23,1
+Style: Credits,Abadi MT Condensed,58.5,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840,-1,0,0,0,100,100,0,0,1,4.5,2.25,8,27,27,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,7 +60,7 @@ Dialogue: 0,0:01:06.87,0:01:10.75,Urara,,0,0,0,,Thinking about the lighting.\N I
 Dialogue: 0,0:01:10.75,0:01:13.13,Urara,,0,0,0,,it can totally change people's perceptions.
 Dialogue: 0,0:01:13.13,0:01:14.67,Rin,,0,0,0,,Oh, really?
 Dialogue: 0,0:01:15.72,0:01:19.47,Urara,,0,0,0,,The lighting director at my drama shoot taught me...
-Dialogue: 0,0:01:19.47,0:01:21.56,Urara,,0,0,0,,..."how to shine."
+Dialogue: 0,0:01:19.47,0:01:21.56,Urara,,0,0,0,,...“how to shine.”
 Dialogue: 0,0:01:21.56,0:01:26.10,Rin,,0,0,0,,That's amazing, Urara.\N It's like you're a real actress.{I guess you really are an actress.} {perhaps more literal, but sounding wrong: "It's like you're a real actress.}{i think the literal flows better. The "real" says she's not one yet and the hope for the future}
 Dialogue: 0,0:01:26.77,0:01:28.40,Urara,,0,0,0,,Thanks for the compliment!
 Dialogue: 0,0:01:34.19,0:01:36.65,Karen,,0,0,0,,A holy day, a holy night.
@@ -70,7 +70,7 @@ Dialogue: 0,0:01:43.83,0:01:45.16,Komachi,,0,0,0,,Hey, Karen!
 Dialogue: 0,0:01:45.79,0:01:47.75,Karen,,0,0,0,,This is great, Komachi! {isn't this great?}
 Dialogue: 0,0:01:48.71,0:01:52.17,Karen,,0,0,0,,This introduction is going to be a poem for a loved one, right?
 Dialogue: 0,0:01:52.50,0:01:55.88,Komachi,,0,0,0,,D-Don't read it. It's embarrassing.
-Dialogue: 0,0:01:56.51,0:02:01.43,Nuts,,0,0,0,,There's no avoiding this "Christmas Spirit." \N It's barely even December yet.
+Dialogue: 0,0:01:56.51,0:02:01.43,Nuts,,0,0,0,,There's no avoiding this “Christmas Spirit.” \N It's barely even December yet.
 Dialogue: 0,0:02:01.43,0:02:04.14,Coco,,0,0,0,,It can't be {\i1}all{\i0}  bad.\N Look how much fun they're having.
 Dialogue: 0,0:02:04.14,0:02:05.73,Nozomi,,0,0,0,,You see, Christmas is...
 Dialogue: 0,0:02:06.06,0:02:10.27,Nozomi,,0,0,0,,...a REALLY important event in a young girl's life!
@@ -149,7 +149,7 @@ Dialogue: 0,0:03:55.74,0:03:56.32,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
 Dialogue: 0,0:03:56.94,0:03:57.45,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
 Comment: 0,0:04:01.05,0:04:01.05,Default,,0,0,0,,Part 1 = 04:01.074
 Dialogue: 0,0:04:01.89,0:04:06.27,Default,,0,0,0,,Feels good, doesn't it? \NHow about this? How's it feel?
-Dialogue: 0,0:04:06.27,0:04:09.99,Default,,0,0,0,,You're too weak. Put a little {\fscx200}-{\r} no, a lot more power into it.
+Dialogue: 0,0:04:06.27,0:04:09.99,Default,,0,0,0,,You're too weak. Put a little — no, a lot more power into it.
 Dialogue: 0,0:04:09.99,0:04:14.57,Default,,0,0,0,,Fine, very well. I'll just kick the power UP a notch or two.
 Dialogue: 0,0:04:14.57,0:04:16.87,Default,,0,0,0,,That's the spirit. Now I'm feeling it.
 Dialogue: 0,0:04:18.16,0:04:19.66,Default,,0,0,0,,I bet you are.
@@ -161,12 +161,12 @@ Dialogue: 0,0:04:32.93,0:04:35.55,Default,,0,0,0,,He just has to carry out his a
 Dialogue: 0,0:04:35.55,0:04:39.18,Default,,0,0,0,,Huh? But won't he get yelled at \Nif he doesn't show up?
 Dialogue: 0,0:04:39.18,0:04:43.85,Default,,0,0,0,,By whom, Kawarino? Don't make me laugh.
 Dialogue: 0,0:04:43.85,0:04:47.40,Default,,0,0,0,,Don't you think you should worry more about yourself?
-Dialogue: 0,0:04:47.40,0:04:49.86,Default,,0,0,0,,By "you," do you mean me?
+Dialogue: 0,0:04:47.40,0:04:49.86,Default,,0,0,0,,By “you,” do you mean me?
 Dialogue: 0,0:04:49.86,0:04:53.74,Default,,0,0,0,,You're just hanging around here without any objectives.
 Dialogue: 0,0:04:53.74,0:04:56.24,Default,,0,0,0,,You think a few shoulder massages will solve everything?
 Dialogue: 0,0:04:56.24,0:04:57.74,Default,,0,0,0,,I-I...
 Dialogue: 0,0:04:57.74,0:05:01.70,Default,,0,0,0,,Besides, wasn't your former department shut down?
-Dialogue: 0,0:05:01.70,0:05:07.88,Default,,0,0,0,,Those who don't carry out their assignments will get the infamous "black paper."
+Dialogue: 0,0:05:01.70,0:05:07.88,Default,,0,0,0,,Those who don't carry out their assignments will get the infamous “black paper.”
 Dialogue: 0,0:05:08.50,0:05:12.13,Default,,27,27,0,,That department was shut down by Kawarino.{passive voice = more concise here} No reason for me to get it.
 Dialogue: 0,0:05:13.63,0:05:15.30,Default,,0,0,0,,Are you sure about that?
 Dialogue: 0,0:05:20.60,0:05:25.10,Ep Title,,0,0,0,,{\fad(314,0)\pos(954.667,688.5)}Rin and Karen's Secret Promise{altered the start time so the fade is the same}
@@ -177,7 +177,7 @@ Dialogue: 0,0:05:33.61,0:05:34.99,Karen,,0,0,0,,Good afternoon.
 Dialogue: 0,0:05:34.99,0:05:37.07,Rin,,0,0,0,,What's going on, Mom?
 Dialogue: 0,0:05:37.07,0:05:40.62,Default,,0,0,0,,I have to go pick up Yuu and Ai.
 Dialogue: 0,0:05:40.62,0:05:43.25,Default,,0,0,0,,I know it's short notice,\N but can you watch the shop?
-Dialogue: 0,0:05:43.25,0:05:45.29,Rin,,0,0,0,,Huh? B-But, wai{\fscx200}-{Y-Yeah, I suppose...}{she's trying to stop her mum, it doesn't sould like an afirmative}
+Dialogue: 0,0:05:43.25,0:05:45.29,Rin,,0,0,0,,Huh? B-But, wai—{Y-Yeah, I suppose...}{she's trying to stop her mum, it doesn't sould like an afirmative}
 Dialogue: 0,0:05:45.29,0:05:46.87,Default,,0,0,0,,Please do.
 Dialogue: 0,0:05:46.87,0:05:48.38,Rin,,0,0,0,,Okay...
 Dialogue: 0,0:05:48.38,0:05:53.34,Default,,0,0,0,,I'm sorry things are so hectic around here, Minazuki-san. But you can take it easy.
@@ -246,7 +246,7 @@ Dialogue: 0,0:09:22.84,0:09:26.09,Karen,,0,0,0,,and handle their orders politely
 Dialogue: 0,0:09:26.51,0:09:30.31,Karen,,0,0,0,,You wouldn't be able to do that if you didn't really love them.
 Dialogue: 0,0:09:30.93,0:09:35.56,Karen,,0,0,0,,I can definitely see you doing \Nthis kind of work in the future.
 Dialogue: 0,0:09:36.81,0:09:40.73,Rin,,0,0,0,,W-Well, yeah, I like to do this...
-Dialogue: 0,0:09:41.07,0:09:45.95,Rin,,0,0,0,,...but I'm not sure about all this "career" and "future" stuff.
+Dialogue: 0,0:09:41.07,0:09:45.95,Rin,,0,0,0,,...but I'm not sure about all this “career” and “future” stuff.
 Dialogue: 0,0:09:46.66,0:09:49.41,Rin,,0,0,0,,The more I think, the less I know.
 Dialogue: 0,0:09:49.99,0:09:53.87,Rin,,0,0,0,,I haven't exactly found something I truly want to do.
 Dialogue: 0,0:09:54.16,0:09:57.33,Karen,,0,0,0,,I see. So you haven't found it, huh?
@@ -260,7 +260,7 @@ Dialogue: 0,0:10:27.24,0:10:29.49,Karen,,0,0,0,,...I truly want to do in the fut
 Dialogue: 0,0:10:31.37,0:10:35.75,Karen,,0,0,0,,That's why I really envy people like Komachi and Urara...
 Dialogue: 0,0:10:35.75,0:10:40.50,Karen,,0,0,0,,...who have their own dreams and can dedicate everything to achieving them.
 Dialogue: 0,0:10:41.29,0:10:46.26,Karen,,0,0,0,,And when I saw those two earlier,\N I couldn't help thinking:
-Dialogue: 0,0:10:46.26,0:10:49.93,Karen,,0,0,0,,"If only I had my own dreams, too."
+Dialogue: 0,0:10:46.26,0:10:49.93,Karen,,0,0,0,,“If only I had my own dreams, too.”
 Dialogue: 0,0:10:54.09,0:10:56.89,Karen,,0,0,0,,We should be getting back to the others...
 Dialogue: 0,0:10:57.19,0:10:58.35,Rin,,0,0,0,,I...
 Dialogue: 0,0:10:59.06,0:11:03.77,Rin,,0,0,0,,...have plenty of fun playing futsal\N or helping out here.
@@ -278,7 +278,7 @@ Dialogue: 0,0:11:41.15,0:11:42.69,Karen,,0,0,0,,A promise?
 Dialogue: 0,0:11:42.69,0:11:47.57,Rin,,40,40,0,,Once we find what we want to do in the future,\N we'll each tell the other first.
 Dialogue: 0,0:11:48.15,0:11:49.03,Karen,,0,0,0,,Sounds good.
 Dialogue: 0,0:11:49.03,0:11:52.87,Rin,,0,0,0,,Now, let's see who finds their goal first...
-Dialogue: 0,0:11:58.91,0:12:03.46,Default,,0,0,0,,"What you want to do?" \N You'll never find anything like that.
+Dialogue: 0,0:11:58.91,0:12:03.46,Default,,0,0,0,,“What you want to do?” \N You'll never find anything like that.
 Dialogue: 0,0:12:04.13,0:12:07.92,Default,,0,0,0,,Because{, like Azala and the Reptites, } you girls have no future.
 Comment: 0,0:12:07.99,0:12:22.09,Default,,0,0,0,,Part 2 = 12:22.117
 Dialogue: 0,0:12:28.03,0:12:30.15,Rin,,0,0,0,,Time sure has flown.
@@ -300,15 +300,15 @@ Dialogue: 0,0:14:26.56,0:14:28.52,Default,,0,0,0,,Compared to mine,
 Dialogue: 0,0:14:28.52,0:14:32.90,Default,,0,0,0,,your powers may as well be \Nwithered leaves falling from a branch!
 Dialogue: 0,0:14:33.40,0:14:37.11,Default,,0,0,0,,Don't you two want to be more powerful?
 Dialogue: 0,0:14:37.82,0:14:39.03,Karen,,0,0,0,,What?!
-Dialogue: 0,0:14:39.03,0:14:43.90,Default,,0,0,0,,I happened to overhear... \Nthat you girls have "nothing."
+Dialogue: 0,0:14:39.03,0:14:43.90,Default,,0,0,0,,I happened to overhear... \Nthat you girls have “nothing.”
 Dialogue: 0,0:14:44.20,0:14:46.66,Default,,0,0,0,,As in no dreams or hopes for the future!
-Dialogue: 0,0:14:48.62,0:14:51.84,Default,,0,0,0,,Isn't that what they call "despair"?
+Dialogue: 0,0:14:48.62,0:14:51.84,Default,,0,0,0,,Isn't that what they call “despair”?
 Dialogue: 0,0:14:51.84,0:14:57.18,Default,,0,0,0,,So I thought the power of despair would come in handy for you.
 Dialogue: 0,0:14:58.26,0:14:59.59,Rin,,0,0,0,,What're you talking about?!
 Dialogue: 0,0:14:59.59,0:15:00.93,Karen,,0,0,0,,We'll be sure to...
 Dialogue: 0,0:15:02.81,0:15:05.52,Default,,0,0,0,,...find our dreams someday!
 Dialogue: 0,0:15:11.65,0:15:14.15,Default,,0,0,0,,What, you actually {\i1}believe{\i0}  that?{bunbee looks like a dirty old man in this line, holding their legs so he can look up thier skirts indeed...}{haha I thought the same thing}
-Dialogue: 0,0:15:14.73,0:15:17.24,Default,,0,0,0,,Essentially, "dreams" are...
+Dialogue: 0,0:15:14.73,0:15:17.24,Default,,0,0,0,,Essentially, “dreams” are...
 Dialogue: 0,0:15:17.24,0:15:20.45,Default,,0,0,0,,...nothing more than illusions!
 Dialogue: 0,0:15:31.17,0:15:35.63,Default,,0,0,0,,You'll never find something like that,\N no matter where you look!
 Dialogue: 0,0:15:35.63,0:15:37.38,Rin,,0,0,0,,You're wrong!
@@ -395,8 +395,8 @@ Dialogue: 0,0:22:10.91,0:22:11.32,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:11.32,0:22:11.62,ED 2 English,,0,0,0,,3
 Dialogue: 0,0:22:11.62,0:22:11.82,ED 2 English,,0,0,0,,4
 Dialogue: 0,0:22:11.82,0:22:12.16,ED 2 English,,0,0,0,,5
-Dialogue: 0,0:22:16.83,0:22:17.54,ED 2 English,,0,0,0,,Let's dance!
-Dialogue: 0,0:22:20.25,0:22:20.96,ED 2 English,,0,0,0,,Let's dance!
+Dialogue: 0,0:22:16.83,0:22:17.54,ED 2 English,,0,0,0,,Let’s dance!
+Dialogue: 0,0:22:20.25,0:22:20.96,ED 2 English,,0,0,0,,Let’s dance!
 Dialogue: 0,0:22:20.96,0:22:21.79,ED 2 English,,0,0,0,,1
 Dialogue: 0,0:22:21.79,0:22:22.67,ED 2 English,,0,0,0,,2
 Dialogue: 0,0:22:22.67,0:22:23.04,ED 2 English,,0,0,0,,1
@@ -415,7 +415,7 @@ Dialogue: 0,0:22:30.64,0:22:34.26,ED 2 English,,0,0,0,,Take a shower in the ligh
 Dialogue: 0,0:22:30.64,0:22:34.26,ED 2 Romaji,,0,0,0,,{\k11}{\k22}hi{\k10}ka{\k22}ri {\k17}no {\k28}sha{\k40}waa {\k20}o {\k24}a{\k45}bi{\kf87}te
 Dialogue: 0,0:22:33.39,0:22:34.06,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
 Dialogue: 0,0:22:34.26,0:22:37.73,ED 2 Romaji,,0,0,0,,{\k9}{\k18}kyo{\k23}u {\k20}mo {\k22}i{\k21}chi{\k22}ni{\k22}chi {\k22}pi{\k21}ka{\k24}pi{\kf102}ka
-Dialogue: 0,0:22:34.26,0:22:37.73,ED 2 English,,0,0,0,,You'll sparkle all day
+Dialogue: 0,0:22:34.26,0:22:37.73,ED 2 English,,0,0,0,,You’ll sparkle all day
 Dialogue: 0,0:22:37.73,0:22:39.64,ED 2 Romaji,,0,0,0,,{\k28}{\k45}all {\kf115}right!
 Dialogue: 0,0:22:37.73,0:22:39.64,ED 2 English,,0,0,0,,All right!
 Dialogue: 0,0:22:40.10,0:22:43.98,ED 2 English,,0,0,0,,Work it, to the limit, hold your head up a a a oh!
@@ -423,36 +423,36 @@ Dialogue: 0,0:22:40.10,0:22:43.98,ED 2 Romaji,,0,0,0,,{\k7}{\k23}gan{\k21}bat{\k
 Dialogue: 0,0:22:44.77,0:22:45.27,ED 2 English,,0,0,0,,Yes!
 Dialogue: 0,0:22:45.27,0:22:48.03,ED 2 English,,0,0,0,,When you run up against a wall
 Dialogue: 0,0:22:45.27,0:22:48.03,ED 2 Romaji,,0,0,0,,{\k12}{\k46}ka{\k42}be {\k43}ni {\k17}bu{\k29}tsu{\k30}ka{\k34}t{\k22}te
-Dialogue: 0,0:22:48.19,0:22:48.78,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let's go!
+Dialogue: 0,0:22:48.19,0:22:48.78,ED 2 English,,0,0,135,,{\pos(938.667,117)\fs67.5}Let’s go!
 Dialogue: 0,0:22:48.65,0:22:50.70,ED 2 English,,0,0,0,,Your eyes will narrow
 Dialogue: 0,0:22:48.65,0:22:50.70,ED 2 Romaji,,0,0,0,,{\k22}{\k25}me {\k47}ga {\k39}ten {\k23}ni {\k24}naru
-Dialogue: 0,0:22:50.70,0:22:52.28,ED 2 English,,0,0,0,,"Hey, what's with that?"
-Dialogue: 0,0:22:50.70,0:22:52.28,ED 2 Romaji,,0,0,0,,{\k23}{\k26}"do{\k14}n{\k20}da{\k43}kee!?" {\k10}tte
-Dialogue: 0,0:22:52.28,0:22:55.66,ED 2 English,,0,0,0,,It's okay to start from way down
+Dialogue: 0,0:22:50.70,0:22:52.28,ED 2 English,,0,0,0,,“Hey, what’s with that?”
+Dialogue: 0,0:22:50.70,0:22:52.28,ED 2 Romaji,,0,0,0,,{\k23}{\k26}“do{\k14}n{\k20}da{\k43}kee!?” {\k10}tte
+Dialogue: 0,0:22:52.28,0:22:55.66,ED 2 English,,0,0,0,,It’s okay to start from way down
 Dialogue: 0,0:22:52.28,0:22:55.66,ED 2 Romaji,,0,0,0,,{\k11}{\k41}mai{\k41}na{\k45}su {\k23}ka{\k22}ra {\k21}de{\k21}mo {\k23}O{\k36}K!
 Dialogue: 0,0:22:55.03,0:22:55.79,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}OK!
-Dialogue: 0,0:22:55.66,0:22:57.58,ED 2 English,,0,0,0,,Let's turn it around!
+Dialogue: 0,0:22:55.66,0:22:57.58,ED 2 English,,0,0,0,,Let’s turn it around!
 Dialogue: 0,0:22:55.66,0:22:57.58,ED 2 Romaji,,0,0,0,,{\k16}{\k23}gya{\k46}ku{\k22}te{\k32}n {\k29}shi{\k34}you!
 Dialogue: 0,0:22:57.58,0:22:59.21,ED 2 English,,0,0,0,,All at once, yo yo!
 Dialogue: 0,0:22:57.58,0:22:59.21,ED 2 Romaji,,0,0,0,,{\k13}{\k43}ik{\k19}ki! {\k40}YO {\k34}YO
 Dialogue: 0,0:22:59.21,0:23:03.04,ED 2 English,,0,0,0,,Let out a yawn and stretch your back
 Dialogue: 0,0:22:59.21,0:23:03.04,ED 2 Romaji,,0,0,0,,{\k11}{\kf100}a{\k29}ku{\k23}bi{\k21}to {\kf108}se{\k23}no{\k23}bi{\k15}de
-Dialogue: 0,0:23:03.04,0:23:05.71,ED 2 English,,0,0,0,,and you'll feel at ease
+Dialogue: 0,0:23:03.04,0:23:05.71,ED 2 English,,0,0,0,,and you’ll feel at ease
 Dialogue: 0,0:23:03.04,0:23:05.71,ED 2 Romaji,,0,0,0,,{\k17}{\k23}ra{\k22}ku {\k24}ni {\k41}na{\kf133}ru
-Dialogue: 0,0:23:04.92,0:23:06.13,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let's go!
-Dialogue: 0,0:23:06.05,0:23:07.84,ED 2 English,,0,0,0,,It's your source of energy
+Dialogue: 0,0:23:04.92,0:23:06.13,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}Let’s go!
+Dialogue: 0,0:23:06.05,0:23:07.84,ED 2 English,,0,0,0,,It’s your source of energy
 Dialogue: 0,0:23:06.05,0:23:07.84,ED 2 Romaji,,0,0,0,,{\k21}{\k39}gen{\k10}ki {\k24}no {\k19}mi{\k21}na{\k22}mo{\kf8}to
-Dialogue: 0,0:23:07.84,0:23:09.51,ED 2 English,,0,0,0,,Even if you're worried
+Dialogue: 0,0:23:07.84,0:23:09.51,ED 2 English,,0,0,0,,Even if you’re worried
 Dialogue: 0,0:23:07.84,0:23:09.51,ED 2 Romaji,,0,0,0,,{\k24}{\k33}na{\k26}ya{\k47}n{\k23}de{\kf6}mo
-Dialogue: 0,0:23:09.51,0:23:11.18,ED 2 English,,0,0,0,,Even if you're tired
+Dialogue: 0,0:23:09.51,0:23:11.18,ED 2 English,,0,0,0,,Even if you’re tired
 Dialogue: 0,0:23:09.51,0:23:11.18,ED 2 Romaji,,0,0,0,,{\k21}{\k39}ne{\k30}mu{\k45}ku{\k19}te{\k14}mo
-Dialogue: 0,0:23:11.43,0:23:14.10,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪!
+Dialogue: 0,0:23:11.43,0:23:14.10,ED 2 English,,0,0,0,,Powerful Smiling{\fnArial}♪{\r}!
 Dialogue: 0,0:23:11.43,0:23:14.10,ED 2 Romaji,,0,0,0,,{\k12}{\k27}pa{\k25}wa{\k29}fu{\k23}ru {\kf21}su{\kf16}ma{\kf22}i{\kf28}ri{\kf36}n{\fnArial}♪{\r}!
 Dialogue: 0,0:23:13.14,0:23:14.30,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}1 2 3 4 5!
 Dialogue: 0,0:23:14.10,0:23:17.56,ED 2 English,,0,0,0,,And then hold your head high and dance (Go! Go!)
 Dialogue: 0,0:23:14.10,0:23:17.56,ED 2 Romaji,,0,0,0,,{\k29}{\k14}so{\k27}shi{\k23}te {\k41}gan{\k24}ba{\k14}ran{\k31}su {\k43}de {\kf89}dansu
 Dialogue: 0,0:23:16.97,0:23:17.97,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Go go go go!)
-Dialogue: 0,0:23:17.56,0:23:21.14,ED 2 English,,0,0,0,,If you're stressed it will make you refreshed
+Dialogue: 0,0:23:17.56,0:23:21.14,ED 2 English,,0,0,0,,If you’re stressed it will make you refreshed
 Dialogue: 0,0:23:17.56,0:23:21.14,ED 2 Romaji,,0,0,0,,{\k15}{\k28}son{\k0}de{\k27}mo{\k20}tte {\k26}su{\k20}to{\k13}re{\k27}su {\k22}mo > {\k43}ri{\kf95}furesshu
 Dialogue: 0,0:23:20.52,0:23:21.52,ED 2 English,,0,0,0,,{\pos(938.667,117)\fs67.5}(Pretty Cure 5!)
 Dialogue: 0,0:23:21.14,0:23:24.44,ED 2 English,,0,0,0,,Everyone is a glittering gem
