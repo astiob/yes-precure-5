@@ -305,7 +305,7 @@ Dialogue: 0,0:14:32.63,0:14:34.04,Karen,,0,0,0,,How cowardly!
 Dialogue: 0,0:14:49.89,0:14:52.86,Default,,0,0,0,,{14:49}Now, hand over the Dream Collet!
 Dialogue: 0,0:14:53.27,0:14:55.27,Nozomi,,0,0,0,,Fat chance, lady!
 Dialogue: 0,0:14:56.61,0:14:58.24,Nuts,,0,0,0,,Everyone... {for once I won't change it lol}
-Dialogue: 0,0:15:01.91,0:15:03.74,Default,,0,0,0,,You wound up like this because you fussed over{altered magins to fit on one line}
+Dialogue: 0,0:15:01.91,0:15:03.74,Default,,0,0,0,,You wound up like this\N because you fussed over{altered magins to fit on one line}{I'm guessing this was undone}
 Dialogue: 0,0:15:03.74,0:15:07.16,Default,,0,0,0,,pointless things like \Nyour school and your Principal!
 Dialogue: 0,0:15:07.54,0:15:10.46,Nozomi,,0,0,0,,Our school is important to us...
 Dialogue: 0,0:15:11.26,0:15:14.42,Urara,,0,0,0,,They care for all of us students...!
