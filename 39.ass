@@ -143,7 +143,6 @@ Dialogue: 0,0:03:04.85,0:03:07.90,Default,,0,0,0,,I can't {\i1}believe{\i0}  I'm
 Dialogue: 0,0:03:09.92,0:03:12.28,Default,,0,0,0,,Ah, Kawarino-san!
 Dialogue: 0,0:03:12.28,0:03:18.22,Default,,0,0,0,,Is the irreplaceable Kawarino-san also here to work on a day off? How diligent.
 Comment: 0,0:03:18.19,0:03:18.19,Default,,0,0,0,,pun here: "kawari no naku" = without substitute/replacement. Not directly renderable without a TL note, but I think this works.
-Comment: 0,0:02:59.99,0:02:59.99,Default,,0,0,0,,More localized option for these lines: Coco: "Ah, this must be an Indian summer." / Nozomi: "Summer? But it's almost winter." // main reason I hesitate to use this is because Nozomi directly repeats the haru (spring) part of "koharu biyori." Using "summer" instead preserves the pun, but it does conflict with what she actually says.{i agree with what you've done, if we get any whiners, let them whine}
 Dialogue: 0,0:03:18.22,0:03:20.71,Default,,0,0,0,,Oh, that's right, should I make some tea?
 Dialogue: 0,0:03:20.71,0:03:23.67,Default,,0,0,0,,Have you seen Despariah-sama at all?
 Dialogue: 0,0:03:23.67,0:03:28.91,Default,,0,0,0,,Why no, I haven't. Since today's a holiday, \Nmaybe she's on vacation somewhere?
@@ -155,9 +154,9 @@ Dialogue: 0,0:03:54.96,0:03:58.71,Nozomi,,0,0,0,,This is strange. Where'd that P
 Dialogue: 0,0:03:58.71,0:04:00.04,Nuts,,0,0,0,,I don't feel its presence.
 Dialogue: 0,0:04:00.04,0:04:01.85,Coco,,0,0,0,,Well, these things happen.
 Dialogue: 0,0:04:01.85,0:04:04.57,Nozomi,,0,0,0,,Sorry for bringing you\N out here on a day off.
-Dialogue: 0,0:04:09.44,0:04:11.05,Coco,,0,0,0,,Ah, it's like a little taste of spring. {"koharu biyori" = mild autumn, Indian summer. There's an OVA of the same name.}
-Dialogue: 0,0:04:11.26,0:04:13.38,Nozomi,,0,0,0,,Spring? But it's almost winter.
-Dialogue: 0,0:04:13.38,0:04:19.26,Coco,,0,0,0,,They call these surprisingly warm days in a stretch of cold weather a "taste of spring."
+Dialogue: 0,0:04:09.44,0:04:11.05,Coco,,0,0,0,,Ah, this must be an Indian summer. {"koharu biyori" = mild autumn, Indian summer. There's an OVA of the same name.}
+Dialogue: 0,0:04:11.26,0:04:13.38,Nozomi,,0,0,0,,What? It's almost winter!
+Dialogue: 0,0:04:13.38,0:04:19.26,Coco,,0,0,0,,They call these surprisingly warm days in a stretch of cold weather "Indian summer."
 Dialogue: 0,0:04:19.26,0:04:21.37,Nozomi,,0,0,0,,Wow, really?
 Dialogue: 0,0:04:21.37,0:04:25.77,Coco,,0,0,0,,It's such a waste to sit at home on such a lovely day. Want to go out somewhere?
 Dialogue: 0,0:04:25.77,0:04:27.44,Nozomi,,0,0,0,,Sure, that sounds great!
@@ -339,7 +338,7 @@ Dialogue: 0,0:16:17.85,0:16:21.69,Default,,0,0,0,,Meeting the ones from the Palm
 Dialogue: 0,0:16:22.26,0:16:24.76,Default,,0,0,0,,Regret it, and fall into despair.
 Dialogue: 0,0:16:25.46,0:16:27.02,Nozomi,,0,0,0,,He taught me...
 Dialogue: 0,0:16:27.02,0:16:29.74,Nozomi,,0,0,0,,Coco taught me...
-Dialogue: 0,0:16:29.74,0:16:34.33,Nozomi,,0,0,0,,...that sunny fall days like today are called "a taste of spring"!
+Dialogue: 0,0:16:29.74,0:16:34.33,Nozomi,,0,0,0,,...that sunny fall days like today are called "Indian summer"!
 Dialogue: 0,0:16:34.33,0:16:34.90,Coco,,0,0,0,,{Coco}Huh?
 Dialogue: 0,0:16:34.90,0:16:40.19,Nozomi,,27,27,0,,Not only that, he taught me the value of studying and the importance of friends!
 Dialogue: 0,0:16:40.19,0:16:44.08,Nozomi,,0,0,0,,I'll never ever regret meeting Coco!
