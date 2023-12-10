@@ -115,9 +115,9 @@ Dialogue: 0,0:02:06.18,0:02:10.22,Default,,0,0,0,,This is eternal youth, eternal
 Dialogue: 0,0:02:10.22,0:02:12.27,Default,,0,0,0,,How exquisite it is.{changed to sound like shes askign a rhetorical question}
 Dialogue: 0,0:02:17.72,0:02:20.11,Default,,0,0,0,,T-The Dream Collet has...
 Dialogue: 0,0:02:20.11,0:02:24.45,Default,,0,0,0,,...had its one and only wish used-nuts.
-Dialogue: 0,0:02:24.45,0:02:29.52,Default,,0,0,0,,Very soon, the Dream Collet will lack \Nthe power to revive the Palmier Kingdom.
-Dialogue: 0,0:02:29.52,0:02:33.46,Default,,0,0,0,,You'll have lost your companions,
-Dialogue: 0,0:02:33.86,0:02:37.22,Default,,0,0,0,,and Despariah-sama will be eternally young.
+Dialogue: 0,0:02:24.45,0:02:29.52,Default,,0,0,0,,The Dream Collet no longer has the\N power to revive the Palmier Kingdom.
+Dialogue: 0,0:02:29.52,0:02:33.46,Default,,0,0,0,,You have lost your companion,
+Dialogue: 0,0:02:33.86,0:02:37.22,Default,,0,0,0,,and Despariah-sama is eternally young.
 Dialogue: 0,0:02:39.42,0:02:43.94,Default,,0,0,0,,There is absolutely nothing left for you...
 Dialogue: 0,0:02:43.94,0:02:46.14,Default,,0,0,0,,...except despair.
 Dialogue: 0,0:02:47.63,0:02:50.31,Nozomi,,0,0,0,,I'll never... despair!
@@ -232,8 +232,8 @@ Dialogue: 0,0:12:06.75,0:12:08.62,Default,,0,0,0,,Yes. Take a good look.
 Dialogue: 0,0:12:08.92,0:12:11.96,Default,,0,0,0,,They've lost their country, \Nabandoned all hope,
 Dialogue: 0,0:12:11.96,0:12:14.79,Default,,0,0,0,,and are without a future.{removed your forced line break as it created a 3 liner // eh, it probably would've been 2 lines with reduced margins or on playback, but I decided to split the line ~Z }
 Dialogue: 0,0:12:15.15,0:12:19.31,Default,,0,0,0,,They are the inhabitants of the Palmier Kingdom!
-Dialogue: 0,0:12:23.00,0:12:27.89,Default,,0,0,0,,Without the Dream Collet,\N the kingdom's subjects wound up like this.
-Dialogue: 0,0:12:27.89,0:12:31.14,Default,,0,0,0,,And you also have no choice but to fall into despair!
+Dialogue: 0,0:12:23.00,0:12:27.89,Default,,0,0,0,,You lack the Dream Collet,\N and the kingdom's subjects are like this.
+Dialogue: 0,0:12:27.89,0:12:31.14,Default,,0,0,0,,You have nothing left to do but to fall into despair!
 Dialogue: 0,0:12:36.54,0:12:39.11,Coco,,0,0,0,,I'm so glad-coco.
 Dialogue: 0,0:12:42.38,0:12:44.56,Nuts,,0,0,0,,Everyone's here-nuts!
 Dialogue: 0,0:12:44.56,0:12:47.49,Coco,,0,0,0,,I'm so happy they're all here-coco!

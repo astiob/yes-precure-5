@@ -127,9 +127,9 @@ Comment: 0,0:02:23.03,0:02:23.03,Default,,0,0,0,,Part 1 = 02:23.101
 Dialogue: 0,0:02:29.36,0:02:31.40,Default,,0,0,0,,Man, I'm so hungry.
 Dialogue: 0,0:02:33.31,0:02:34.40,Default,,0,0,0,,Gamao-san? {accidentally had kun before}
 Comment: 0,0:02:36.01,0:02:37.17,Default,,0,0,0,,{this doesn't seem to be anything important}
-Dialogue: 0,0:02:38.68,0:02:42.20,Default,,0,0,0,,Have you been by \Nthe Nightmare main office lately?
-Dialogue: 0,0:02:42.20,0:02:45.87,Default,,0,0,0,,Yeah, I dropped by to see you...
-Dialogue: 0,0:02:46.73,0:02:50.61,Default,,0,0,0,,...to ask you to make me \Nan official member of Nightmare. {"to" rather than "and"}
+Dialogue: 0,0:02:38.68,0:02:42.20,Default,,0,0,0,,I hear you have been by \Nthe Nightmare main office lately.
+Dialogue: 0,0:02:42.20,0:02:45.87,Default,,0,0,0,,Yeah, I dropped by to see you.
+Dialogue: 0,0:02:46.73,0:02:50.61,Default,,0,0,0,,You said you could make me \Nan official member of Nightmare.
 Dialogue: 0,0:02:51.55,0:02:54.88,Default,,0,0,0,,Official member, you say?
 Dialogue: 0,0:02:56.09,0:03:00.68,Default,,0,0,0,,I'm well aware of your skills and experience.
 Dialogue: 0,0:03:01.19,0:03:04.47,Default,,0,0,0,,But unfortunately, \Nyou've yet to produce any results.
@@ -154,8 +154,8 @@ Dialogue: 0,0:04:14.01,0:04:15.50,Alternate,,0,0,0,,H-Hey! {}
 Dialogue: 0,0:04:15.93,0:04:19.54,Default,,0,0,0,,Man, why does he keep yanking my chain?
 Dialogue: 0,0:04:29.78,0:04:32.01,Default,,0,0,0,,This is the real deal!
 Dialogue: 0,0:04:36.05,0:04:40.65,Default,,0,0,0,,Winning'll be a piece of cake with this! \NI'll be on the fast track to management!
-Dialogue: 0,0:04:44.36,0:04:47.46,Default,,0,0,0,,Assuming you obtain \Nthe Dream Collet, anyway.
-Dialogue: 0,0:04:47.80,0:04:50.64,Default,,0,0,0,,I wonder what will become of you?
+Dialogue: 0,0:04:44.36,0:04:47.46,Default,,0,0,0,,As long as you obtain the Dream Collet...
+Dialogue: 0,0:04:47.80,0:04:50.64,Default,,0,0,0,,...it matters naught what becomes of you.
 Dialogue: 0,0:04:54.75,0:04:59.25,Ep Title,,0,0,0,,{\pos(960,686.25)\fad(317,0)}Go for the Goal! Marathon Race
 Dialogue: 0,0:05:13.83,0:05:15.39,Nozomi,,0,0,0,,I can't go on...
 Dialogue: 0,0:05:15.39,0:05:17.77,Rin,,0,0,0,,We haven't even run 2 km.

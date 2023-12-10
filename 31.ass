@@ -124,8 +124,8 @@ Dialogue: 0,0:02:25.87,0:02:26.37,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
 Comment: 0,0:02:29.90,0:02:29.90,Default,,0,0,0,,Part 1 02:28.982
 Dialogue: 0,0:02:53.88,0:02:56.63,Nuts,,0,0,0,,This makes 28 Pinkies you've collected.
 Dialogue: 0,0:02:56.63,0:03:00.18,Nuts,,0,0,0,,You just need 27 more to have all 55 assembled.
-Dialogue: 0,0:03:00.18,0:03:01.98,Komachi,,0,0,0,,I'm sure we'll get it done.
-Dialogue: 0,0:03:01.98,0:03:04.49,Urara,,0,0,0,,We've already made a lot of progress.
+Dialogue: 0,0:03:00.18,0:03:01.98,Komachi,,0,0,0,,We're past the halfway point.
+Dialogue: 0,0:03:01.98,0:03:04.49,Urara,,0,0,0,,We've made a lot of progress.
 Dialogue: 0,0:03:05.10,0:03:06.94,Urara,,0,0,0,,Nozomi-san?
 Dialogue: 0,0:03:08.06,0:03:09.11,Rin,,0,0,0,,Nozomi?
 Dialogue: 0,0:03:09.94,0:03:11.78,Nozomi,,0,0,0,,Eh? What is it?
@@ -183,7 +183,7 @@ Dialogue: 0,0:05:46.72,0:05:49.14,Default,,0,0,0,,I'm losing personnel here.
 Dialogue: 0,0:05:49.60,0:05:52.75,Default,,0,0,0,,First Girinma-kun, and now Arachnea-kun?
 Dialogue: 0,0:05:53.15,0:05:55.94,Default,,0,0,0,,And it's all Kawarino-san's fault, too.
 Dialogue: 0,0:05:55.94,0:05:59.69,Default,,0,0,0,,Yet, as their supervisor,\N the blame falls on {\i1}me.{\i0}
-Dialogue: 0,0:06:00.03,0:06:04.48,Default,,53,53,0,,I can't take this anymore. Can't Kawarino-san get transferred or something? {
+Dialogue: 0,0:06:00.03,0:06:04.48,Default,,53,53,0,,I can't take this anymore. Can't Kawarino-san get transferred or something?
 Dialogue: 0,0:06:08.83,0:06:10.33,Default,,0,0,0,,Nobody's here!
 Dialogue: 0,0:06:10.33,0:06:13.08,Default,,0,0,0,,W-W-Where'd everybody go?! Hey!!
 Dialogue: 0,0:06:13.08,0:06:15.09,Default,,0,0,0,,They've all been transferred.
@@ -220,7 +220,7 @@ Dialogue: 0,0:07:59.81,0:08:02.78,Default,,0,0,0,,Aww, are you worried about {\i
 Dialogue: 0,0:08:02.78,0:08:05.28,Default,,0,0,0,,You're such a nice guy, Kawarino-chan!
 Dialogue: 0,0:08:11.28,0:08:12.74,Default,,0,0,0,,See you!
 Dialogue: 0,0:08:30.76,0:08:32.26,Rin,,0,0,0,,Nozomi...
-Dialogue: 0,0:08:49.82,0:08:51.66,Nuts,,0,0,0,,Shouldn't you answer it? {her? // the object is ambigious, as it could be "the girl" or "the letter." I'll go with "it," since it fits Nuts' aloof personality better}
+Dialogue: 0,0:08:49.82,0:08:51.66,Nuts,,0,0,0,,You seem quite distressed. {her? // the object is ambigious, as it could be "the girl" or "the letter." I'll go with "it," since it fits Nuts' aloof personality better}{it's neither; the subject is Coco's stress and the predicate is that it's taking a toll on him}
 Dialogue: 0,0:08:52.49,0:08:55.73,Coco,,0,0,0,,N-Nuts! Why're you here?
 Dialogue: 0,0:08:56.17,0:08:58.16,Coco,,0,0,0,,If the students find you...
 Dialogue: 0,0:08:58.54,0:09:00.25,Nuts,,0,0,0,,Have you spoken with Nozomi?
@@ -342,11 +342,11 @@ Dialogue: 0,0:18:31.19,0:18:34.66,Default,,0,0,0,,Ha! I'll harm him as many time
 Dialogue: 0,0:18:36.16,0:18:39.33,Nozomi,,0,0,0,,I just can't stand you!
 Dialogue: 0,0:18:51.30,0:18:55.26,Nozomi,,0,0,0,,The great potential of a young girl's dreams... take this!
 Dialogue: 0,0:18:56.44,0:19:00.00,Nozomi,,0,0,0,,Pretty Cure Crystal Shoot! {or maybe "shot" or "shooter"?}{aesir had it as shoot, and the bit after it i think is a nuance of them speaking engrish}
-Dialogue: 0,0:19:22.52,0:19:24.86,Default,,0,0,0,,Well, what have we here?
-Dialogue: 0,0:19:24.86,0:19:28.92,Default,,0,0,0,,Hmm, you're more cunning than I thought. \NUntil next time!
+Dialogue: 0,0:19:22.52,0:19:24.86,Default,,0,0,0,,Tch, the Collet...!
+Dialogue: 0,0:19:24.86,0:19:28.92,Default,,0,0,0,,Hmm, you're better than I thought. \NThis is going to be interesting!
 Dialogue: 0,0:19:33.84,0:19:34.97,Komachi,,0,0,0,,Are you okay?
 Dialogue: 0,0:19:34.97,0:19:37.72,Nuts,,0,0,0,,Yes-nuts. You saved us-nuts!
-Dialogue: 0,0:19:45.48,0:19:49.61,Nuts,,0,0,0,,Hey, you can't ignore\N that look on Nozomi's face-nuts.
+Dialogue: 0,0:19:45.48,0:19:49.61,Nuts,,0,0,0,,Hey, are you gonna let Nozomi\N keep that look on her face-nuts?{I feel it's important that this stay phrased as a question}
 Dialogue: 0,0:20:11.46,0:20:13.38,Nozomi,,0,0,0,,I'm heading out!
 Dialogue: 0,0:20:17.68,0:20:18.97,Nozomi,,0,0,0,,Huh?
 Dialogue: 0,0:20:20.59,0:20:21.64,Coco,,0,0,0,,Nozomi.

@@ -219,7 +219,7 @@ Dialogue: 0,0:07:40.30,0:07:42.38,Nozomi,,0,0,0,,I just wonder what the others a
 Dialogue: 0,0:07:47.00,0:07:48.11,Urara,,0,0,0,,Rin-san!
 Dialogue: 0,0:07:49.15,0:07:51.12,Rin,,0,0,0,,Urara? What about your job?
 Dialogue: 0,0:07:51.12,0:07:52.58,Urara,,0,0,0,,It's finished.
-Dialogue: 0,0:07:52.58,0:07:55.83,Urara,,0,0,0,,Were you still helping at the store?
+Dialogue: 0,0:07:52.58,0:07:55.83,Urara,,0,0,0,,And you? Done helping at the store?
 Dialogue: 0,0:07:55.83,0:07:58.07,Rin,,0,0,0,,Yes, I am.
 Dialogue: 0,0:07:58.07,0:08:01.87,Urara,,0,0,0,,Let me guess what's on your mind.
 Dialogue: 0,0:08:01.87,0:08:05.44,Urara,,0,0,0,,"I wonder how Nozomi and \Neveryone else are doing," right?
@@ -493,8 +493,8 @@ Dialogue: 0,0:23:38.66,0:23:39.71,ED 2 Romaji,,0,0,0,,{\k10} {\k76}yes!
 Comment: 0,0:23:39.94,0:23:39.94,Default,,0,0,0,,Preview = 23:40.003
 Dialogue: 0,0:23:42.66,0:23:45.20,Karen,,0,0,0,,I'm going to see the Principal{check previous episodes to see what term was used?}.{we've not mentioned the principal yet, i don't think the other groups did either,so we can call her what we want, and if we discover she has been named differently, we update that instance when we re-sub to make it consistant with this instance, and fix ours in a batch}
 Dialogue: 0,0:23:45.20,0:23:47.75,Karen,,0,0,0,,I just want to have {\i1}one{\i0} \N face-to-face conversation with her!
-Dialogue: 0,0:23:47.75,0:23:51.23,Nozomi,,0,0,0,,I'm coming too! Oh hey,\N that woman looks so festive!{I'm coming too! Oh right, that person looks so festive!}{'that person'? i hope the edit isn't too liberal, although you've tried more liberal lines in episodes gone // eh, it's fine. I think I started with "that person" since "she" is repeated in subsequent lines. - In the end, I decided to compromise with "that woman."}
-Dialogue: 0,0:23:51.23,0:23:53.78,Karen,,0,0,0,,Well she {\i1}is{\i0}  the Principal,\N of course she'd be in a good mood...
+Dialogue: 0,0:23:47.75,0:23:51.23,Nozomi,,0,0,0,,I'm coming too! Oh hey,\N that woman looks like a big shot!{I'm coming too! Oh right, that person looks so festive!}{'that person'? i hope the edit isn't too liberal, although you've tried more liberal lines in episodes gone // eh, it's fine. I think I started with "that person" since "she" is repeated in subsequent lines. - In the end, I decided to compromise with "that woman."}{how'd you even get 'festive'?}
+Dialogue: 0,0:23:51.23,0:23:53.78,Karen,,0,0,0,,Well she {\i1}is{\i0}  the Principal,\N of course she has a great dignity...
 Dialogue: 0,0:23:53.78,0:23:57.01,Nozomi,,0,0,0,,That's for sure! She opens her mouth up real big, laughs like "gahaha{\fnArial}~{\r}",
 Dialogue: 0,0:23:57.01,0:23:59.44,Nozomi,,0,0,0,,sends Kowainaas to attack us...
 Dialogue: 0,0:23:58.81,0:24:01.04,Karen,,0,0,0,,{}{\move(960,945,960,1026,700,1200)}That's so right! You'd expect nothing less from the Pri{\fscx222}-

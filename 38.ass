@@ -152,7 +152,7 @@ Dialogue: 0,0:04:19.94,0:04:22.20,Milk,,0,0,0,,I'll tweak the story a little-mil
 Dialogue: 0,0:04:33.03,0:04:36.15,Milk,,0,0,0,,Once upon a time, in a faraway land...
 Dialogue: 0,0:04:37.94,0:04:42.04,Milk,,0,0,0,,...there lived a girl named Cinderella,\N along with her wicked mother... {she does not specify "step-" here.}
 Dialogue: 0,0:04:42.04,0:04:45.07,Milk,,0,0,0,,...and two wicked older sisters-mil. {added extra "wicked" for parallelism, since the timing breakdown of the subs makes it unclear.}
-Dialogue: 0,0:04:46.90,0:04:51.46,Nozomi,,53,53,0,,Aah{\fnArial}~{\r} Every time I'm almost finished cleaning,\N I find more dirty places to clean.{how could she miss that?}
+Dialogue: 0,0:04:46.90,0:04:51.46,Nozomi,,53,53,0,,Aah{\fnArial}~{\r} I was just about to finish,\N but now I have even more to clean!{how could she miss that?}{that was your clue that the line was mistranslated ^^; she bumped into the table a moment ago}
 Dialogue: 0,0:04:51.46,0:04:56.74,Rin,,0,0,0,,Cinderella, unless this place is spotless,\N we can't make a deal.
 Dialogue: 0,0:04:56.74,0:04:58.23,Nozomi,,0,0,0,,Aw, c'mon...!
 Dialogue: 0,0:04:58.23,0:05:00.43,Komachi,,0,0,0,,She's right. Good luck, Cinderella{-san is in audio, but might not be needed since they're in a Western fairytale. let me know your opinion.}!{i agree on the dropping of -san}
@@ -272,7 +272,7 @@ Dialogue: 0,0:13:58.73,0:14:02.27,Default,,0,0,0,,I'll defeat Pretty Cure and ta
 Dialogue: 0,0:14:02.77,0:14:08.04,Default,,0,0,0,,I'll be using this world to further my agenda and my perfect story!
 Dialogue: 0,0:14:08.04,0:14:10.02,Nozomi,,0,0,0,,We'll never let you...
 Dialogue: 0,0:14:10.02,0:14:11.01,Default,,0,0,0,,...do that!
-Dialogue: 0,0:14:13.79,0:14:17.62,Nozomi,,0,0,0,,Pretty Cure Metamorphose! {omg they're gonna do this separately?}{full sequences too, they must have needed to fill in a fair bit of time}
+Dialogue: 0,0:14:13.79,0:14:17.62,Nozomi,,0,0,0,,Pretty Cure Metamorphose! {omg they're gonna do this separately?}{full sequences too, they must have needed to fill in a fair bit of time}{I think it's to show off the dresses, and I appreciate it. they did this when they were dressed for the summer festival and for the historical drama, too}
 Dialogue: 0,0:14:29.53,0:14:33.93,Nozomi,,0,0,0,,The Great Power of Hope, Cure Dream!
 Dialogue: 0,0:14:37.42,0:14:41.59,Rin,,0,0,0,,Pretty Cure Metamorphose!
 Dialogue: 0,0:14:53.26,0:14:58.13,Rin,,0,0,0,,The Red Flame of Passion, Cure Rouge!
@@ -287,24 +287,25 @@ Dialogue: 0,0:16:15.15,0:16:16.42,Default,,0,0,0,,...and the Light of the Future
 Dialogue: 0,0:16:17.59,0:16:20.43,Default,,0,0,0,,Our five beautiful hearts will soar!
 Dialogue: 0,0:16:21.64,0:16:24.31,Default,,0,0,0,,Yes! Pretty Cure 5!
 Dialogue: 0,0:16:40.15,0:16:41.61,Nozomi,,0,0,0,,Milk!
+Dialogue: 0,0:17:19.77,0:17:21.44,Rin,,0,0,0,,Go!
 Dialogue: 0,0:17:24.66,0:17:26.41,Nozomi,,0,0,0,,Milk!
 Dialogue: 0,0:17:30.74,0:17:32.00,Default,,0,0,0,,Milk!
 Dialogue: 0,0:17:32.86,0:17:34.21,Nozomi,,0,0,0,,Milk, you okay?
 Dialogue: 0,0:17:34.74,0:17:35.88,Milk,,0,0,0,,Thank you-mil.
 Dialogue: 0,0:17:36.53,0:17:38.51,Nozomi,,0,0,0,,Take Milk somewhere safe.
 Dialogue: 0,0:17:38.51,0:17:40.21,Coco,,0,0,0,,Right!
-Dialogue: 0,0:17:53.39,0:17:56.68,Default,,0,0,0,,I'll find you and take you down no matter where you run!
+Dialogue: 0,0:17:53.39,0:17:56.68,Default,,0,0,0,,I'll blow up this place, castle and all!
 Dialogue: 0,0:17:56.68,0:17:59.32,Default,,0,0,0,,Just like I did back in \Nthe Palmier Kingdom.
 Dialogue: 0,0:18:00.74,0:18:04.82,Komachi,,0,0,0,,Stop it! Don't wreck this\N storybook world any more!
 Dialogue: 0,0:18:04.82,0:18:09.28,Default,,0,0,0,,The prince in {\i1}this{\i0} story loses his castle and his kingdom.
 Dialogue: 0,0:18:09.28,0:18:13.02,Default,,0,0,0,,That's the kind of tragedy I'm going for!
 Dialogue: 0,0:18:15.82,0:18:18.80,Komachi,,0,0,0,,Pretty Cure Mint Shield!
 Dialogue: 0,0:18:21.98,0:18:25.80,Default,,53,53,0,,Time to re-experience the despair\N you felt at the end of the Palmier Kingdom!
-Dialogue: 0,0:18:25.80,0:18:28.13,Urara,,0,0,0,,I won't let you get away with it!
+Dialogue: 0,0:18:25.80,0:18:28.13,Urara,,0,0,0,,We won't let you!
 Dialogue: 0,0:18:28.13,0:18:31.39,Karen,,0,0,0,,You won't be getting your way!
 Dialogue: 0,0:18:31.39,0:18:33.88,Rin,,0,0,0,,As long as the five of us are here...
 Dialogue: 0,0:18:33.88,0:18:37.81,Nozomi,,0,0,0,,...we'll never let you destroy this castle or this world!
-Dialogue: 0,0:18:42.25,0:18:45.45,Nozomi,,0,0,0,,Get it? This story's gonna have\N a happy ending!
+Dialogue: 0,0:18:42.25,0:18:45.45,Nozomi,,0,0,0,,Besides, this story's ending is a happy one! {referring to Bunbee's poor understanding of the standard Cinderella tale}
 Dialogue: 0,0:18:49.36,0:18:53.43,Nozomi,,0,0,0,,The great potential of a young girl's dreams... Take this!
 Dialogue: 0,0:18:54.46,0:18:58.04,Nozomi,,0,0,0,,Pretty Cure Crystal Shoot!
 Dialogue: 0,0:19:10.35,0:19:12.18,Default,,0,0,0,,Just wait 'til next time!

@@ -66,7 +66,7 @@ Dialogue: 0,0:01:03.27,0:01:05.77,Rin,,0,0,0,,The weather forecast calls for acc
 Dialogue: 0,0:01:05.77,0:01:06.92,Nozomi,,0,0,0,,Really?!
 Dialogue: 0,0:01:07.22,0:01:10.67,Nozomi,,0,0,0,,Oh yeah! White Christmas, here we come!
 Dialogue: 0,0:01:11.03,0:01:14.73,Nuts,,0,0,0,,Just one more Pinky and we'll have all 55-nuts.
-Dialogue: 0,0:01:17.15,0:01:20.14,Coco,,0,0,0,,We'll only be in this world a little while longer-coco! {he doesn't seem too conflicted about this...}
+Dialogue: 0,0:01:17.15,0:01:20.14,Coco,,0,0,0,,We'll only get to be in this world a little while longer-coco! {he doesn't seem too conflicted about this...}{oh I think he does, but the wording didn't reflect this}
 Comment: 0,0:01:26.98,0:01:26.98,Default,,0,0,0,,OP = 01:27.045  (I wonder if they changed the OP video at some point, because a lot of lines didn't line up on scene changes despite proper timeshifting.)
 Dialogue: 0,0:01:27.31,0:01:30.18,OP English,,0,0,0,,1, 2, 3, 4, Pretty Cure 5!
 Dialogue: 0,0:01:27.31,0:01:30.18,OP Romaji,,0,0,0,,{\k19}{\k31}1, {\k34}2, {\k21}3, {\k46}4, {\k39}Pretty {\kf63}Cure {\k32}5!
@@ -174,15 +174,15 @@ Dialogue: 0,0:05:28.36,0:05:32.25,Nozomi,,0,0,0,,Once the Palmier Kingdom gets r
 Dialogue: 0,0:05:32.86,0:05:34.46,Rin,,0,0,0,,Nozomi?
 Dialogue: 0,0:05:36.72,0:05:41.03,Nozomi,,0,0,0,,That makes sense. Going back home\N is the natural thing to do.
 Dialogue: 0,0:05:41.03,0:05:44.56,Nozomi,,0,0,0,,That's what we've been working so hard for.
-Dialogue: 0,0:05:47.65,0:05:49.98,Default,,0,0,0,,Your tea has been cooled.
+Dialogue: 0,0:05:47.65,0:05:49.98,Default,,0,0,0,,Your tea is getting cold.
 Dialogue: 0,0:05:49.98,0:05:53.90,Default,,0,0,0,,Hadenya-san has met with an unfortunate end.
-Dialogue: 0,0:05:54.53,0:05:59.11,Default,,27,27,0,,This department expected so much from her,\N but she disappointed us, Bloody-san.{or: she let us down, but that may be too informal for Kawarino // I may have left the name out on purpose at first, as it feels wedged in no matter where it's placed.}
+Dialogue: 0,0:05:54.53,0:05:59.11,Default,,0,0,0,,We expected so much from this department,\N but it has been a disappointment, Bloody-san.{or: she let us down, but that may be too informal for Kawarino // I may have left the name out on purpose at first, as it feels wedged in no matter where it's placed.}{the department, not her}
 Dialogue: 0,0:05:59.41,0:06:02.99,Default,,0,0,0,,Why did you force Hadenya to put that mask on?
 Dialogue: 0,0:06:02.99,0:06:06.09,Default,,0,0,0,,We never would've used \Nsomething like that in the old days.
 Dialogue: 0,0:06:06.09,0:06:11.46,Default,,0,0,0,,Nightmare hasn't been the same ever since you become Despariah's personal aide. {or: Ever since you became~ , Nightmare has become weird/strange}
 Dialogue: 0,0:06:12.25,0:06:15.59,Default,,0,0,0,,Just what is your angle \Nin all of this, Kawarino?
 Dialogue: 0,0:06:15.89,0:06:20.84,Default,,0,0,0,,You think I would have an objective \Nbeyond toiling for Despariah-sama's sake?
-Dialogue: 0,0:06:30.45,0:06:33.36,Default,,0,0,0,,All I can say is, good luck, Bloody-san...
+Dialogue: 0,0:06:30.45,0:06:33.36,Default,,0,0,0,,All I can say is, good luck, Bloody-san... {inaudible at the start}
 Dialogue: 0,0:06:33.36,0:06:37.53,Default,,0,0,0,,I'll get results, with my own methods.
 Dialogue: 0,0:06:40.98,0:06:43.87,Default,,0,0,0,,What, you were still here, Bunbee-san? {something tells me he won't be for much longer...}{some sort of clairvoynace you got there, as i don't know how you'd know that otherwise}
 Dialogue: 0,0:06:43.87,0:06:46.19,Default,,0,0,0,,W-What do you mean, "still"?
@@ -193,12 +193,12 @@ Dialogue: 0,0:06:55.48,0:06:57.84,Default,,0,0,0,,Then what am I supposed to do?
 Dialogue: 0,0:07:01.82,0:07:06.09,Default,,0,0,0,,What're you looking at?! \NDon't act like it's someone else's problem!
 Comment: 0,0:07:03.65,0:07:06.06,Default,,0,0,0,,{ I don't think the more profane version would be apprpriate for this show.}{and you were trying to be grammatically correct boefre too, and you go and put in a double negative - "You guys haven't done jack squat!"}{edited to be correct gramatiacally // changed to dodge the issue, and because the TL was wrong anyway. Though imo there's a difference between expressions/idioms that were gramatically wrong to begin with, and expressions that were correct but got corrupted over time.}
 Dialogue: 0,0:07:06.09,0:07:08.14,Default,,0,0,0,,Any one of you could be next! {note to self: look up unusual expressions using older Japanese structures, it'll prevent embarrassing misinterpretations}
-Dialogue: 0,0:07:10.85,0:07:13.06,Default,,0,0,0,,You'll see!
+Dialogue: 0,0:07:10.85,0:07:13.06,Default,,0,0,0,,...could be next! {You'll see!}
 Dialogue: 0,0:07:14.91,0:07:18.52,Default,,0,0,0,,Talking to people who're in despair\N is like talking to a wall. {I couldn't let all this despair talk go by without at least one Sayonara Zetsubou Sensei reference ~Z}
 Dialogue: 0,0:07:18.52,0:07:21.24,Default,,0,0,0,,{just a guess, but is he saying "good luck me"? // basically yes; it could be rendered a number of ways, but I'm going with this to parallel his line about Bloody earlier}Good luck, me...
 Dialogue: 0,0:07:23.29,0:07:24.57,Nozomi,,0,0,0,,Welcome!
 Dialogue: 0,0:07:25.40,0:07:26.53,Rin,,0,0,0,,Nozomi...
-Dialogue: 0,0:07:26.92,0:07:29.34,Nozomi,,0,0,0,,Rin-chan, this arrived for you.
+Dialogue: 0,0:07:26.92,0:07:29.34,Nozomi,,0,0,0,,Rin-chan, this is for delivery.{arrived for you.}
 Dialogue: 0,0:07:30.65,0:07:32.77,Nozomi,,0,0,0,,Thanks a bunch!
 Dialogue: 0,0:07:36.91,0:07:39.58,Urara,,0,0,0,,Is Nozomi-san all right?
 Dialogue: 0,0:07:39.58,0:07:42.75,Komachi,,0,0,0,,She's really forcing herself to act cheerful.
@@ -475,7 +475,7 @@ Dialogue: 0,0:23:46.47,0:23:50.32,Karen,,0,0,0,,Hey, isn't that thing on your he
 Dialogue: 0,0:23:50.32,0:23:52.33,Nozomi,,0,0,0,,Woah, we've caught them all! {Pokemon references incoming in the already-released next episode}
 Dialogue: 0,0:23:52.33,0:23:54.81,Karen,,0,0,0,,This is no time to celebrate! \NNightmare's here! {or, more liberal (and also too long): But it looks like Nightmare's here to ruin our celebration!}
 Dialogue: 0,0:23:54.81,0:23:58.37,Nozomi,,0,0,0,,I won't give it up. \NI'll never let you guys have it! {it's unclear whether she means the Collet or the Pinky, so this innuendo-filled statement is all her fault.}
-Dialogue: 0,0:23:58.37,0:24:01.32,Karen,,0,0,0,,No! We mustn't fall for their trap! {good thing the only kind of traps Precure has are the reverse variety...}
+Dialogue: 0,0:23:58.37,0:24:01.32,Karen,,0,0,0,,No! We mustn't fall for their trap! {good thing the only kind of traps Precure has are the reverse variety...}{2023: not true any more}
 Dialogue: 0,0:24:01.86,0:24:03.87,Nozomi,,0,0,0,,Yes! Pretty Cure 5: {Arienai did ! after 5 here, but I've been using : instead}
 Dialogue: 0,0:24:03.87,0:24:06.28,Nozomi,,0,0,0,,Kawarino's Heartless Scheme!
 Dialogue: 0,0:24:06.28,0:24:07.83,Nozomi,,0,0,0,,Watch it, watch it, watch it, 'kay?

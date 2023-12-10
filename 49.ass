@@ -121,7 +121,7 @@ Dialogue: 0,0:02:35.29,0:02:37.34,Default,,0,0,0,,Milk, you've also done very we
 Dialogue: 0,0:02:37.34,0:02:39.37,Milk,,0,0,0,,That's not quite true, Papaya-sama.
 Dialogue: 0,0:02:39.87,0:02:41.80,Milk,,0,0,0,,Pretty Cure did most of the protecting-mil.
 Dialogue: 0,0:02:44.30,0:02:46.39,Urara,,0,0,0,,We just have to separate them from the ground, right?
-Dialogue: 0,0:02:46.39,0:02:47.39,Karen,,0,0,0,,Looks that way!
+Dialogue: 0,0:02:46.39,0:02:47.39,Karen,,0,0,0,,That's what I remember!
 Dialogue: 0,0:02:50.23,0:02:54.98,Karen,,0,0,0,,Pretty Cure Aqua Tornado!
 Dialogue: 0,0:03:04.91,0:03:08.33,Urara,,0,0,0,,They didn't explode, even when we broke their links to the surface. {guess they're not made in China}
 Dialogue: 0,0:03:08.33,0:03:09.24,Karen,,0,0,0,,Then how?
@@ -359,9 +359,9 @@ Dialogue: 0,0:21:23.99,0:21:26.64,Rin,,0,0,0,,That's why I get everybody's opini
 Dialogue: 0,0:21:27.18,0:21:32.63,Karen,,0,0,0,,I sometimes feel unsure about being suited to work in the medical field.
 Dialogue: 0,0:21:32.63,0:21:37.56,Karen,,0,0,0,,But when I come here,\N everyone's smiles cheer me right up.
 Dialogue: 0,0:21:37.88,0:21:39.52,Default,,0,0,0,,Let's eat!
-Dialogue: 0,0:21:39.82,0:21:41.52,Karen,,0,0,0,,Rin, you brought orange juice?
-Dialogue: 0,0:21:41.52,0:21:44.58,Rin,,0,0,0,,Yeah, and I assume you brought grape juice?
-Dialogue: 0,0:21:44.58,0:21:45.53,Karen,,0,0,0,,Yes, I did.
+Dialogue: 0,0:21:39.82,0:21:41.52,Karen,,0,0,0,,Rin, you'll be having orange juice, right? {They're offering to pour drinks for each other.}
+Dialogue: 0,0:21:41.52,0:21:44.58,Rin,,0,0,0,,Yeah, and I assume you want grape juice?
+Dialogue: 0,0:21:44.58,0:21:45.53,Karen,,0,0,0,,Yes, please.
 Dialogue: 0,0:21:45.53,0:21:48.36,Urara,,0,0,0,,Nozomi-san, have some sweet fried eggs!
 Dialogue: 0,0:21:48.36,0:21:50.70,Komachi,,0,0,0,,Huh? You didn't put ketchup on it?
 Dialogue: 0,0:21:50.70,0:21:52.31,Urara,,0,0,0,,Sometimes I leave it out.

@@ -230,11 +230,11 @@ Dialogue: 0,0:08:37.14,0:08:39.90,Coco,,0,0,0,,Nuts might be right on this one.
 Dialogue: 0,0:08:40.31,0:08:42.57,Nozomi,,0,0,0,,I'm gonna talk to her one more time!
 Dialogue: 0,0:08:42.57,0:08:43.76,Rin,,0,0,0,,N-Nozomi!
 Dialogue: 0,0:08:59.04,0:09:00.67,TopSign,,0,0,0,,"Cinq Lumieres News Back Issues"
-Dialogue: 0,0:09:04.34,0:09:06.80,TopSign,,0,0,0,,{\fad(275,892)}(First Issue)\N"Dog Returned to Owner"
-Dialogue: 0,0:09:05.88,0:09:09.76,TopSign,,0,0,0,,{\an2\fad(945,891)}{fades in from previous sign}In-Depth Coverage of\Nthe Legendary Newspaper Delivery Dog
+Dialogue: 0,0:09:04.34,0:09:06.80,TopSign,,0,0,0,,{\fad(275,892)}(First Issue)\N"Collecting for Owner"
+Dialogue: 0,0:09:05.88,0:09:09.76,TopSign,,0,0,0,,{\an2\fad(945,891)}{fades in from previous sign}In-Depth Coverage of\Nthe Legendary Newspaper-Fetching Dog
 Dialogue: 0,0:10:20.04,0:10:22.42,Default,,0,0,0,,Are you an acquaintance of Pretty Cure? {If this were HeartCatch, Mika would definitely be getting her Heart Flower stolen about now.}
 Dialogue: 0,0:10:22.42,0:10:24.88,Default,,0,0,0,,W-Who ARE you?!
-Dialogue: 0,0:10:24.88,0:10:28.34,Default,,0,0,0,,You can't possibly not know them. {Once you've known them, you can't un-know them!}
+Dialogue: 0,0:10:24.88,0:10:28.34,Default,,0,0,0,,Oh, at least you're not ignoring me! {You can't possibly not know them.} {Once you've known them, you can't un-know them!}
 Dialogue: 0,0:10:32.93,0:10:36.14,Default,,0,0,0,,Can't you help me out a bit here?
 Comment: 0,0:10:44.87,0:10:58.97,Default,,0,0,0,,Eyecatch 10:44- 10:59.034
 Dialogue: 0,0:10:59.40,0:11:00.75,Rin,,0,0,0,,Nozomi!
@@ -271,6 +271,7 @@ Dialogue: 0,0:13:39.09,0:13:40.62,Default,,0,0,0,,Y-Yes.
 Dialogue: 0,0:14:19.51,0:14:22.99,Default,,0,0,0,,This is what you get for relying on friends.
 Dialogue: 0,0:14:23.39,0:14:28.96,Default,,53,53,0,,Incompetent people are incompetent,\N no matter how many of them gather together!
 Dialogue: 0,0:14:29.35,0:14:33.67,Nozomi,,0,0,0,,What... what's so wrong with \Nnot being able to do it all yourself?
+Dialogue: 0,0:14:34.06,0:14:34.94,Default,,0,0,0,,What?
 Dialogue: 0,0:14:36.52,0:14:41.47,Nozomi,,0,0,0,,Alone, we think, worry, and strive our hardest. {rw}
 Dialogue: 0,0:14:41.47,0:14:43.65,Rin,,0,0,0,,Even if things don't work out,
 Dialogue: 0,0:14:43.65,0:14:46.82,Rin,,0,0,0,,those feelings will \Ndefinitely reach out to others.
@@ -283,7 +284,7 @@ Dialogue: 0,0:15:11.66,0:15:14.83,Default,,0,0,0,,You're just licking each other
 Dialogue: 0,0:15:18.59,0:15:21.67,Komachi,,0,0,0,,Pretty Cure Mint Shield!
 Dialogue: 0,0:15:57.11,0:16:01.08,Nozomi,,0,0,0,,The great potential of a young girl's dreams... Take this!
 Dialogue: 0,0:16:02.22,0:16:05.72,Nozomi,,0,0,0,,Pretty Cure Crystal Shoot!
-Dialogue: 0,0:16:17.28,0:16:19.88,Default,,0,0,0,,{1617} It's been awhile since I've had opponents this formidable.
+Dialogue: 0,0:16:17.28,0:16:19.88,Default,,0,0,0,,For once I was able to come\N and show a decent fight, but...
 Dialogue: 0,0:16:19.88,0:16:21.23,Default,,0,0,0,,Retreat!
 Dialogue: 0,0:16:27.56,0:16:32.09,Default,,0,0,0,,Why am I taking pictures when I've already quit the newspaper?
 Dialogue: 0,0:16:33.47,0:16:36.33,Default,,0,0,0,,Here. This file's important to you, right?
@@ -307,7 +308,8 @@ Dialogue: 0,0:17:26.91,0:17:29.23,Milk,,0,0,0,,Should they really be interviewed
 Dialogue: 0,0:17:29.23,0:17:32.30,Coco,,0,0,0,,They all decided to do it, so I trust them-coco.
 Dialogue: 0,0:17:36.89,0:17:38.73,Nozomi,,0,0,0,,Is this what you're going for?
 Dialogue: 0,0:17:38.73,0:17:40.30,Urara,,0,0,0,,How's the camera angle?
-Dialogue: 0,0:17:40.30,0:17:44.27,Default,,0,0,0,,Can you be a bit more natural? \N And what's with those poses?
+Dialogue: 0,0:17:40.30,0:17:42.91,Default,,0,0,0,,Can you be a bit more natural?
+Dialogue: 0,0:17:42.91,0:17:44.27,Rin,,0,0,0,,What pose would that be?
 Dialogue: 0,0:17:44.27,0:17:47.17,Milk,,0,0,0,,Should they {\i1}really{\i0} be interviewed-mil?
 Dialogue: 0,0:17:47.17,0:17:49.78,Coco,,0,0,0,,They all... decided to do it,
 Dialogue: 0,0:17:49.78,0:17:52.18,Coco,,0,0,0,,so I... trust them-coco.
@@ -364,9 +366,9 @@ Dialogue: 0,0:20:43.50,0:20:46.32,Nozomi,,0,0,0,,But hey, what about Pretty Cure
 Dialogue: 0,0:20:46.68,0:20:48.98,Rin,,0,0,0,,Quit making a fuss about Pretty Cure!
 Dialogue: 0,0:20:48.98,0:20:50.34,Nozomi,,0,0,0,,Aw, come on...
 Dialogue: 0,0:20:50.34,0:20:55.10,Karen,,0,0,0,,Isn't it for the best that it\N didn't become a hot topic? {originally "that *we* didn't," but I think Karen would be more cautious about people overhearing.}
-Dialogue: 0,0:20:55.10,0:20:58.17,Urara,,0,0,0,,And after all I went through\N to set up the shot...
+Dialogue: 0,0:20:55.10,0:20:58.17,Urara,,0,0,0,,Even though there's a\N proper article this time...
 Dialogue: 0,0:20:58.17,0:21:00.76,Komachi,,0,0,0,,I think the article's very well-written.
-Dialogue: 0,0:21:01.18,0:21:05.08,Nuts,,0,0,0,,Looks like we didn't have to keep an eye on things-nuts.
+Dialogue: 0,0:21:01.18,0:21:05.08,Nuts,,0,0,0,,Looks like we didn't have to come check on them-nuts.
 Dialogue: 0,0:21:05.08,0:21:07.50,Coco,,0,0,0,,But you're really here out of concern for Masuko-san,
 Dialogue: 0,0:21:07.50,0:21:09.96,Coco,,0,0,0,,not the article on Pretty Cure, right?
 Dialogue: 0,0:21:09.96,0:21:14.54,Milk,,0,0,0,,Nuts-sama may say some harsh things, but he's really a softie-mil.
@@ -476,8 +478,8 @@ Comment: 0,0:23:39.89,0:23:39.89,Default,,0,0,0,,Preview 23:39.962
 Comment: 0,0:23:39.89,0:23:42.56,Default,,0,0,0,,I'm assuming this is the same as last ep where the DVD is different to the TV. Done the same as last time, scrapped what was there and re-timed
 Comment: 0,0:23:42.56,0:23:42.56,Default,,0,0,0,,Checking ahead to future eps, 34-36 all have different previews between TV/DVD as well. (Haven't DLed raws beyond that.) I'm guessing they had to shorten them for the YPC5 movie ads.
 Dialogue: 0,0:23:42.68,0:23:44.52,Karen,,0,0,0,,Nozomi, we have a situation with Milk!
-Dialogue: 0,0:23:44.52,0:23:47.47,Nozomi,,0,0,0,,This "situation" had better not involve her eating all my chocolate again!
-Dialogue: 0,0:23:47.47,0:23:48.65,Karen,,0,0,0,,No, it doesn't!
+Dialogue: 0,0:23:44.52,0:23:47.47,Nozomi,,0,0,0,,Milk? Did she eat all my chocolate again? {This "situation" had better not involve her eating all my chocolate again!}{too long, too fast!}
+Dialogue: 0,0:23:47.47,0:23:48.65,Karen,,0,0,0,,No, that's not it! {No, it doesn't!}
 Dialogue: 0,0:23:48.65,0:23:53.58,Nozomi,,0,0,0,,Wait, I know! She drank all the grape juice, \NAND ate all the chocolate!
 Dialogue: 0,0:23:53.58,0:23:56.25,Karen,,0,0,0,,Hey, I was saving tha{\fscx200}-{\r} \N No, you're wrong again!
 Dialogue: 0,0:23:56.25,0:23:58.34,Karen,,0,0,0,,Milk's fallen ill!

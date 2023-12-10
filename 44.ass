@@ -128,10 +128,10 @@ Dialogue: 0,0:02:18.37,0:02:20.16,Default,,0,0,0,,How troublesome.
 Dialogue: 0,0:02:20.16,0:02:22.63,Default,,0,0,0,,You're telling {\i1}me.{\i0} \NWhere the heck did she go?!
 Dialogue: 0,0:02:22.63,0:02:27.10,Default,,0,0,0,,Ah, do you think Hadenya-san's planning to quit?
 Dialogue: 0,0:02:27.10,0:02:30.43,Default,,0,0,0,,I won't allow such an irresponsible act!
-Dialogue: 0,0:02:31.06,0:02:31.93,Default,,0,0,0,,I'll keep that in mind. {rc}
+Dialogue: 0,0:02:31.06,0:02:31.93,Default,,0,0,0,,His eyes are huge!
 Dialogue: 0,0:02:33.86,0:02:39.03,Default,,0,0,0,,I'm hoping that she can at least be useful at the very end.
 Dialogue: 0,0:02:40.82,0:02:42.73,Default,,0,0,0,,With a mask?
-Dialogue: 0,0:03:01.38,0:03:04.02,Default,,0,0,0,,I've had about enough of this.
+Dialogue: 0,0:03:01.38,0:03:04.02,Default,,0,0,0,,Is he saying I'm no longer needed?
 Dialogue: 0,0:03:10.71,0:03:13.55,Default,,0,0,0,,It's over for you, Pretty Cure!
 Dialogue: 0,0:03:17.06,0:03:21.56,Ep Title,,0,0,0,,{\fad(316,0)\pos(960,697.5)}What Kind of Person is a Caregiver?
 Dialogue: 0,0:03:30.89,0:03:33.03,Urara,,0,0,0,,What're you doing out here?
@@ -284,7 +284,7 @@ Dialogue: 0,0:14:02.24,0:14:07.08,Default,,0,0,0,,Why would you even bother? \N 
 Dialogue: 0,0:14:08.32,0:14:09.98,Coco,,0,0,0,,That's not...
 Dialogue: 0,0:14:09.98,0:14:11.05,Nuts,,0,0,0,,...true-nuts!
 Dialogue: 0,0:14:11.70,0:14:15.01,Default,,0,0,0,,Either way, since you've been out wandering around...
-Dialogue: 0,0:14:15.01,0:14:18.51,Default,,0,0,0,,...I've been able to get the Dream Collet. \NThank you so much! {way to not teleport back to Nightmare with the Collet, Hadenya.}
+Dialogue: 0,0:14:15.01,0:14:18.51,Default,,0,0,0,,...I'm now able to get the Dream Collet. \NThank you so much! {way to not teleport back to Nightmare with the Collet, Hadenya.}{she doesn't have it *yet*}
 Dialogue: 0,0:14:19.30,0:14:21.04,Milk,,0,0,0,,It's Milk's fault...
 Dialogue: 0,0:14:21.38,0:14:24.48,Milk,,0,0,0,,Milk really is a failure as a caregiver-mil!
 Dialogue: 0,0:14:24.48,0:14:26.97,Default,,0,0,0,,Just let me handle things from here.
@@ -326,7 +326,7 @@ Dialogue: 0,0:17:01.67,0:17:04.05,Default,,0,0,0,,What's this? Did you say somet
 Dialogue: 0,0:17:04.86,0:17:06.43,Milk,,0,0,0,,I said to be quiet-mil!
 Dialogue: 0,0:17:06.85,0:17:07.89,Default,,0,0,0,,Oh?
 Dialogue: 0,0:17:07.89,0:17:09.18,Default,,0,0,0,,Milk! {all}
-Dialogue: 0,0:17:09.49,0:17:14.48,Default,,0,0,0,,Coco-sama and Nuts-sama are absolutely essential to the Palmier Kingdom-mil!
+Dialogue: 0,0:17:09.49,0:17:14.48,Milk,,0,0,0,,Coco-sama and Nuts-sama are absolutely essential to the Palmier Kingdom-mil!
 Dialogue: 0,0:17:17.07,0:17:20.40,Default,,0,0,0,,But they're no longer "essential,"\N  now that the kingdom's been destroyed.
 Dialogue: 0,0:17:21.62,0:17:24.80,Milk,,0,0,0,,The Palmier Kingdom WILL rise again-mil! {Just like the South}
 Dialogue: 0,0:17:24.80,0:17:30.48,Milk,,0,0,0,,And when it does, Milk will definitely serve Coco-sama and Nuts-sama-mil!
@@ -364,7 +364,7 @@ Dialogue: 0,0:21:07.12,0:21:08.88,Milk,,0,0,0,,My problems are behind me-mil!
 Dialogue: 0,0:21:08.88,0:21:11.24,Coco,,0,0,0,,That's great-coco!
 Dialogue: 0,0:21:10.11,0:21:11.24,Milk,,0,0,0,,Drop it-mil! {}
 Dialogue: 0,0:21:12.78,0:21:16.89,Milk,,0,0,0,,Coco-sama, you mustn't eat \Nany more cream puffs today-mil!
-Dialogue: 0,0:21:18.35,0:21:22.61,Milk,,0,0,0,,Milk knows all-mil! She {\i1}told{\i0}  you to eat a proper breakfast,
+Dialogue: 0,0:21:18.35,0:21:22.61,Milk,,0,0,0,,Milk knows all-mil! You say\N you've had a proper breakfast,
 Dialogue: 0,0:21:22.61,0:21:24.98,Milk,,0,0,0,,but you've eaten nothing but cream puffs-mil!
 Dialogue: 0,0:21:26.92,0:21:28.69,Milk,,0,0,0,,And then there's you, Nuts-sama!
 Dialogue: 0,0:21:28.69,0:21:31.82,Milk,,27,27,0,,Yesterday, you were so engrossed in your book\N that you stayed up all night-mil!

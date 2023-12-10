@@ -192,7 +192,7 @@ Dialogue: 0,0:05:40.90,0:05:43.74,Default,,0,0,0,,Over time, the souvenirs have\
 Dialogue: 0,0:05:43.74,0:05:47.54,Default,,0,0,0,,Wow... Stuff from \Nall over the world, huh?
 Dialogue: 0,0:05:47.54,0:05:52.64,Default,,0,0,0,,By the way, will you be the only\N interviewer today, Masuko-sama?
 Dialogue: 0,0:05:52.64,0:05:54.29,Default,,0,0,0,,What of the other reporters?
-Dialogue: 0,0:05:54.29,0:05:57.48,Default,,0,0,0,,Um, I had to come by myself.
+Dialogue: 0,0:05:54.29,0:05:57.48,Default,,0,0,0,,Um, I am alone. {she's trying to be vague because no other reporters *exist* and she's ashamed to say it but also doesn't want to lie}
 Dialogue: 0,0:05:57.48,0:06:01.51,Default,,0,0,0,,The Cinq Lumieres News... \Nhas a lot on its plate, you know?
 Dialogue: 0,0:06:01.51,0:06:04.00,Default,,0,0,0,,I see, so you're by yourself.
 Dialogue: 0,0:06:04.44,0:06:06.85,Karen,,0,0,0,,Let's have a nice chat outside.
@@ -294,7 +294,7 @@ Dialogue: 0,0:11:05.15,0:11:08.82,Default,,0,0,0,,M'lady, I've brought some Cele
 Dialogue: 0,0:11:08.82,0:11:11.10,Default,,0,0,0,,Celeb House cream puffs?
 Dialogue: 0,0:11:11.10,0:11:14.43,Default,,0,0,0,,It must be hard to get these,\N since the quantities are so limited.
 Dialogue: 0,0:11:14.43,0:11:15.41,Karen,,0,0,0,,Well...
-Dialogue: 0,0:11:15.41,0:11:19.71,Default,,0,0,0,,I ran into some trouble, \N so I obtained them directly from Kobe.
+Dialogue: 0,0:11:15.41,0:11:19.71,Default,,0,0,0,,I am very particular about them, \N so I obtained them directly from Kobe.
 Dialogue: 0,0:11:21.05,0:11:22.96,Default,,0,0,0,,Everyone else, please have some too.
 Dialogue: 0,0:11:24.00,0:11:25.50,Nozomi,,0,0,0,,These are dewicious! {Spanish sub: "¡Que wicos!" lol}
 Dialogue: 0,0:11:25.50,0:11:27.55,Urara,,0,0,0,,How creamy!

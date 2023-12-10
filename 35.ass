@@ -138,7 +138,7 @@ Dialogue: 0,0:03:18.80,0:03:19.38,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
 Dialogue: 0,0:03:20.01,0:03:20.51,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
 Comment: 0,0:03:24.00,0:03:24.01,Default,,0,0,0,,Part 1 = 03:24.079
 Dialogue: 0,0:03:25.95,0:03:28.36,Nuts,,0,0,0,,Hey you guys, it's getting late-nuts.
-Dialogue: 0,0:03:28.36,0:03:30.48,Nuts,,0,0,0,,I don't want anyone finding out about you-nuts.
+Dialogue: 0,0:03:28.36,0:03:30.48,Nuts,,0,0,0,,You can play inside the Collet.
 Dialogue: 0,0:03:41.93,0:03:43.62,Coco,,0,0,0,,I got it-coco!
 Dialogue: 0,0:03:42.81,0:03:44.38,Nuts,,0,0,0,,{not entirly sure what you want to do with this bit}Give it back-nuts! {}
 Dialogue: 0,0:03:44.84,0:03:47.48,Coco,,0,0,0,,{look at this bit for me, i'm not sure if i should leave it or tie it to the kf}Don't get so worked up over a useless key-coco!
@@ -184,7 +184,7 @@ Dialogue: 0,0:06:03.72,0:06:08.54,Komachi,,0,0,0,,Maybe I'll write something \Nc
 Dialogue: 0,0:06:08.54,0:06:10.12,Urara,,0,0,0,,All right!
 Dialogue: 0,0:06:12.02,0:06:16.00,Urara,,0,0,0,,Watching Komachi-san has filled me with motivation.
 Dialogue: 0,0:06:16.00,0:06:18.33,Urara,,0,0,0,,Time to get back to work!
-Dialogue: 0,0:06:18.33,0:06:23.05,Rin,,0,0,0,,Oh right, your next job involves appearing on a morning talk show, doesn't it?
+Dialogue: 0,0:06:18.33,0:06:23.05,Rin,,0,0,0,,Oh right, your next job is a talk show tomorrow, isn't it?
 Dialogue: 0,0:06:23.35,0:06:25.68,Urara,,0,0,0,,Yep. My {she forgot the word "useless"}manager, Washio-san,
 Dialogue: 0,0:06:25.68,0:06:29.63,Urara,,0,0,0,,said that I can choose \Nmy own outfit for tomorrow.
 Dialogue: 0,0:06:29.63,0:06:31.80,Urara,,0,0,0,,I was about to go buy one.
@@ -259,7 +259,7 @@ Dialogue: 0,0:10:12.74,0:10:14.11,Nuts,,0,0,0,,It's all so peaceful.
 Dialogue: 0,0:10:14.41,0:10:15.67,Komachi,,0,0,0,,It certainly is.
 Dialogue: 0,0:10:16.52,0:10:18.52,Komachi,,0,0,0,,Normally, I'd never notice it.
 Dialogue: 0,0:10:18.52,0:10:19.87,Default,,0,0,0,,They are precious things.
-Dialogue: 0,0:10:23.55,0:10:27.17,Default,,53,53,0,,And upon recognizing these precious things, \Nyou realize they will be lost. {this was one of those "I understand every word in this line, but I'm not quite sure what he's getting at" moments}
+Dialogue: 0,0:10:23.55,0:10:27.17,Default,,53,53,0,,You don't notice what is precious\N to you until you've lost it.
 Dialogue: 0,0:10:29.26,0:10:32.59,Default,,0,0,0,,And what remains after \Nhaving lost everything...
 Dialogue: 0,0:10:32.89,0:10:36.05,Default,,0,0,0,,...is known as "despair."
 Dialogue: 0,0:10:36.89,0:10:38.05,Default,,0,0,0,,Do you understand?

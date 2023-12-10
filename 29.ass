@@ -200,7 +200,7 @@ Dialogue: 0,0:06:14.05,0:06:15.51,Nozomi,,0,0,0,,P-Please wait a moment!
 Dialogue: 0,0:06:15.51,0:06:19.22,Nozomi,,0,0,0,,{a bit spaced, but i think this would work}Go ahead. Yes. Okay.
 Dialogue: 0,0:06:20.97,0:06:24.68,Nozomi,,0,0,0,,I'd better tell Washio-san about this \Nas soon as possible.
 Dialogue: 0,0:06:24.68,0:06:26.97,Nozomi,,0,0,0,,But where'd he go?
-Dialogue: 0,0:06:26.97,0:06:30.69,Default,,0,0,0,,We need to milk Kasugano Urara's charm for all it's worth!
+Dialogue: 0,0:06:26.97,0:06:30.69,Default,,0,0,0,,We need to milk Kasugano Urara's charm for all it's worth! {I don't understand what he's trying to say in these three lines... ~Ch2}
 Dialogue: 0,0:06:30.69,0:06:33.11,Default,,0,0,0,,Do you guys understand?!
 Dialogue: 0,0:06:33.11,0:06:37.65,Default,,0,0,0,,You'll never succeed with that mindset. It's fundamentally flawed!
 Dialogue: 0,0:06:37.65,0:06:38.78,Nozomi,,0,0,0,,Excuse me.
@@ -258,10 +258,10 @@ Dialogue: 0,0:08:38.81,0:08:39.27,Default,,0,0,0,,Hi!
 Dialogue: 0,0:08:39.27,0:08:43.82,Urara,,0,0,0,,{\fnArial}♪{\r}...the door of courage!{\fnArial}♫{\r}
 Comment: 0,0:08:43.79,0:08:43.79,Urara,,0,0,0,,End of insert song
 Dialogue: 0,0:08:47.16,0:08:50.28,TopSign,,0,0,0,,"The Very Best! The Door of Courage" \N Kasugano Urara
-Dialogue: 0,0:08:53.29,0:08:54.46,Karen,,0,0,0,,So?
-Dialogue: 0,0:08:54.46,0:08:56.12,Karen,,0,0,0,,You called for me?
+Dialogue: 0,0:08:53.29,0:08:54.46,Karen,,0,0,0,,So...
+Dialogue: 0,0:08:54.46,0:08:56.12,Karen,,0,0,0,,That's why you called for me?
 Dialogue: 0,0:08:56.12,0:08:58.21,Nozomi,,0,0,0,,Sorry to bother you when you're so busy.
-Dialogue: 0,0:08:58.75,0:09:02.51,Urara,,0,0,0,,Karen-san, I understand this is inconvenient for you...
+Dialogue: 0,0:08:58.75,0:09:02.51,Urara,,0,0,0,,Karen-san, I understand this was inconvenient for you...
 Dialogue: 0,0:09:02.51,0:09:06.76,Karen,,0,0,0,,Don't worry about it. \N I'm just glad that the concert went well.
 Dialogue: 0,0:09:06.76,0:09:09.30,Urara,,0,0,0,,Yes it did, thanks to you two.
 Dialogue: 0,0:09:09.30,0:09:11.64,Karen,,0,0,0,,So, where are we going now?
@@ -279,7 +279,7 @@ Dialogue: 0,0:09:38.79,0:09:42.88,Default,,0,0,0,,Yes, this is her manager, Wash
 Dialogue: 0,0:09:42.88,0:09:47.13,Default,,0,0,0,,We've lost touch lately.\N What a rough time it's been.
 Dialogue: 0,0:09:47.84,0:09:49.72,Default,,0,0,0,,Um, where's her manager?
 Dialogue: 0,0:09:49.72,0:09:51.05,Nozomi,,0,0,0,,He had to...
-Dialogue: 0,0:09:51.05,0:09:55.18,Default,,0,0,0,,We have a problem. The kimono they provided doesn't fit at all,
+Dialogue: 0,0:09:51.05,0:09:55.18,Default,,0,0,0,,We have a problem. The kimono\N dressers are all busy elsewhere,
 Dialogue: 0,0:09:55.18,0:09:58.02,Default,,0,0,0,,so that leaves Urara-san's attire in doubt.
 Dialogue: 0,0:09:59.10,0:10:00.73,Nozomi,,0,0,0,,In that case...
 Dialogue: 0,0:10:02.61,0:10:06.28,Komachi,,0,0,0,,So, this time you've called on me?
@@ -317,7 +317,7 @@ Comment: 0,0:11:35.96,0:11:35.96,Default,,0,0,0,,Eyecatch 1
 Comment: 0,0:11:43.01,0:11:43.01,Default,,0,0,0,,Eyecatch 2
 Comment: 0,0:11:49.97,0:11:49.97,Default,,0,0,0,,Part 2 = 11:49.960
 Dialogue: 0,0:11:59.27,0:12:03.58,Nozomi,,0,0,0,,{line started a bit early}The schedule got pushed back,\N so we're going ahead without any rehearsal.
-Dialogue: 0,0:12:03.58,0:12:06.67,Rin,,0,0,0,,Wait, why are {\i1}we{\i0} getting changed?!
+Dialogue: 0,0:12:03.58,0:12:06.67,Rin,,0,0,0,,Wait, why did {\i1}we{\i0} get changed?!
 Dialogue: 0,0:12:06.67,0:12:09.73,Nozomi,,0,0,0,,Because you're playing extras, duh.
 Dialogue: 0,0:12:10.88,0:12:15.51,Nozomi,,0,0,0,,Well, the director asked me if I knew of any good extras.
 Dialogue: 0,0:12:15.51,0:12:18.04,Coco,,0,0,0,,And... you said "yes."
@@ -331,7 +331,7 @@ Dialogue: 0,0:12:30.27,0:12:31.78,Nuts,,0,0,0,,...we'll have to do this.
 Dialogue: 0,0:12:38.76,0:12:41.29,Urara,,0,0,0,,Um, how should I play this role?
 Dialogue: 0,0:12:41.46,0:12:46.16,Default,,0,0,0,,Just do whatever. \NWe'll fix things up with CG later on.
 Dialogue: 0,0:12:46.16,0:12:47.10,Urara,,0,0,0,,{wasn't sure if you'd want this as it's both speaking and a grunt}Okay...
-Dialogue: 0,0:12:51.32,0:12:53.11,Default,,0,0,0,,Time to show my appeal.
+Dialogue: 0,0:12:51.32,0:12:53.11,Default,,0,0,0,,Time to show my charm.{alludes to earlier line about Urara's charm}
 Dialogue: 0,0:12:53.19,0:12:55.49,Default,,0,0,0,,And... Action!
 Dialogue: 0,0:12:58.99,0:13:00.28,Default,,0,0,0,,{I think this is best, as it sits between keyframes and is the length you wanted, but it has quite a bit of lead in/out}Hold it!
 Dialogue: 0,0:13:01.71,0:13:03.60,Default,,0,0,0,,We won't let you...
@@ -370,7 +370,7 @@ Dialogue: 0,0:14:43.30,0:14:44.51,Komachi,,0,0,0,,Nuts-san!
 Dialogue: 0,0:14:44.51,0:14:45.64,Rin,,0,0,0,,Dang you guys are weak.
 Dialogue: 0,0:14:45.64,0:14:46.72,Urara,,0,0,0,,Coco!
 Dialogue: 0,0:14:46.72,0:14:47.89,Milk,,0,0,0,,Coco-sama!
-Dialogue: 0,0:14:48.48,0:14:54.36,Default,,0,0,0,,{leave this one at this length or not? / fine in this case}I would've beaten him if that weren't just a prop katana-coco...
+Dialogue: 0,0:14:48.48,0:14:54.36,Default,,0,0,0,,{leave this one at this length or not? / fine in this case}I'd be done for if that weren't just a prop katana-coco...
 Dialogue: 0,0:14:54.36,0:14:56.53,Urara,,0,0,0,,COCO!!
 Dialogue: 0,0:14:55.44,0:14:56.98,Milk,,0,0,0,,Coco-sama!! {overlap}
 Dialogue: 0,0:14:56.98,0:14:59.15,Rin,,0,0,0,,He's not dead, you know.
@@ -408,7 +408,7 @@ Dialogue: 0,0:17:10.16,0:17:14.46,Karen,,0,0,0,,Pretty Cure Metamorphose!
 Dialogue: 0,0:17:23.01,0:17:27.76,Karen,,0,0,0,,The Blue Spring of Intelligence, Cure Aqua!
 Dialogue: 0,0:17:30.05,0:17:31.31,Nozomi,,0,0,0,,With the Power of Hope...
 Dialogue: 0,0:17:31.31,0:17:33.18,Default,,0,0,0,,...and the Light of the Future!
-Dialogue: 0,0:17:34.27,0:17:37.23,Default,,0,0,0,,Our five beautiful hearts will soar majestically!
+Dialogue: 0,0:17:34.27,0:17:37.23,Default,,0,0,0,,Our five beautiful hearts will soar!
 Dialogue: 0,0:17:37.94,0:17:40.52,Default,,0,0,0,,Yes! Pretty Cure 5!
 Comment: 0,0:17:42.12,0:17:42.16,Default,,0,0,0,,I do like the fights, as there's very little to time! // I know, that's why Splash Star 48 was such a great episode to work on. 6 minutes went by with virtually no dialogue.
 Dialogue: 0,0:18:13.76,0:18:16.77,Default,,0,0,0,,Stand back! Stand back, I say!
@@ -428,7 +428,7 @@ Dialogue: 0,0:19:45.73,0:19:47.40,Urara,,0,0,0,,I'll never... {changed as "i'll 
 Dialogue: 0,0:19:54.82,0:19:56.95,Urara,,0,0,0,,...I'll never forgive you! {she says the whole line so it's more a case of "i'll start from the beginning" rather than "i'll continue where i left off"}
 Dialogue: 0,0:20:11.80,0:20:16.05,Urara,,0,0,0,,The effervescent power of a shining maiden... take this!
 Dialogue: 0,0:20:16.97,0:20:21.23,Urara,,0,0,0,,Pretty Cure Lemonade Shining!
-Dialogue: 0,0:20:29.82,0:20:33.53,Default,,0,0,0,,Curses! I was hoping to break into show business this way!
+Dialogue: 0,0:20:29.82,0:20:33.53,Default,,0,0,0,,Curses! I was hoping to charm my way into a promotion!
 Dialogue: 0,0:20:33.53,0:20:35.70,Default,,0,0,0,,I'll let you off the hook for today!
 Comment: 0,0:20:35.67,0:20:38.63,Default,,0,0,0,,literally, this is some old Edo-dialect phrase meaning, "What the heck are you saying, you moron?" I rewrote it as some slang that, while not as old as the Edo period, still feels pretty dated.// it screams tudor to me (15-16th century named after the British monarchs of the time) as it sounds like the English of the time
 Dialogue: 0,0:20:35.70,0:20:38.66,Default,,0,0,0,,I pity the fool!
@@ -447,8 +447,8 @@ Dialogue: 0,0:21:17.37,0:21:23.16,Karen,,0,0,0,,That's a shame. You were actuall
 Dialogue: 0,0:21:23.16,0:21:25.21,Urara,,0,0,0,,Can I have a look at this?
 Dialogue: 0,0:21:25.21,0:21:26.00,Nozomi,,0,0,0,,Sure.
 Dialogue: 0,0:21:26.58,0:21:28.96,Rin,,0,0,0,,Is that your schedule, Urara?
-Dialogue: 0,0:21:28.96,0:21:33.38,Urara,,0,0,0,,Yes. It's got all the work site details and schedule changes.
-Dialogue: 0,0:21:33.38,0:21:35.30,Komachi,,0,0,0,,Even plans for the concert.
+Dialogue: 0,0:21:28.96,0:21:33.38,Urara,,0,0,0,,Yes. And it's got all the work site details and schedule changes.
+Dialogue: 0,0:21:33.38,0:21:35.30,Komachi,,0,0,0,,Impressions from the concert, too.
 Dialogue: 0,0:21:35.30,0:21:37.84,Nuts,,0,0,0,,Every little thing's written down-nuts.
 Dialogue: 0,0:21:37.84,0:21:40.35,Milk,,0,0,0,,I never thought Nozomi'd write so much-mil.
 Dialogue: 0,0:21:40.35,0:21:43.76,Nozomi,,0,0,0,,Well, it's all important to Urara, so...

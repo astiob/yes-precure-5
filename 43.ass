@@ -47,7 +47,7 @@ Style: Credits,Abadi MT Condensed,59,&H00FFFFFF,&H000000FF,&H008D2840,&H808D2840
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:07.95,0:00:10.40,Karen,,0,0,0,,What's wrong? You don't look so good.
 Dialogue: 0,0:00:10.76,0:00:11.66,Komachi,,0,0,0,,Karen?
-Dialogue: 0,0:00:11.66,0:00:13.78,Karen,,0,0,0,,You've been like that\N ever since you got here. {br}
+Dialogue: 0,0:00:11.66,0:00:13.78,Karen,,0,0,0,,You've been like that a lot lately. {br}
 Dialogue: 0,0:00:16.22,0:00:18.82,Karen,,0,0,0,,You aren't making progress on your novel?
 Dialogue: 0,0:00:18.82,0:00:19.92,Komachi,,0,0,0,,No...
 Dialogue: 0,0:00:19.92,0:00:22.52,Karen,,0,0,0,,I'm not sure if I can help,
@@ -145,7 +145,7 @@ Dialogue: 0,0:03:16.15,0:03:20.63,Komachi,,13,13,0,,T-There couldn't possibly be
 Dialogue: 0,0:03:23.83,0:03:29.02,Komachi,,0,0,0,,I'd better just head home. That next section isn't going to write itself, you know.
 Dialogue: 0,0:03:47.91,0:03:52.48,Ep Title,,0,0,0,,{\fad(321,0)\pos(960,693)}Komachi's Resolve and Nuts' Future
 Dialogue: 0,0:04:00.30,0:04:02.93,Default,,0,0,0,,Now what's got you looking so down?
-Dialogue: 0,0:04:03.24,0:04:07.77,Default,,0,0,0,,Despariah-sama has finally \Nsent one of {\i1}these{\i0}  to me.
+Dialogue: 0,0:04:03.24,0:04:07.77,Default,,0,0,0,,Despariah-sama has finally \Nhanded me one of {\i1}these{\i0}. {for delivery, of course.}
 Dialogue: 0,0:04:07.77,0:04:09.77,Default,,0,0,0,,Whatever should I do?
 Dialogue: 0,0:04:10.15,0:04:11.56,Default,,0,0,0,,Black paper?
 Dialogue: 0,0:04:13.97,0:04:17.17,Default,,0,0,0,,Cheer up. All you need is \N a fresh perspective.
@@ -191,7 +191,7 @@ Dialogue: 0,0:06:47.51,0:06:50.05,Komachi,,0,0,0,,If the last scene never arrive
 Dialogue: 0,0:06:53.47,0:06:57.75,Karen,,0,0,0,,I don't know how the last scene will turn out,
 Dialogue: 0,0:06:57.75,0:07:02.12,Karen,,0,0,0,,but I get the feeling that it's all up to you.
 Dialogue: 0,0:07:02.62,0:07:05.03,Karen,,0,0,0,,If you change, the last scene \Nwill change too.
-Dialogue: 0,0:07:07.83,0:07:09.20,Karen,,0,0,0,,In the story, of course.{finally somene admits or at least hints at the fact they notice komachi's crush}
+Dialogue: 0,0:07:07.83,0:07:09.20,Karen,,0,0,0,,In the story, of course.{finally somene admits or at least hints at the fact they notice komachi's crush}{it looked as though she (finally) noticed earlier in this episode}
 Dialogue: 0,0:07:12.63,0:07:13.80,Nuts,,0,0,0,,Didn't I say...
 Dialogue: 0,0:07:13.80,0:07:18.04,Nuts,,0,0,0,,...that I'd always be willing to give her advice?
 Dialogue: 0,0:07:18.34,0:07:21.26,Nuts,,0,0,0,,Komachi knows that better than anyone.
@@ -362,8 +362,8 @@ Dialogue: 0,0:19:20.84,0:19:24.35,Default,,0,0,0,,Today... I'm getting that Drea
 Dialogue: 0,0:19:24.35,0:19:28.23,Komachi,,0,0,0,,We'd never let a fiend like you \Nhave the Dream Collet!
 Dialogue: 0,0:19:28.23,0:19:31.81,Komachi,,0,0,0,,Nuts-san, hold on tight to it!\N Don't ever let it go!
 Dialogue: 0,0:19:35.74,0:19:36.73,Komachi,,0,0,0,,{somthing here?}Yes...
-Dialogue: 0,0:19:36.73,0:19:42.45,Komachi,,0,0,0,,It's time to live up to the expectations of everyone I know. {this is kind of made up, but it's better than what I had before.}
-Dialogue: 0,0:19:43.50,0:19:48.41,Komachi,,0,0,0,,Whatever future lies in store, I can take it!
+Dialogue: 0,0:19:36.73,0:19:42.45,Komachi,,0,0,0,,It's for my sake, so that I can look other people in the face. {this is kind of made up, but it's better than what I had before.}{rewrote this to include the part about her own sake but using different words than the next lines}
+Dialogue: 0,0:19:43.50,0:19:48.41,Komachi,,0,0,0,,So that whatever future lies in store, I can take it!
 Dialogue: 0,0:19:53.31,0:19:55.67,Komachi,,0,0,0,,Yes, this is for me!
 Dialogue: 0,0:19:57.12,0:20:00.62,Default,,0,0,0,,What do you mean, "future"? \NWhat do you mean, "dreams"?
 Dialogue: 0,0:20:00.62,0:20:05.41,Default,,0,0,0,,I'll blow them all away!!

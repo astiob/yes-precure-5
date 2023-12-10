@@ -47,17 +47,17 @@ Style: ED 2 English,Abadi MT Condensed,77,&H00FFFFFF,&H0000FFFF,&H00000008,&H800
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:17.44,0:00:19.16,Nozomi,,0,0,0,,Special shaved ice?
-Dialogue: 0,0:00:19.42,0:00:22.98,Komachi,,0,0,0,,Yes. I wanted to use traditional topping flavors...
-Dialogue: 0,0:00:22.98,0:00:26.92,Komachi,,0,0,0,,...to create a different variety of shaved ice.
+Dialogue: 0,0:00:19.42,0:00:22.98,Komachi,,0,0,0,,Yes. I want to use our shop's\N Japanese sweets as toppings...
+Dialogue: 0,0:00:22.98,0:00:26.92,Komachi,,0,0,0,,...to create an unusual variety of shaved ice.
 Dialogue: 0,0:00:26.92,0:00:30.80,Karen,,0,0,0,,That sounds like it would go\N quite well with the summer festival.
-Dialogue: 0,0:00:30.80,0:00:35.01,Nozomi,,0,0,0,,I agree! Let's pair it up with mamedaifuku!
+Dialogue: 0,0:00:30.80,0:00:35.01,Nozomi,,0,0,0,,I agree! Let's add loads{dossari} of mamedaifuku!
 Dialogue: 0,0:00:36.51,0:00:38.93,Nuts,,0,0,0,,That sounds so good-nuts!
 Comment: 0,0:00:38.93,0:00:39.56,Default,,0,0,0,,Note: use the "Alternate" style when two "Default" lines overlap (either two sets of 2 people saying the same thing, or 2 non-Pretty-Cure speakers interrupting each other)
 Dialogue: 0,0:00:39.89,0:00:43.27,Urara,,0,0,0,,I'd put seven servings of youkan on it!
-Dialogue: 0,0:00:44.73,0:00:46.73,Rin,,0,0,0,,Urara, don't encourage them.
+Dialogue: 0,0:00:44.73,0:00:46.73,Rin,,0,0,0,,Urara, this isn't a competition.
 Dialogue: 0,0:00:46.73,0:00:49.07,Coco,,0,0,0,,I'll take cream puffs-coco!
 Dialogue: 0,0:00:49.07,0:00:50.98,Milk,,0,0,0,,I'm fine with chocolate-mil.
-Dialogue: 0,0:00:50.98,0:00:53.57,Rin,,0,0,0,,Those aren't exactly "traditional."
+Dialogue: 0,0:00:50.98,0:00:53.57,Rin,,0,0,0,,Those aren't exactly "Japanese."
 Dialogue: 0,0:00:55.01,0:00:58.79,Nozomi,,0,0,0,,All right, I'll do all I can to help at the summer festival!
 Dialogue: 0,0:00:58.79,0:01:00.95,Nozomi,,0,0,0,,It's decided!
 Comment: 0,0:01:00.99,0:01:00.99,Default,,0,0,0,,OP 01:01.019
@@ -124,13 +124,13 @@ Dialogue: 0,0:02:15.16,0:02:15.75,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Yes!
 Dialogue: 0,0:02:20.70,0:02:21.29,OP Romaji2,,0,0,0,,{\pos(938.667,168.75)}Go!
 Comment: 0,0:02:25.95,0:02:25.95,Default,,0,0,0,,Part 1 02:25.938
 Dialogue: 0,0:02:27.61,0:02:29.98,Default,,0,0,0,,So, what do you think? Huh?!
-Dialogue: 0,0:02:29.98,0:02:32.99,Default,,0,0,0,,As you can see, I've thoroughly researched Pretty Cure.
+Dialogue: 0,0:02:29.98,0:02:32.99,Default,,0,0,0,,As you can see, we've thoroughly researched Pretty Cure. {consistently use 'we' throughout the monologue}
 Dialogue: 0,0:02:33.78,0:02:36.45,Default,,0,0,0,,We're currently dedicating all of our efforts...
-Dialogue: 0,0:02:36.45,0:02:39.74,Default,,0,0,0,,...to finding some kind of weak point. {Which we can then attack for massive damage.}
+Dialogue: 0,0:02:36.45,0:02:39.74,Default,,0,0,0,,...to finding, uh, some kind of weak point. {Which we can then attack for massive damage.}
 Dialogue: 0,0:02:42.54,0:02:47.71,Default,,0,0,0,,Umm, the sooner we manage to determine their weakness,
 Dialogue: 0,0:02:47.71,0:02:51.13,Default,,0,0,0,,the sooner we'll see promising developments in this area.
 Dialogue: 0,0:02:51.13,0:02:52.34,Default,,0,0,0,,All right!
-Dialogue: 0,0:02:53.88,0:02:55.38,Default,,0,0,0,,Unless...
+Dialogue: 0,0:02:53.88,0:02:55.38,Default,,0,0,0,,Is he ignoring me?
 Dialogue: 0,0:02:55.38,0:02:56.14,Default,,0,0,0,,Hm?
 Dialogue: 0,0:02:56.43,0:02:57.76,Default,,0,0,0,,Gamao-kun?
 Dialogue: 0,0:02:58.97,0:03:01.56,Default,,0,0,0,,Hm, we employ him as well?
@@ -157,7 +157,7 @@ Dialogue: 0,0:04:37.24,0:04:39.24,Default,,0,0,0,,so things should be fine if yo
 Dialogue: 0,0:04:39.95,0:04:40.95,Komachi,,0,0,0,,Yeah.
 Dialogue: 0,0:04:41.49,0:04:44.66,Default,,0,0,0,,Oh yeah, that's right, we got a whole bunch of summer mandarins
 Dialogue: 0,0:04:44.66,0:04:48.46,Default,,0,0,0,,from Grandma's place. \NDo you girls want to eat them?
-Dialogue: 0,0:04:48.87,0:04:52.08,Komachi,,0,0,0,,Sure, thanks. We'll take some with us later.
+Dialogue: 0,0:04:48.87,0:04:52.08,Komachi,,0,0,0,,Sure, thanks. We'll take some later.
 Dialogue: 0,0:04:53.29,0:04:54.50,Komachi,,0,0,0,,Thanks for waiting!
 Dialogue: 0,0:04:54.80,0:04:55.71,Urara,,0,0,0,,Okay!
 Dialogue: 0,0:04:55.71,0:04:58.88,Nozomi,,0,0,0,,Oh yeah! Time for a taste test!
@@ -177,7 +177,7 @@ Dialogue: 0,0:05:44.01,0:05:45.47,Default,,0,0,0,,Akimoto-san?
 Dialogue: 0,0:05:45.47,0:05:46.76,Komachi,,0,0,0,,Coming!
 Dialogue: 0,0:05:48.06,0:05:51.39,Komachi,,0,0,0,,Ah, thanks. You can leave it right there.
 Dialogue: 0,0:05:51.39,0:05:53.81,Komachi,,0,0,0,,We'll put it in the freezer later.
-Dialogue: 0,0:05:53.81,0:05:56.15,Default,,0,0,0,,You sure about that? Whatever...
+Dialogue: 0,0:05:53.81,0:05:56.15,Default,,0,0,0,,You sure? I'll be going, then... {"Whatever" sounded rude}
 Dialogue: 0,0:06:05.66,0:06:07.37,Default,,0,0,0,,So hungry...
 Dialogue: 0,0:06:08.54,0:06:11.50,Default,,0,0,0,,I haven't eaten anything in three days...
 Dialogue: 0,0:06:12.62,0:06:13.67,Default,,0,0,0,,Huh?
@@ -214,12 +214,12 @@ Dialogue: 0,0:08:19.67,0:08:21.04,Default,,0,0,0,,So we have to cancel it?
 Dialogue: 0,0:08:21.46,0:08:24.17,Default,,0,0,0,,You're the one who chose\N our site, Minazuki-san.
 Dialogue: 0,0:08:24.17,0:08:25.34,Karen,,0,0,0,,Yeah...
 Dialogue: 0,0:08:25.34,0:08:28.01,Default,,0,0,0,,What'll this do to our grades?
-Dialogue: 0,0:08:28.01,0:08:30.09,Default,,0,0,0,,I"m worried...
+Dialogue: 0,0:08:28.01,0:08:30.09,Default,,0,0,0,,I'm worried...
 Dialogue: 0,0:08:40.06,0:08:44.28,Karen,,0,0,0,,Anyway, we'll have to cancel the observation scheduled two days from now.
 Dialogue: 0,0:08:45.48,0:08:46.99,Komachi,,0,0,0,,Minazuki-san?
 Dialogue: 0,0:08:48.20,0:08:51.12,Karen,,0,0,0,,What is it, Akimoto-san?
-Dialogue: 0,0:08:51.78,0:08:56.33,Komachi,,0,0,0,,Are you really content to cancel the project?
-Dialogue: 0,0:08:56.33,0:09:00.88,Komachi,,0,0,0,,If you aren't, shouldn't you rethink things a little?
+Dialogue: 0,0:08:51.78,0:08:56.33,Komachi,,0,0,0,,If you're content to cancel the project, that's fine. {less pressuring, more advising}
+Dialogue: 0,0:08:56.33,0:09:00.88,Komachi,,0,0,0,,But if you aren't, shouldn't you rethink things a little?
 Dialogue: 0,0:09:02.00,0:09:04.71,Karen,,0,0,0,,Akimoto-san, I've spent...
 Dialogue: 0,0:09:04.71,0:09:08.09,Karen,,0,0,0,,...all last night thinking, \Nand canceling is for the best.
 Dialogue: 0,0:09:08.63,0:09:10.84,Komachi,,0,0,0,,Is that what you really think?
@@ -346,7 +346,7 @@ Dialogue: 0,0:17:31.47,0:17:32.89,Default,,0,0,0,,...and the light of the future
 Dialogue: 0,0:17:33.89,0:17:36.85,Default,,0,0,0,,Our five beautiful hearts will soar!
 Dialogue: 0,0:17:38.06,0:17:40.40,Default,,0,0,0,,Yes! Pretty Cure 5!
 Dialogue: 0,0:17:42.78,0:17:44.82,Default,,0,0,0,,What a pain in the...
-Dialogue: 0,0:18:36.50,0:18:39.96,Default,,0,0,0,,I'd better get this out, \Nand cause even more mayhem{\fscx200}-
+Dialogue: 0,0:18:36.50,0:18:39.96,Default,,0,0,0,,Hand over the Collet, \Nor the mayhem continues!
 Dialogue: 0,0:18:39.21,0:18:40.88,Komachi,,0,0,0,,Stop it!
 Dialogue: 0,0:18:41.17,0:18:43.29,Komachi,,0,0,0,,Don't interfere with the festival!
 Dialogue: 0,0:18:43.29,0:18:44.84,Default,,0,0,0,,Shut up!
@@ -399,8 +399,8 @@ Dialogue: 0,0:21:38.30,0:21:41.60,Karen,,0,0,0,,To serve others, and never\N giv
 Dialogue: 0,0:21:41.60,0:21:44.52,Karen,,0,0,0,,And to do everything within my power.
 Dialogue: 0,0:21:44.52,0:21:47.06,Karen,,0,0,0,,I still haven't forgotten about them.
 Dialogue: 0,0:21:47.44,0:21:48.27,Komachi,,0,0,0,,I see.
-Dialogue: 0,0:21:49.61,0:21:52.57,Nozomi,,0,0,0,,Oh no! We've got an order for thirty-two!
-Dialogue: 0,0:21:54.32,0:21:56.40,Default,,0,0,0,,T-Thirty-two?!
+Dialogue: 0,0:21:49.61,0:21:52.57,Nozomi,,0,0,0,,Oh no! We've got an order for thirty!{30-ninmae}
+Dialogue: 0,0:21:54.32,0:21:56.40,Default,,0,0,0,,T-Thirty?!
 Dialogue: 0,0:21:56.40,0:21:58.66,Default,,0,0,0,,Ah, okay, right away!
 Comment: 0,0:22:09.93,0:22:09.93,Default,,0,0,0,,ED 22:09.955
 Dialogue: 0,0:22:13.87,0:22:16.83,ED 1 English,,0,0,0,,I wanna dream, I wanna love!

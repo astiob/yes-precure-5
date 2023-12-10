@@ -136,7 +136,8 @@ Comment: 0,0:03:40.99,0:03:40.99,Default,,0,0,0,,Part 1 = 03:41. 054
 Dialogue: 0,0:03:42.60,0:03:47.45,Default,,0,0,0,,Despariah-sama, I have returned, Dream Collet in hand.
 Dialogue: 0,0:03:47.80,0:03:49.41,Default,,0,0,0,,Bring it here.
 Dialogue: 0,0:03:49.41,0:03:51.16,Default,,0,0,0,,Yes.
-Dialogue: 0,0:03:56.52,0:04:01.22,Default,,0,0,0,,This is... This is the object of my desires...
+Dialogue: 0,0:03:56.52,0:04:00.80,Default,,0,0,0,,This is... This is the object of my desires...
+Dialogue: 0,0:04:00.80,0:04:01.99,Default,,0,0,0,,Yes. {straddles a keyframe}
 Dialogue: 0,0:04:02.94,0:04:05.75,Default,,0,0,0,,I can... I can feel it.
 Dialogue: 0,0:04:06.28,0:04:10.53,Default,,0,0,0,,An immense power, capable of \Nshrouding this world in darkness...
 Dialogue: 0,0:04:10.53,0:04:13.68,Default,,0,0,0,,The time to make that vision a reality has finally arrived.
@@ -206,7 +207,7 @@ Dialogue: 0,0:09:18.33,0:09:21.62,Nozomi,,0,0,0,,See? Doesn't that get you all f
 Dialogue: 0,0:09:21.92,0:09:23.62,Nozomi,,0,0,0,,Now you three try it.
 Dialogue: 0,0:09:25.83,0:09:27.08,Default,,0,0,0,,Okay. {all 3}
 Dialogue: 0,0:09:28.03,0:09:31.65,Default,,0,0,0,,Give back the Collet!! {all 3}
-Dialogue: 0,0:09:34.30,0:09:35.84,Default,,0,0,0,,I won't give it back.{we'll i'll be, they actually got a response}
+Dialogue: 0,0:09:34.30,0:09:35.84,Default,,0,0,0,,I cannot give it back.{we'll i'll be, they actually got a response}
 Dialogue: 0,0:09:39.99,0:09:41.98,Nozomi,,0,0,0,,You're{\fscx200}-{\r}!
 Dialogue: 0,0:09:40.82,0:09:42.97,Rin,,0,0,0,,{}H-He really appeared!
 Dialogue: 0,0:09:43.49,0:09:45.79,Nozomi,,0,0,0,,Return the Dream Collet!
@@ -289,7 +290,7 @@ Dialogue: 0,0:18:09.42,0:18:10.81,Nozomi,,0,0,0,,We...
 Dialogue: 0,0:18:12.39,0:18:16.40,Nozomi,,0,0,0,,We won't ever... fall into despair!
 Dialogue: 0,0:18:17.05,0:18:19.64,Rin,,0,0,0,,That's right. We'll...
 Dialogue: 0,0:18:19.64,0:18:22.37,Karen,,0,0,0,,...never let despair bring us down!
-Dialogue: 0,0:18:22.64,0:18:28.53,Default,,0,0,0,,Ah, but plenty of your companions have already accepted despair.
+Dialogue: 0,0:18:22.64,0:18:28.53,Default,,0,0,0,,Ah, but one of your companions has already accepted despair.
 Dialogue: 0,0:18:28.53,0:18:29.33,Default,,0,0,0,,Huh?! {multiple}
 Dialogue: 0,0:18:29.92,0:18:31.13,Nuts,,0,0,0,,Milk... {didn't realize that this was Nuts, not Coco}
 Dialogue: 0,0:18:31.13,0:18:33.40,Coco,,0,0,0,,You have to help them-coco!
@@ -319,7 +320,7 @@ Dialogue: 0,0:20:28.57,0:20:30.91,Nuts,,0,0,0,,T-The Dream Collet has...
 Dialogue: 0,0:20:30.91,0:20:33.28,Coco,,0,0,0,,...been activated-coco!
 Dialogue: 0,0:20:38.63,0:20:39.67,Nozomi,,0,0,0,,No way...
 Dialogue: 0,0:21:10.34,0:21:11.79,Nozomi,,0,0,0,,Those're...
-Dialogue: 0,0:21:13.14,0:21:16.25,Coco,,0,0,0,,T-The Pinkies-coco!!
+Dialogue: 0,0:21:13.14,0:21:16.25,Coco,,0,0,0,,T-The Pinkies-coco!! {yeah there's *definitely* more than 55 there. I counted, and I got up to 70 before giving up, and that wasn't even all of one frame}
 Comment: 0,0:22:09.97,0:22:09.97,Default,,0,0,0,,ED = 22:10.038
 Dialogue: 0,0:22:10.31,0:22:10.76,ED 2 English,,0,0,0,,1
 Dialogue: 0,0:22:10.76,0:22:11.18,ED 2 English,,0,0,0,,2
