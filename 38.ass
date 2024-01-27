@@ -439,8 +439,8 @@ Dialogue: 0,0:23:38.62,0:23:39.67,ED 2 English,,0,0,0,,yes!
 Dialogue: 0,0:23:38.62,0:23:39.67,ED 2 Romaji,,0,0,0,,{\k10} {\k76}yes!
 Comment: 0,0:23:39.94,0:23:39.94,Default,,0,0,0,,Preview = 23:40.003
 Dialogue: 0,0:23:42.59,0:23:44.79,Nozomi,,0,0,0,,Such nice, calm weather we're having...
-Dialogue: 0,0:23:44.79,0:23:47.54,Nozomi,,0,0,0,,It's like a taste of spring, during autumn.
-Dialogue: 0,0:23:47.54,0:23:49.67,Komachi,,0,0,0,,You sure know a lot, Nozomi-san.
+Dialogue: 0,0:23:44.79,0:23:47.54,Nozomi,,0,0,0,,It's like a taste of spring, during autumn. {See episode 39 comments.}
+Dialogue: 0,0:23:47.54,0:23:49.67,Komachi,,0,0,0,,You know some poetic lines, Nozomi-san! {Rewritten to fit the preceding line.}
 Dialogue: 0,0:23:50.37,0:23:52.37,Nozomi,,0,0,0,,I learned it from Cocoda-sensei.
 Dialogue: 0,0:23:52.37,0:23:56.35,Komachi,,0,0,0,,But it's almost too calm. \NI hope nothing bad happens...
 Dialogue: 0,0:23:56.35,0:23:58.22,Nozomi,,0,0,0,,There's no way{\fscx222}-
