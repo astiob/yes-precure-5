@@ -188,7 +188,7 @@ Dialogue: 0,0:05:26.00,0:05:28.54,Milk,,0,0,0,,I'm not here to play-mil!
 Dialogue: 0,0:05:28.54,0:05:30.71,Nozomi,,0,0,0,,You're not fooling anyone.
 Dialogue: 0,0:05:31.49,0:05:35.04,Coco,,0,0,0,,That's right-coco! We're just on a walk together-coco!
 Dialogue: 0,0:05:35.04,0:05:37.47,Nuts,,0,0,0,,A walk-nuts. I suppose that's okay-nuts.
-Dialogue: 0,0:05:37.47,0:05:41.97,Milk,,0,0,0,,Milk will accompany you-mil.\NIt's my duty as a maid-mil!
+Dialogue: 0,0:05:37.47,0:05:41.97,Milk,,0,0,0,,Milk will accompany you-mil.\NIt's my duty as a caregiver-mil!
 Comment: 0,0:05:45.65,0:05:45.65,Default,,0,0,0,,I extended the lines a bit to let them overlap.
 Dialogue: 0,0:05:45.68,0:05:47.46,Nuts,,0,0,0,,See you.
 Dialogue: 0,0:05:46.48,0:05:48.50,Coco,,0,0,0,,Good luck.
@@ -515,7 +515,7 @@ Comment: 0,0:23:39.98,0:23:42.73,ED 1 Romaji,,0,0,0,,Preview = 23:39.920
 Dialogue: 0,0:23:42.76,0:23:46.70,Nozomi,,0,0,0,,Karen-san, listen to me! Milk is such a meanie!!
 Dialogue: 0,0:23:46.70,0:23:48.22,Karen,,0,0,0,,You're fighting again?
 Dialogue: 0,0:23:48.22,0:23:51.60,Nozomi,,0,0,0,,She started it! She said I wasn't cut out to be Pretty Cure!
-Dialogue: 0,0:23:51.60,0:23:54.26,Nozomi,,0,0,0,,Milk's just a maid. What does {\i1}she{\i0}  know?
+Dialogue: 0,0:23:51.60,0:23:54.26,Nozomi,,0,0,0,,Milk's just a caregiver. What does {\i1}she{\i0}  know?
 Dialogue: 0,0:23:54.26,0:23:58.03,Karen,,0,0,0,,Nozomi, you know she doesn't really believe that, right?
 Dialogue: 0,0:23:58.03,0:24:00.71,Karen,,0,0,0,,Just be honest with her, okay?
 Dialogue: 0,0:24:01.45,0:24:03.24,Nozomi,,0,0,0,,Yes! Pretty Cure 5!
